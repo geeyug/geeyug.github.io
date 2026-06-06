@@ -41,7 +41,9 @@ jobs:
       - run: npm ci
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install --from-config --force
+        run: |
+          rm -rf .quartz/plugins
+          npx quartz plugin install --from-config
 
       - name: Apply custom patches
         run: |
