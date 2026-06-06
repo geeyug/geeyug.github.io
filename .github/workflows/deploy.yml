@@ -43,6 +43,11 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install --from-config
 
+      - name: Apply custom patches
+        run: |
+          cp quartz/patches/content-index.dist.js .quartz/plugins/content-index/dist/index.js
+          cp quartz/patches/explorer.dist.js .quartz/plugins/explorer/dist/index.js
+
       - name: Build Quartz
         run: npx quartz build
 
