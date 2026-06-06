@@ -8,7 +8,6 @@ membership: ssangkiyeok
 short_title: SHOCK-12 출혈성 쇼크 조건
 ---
 
-# 출혈성 쇼크(hemorrhagic shock) — 사망에 이르는 출혈의 조건
 
 > 출혈성 쇼크는 혈관이 손상되어 혈압을 버틸 수 없을 만큼 혈액이 빠져나갈 때 생긴다. 그런 일이 생기는 상황은 생각보다 다양하다.
 

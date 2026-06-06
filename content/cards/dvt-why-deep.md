@@ -8,7 +8,6 @@ membership: ssangkiyeok
 short_title: DVT-01 심부 vs 표면 정맥
 ---
 
-# 왜 심부인가 — DVT의 'D'가 중요한 이유
 
 > 심부정맥은 심장으로 직접 피를 보내는 고속도로다. 표면 정맥은 그 고속도로로 진입하는 지방도에 불과하다.
 

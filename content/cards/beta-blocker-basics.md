@@ -8,7 +8,6 @@ membership: ssangkiyeok
 short_title: BETA-01 베타차단제 기초
 ---
 
-# 베타차단제(beta-blocker) — 교감신경의 브레이크
 
 > 베타차단제는 혈압약이기도 하고 심장약이기도 하다. 둘 다인 이유는 작용 기전에 있다.
 

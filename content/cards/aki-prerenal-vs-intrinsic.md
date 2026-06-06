@@ -8,7 +8,6 @@ membership: nieun
 short_title: AKI-03 prerenal vs intrinsic
 ---
 
-# Prerenal vs Intrinsic AKI — 같아 보이지만 치료가 다르다
 
 > 크레아티닌이 올랐다고 콩팥이 망가진 것은 아니다. 혈류가 줄어서 올랐다면 수액을 주면 되지만, 콩팥 자체가 손상됐다면 접근이 달라진다.
 

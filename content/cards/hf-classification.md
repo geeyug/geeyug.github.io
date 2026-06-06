@@ -8,7 +8,6 @@ membership: nieun
 short_title: HF-01 심부전 분류
 ---
 
-# 심부전(Heart Failure) — 분류가 곧 치료 방향이다
 
 > 심부전은 단일 질환이 아니다. 원인 방향이 정반대인 여러 그룹을 하나로 묶어 부르는 임상 증후군이다.
 

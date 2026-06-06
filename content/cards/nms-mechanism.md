@@ -8,7 +8,6 @@ membership: ssangkiyeok
 short_title: SYNCOPE-12 신경매개성 실신
 ---
 
-# 신경매개성 실신(Neurally Mediated Syncope) — 반사가 과도하게 활성화될 때
 
 > 자율신경계가 망가져서 생기는 실신이 아니다. 오히려 정상적으로 작동하는 반사가 과도하게 활성화될 때 생긴다.
 
