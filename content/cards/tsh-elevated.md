@@ -5,6 +5,7 @@ series: THYROID
 level: 2
 youtube_id: 5_RlSVkFA1E
 membership: public
+tags: [증상-접근]
 short_title: TSH 증가 감별
 ---
 

@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: bqNN3LvUsoA
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: ECFVOLCON-11 알도스테론 탈출
 ---
 

@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 1
 youtube_id: 04FQW95j6Wo
 membership: ssangkiyeok
+tags: [증상-접근]
 short_title: SYNCOPE-06 실신 연령 성별
 ---
 

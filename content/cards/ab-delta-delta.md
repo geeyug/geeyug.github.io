@@ -5,6 +5,7 @@ series: AB
 level: 3
 youtube_id: VE83YVkORkQ
 membership: nieun
+tags: [신장-전해질]
 short_title: AB08 델타-델타 비교
 ---
 

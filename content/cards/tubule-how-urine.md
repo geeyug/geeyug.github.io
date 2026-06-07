@@ -5,6 +5,7 @@ series: TUBULE
 level: 1
 youtube_id: 0P3Xv0lz54I
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-01 소변 생성 원리
 ---
 

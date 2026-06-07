@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: yVnUdhVLxMw
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-21 ADH와 아쿠아포린
 ---
 

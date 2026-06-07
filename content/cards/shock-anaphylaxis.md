@@ -5,6 +5,7 @@ series: SHOCK
 level: 2
 youtube_id: HlqMn3XsLXY
 membership: ssangkiyeok
+tags: [응급]
 short_title: SHOCK-06 아나필락시스 쇼크
 ---
 

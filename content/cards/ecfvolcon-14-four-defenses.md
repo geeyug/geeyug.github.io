@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: qTEkmBaHTnY
 membership: ssangkiyeok
+tags: [신장-전해질, 심장-혈관]
 short_title: ECFVOLCON-14 체액 과부하 방어 4가지
 ---
 

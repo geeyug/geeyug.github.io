@@ -5,6 +5,7 @@ series: KIDNEY
 level: 2
 youtube_id: hnmzYu5_Fq4
 membership: nieun
+tags: [신장-전해질]
 short_title: CKD-02 병기 분류
 ---
 

@@ -5,6 +5,7 @@ series: LUPUS
 level: 2
 youtube_id: v5oMhuAXR68
 membership: nieun
+tags: [증상-접근]
 short_title: lupus19 진단이 어려운 5가지
 ---
 

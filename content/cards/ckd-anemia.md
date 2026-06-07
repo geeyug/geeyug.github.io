@@ -5,6 +5,7 @@ series: CKD
 level: 2
 youtube_id: AoekK19Wezk
 membership: nieun
+tags: [신장-전해질]
 short_title: CKD-08 만성콩팥병 빈혈
 ---
 

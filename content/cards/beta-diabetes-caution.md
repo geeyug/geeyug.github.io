@@ -5,6 +5,7 @@ series: BETA
 level: 2
 youtube_id: 0oPus3PUaP4
 membership: ssangkiyeok
+tags: [약물-기전, 심장-혈관, 당뇨-대사]
 short_title: BETA-11 당뇨와 베타차단제
 ---
 

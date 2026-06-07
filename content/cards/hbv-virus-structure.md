@@ -5,6 +5,7 @@ series: HBV
 level: 2
 youtube_id: DMDQyx60_N0
 membership: nieun
+tags: [간-소화기]
 short_title: HBV-02 바이러스 구조
 ---
 

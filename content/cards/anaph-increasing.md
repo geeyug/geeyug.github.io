@@ -5,6 +5,7 @@ series: ANAPH
 level: 2
 youtube_id: DWiDOoXrwFY
 membership: nieun
+tags: [응급]
 short_title: ANAPH11 증가와 낮은 사망률
 ---
 

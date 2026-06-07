@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: 2FGz50_-T6M
 membership: ssangkiyeok
+tags: [신장-전해질, 심장-혈관]
 short_title: ECFVOLCON-15 심부전과 체액 과부하
 ---
 

@@ -5,6 +5,7 @@ series: BETA
 level: 2
 youtube_id: Vs0L4kBi7MQ
 membership: ssangkiyeok
+tags: [약물-기전, 심장-혈관]
 short_title: BETA-04 혈압 강하 기전
 ---
 

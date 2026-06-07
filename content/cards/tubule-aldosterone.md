@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: ztp_phnnnf0
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-19 알도스테론 작용
 ---
 

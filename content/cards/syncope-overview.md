@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 1
 youtube_id: CBQUXHsjKEI
 membership: ssangkiyeok
+tags: [증상-접근]
 short_title: SYNCOPE-01 실신 위험도 개요
 ---
 

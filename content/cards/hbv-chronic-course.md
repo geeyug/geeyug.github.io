@@ -5,6 +5,7 @@ series: HBV
 level: 2
 youtube_id: n_tClbJzdCg
 membership: nieun
+tags: [간-소화기]
 short_title: HBV-06 만성 B형간염 자연경과
 ---
 

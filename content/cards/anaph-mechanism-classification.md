@@ -5,6 +5,7 @@ series: ANAPH
 level: 3
 youtube_id: -MyWLVm0rlg
 membership: nieun
+tags: [응급]
 short_title: ANAPH16 기전 분류의 모호성
 ---
 

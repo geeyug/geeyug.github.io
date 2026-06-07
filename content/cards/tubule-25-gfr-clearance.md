@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: OlAORka073w
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-25 GFR과 크레아티닌
 ---
 

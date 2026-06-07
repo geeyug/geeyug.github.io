@@ -5,6 +5,7 @@ series: ANAPH
 level: 3
 youtube_id: Cp3G4gxk_nw
 membership: nieun
+tags: [응급]
 short_title: ANAPH09 감별 진단
 ---
 

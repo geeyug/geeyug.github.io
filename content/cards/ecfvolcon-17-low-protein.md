@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: LdG1d0rFhPA
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: ECFVOLCON-17 저단백혈증과 부종
 ---
 

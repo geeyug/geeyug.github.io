@@ -5,6 +5,7 @@ series: VES
 level: 2
 youtube_id: BAa5XpPkCW8
 membership: ssangkiyeok
+tags: [심장-혈관]
 short_title: VES19 림프 순환 촉진 기전
 ---
 

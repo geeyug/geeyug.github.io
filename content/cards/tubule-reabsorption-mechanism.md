@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: HRji7tpvBO8
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-16 재흡수의 구동력
 ---
 

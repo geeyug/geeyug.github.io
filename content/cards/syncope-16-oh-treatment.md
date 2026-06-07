@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 2
 youtube_id: _JaZMIzcOE0
 membership: ssangkiyeok
+tags: [약물-기전, 증상-접근]
 short_title: SYNCOPE-16 기립성저혈압 치료
 ---
 

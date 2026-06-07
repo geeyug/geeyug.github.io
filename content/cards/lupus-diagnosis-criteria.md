@@ -5,6 +5,7 @@ series: LUPUS
 level: 2
 youtube_id: 3TdZ9Yb3nGA
 membership: nieun
+tags: [증상-접근]
 short_title: lupus-15 루프스 진단기준 3원칙
 ---
 

@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: GBI1YekSRM4
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-27 재흡수 vs 분비
 ---
 

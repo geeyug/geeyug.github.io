@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 2
 youtube_id: dnTqZXK36gA
 membership: ssangkiyeok
+tags: [증상-접근]
 short_title: SYNCOPE-15 기립성저혈압 원인
 ---
 

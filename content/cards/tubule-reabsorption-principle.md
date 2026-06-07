@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: Sux7_rwme7M
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-05 운반최고치 vs 경사시간운반
 ---
 

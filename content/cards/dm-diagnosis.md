@@ -5,6 +5,7 @@ series: DM
 level: 1
 youtube_id: CI35kE_m734
 membership: nieun
+tags: [당뇨-대사]
 short_title: DM-02 당뇨 진단기준
 ---
 

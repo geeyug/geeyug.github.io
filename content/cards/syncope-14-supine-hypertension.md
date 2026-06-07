@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 2
 youtube_id: mSMktL1AHy8
 membership: ssangkiyeok
+tags: [증상-접근]
 short_title: SYNCOPE-14 기립저혈압+누울때고혈압
 ---
 

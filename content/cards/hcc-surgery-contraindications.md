@@ -5,6 +5,7 @@ series: HCC
 level: 1
 youtube_id: NvrTmsxNGk0
 membership: public
+tags: [간-소화기]
 short_title: HCC 간암 수술 불가 조건
 ---
 

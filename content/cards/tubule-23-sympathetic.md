@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: wfkOI-7qTZ8
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-23 교감신경과 재흡수
 ---
 

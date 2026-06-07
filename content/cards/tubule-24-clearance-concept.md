@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: gKtM1kff-Bc
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-24 청소율의 개념
 ---
 

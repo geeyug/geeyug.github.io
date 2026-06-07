@@ -5,6 +5,7 @@ series: ASTHMA
 level: 2
 youtube_id: 4NFg5Dtp220
 membership: nieun
+tags: [호흡기]
 short_title: 천식-05 type 2 염증
 ---
 

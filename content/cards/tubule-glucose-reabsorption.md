@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: ktB5EwqLmqE
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-03 포도당 재흡수
 ---
 

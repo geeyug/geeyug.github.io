@@ -5,6 +5,7 @@ series: ANAPH
 level: 3
 youtube_id: L0T2DoPlDZY
 membership: nieun
+tags: [응급]
 short_title: ANAPH14 IgE비의존성 기전
 ---
 

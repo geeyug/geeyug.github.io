@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: O8gEJcaSvco
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-06 물 재흡수와 ADH
 ---
 

@@ -5,6 +5,7 @@ series: CKD
 level: 2
 youtube_id: jI8qWtt1bmw
 membership: nieun
+tags: [신장-전해질]
 short_title: CKD04 GFR 추정 방법
 ---
 

@@ -5,6 +5,7 @@ series: DM
 level: 1
 youtube_id: 2t1U9bo_zJ8
 membership: public
+tags: [당뇨-대사]
 short_title: 인슐린 저항성
 ---
 

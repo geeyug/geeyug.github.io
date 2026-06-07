@@ -5,6 +5,7 @@ series: BP
 level: 1
 youtube_id: 3UUg1Pe_SAk
 membership: public
+tags: [심장-혈관]
 short_title: BP 고혈압성 응급
 ---
 

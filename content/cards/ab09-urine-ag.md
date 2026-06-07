@@ -5,6 +5,7 @@ series: AB
 level: 3
 youtube_id: RgbPQtpzFEw
 membership: nieun
+tags: [신장-전해질]
 short_title: AB09 소변 음이온 차의 의미
 ---
 

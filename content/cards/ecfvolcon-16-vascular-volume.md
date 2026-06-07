@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: vv2dUdhYhCs
 membership: ssangkiyeok
+tags: [신장-전해질, 심장-혈관]
 short_title: ECFVOLCON-16 혈관 용적 증가와 체액
 ---
 

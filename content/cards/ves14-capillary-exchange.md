@@ -5,6 +5,7 @@ series: VES
 level: 2
 youtube_id: hAaeF3GgsPg
 membership: ssangkiyeok
+tags: [심장-혈관]
 short_title: VES14 모세혈관 물질 교환
 ---
 

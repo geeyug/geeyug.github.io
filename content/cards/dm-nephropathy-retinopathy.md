@@ -5,6 +5,7 @@ series: DM
 level: 2
 youtube_id: a8_7-ltU9Dk
 membership: public
+tags: [당뇨-대사]
 short_title: DM 신증-망막병증 관계
 ---
 

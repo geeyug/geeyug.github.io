@@ -5,6 +5,7 @@ series: DM
 level: 2
 youtube_id: 7fGd8z0aVY8
 membership: nieun
+tags: [당뇨-대사, 약물-기전]
 short_title: DM07 당뇨약 작용 기전 정리
 ---
 

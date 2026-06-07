@@ -5,6 +5,7 @@ series: SHOCK
 level: 2
 youtube_id: sn2q5F6ksbQ
 membership: ssangkiyeok
+tags: [응급]
 short_title: SHOCK-16 쇼크의 생리학
 ---
 

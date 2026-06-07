@@ -5,6 +5,7 @@ series: SEPSIS
 level: 2
 youtube_id: -0mBXVXNagU
 membership: ssangkiyeok
+tags: [호흡기, 감염-항생제]
 short_title: SEPSIS-05 패혈증과 폐
 ---
 

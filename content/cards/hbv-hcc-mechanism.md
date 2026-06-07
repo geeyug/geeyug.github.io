@@ -5,6 +5,7 @@ series: LIVER
 level: 2
 youtube_id: kJiD4SFdY_8
 membership: public
+tags: [간-소화기]
 short_title: HBV 간암 발암기전
 ---
 

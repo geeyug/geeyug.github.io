@@ -5,6 +5,7 @@ series: SHOCK
 level: 2
 youtube_id: Konr79HchZc
 membership: ssangkiyeok
+tags: [응급]
 short_title: SHOCK-15 복합 쇼크
 ---
 

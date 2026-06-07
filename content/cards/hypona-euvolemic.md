@@ -5,6 +5,7 @@ series: HYPONA
 level: 3
 youtube_id: eN1CPzDseaI
 membership: nieun
+tags: [신장-전해질]
 short_title: HYPONA06 euvolemic·hypervolemic
 ---
 

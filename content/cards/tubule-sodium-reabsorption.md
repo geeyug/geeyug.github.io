@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: 5e_UR5yjRzw
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-02 나트륨 재흡수
 ---
 

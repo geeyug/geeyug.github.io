@@ -5,6 +5,7 @@ series: HBV
 level: 2
 youtube_id: gZaQM-8alEQ
 membership: nieun
+tags: [간-소화기]
 short_title: HBV-05 급성 B형간염
 ---
 

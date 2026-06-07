@@ -5,6 +5,7 @@ series: PHARMACOLOGY
 level: 1
 youtube_id: HFxo-czZG04
 membership: public
+tags: [약물-기전, 신장-전해질]
 short_title: PHARM NSAIDs 부종 이뇨제
 ---
 

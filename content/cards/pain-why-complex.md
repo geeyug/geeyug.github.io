@@ -5,6 +5,7 @@ series: PAIN
 level: 1
 youtube_id: PAUUTI5S5EI
 membership: ssangkiyeok
+tags: [증상-접근]
 short_title: PAIN-01 통증의 복잡성
 ---
 

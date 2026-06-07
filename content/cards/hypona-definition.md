@@ -5,6 +5,7 @@ series: HYPONA
 level: 1
 youtube_id: -khzRUbz154
 membership: nieun
+tags: [신장-전해질]
 short_title: HYPONA-03 저나트륨혈증 정의
 ---
 

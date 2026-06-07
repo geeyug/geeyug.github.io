@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 2
 youtube_id: pLd83ZfaxiY
 membership: public
+tags: [증상-접근]
 short_title: SYNCOPE 혈관미주신경성 실신 기전
 ---
 

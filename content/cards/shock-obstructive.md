@@ -5,6 +5,7 @@ series: SHOCK
 level: 2
 youtube_id: r2YgasJy5CQ
 membership: ssangkiyeok
+tags: [응급]
 short_title: SHOCK-14 폐쇄성 쇼크
 ---
 

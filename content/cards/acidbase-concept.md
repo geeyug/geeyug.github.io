@@ -5,6 +5,7 @@ series: ACIDBASE
 level: 2
 youtube_id: k1D0_IK_y0s
 membership: nieun
+tags: [신장-전해질]
 short_title: AB01 산염기 기본 개념
 ---
 

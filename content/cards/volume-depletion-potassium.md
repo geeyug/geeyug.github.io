@@ -5,6 +5,7 @@ series: FLUID
 level: 2
 youtube_id: Yi7_5Al-8aU
 membership: public
+tags: [신장-전해질]
 short_title: FLUID 체액량과 포타슘
 ---
 

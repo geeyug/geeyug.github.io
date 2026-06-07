@@ -5,6 +5,7 @@ series: ANAPH
 level: 2
 youtube_id: 0F2AyrZFAjc
 membership: nieun
+tags: [응급]
 short_title: ANAPH12 네 가지 기전
 ---
 

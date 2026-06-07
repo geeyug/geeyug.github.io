@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: 0PNNN9Cu_-c
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-17 재흡수 결정 요소
 ---
 

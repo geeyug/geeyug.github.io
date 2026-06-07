@@ -5,6 +5,7 @@ series: DVT
 level: 1
 youtube_id: 0y7i4gZzbzE
 membership: ssangkiyeok
+tags: [심장-혈관]
 short_title: DVT-01 심부 vs 표면 정맥
 ---
 

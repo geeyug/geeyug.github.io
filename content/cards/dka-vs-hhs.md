@@ -5,6 +5,7 @@ series: DM
 level: 2
 youtube_id: xbYTZzlq_rA
 membership: public
+tags: [당뇨-대사]
 short_title: DM DKA vs HHS 급성 합병증
 ---
 

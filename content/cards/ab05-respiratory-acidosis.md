@@ -5,6 +5,7 @@ series: ACIDBASE
 level: 2
 youtube_id: F5TkVGlB5vY
 membership: nieun
+tags: [신장-전해질]
 short_title: AB05 호흡성 산증
 ---
 

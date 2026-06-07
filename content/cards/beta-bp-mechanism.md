@@ -5,6 +5,7 @@ series: BETA
 level: 2
 youtube_id: GDeTdN9HhY0
 membership: ssangkiyeok
+tags: [약물-기전, 심장-혈관]
 short_title: BETA-02 심장 3가지 효과
 ---
 

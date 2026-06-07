@@ -5,6 +5,7 @@ series: SHOCK
 level: 1
 youtube_id: 409Cvyygqvs
 membership: ssangkiyeok
+tags: [응급]
 short_title: SHOCK-12 출혈성 쇼크 조건
 ---
 

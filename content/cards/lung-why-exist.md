@@ -5,6 +5,7 @@ series: LUNG
 level: 1
 youtube_id: OPwVV4h0yQc
 membership: public
+tags: [호흡기]
 short_title: LUNG 폐의 구조 설계 논리
 ---
 

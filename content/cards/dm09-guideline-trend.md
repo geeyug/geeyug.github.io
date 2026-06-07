@@ -5,6 +5,7 @@ series: DM
 level: 2
 youtube_id: -KjJltm2v5E
 membership: nieun
+tags: [당뇨-대사]
 short_title: DM09 당뇨병 진료지침 트렌드
 ---
 

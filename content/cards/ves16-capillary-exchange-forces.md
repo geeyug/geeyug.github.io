@@ -5,6 +5,7 @@ series: VES
 level: 2
 youtube_id: hoEJvxazJ2k
 membership: ssangkiyeok
+tags: [심장-혈관]
 short_title: VES16 모세혈관 여과 4가지 힘
 ---
 

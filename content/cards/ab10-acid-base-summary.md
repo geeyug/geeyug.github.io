@@ -5,6 +5,7 @@ series: AB
 level: 3
 youtube_id: 0T8ODU3NoAw
 membership: nieun
+tags: [신장-전해질]
 short_title: AB10 산염기장애 접근법 총정리
 ---
 

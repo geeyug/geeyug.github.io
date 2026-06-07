@@ -5,6 +5,7 @@ series: BETA
 level: 2
 youtube_id: aDwrtBmQpYQ
 membership: ssangkiyeok
+tags: [약물-기전, 심장-혈관]
 short_title: BETA-10 말초혈관질환
 ---
 

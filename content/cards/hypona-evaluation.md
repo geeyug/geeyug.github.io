@@ -5,6 +5,7 @@ series: HYPONA
 level: 3
 youtube_id: -Khu28g4vp4
 membership: nieun
+tags: [신장-전해질]
 short_title: HYPONA08 평가 앞단
 ---
 

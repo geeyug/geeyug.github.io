@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: oWLHbKvchvU
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: ECFVOLCON-04 혈압-이뇨 곡선
 ---
 

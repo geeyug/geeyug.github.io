@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: P_f9C1idAZM
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-22 ANP의 작용 경로
 ---
 

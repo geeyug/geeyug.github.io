@@ -5,6 +5,7 @@ series: SYNCOPE
 level: 3
 youtube_id: v8GcuzwlFMU
 membership: ssangkiyeok
+tags: [약물-기전, 증상-접근]
 short_title: SYNCOPE-18 요힘빈
 ---
 

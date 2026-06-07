@@ -5,6 +5,7 @@ series: HYPONA
 level: 3
 youtube_id: 8pkgN8oh_9s
 membership: nieun
+tags: [신장-전해질]
 short_title: HYPONA-05 저용적성 저나트륨혈증 기전
 ---
 

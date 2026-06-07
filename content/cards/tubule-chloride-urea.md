@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: SXYwkF6h9hU
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-07 염소·요소·크레아티닌
 ---
 

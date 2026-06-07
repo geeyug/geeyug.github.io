@@ -5,6 +5,7 @@ series: HYPONA
 level: 2
 youtube_id: Fbm3xNhU0Qo
 membership: nieun
+tags: [신장-전해질]
 short_title: HYPONA-04 저나트륨혈증 분류
 ---
 

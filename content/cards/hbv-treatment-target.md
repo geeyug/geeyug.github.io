@@ -5,6 +5,7 @@ series: HBV
 level: 2
 youtube_id: KDR_Uw7HUDE
 membership: nieun
+tags: [간-소화기]
 short_title: HBV-07 만성 B형간염 치료대상
 ---
 

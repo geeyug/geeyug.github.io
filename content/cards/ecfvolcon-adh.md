@@ -5,6 +5,7 @@ series: ECFVOLCON
 level: 2
 youtube_id: jVNj94cm0-8
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: ECFVOLCON-12 ADH와 저나트륨
 ---
 

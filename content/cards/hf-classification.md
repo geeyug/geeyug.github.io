@@ -5,6 +5,7 @@ series: HF
 level: 2
 youtube_id: ukeOShpIr_w
 membership: nieun
+tags: [심장-혈관]
 short_title: HF-01 심부전 분류
 ---
 

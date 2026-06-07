@@ -5,6 +5,7 @@ series: LIVER
 level: 1
 youtube_id: xamgjo4E-gw
 membership: public
+tags: [증상-접근]
 short_title: LIVER 황달 — 병원에 가야 할 때
 ---
 

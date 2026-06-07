@@ -5,6 +5,7 @@ series: ACS
 level: 1
 youtube_id: Nid8uF8ggBc
 membership: public
+tags: [심장-혈관]
 short_title: ACS 방사통과 골든타임
 ---
 

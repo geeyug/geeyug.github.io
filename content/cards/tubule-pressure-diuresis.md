@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: UEJK0S9zrew
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-18 혈압-이뇨 원리
 ---
 

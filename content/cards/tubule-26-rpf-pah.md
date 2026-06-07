@@ -5,6 +5,7 @@ series: TUBULE
 level: 2
 youtube_id: GoKPU3aYcwM
 membership: ssangkiyeok
+tags: [신장-전해질]
 short_title: TUBULE-26 콩팥혈류량 측정
 ---
 

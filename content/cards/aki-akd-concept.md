@@ -5,6 +5,7 @@ series: AKI
 level: 2
 youtube_id: kwqIPcliu8c
 membership: nieun
+tags: [신장-전해질]
 short_title: AKI12 AKD 개념
 ---
 
