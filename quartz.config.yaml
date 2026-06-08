@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: www.geeyug.com
+  baseUrl: geeyug.github.io
   ignorePatterns:
     - private
     - templates
