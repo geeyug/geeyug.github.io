@@ -38,6 +38,18 @@
     <loc>https://geeyug.github.io/cards/acs-troponin</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/af-01-diagnosis</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/af-02-symptoms</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/af-03-classification</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/af-04-cc-to-abc</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/aging-homeostenosis</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -56,8 +68,14 @@
     <loc>https://geeyug.github.io/cards/aldosterone-escape</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-contrast-nsaid-mechanism</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/anaph-definition-words</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-diagnosis</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/anaph-differential-diagnosis</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -65,11 +83,17 @@
     <loc>https://geeyug.github.io/cards/anaph-epinephrine-hesitation</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-epinephrine-when-in-doubt</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/anaph-four-mechanisms</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/anaph-four-pathways</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-idiopathic-alphagal</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/anaph-ige-independent-mechanism</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -80,6 +104,9 @@
     <loc>https://geeyug.github.io/cards/anaph-increasing</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-mechanism-classification-ambiguity</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/anaph-mechanism-classification</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -89,14 +116,44 @@
     <loc>https://geeyug.github.io/cards/anaph-obesity-risk</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-paf</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-scombroid</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-symptoms</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-tryptase</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anaph-vascular-permeability</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/anaphylaxis-definition</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anemia-chronic-disease</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/anemia-exercise-risk</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/anemia-mcv-approach</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anemia-silent-testing</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anemia-symptoms</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anemia-why-treat</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/anemia-workup</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/anp-ecf-volume</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -149,6 +206,12 @@
     <loc>https://geeyug.github.io/cards/bp-hypertensive-emergency</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/bp-mid-range</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/bp-stages</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/bp-target</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -170,6 +233,9 @@
     <loc>https://geeyug.github.io/cards/ckd-management</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/ckd-progression-5</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/ckd-proteinuria</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -188,23 +254,53 @@
     <loc>https://geeyug.github.io/cards/dka-why-dangerous</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/dm-classification</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/dm-control-rate</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/dm-diagnosis</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/dm-diagnostic-criteria</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/dm-elderly-control</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dm-hba1c</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dm-lada</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/dm-medications</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/dm-more-than-sugar</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dm-nephropathy-mechanism</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/dm-nephropathy-retinopathy</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/dm-ogtt</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dm-retinopathy-glucose-drop</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dm-series-overview</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/dm-sitagliptin-cough</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dm-stress-hyperglycemia</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/dm07-antidiabetic-drugs</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -214,6 +310,9 @@
   </url><url>
     <loc>https://geeyug.github.io/cards/dm11-guideline-detail</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/dpp4-inhibitors</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/dvt-why-deep</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -278,6 +377,12 @@
     <loc>https://geeyug.github.io/cards/hbv-hcc-mechanism</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/hbv-marker-timeline</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/hbv-post-exposure-prophylaxis</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/hbv-treatment-target</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -287,8 +392,17 @@
     <loc>https://geeyug.github.io/cards/hcc-imaging-findings</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/hcc-liver-transplant-criteria</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/hcc-rfa-principle</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/hcc-surgery-contraindications</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/hcc-tace-principle</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/heart-disease-four-types</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -299,8 +413,14 @@
     <loc>https://geeyug.github.io/cards/hf-classification</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/htn-atherosclerosis</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/htn-drug-algorithm</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/htn-lifestyle-treatment</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/hypoglycemia-vs-hyperglycemia</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -338,6 +458,27 @@
     <loc>https://geeyug.github.io/cards/jaundice-when-to-go</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/lft-albumin</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/lft-alp</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/lft-ast-alt</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/lft-ggt</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/lft-pattern-interpretation</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/liver-carb-metabolism</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/liver-fat-metabolism</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/lung-why-exist</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -364,6 +505,9 @@
   </url><url>
     <loc>https://geeyug.github.io/cards/melena</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/cards/metformin-how-it-works</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/mi-referred-pain</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -503,6 +647,9 @@
     <loc>https://geeyug.github.io/cards/tace-liver-abscess</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://geeyug.github.io/cards/thiazolidinediones</loc>
+    <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
     <loc>https://geeyug.github.io/cards/tsh-elevated</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -603,35 +750,35 @@
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/cards/</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EC%8B%A0%EC%9E%A5-%EC%A0%84%ED%95%B4%EC%A7%88</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EC%A6%9D%EC%83%81-%EC%A0%91%EA%B7%BC</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EC%8B%AC%EC%9E%A5-%ED%98%88%EA%B4%80</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EC%9D%91%EA%B8%89</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
-  </url><url>
-    <loc>https://geeyug.github.io/tags/%ED%98%B8%ED%9D%A1%EA%B8%B0</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EC%95%BD%EB%AC%BC-%EA%B8%B0%EC%A0%84</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
+  </url><url>
+    <loc>https://geeyug.github.io/tags/%ED%98%B8%ED%9D%A1%EA%B8%B0</loc>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EB%8B%B9%EB%87%A8-%EB%8C%80%EC%82%AC</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EA%B0%84-%EC%86%8C%ED%99%94%EA%B8%B0</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/%EA%B0%90%EC%97%BC-%ED%95%AD%EC%83%9D%EC%A0%9C</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url><url>
     <loc>https://geeyug.github.io/tags/</loc>
-    <lastmod>2026-06-07T02:38:10.626Z</lastmod>
+    <lastmod>2026-06-08T12:46:17.051Z</lastmod>
   </url></urlset>
