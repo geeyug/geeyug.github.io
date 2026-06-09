@@ -77,6 +77,18 @@
     <loc>https://www.geeyug.com/cards/af-wpw</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/af13-cardioversion</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/af14-flutter</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/af15-type-mechanism</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/af16-subclinical-af</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/aging-homeostenosis</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -176,6 +188,12 @@
     <loc>https://www.geeyug.com/cards/anaph-vascular-permeability</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/anaph26-epinephrine-contraindications</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/anaph27-discharge-criteria</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/anaphylaxis-definition</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -251,6 +269,9 @@
     <loc>https://www.geeyug.com/cards/beta-withdrawal</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/biliary-pancreatitis-acute</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/biliary-pancreatitis-ercp</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
   </url><url>
@@ -266,6 +287,9 @@
     <loc>https://www.geeyug.com/cards/bp-mid-range</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/bp-reflex-mechanism</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/bp-stages</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
@@ -274,6 +298,9 @@
   </url><url>
     <loc>https://www.geeyug.com/cards/bun-interpretation</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/cholecystitis-acalculous</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/cirrhosis-hbv-treatment</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
@@ -290,8 +317,14 @@
     <loc>https://www.geeyug.com/cards/cirrhosis-thrombocytopenia</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/ckd-acei-arb</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/ckd-anemia</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/ckd-bp-meds</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/ckd-clearance</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -320,6 +353,9 @@
     <loc>https://www.geeyug.com/cards/ckd-treatment-concept</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/colon-cancer-risk-factors</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/cvp-what</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -331,6 +367,9 @@
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-autonomic-neuropathy</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm-bigger-picture</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-classification</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
@@ -347,17 +386,35 @@
     <loc>https://www.geeyug.com/cards/dm-elderly-control</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/dm-foot-complications</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm-gi-complications</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/dm-hba1c</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-lada</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/dm-lifespan</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/dm-medications</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-more-than-sugar</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm-natural-history</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm-nephropathy-hematuria</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm-nephropathy-hyperfiltration</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-nephropathy-mechanism</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
@@ -403,6 +460,30 @@
   </url><url>
     <loc>https://www.geeyug.com/cards/dm13-glycemic-target</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm14-insurance-criteria</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm15-sglt2-deep</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm16-glp1-deep</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm17-obesity-drugs</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm18-uncontrolled-dm</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm19-remission-strategy</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm20-ckd3-dm</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm21-ckd45-dm</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dpp4-inhibitors</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
@@ -455,6 +536,9 @@
     <loc>https://www.geeyug.com/cards/fluid-compartments</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/gallstone-drug-treatment</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/gallstone-spectrum</loc>
     <lastmod>2026-06-08T13:16:31.000Z</lastmod>
   </url><url>
@@ -476,11 +560,23 @@
     <loc>https://www.geeyug.com/cards/hbv-acute-hepatitis</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/hbv-acute-no-antiviral</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/hbv-acute-viral</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/hbv-alcohol-risk</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/hbv-antigens</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/hbv-biopsy-indication</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/hbv-cancer-patient</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/hbv-chronic-course</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -539,11 +635,23 @@
     <loc>https://www.geeyug.com/cards/htn-atherosclerosis</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/htn-diastolic</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/htn-drug-algorithm</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/htn-lifestyle-treatment</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/htn-renal-mechanism</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/htn-salt-mechanism</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/htn-stroke-risk</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/hypoglycemia-vs-hyperglycemia</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -686,11 +794,53 @@
     <loc>https://www.geeyug.com/cards/protein-to-fat</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/rta01-tubule-review</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta02-overview</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta03-type2-proximal</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta04-type2-case</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta05-type1-distal</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta06-type1-case</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta07-type1-voltage</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta08-type4</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta09-type4-case</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/rta10-calcium</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/sepsis-lung</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/sepsis-why-it-kills</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/sglt2-ckd-caution</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/sglt2-ketoacidosis</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/sglt2-kidney-protection</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/sglt2-overview</loc>
+    <lastmod>2026-06-09T11:55:27.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/shock-anaphylaxis</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -894,35 +1044,35 @@
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%8B%A0%EC%9E%A5-%EC%A0%84%ED%95%B4%EC%A7%88</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%A6%9D%EC%83%81-%EC%A0%91%EA%B7%BC</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EB%8B%B9%EB%87%A8-%EB%8C%80%EC%82%AC</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%95%BD%EB%AC%BC-%EA%B8%B0%EC%A0%84</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%8B%AC%EC%9E%A5-%ED%98%88%EA%B4%80</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%9D%91%EA%B8%89</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%ED%98%B8%ED%9D%A1%EA%B8%B0</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EA%B0%84-%EC%86%8C%ED%99%94%EA%B8%B0</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EA%B0%90%EC%97%BC-%ED%95%AD%EC%83%9D%EC%A0%9C</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/</loc>
-    <lastmod>2026-06-08T13:43:34.578Z</lastmod>
+    <lastmod>2026-06-09T11:56:09.214Z</lastmod>
   </url></urlset>
