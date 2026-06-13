@@ -416,6 +416,18 @@
     <loc>https://www.geeyug.com/cards/bf01-blood-flow-overview</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/bf02-regulation</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bf03-autoregulation</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bf04-organ-specific-flow</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bf05-endothelium-function</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/bf06-endothelium-no</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
@@ -470,11 +482,35 @@
     <loc>https://www.geeyug.com/cards/bpk03-salt-intake</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/bpk04-resistance-exception</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk05-volume-pressure</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk06-1-renal-resistance</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk06-renal-damage-salt</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk07-raas-intro</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk08-raas-function</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/bpk09-angiotensin</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/bpk10-goldblatt</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk11-aortic-coarctation</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/bpk12-obesity-htn</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/bpn01-neural-control</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
@@ -596,14 +632,35 @@
     <loc>https://www.geeyug.com/cards/co02-frank-starling</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/co03-cardiac-curve</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/co04-dnp-danger</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/co06-low-output-situations</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/co07-graph-analysis</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/co08-venous-return-curve</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/co09-msfp</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/co11-determinants</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/co12-volume-overload</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/co13-stress-response</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/co14-arteriovenous-fistula</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/colon-cancer-risk-factors</loc>
     <lastmod>2026-06-09T11:55:27.000Z</lastmod>
@@ -713,6 +770,9 @@
     <loc>https://www.geeyug.com/cards/dm-htn-dual-control</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/dm-insulin-barrier</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/dm-lada</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
@@ -749,11 +809,17 @@
     <loc>https://www.geeyug.com/cards/dm-prediabetes-suspicion</loc>
     <lastmod>2026-06-13T00:13:57.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/dm-retinopathy-early-worsening</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/dm-retinopathy-glucose-drop</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-series-overview</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/dm-sexual-misconception</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/dm-sitagliptin-cough</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
@@ -1028,6 +1094,48 @@
     <loc>https://www.geeyug.com/cards/heart04-atrial-contraction</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound-intro</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound01-s1-overview</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound02-s1-intensity</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound03-s1-decreased</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound04-s1-variable</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound05-s2-intensity</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound06-s2-split-overview</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound07-wide-split</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound08-fixed-split</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound09-reverse-split</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound10-single-s2</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound11-s3</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound12-s4</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/heartsound13-extra-sounds</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/hemorrhagic-shock-causes</loc>
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
@@ -1111,6 +1219,12 @@
   </url><url>
     <loc>https://www.geeyug.com/cards/htn-medication-myth</loc>
     <lastmod>2026-06-09T12:31:41.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/htn-medication-side-effects-myth</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/htn-medication-stop</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/htn-renal-mechanism</loc>
     <lastmod>2026-06-09T11:55:27.000Z</lastmod>
@@ -1250,8 +1364,29 @@
     <loc>https://www.geeyug.com/cards/kf04-countercurrent</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
   </url><url>
+    <loc>https://www.geeyug.com/cards/kf05-urea-recycling</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/kf06-vasa-recta</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
     <loc>https://www.geeyug.com/cards/kf07-tubule-flow</loc>
     <lastmod>2026-06-13T00:29:51.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/kf08-free-water-clearance</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/kf09-diabetes-insipidus</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/kf10-adh-secretion</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/kf12-thirst-resolution</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
+  </url><url>
+    <loc>https://www.geeyug.com/cards/kf13-adh-thirst-synergy</loc>
+    <lastmod>2026-06-13T06:48:36.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/lft-albumin</loc>
     <lastmod>2026-06-08T12:45:41.000Z</lastmod>
@@ -1782,35 +1917,35 @@
     <lastmod>2026-06-07T02:37:34.000Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/cards/</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%8B%A0%EC%9E%A5-%EC%A0%84%ED%95%B4%EC%A7%88</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%A6%9D%EC%83%81-%EC%A0%91%EA%B7%BC</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EA%B0%84-%EC%86%8C%ED%99%94%EA%B8%B0</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EB%8B%B9%EB%87%A8-%EB%8C%80%EC%82%AC</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%95%BD%EB%AC%BC-%EA%B8%B0%EC%A0%84</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%8B%AC%EC%9E%A5-%ED%98%88%EA%B4%80</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EC%9D%91%EA%B8%89</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%ED%98%B8%ED%9D%A1%EA%B8%B0</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/%EA%B0%90%EC%97%BC-%ED%95%AD%EC%83%9D%EC%A0%9C</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url><url>
     <loc>https://www.geeyug.com/tags/</loc>
-    <lastmod>2026-06-13T00:30:36.172Z</lastmod>
+    <lastmod>2026-06-13T06:49:11.552Z</lastmod>
   </url></urlset>
