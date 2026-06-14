@@ -6,7 +6,7 @@ level: 1
 youtube_id: B2ySZgh_-g4
 membership: public
 short_title: HTN 혈압상승 vs 고혈압
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 혈압이 한 번 높게 측정되는 것과 고혈압은 다르다. 고혈압은 유발 요인 없이 반복적으로 혈압이 높게 나오는 상태이며, 이 진단이 붙는 순간 검사, 합병증 예방, 약물 치료라는 세 가지가 따라온다.

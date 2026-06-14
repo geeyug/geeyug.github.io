@@ -1,12 +1,12 @@
 ---
 id: ihd05-revascularization
 title: 안정형 협심증에서 재관류술은 언제 결정하는가
-series: IHD
+series: series-IHD
 level: 3
 youtube_id: -AqpHRPn6mM
 membership: nieun
-short_title: IHD-05 재관류술 결정
-tags: [심장-혈관]
+short_title: series-IHD-05 재관류술 결정
+tags: [심장-혈관, series-IHD]
 ---
 
 > 안정형 협심증에서 재관류술(revascularization)의 결정은 증상 조절과 예후 개선이라는 두 목적이 서로 다른 기준을 갖는다는 점을 이해하는 데서 출발한다.

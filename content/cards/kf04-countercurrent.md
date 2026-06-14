@@ -1,12 +1,12 @@
 ---
 id: kf04-countercurrent
 title: 소변 농축에 필요한 두 가지 조건은 무엇인가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: PRpAv0O98Xk
 membership: ssangkiyeok
 short_title: KF-04 반류 기전과 속질 농도
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 소변 농축에는 ADH와 높은 속질 삼투 농도 두 가지가 모두 필요하며, 속질의 고삼투 환경은 헨레 고리의 반류 증배 기전(countercurrent multiplier system)으로 형성된다.

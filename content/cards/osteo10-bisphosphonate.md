@@ -1,12 +1,12 @@
 ---
 id: osteo10-bisphosphonate
 title: 비스포스포네이트는 왜 오래 쓸수록 오히려 골절이 생길 수 있는가
-series: OSTEO
+series: series-OSTEO
 level: 3
 youtube_id: 30jijUmTg9c
 membership: nieun
-short_title: OSTEO-10 비스포스포네이트
-tags: [약물-기전]
+short_title: series-OSTEO-10 비스포스포네이트
+tags: [약물-기전, series-OSTEO]
 ---
 
 > 비스포스포네이트는 뼈에 달라붙어 파골세포를 억제하는 강력한 골 흡수 억제제다. 그러나 장기간 뼈에 축적되면 골 전환 자체가 줄어들어 드물게 역설적 골절이 발생할 수 있다.

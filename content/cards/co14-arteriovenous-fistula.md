@@ -1,12 +1,12 @@
 ---
 id: co14-arteriovenous-fistula
 title: 동맥과 정맥이 바로 연결되면 심박출량은 어떻게 변하는가
-series: CO
+series: series-CO
 level: 3
 youtube_id: F7VqtkPXSao
 membership: ssangkiyeok
-short_title: CO-14 동정맥루와 심박출량
-tags: [심장-혈관]
+short_title: series-CO-14 동정맥루와 심박출량
+tags: [심장-혈관, series-CO]
 ---
 
 > 동정맥루(arteriovenous fistula)가 생기면 말초혈관 저항이 급감하고 심박출량이 단계적으로 증가하며, 만성화되면 심장에 돌이킬 수 없는 부담이 쌓일 수 있다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: -JjU3iN_Lm8
 membership: ssangkiyeok
 short_title: DVT 혈전증 위험성
-tags: [심장-혈관]
+tags: [심장-혈관, DVT]
 ---
 
 > 심부정맥혈전증(DVT)이 위험한 것은 다리 증상 때문이 아니라, 혈전이 떨어져 나가 폐동맥을 막는 폐색전증(pulmonary embolism, PE)으로 이어질 수 있기 때문이다.

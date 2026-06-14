@@ -1,12 +1,12 @@
 ---
 id: osteo09-hormone-serm
 title: 에스트로겐을 그대로 보충하면 되는데 왜 SERM과 TSEC이 따로 존재하는가
-series: OSTEO
+series: series-OSTEO
 level: 3
 youtube_id: tjC3F30RyJg
 membership: nieun
-short_title: OSTEO-09 HRT·SERM·TSEC
-tags: [약물-기전]
+short_title: series-OSTEO-09 HRT·SERM·TSEC
+tags: [약물-기전, series-OSTEO]
 ---
 
 > 에스트로겐 보충은 골다공증에 효과적이지만 자궁내막암·유방암·혈전 위험을 동반한다. SERM, TSEC, tibolone은 이 부작용을 조직 선택적으로 줄이려는 시도다.

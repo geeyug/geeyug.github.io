@@ -6,7 +6,7 @@ level: 1
 youtube_id: -CLdtRw84Vw
 membership: public
 short_title: LIVER 간경변+HBV 치료
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 ---
 
 > 간경변으로 진행한 뒤에도 B형간염 바이러스 치료는 반드시 필요하며, 진행 단계에 따라 치료 기준이 달라진다.

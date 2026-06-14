@@ -1,12 +1,12 @@
 ---
 id: sepsis08-microcirculation
 title: 패혈증이 콩팥을 망가뜨리는 첫 번째 경로 — 미세순환에서 무슨 일이 일어나는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: R0qnXW2Mmzs
 membership: ssangkiyeok
-short_title: SEPSIS-08 미세순환장애
-tags: [응급, 신장-전해질]
+short_title: series-SEPSIS-08 미세순환장애
+tags: [응급, 신장-전해질, series-SEPSIS]
 ---
 
 > 패혈증에서 콩팥 기능이 저하되는 핵심 기전은 미세순환 내 혈류 이질성(flow heterogeneity)의 증가에 있다.

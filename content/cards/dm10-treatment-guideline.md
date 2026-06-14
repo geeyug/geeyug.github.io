@@ -1,12 +1,12 @@
 ---
 id: dm10-treatment-guideline
 title: "당뇨병 치료 진료지침은 어떤 순서로 약을 선택하도록 안내하는가"
-series: DM
+series: series-DM
 level: 2
 youtube_id: CWCOHrwKWVc
 membership: nieun
 short_title: DM10 당뇨 치료 진료지침
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 ---
 
 > 한국 당뇨병 치료 진료지침은 동반질환 유무를 먼저 확인한 뒤, 그 결과에 따라 약물 선택의 경로를 둘로 나눈다.

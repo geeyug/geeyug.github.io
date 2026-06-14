@@ -1,12 +1,12 @@
 ---
 id: co08-venous-return-curve
 title: 정맥환류는 무엇이 결정하는가 — 심박출량을 만드는 또 하나의 축
-series: CO
+series: series-CO
 level: 2
 youtube_id: ESA-n58DX30
 membership: ssangkiyeok
-short_title: CO-08 정맥환류곡선
-tags: [심장-혈관]
+short_title: series-CO-08 정맥환류곡선
+tags: [심장-혈관, series-CO]
 ---
 
 > 심박출량은 심장의 펌프 기능만으로 결정되지 않는다. 정맥에서 심장으로 얼마나 혈액이 들어오느냐, 즉 정맥환류(venous return)가 심박출량의 또 다른 결정 인자이다.

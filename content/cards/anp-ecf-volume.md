@@ -5,7 +5,7 @@ topic: ECFVOLCON
 level: 2
 youtube_id: 0cwos3GsSac
 membership: ssangkiyeok
-tags: [신장-전해질]
+tags: [신장-전해질, ECFVOLCON]
 short_title: ECFVOLCON-13 ANP 보조 역할
 ---
 

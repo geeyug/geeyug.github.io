@@ -6,7 +6,7 @@ level: 1
 youtube_id: -PnCGzXFwXs
 membership: public
 short_title: GI 용종 속 암세포 판단
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 대장 용종을 제거해도 그 안에 암세포가 있을 수 있다. 병리 결과가 나오기 전까지는 결론이 난 것이 아니며, 암세포의 침범 깊이와 악성도에 따라 추가 수술 여부가 결정된다.

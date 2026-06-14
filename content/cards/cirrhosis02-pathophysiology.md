@@ -1,12 +1,12 @@
 ---
 id: cirrhosis02-pathophysiology
 title: 간경변에서 왜 복수가 차고 콩팥이 나빠지는가
-series: CIRRHOSIS
+series: series-CIRRHOSIS
 level: 3
 youtube_id: mZi8oCI9jXg
 membership: nieun
-short_title: CIRRHOSIS-02 병태생리
-tags: [간-소화기, 신장-전해질]
+short_title: series-CIRRHOSIS-02 병태생리
+tags: [간-소화기, 신장-전해질, series-CIRRHOSIS]
 ---
 
 > 간경변의 병태생리는 간 혼자의 문제가 아니라 간, 내장 혈관계(splanchnic vasculature), 콩팥, 심장이 연쇄적으로 얽히는 전신 반응이다.

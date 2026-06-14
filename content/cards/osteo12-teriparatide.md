@@ -1,12 +1,12 @@
 ---
 id: osteo12-teriparatide
 title: 뼈에서 칼슘을 빼는 호르몬이 왜 골다공증 치료제가 되는가
-series: OSTEO
+series: series-OSTEO
 level: 3
 youtube_id: VQQXEOSFdIk
 membership: nieun
-short_title: OSTEO-12 테리파라타이드
-tags: [약물-기전, 증상-접근]
+short_title: series-OSTEO-12 테리파라타이드
+tags: [약물-기전, 증상-접근, series-OSTEO]
 ---
 
 > 테리파라타이드(teriparatide)는 부갑상선호르몬(PTH)의 1~34번 아미노산 절편으로, 지속 투여가 아닌 간헐적 고용량 투여 시 골 형성을 촉진하는 유일한 기전 차이를 이용한 골형성 촉진제이다.

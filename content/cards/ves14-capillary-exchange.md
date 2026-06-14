@@ -1,11 +1,11 @@
 ---
 id: ves14-capillary-exchange
 title: 모세혈관에서 물질 교환은 어떻게 일어나는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: hAaeF3GgsPg
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES14 모세혈관 물질 교환
 ---
 

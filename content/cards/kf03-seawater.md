@@ -1,12 +1,12 @@
 ---
 id: kf03-seawater
 title: 바닷물을 마시면 왜 탈수가 일어나는가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: WFuve3e_kl0
 membership: ssangkiyeok
 short_title: KF-03 바닷물과 최대 농축 능력
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 바닷물의 삼투 농도(약 1,200 mOsm/L)는 인간 콩팥의 최대 농축 능력과 같아서, 마신 바닷물 속 용질을 배출하는 데 마신 물 이상의 소변이 필요하다.

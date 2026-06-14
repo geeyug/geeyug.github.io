@@ -5,7 +5,7 @@ topic: BETA
 level: 2
 youtube_id: viqA_8mAWQA
 membership: ssangkiyeok
-tags: [약물-기전, 심장-혈관]
+tags: [약물-기전, 심장-혈관, BETA]
 short_title: BETA-06 협심증·심근경색 적응증
 ---
 

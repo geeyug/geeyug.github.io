@@ -6,7 +6,7 @@ level: 2
 youtube_id: rNOWW7flpDI
 membership: public
 short_title: GI 위산 분비 조절 기전
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, GI]
 ---
 
 > 위산 분비는 단일 신호가 아닌, 촉진·억제 신호가 동시에 작동하는 다층 조절 체계에 의해 통제된다.

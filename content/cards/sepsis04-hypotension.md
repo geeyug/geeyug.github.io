@@ -1,12 +1,12 @@
 ---
 id: sepsis04-hypotension
 title: 패혈증에서 혈압이 떨어지는 이유는 무엇인가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: XcBkpK0eVyY
 membership: ssangkiyeok
-tags: [응급, 감염-항생제]
-short_title: SEPSIS-04 패혈증과 혈압 저하
+tags: [응급, 감염-항생제, series-SEPSIS]
+short_title: series-SEPSIS-04 패혈증과 혈압 저하
 ---
 
 > 패혈증에서의 혈압 저하는 혈관 확장, 바소프레신 반응 감소, 혈관 내 체액 누출이라는 세 경로가 동시에 작동한 결과이며, 미세 순환 장애까지 겹쳐 순환계 전체가 무너진다.

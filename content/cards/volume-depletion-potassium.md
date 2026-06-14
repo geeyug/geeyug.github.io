@@ -5,7 +5,7 @@ topic: ECFVOLCON
 level: 2
 youtube_id: Yi7_5Al-8aU
 membership: public
-tags: [신장-전해질]
+tags: [신장-전해질, ECFVOLCON]
 short_title: FLUID 체액량과 포타슘
 ---
 

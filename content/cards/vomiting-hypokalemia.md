@@ -5,7 +5,7 @@ topic: GI
 level: 2
 youtube_id: 42IrnhH7m-8
 membership: public
-tags: [간-소화기, 신장-전해질]
+tags: [간-소화기, 신장-전해질, GI]
 short_title: GI 구토와 저칼륨혈증
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: af-02-symptoms
 title: "심방세동의 증상은 두근거림뿐인가"
-series: AF
+series: series-AF
 level: 2
 youtube_id: sGQJitGm0DE
 membership: nieun
-tags: [심장-혈관]
-short_title: AF-02 심방세동 증상
+tags: [심장-혈관, series-AF]
+short_title: series-AF-02 심방세동 증상
 ---
 
 > 심방세동의 증상은 두근거림(palpitation)이 대표적이지만, 운동 시 호흡곤란·피로·어지러움·흉통·불안감으로 다양하게 나타날 수 있고, 아예 증상이 없는 경우도 적지 않다.

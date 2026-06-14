@@ -1,12 +1,12 @@
 ---
 id: acidbase19-ammonia-buffer
 title: 암모니아 완충계는 왜 산 배설의 핵심 기전인가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: IUnJ0doFTIQ
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: ACIDBASE-19 암모니아 완충계
+tags: [신장-전해질, series-ACIDBASE]
+short_title: series-ACIDBASE-19 암모니아 완충계
 ---
 
 > 콩팥은 글루타민(glutamine)을 분해해 암모늄 이온(NH₄⁺)을 소변으로 내보내는 동시에 새로운 중탄산염 이온을 혈액에 추가하며, 이 기전이 전체 산 배설의 절반을 담당한다.

@@ -1,12 +1,12 @@
 ---
 id: hf11-icd-crt
 title: ICD와 CRT는 어떤 환자에게 필요한가
-series: HF
+series: series-HF
 level: 3
 youtube_id: aMQtpgjRbLE
 membership: nieun
-short_title: HF-11 ICD·CRT 적응증
-tags: [심장-혈관]
+short_title: series-HF-11 ICD·CRT 적응증
+tags: [심장-혈관, series-HF]
 ---
 
 > ICD는 급사 예방을 목적으로 하고, CRT는 양심실 비동기화를 교정하는 장치로서, 두 장치는 적응증이 다르며 표준 약물 치료를 충분히 시행한 후에 검토한다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: 2wvXjlWq53o
 membership: public
 short_title: GI-CANCER 위암 조직검사 음성
-tags: [간-소화기]
+tags: [간-소화기, ONCO]
 ---
 
 > 내시경 육안 소견이 암을 강력히 시사하더라도, 조직검사는 음성으로 나올 수 있다. 이때 조직검사 결과를 그대로 믿어서는 안 된다.

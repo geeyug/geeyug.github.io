@@ -6,7 +6,7 @@ level: 3
 youtube_id: 1LK1TTa2Uzo
 membership: ssangkiyeok
 short_title: ECG-6강 Wide QRS 감별
-tags: [심장-혈관]
+tags: [심장-혈관, ECG]
 ---
 
 > Wide QRS는 심실 빈맥(VT)뿐 아니라 심실상 빈맥(SVT)에 각차단이나 WPW가 동반된 경우에도 나타나므로, 파형의 초기 기울기를 통해 전도 경로를 추론해야 한다.

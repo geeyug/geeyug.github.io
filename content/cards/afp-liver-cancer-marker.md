@@ -6,7 +6,7 @@ level: 1
 youtube_id: 46s2xNFPIAc
 membership: public
 short_title: HCC AFP 해석
-tags: [간-소화기]
+tags: [간-소화기, HCC]
 ---
 
 > AFP(알파태아단백)의 급격한 감소는 치료 반응의 단서이지 완치의 증거가 아니다. 반드시 영상 소견과 함께 해석해야 한다.

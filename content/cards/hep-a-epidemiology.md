@@ -6,7 +6,7 @@ level: 1
 youtube_id: 5JV1_MFdCGM
 membership: public
 short_title: GI A형간염 역학
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > A형간염(hepatitis A)은 위생 수준이 낮을수록 많다고 생각하기 쉽지만, 실제로는 개발도상국에서 가장 많은 환자가 발생한다. 저개발국가는 오히려 어린 시절 자연 노출로 집단 면역이 형성되어 있기 때문이다.

@@ -1,12 +1,12 @@
 ---
 id: bpk04-resistance-exception
 title: 총말초혈관저항이 올라도 혈압이 오르지 않는 경우는 언제인가
-series: BPK
+series: series-BPK
 level: 2
 youtube_id: tD4dPun-4R0
 membership: ssangkiyeok
 short_title: BPK04 혈관저항의 한계
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BPK]
 ---
 
 > 총말초혈관저항(total peripheral resistance)은 단기적으로 혈압에 영향을 주지만, 장기적으로는 심박출량이 반대 방향으로 보상하기 때문에 혈압의 장기 결정인자가 되지 못한다.

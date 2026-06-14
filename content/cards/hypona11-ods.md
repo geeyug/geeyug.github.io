@@ -1,11 +1,11 @@
 ---
 id: hypona11-ods
 title: 저나트륨혈증을 너무 빨리 교정하면 왜 더 위험해지는가
-series: HYPONA
+series: series-HYPONA
 level: 3
 youtube_id: HG8cPv7OVT8
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-HYPONA]
 short_title: HYPONA11 ODS 삼투성탈수초
 ---
 

@@ -1,11 +1,11 @@
 ---
 id: ab07-anion-gap-classification
 title: 이온차(anion gap)로 대사성 산증의 원인을 어떻게 구분하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: nBqE70yauJM
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-ACIDBASE]
 short_title: AB07 이온차와 대사성 산증 분류
 ---
 

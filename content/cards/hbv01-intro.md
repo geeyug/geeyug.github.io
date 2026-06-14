@@ -1,15 +1,15 @@
 ---
 id: hbv01-intro
-title: B형간염 바이러스(HBV)는 왜 완치가 어려운가
-series: HBV
+title: B형간염 바이러스(series-HBV)는 왜 완치가 어려운가
+series: series-HBV
 level: 2
 youtube_id: HCP05qSUckM
 membership: nieun
 short_title: HBV01 B형간염 개요
-tags: [간-소화기]
+tags: [간-소화기, series-HBV]
 ---
 
-> B형간염 바이러스(hepatitis B virus, HBV)는 DNA 바이러스로, 간세포 핵 안에 cccDNA(covalently closed circular DNA) 형태로 잠복하거나 숙주 유전체에 통합되기 때문에 현재 기술로는 완전한 박멸이 불가능하다.
+> B형간염 바이러스(hepatitis B virus, series-HBV)는 DNA 바이러스로, 간세포 핵 안에 cccDNA(covalently closed circular DNA) 형태로 잠복하거나 숙주 유전체에 통합되기 때문에 현재 기술로는 완전한 박멸이 불가능하다.
 
 ## ❶ 생각해 보셨나요?
 
@@ -25,15 +25,15 @@ HBV는 DNA 바이러스다. 간세포에 감염되면 바이러스 DNA가 세포
 
 완치가 불가능하다면 치료의 목표는 진행을 막는 것이다.
 
-HBV 감염의 자연 경과는 급성 간염 → 만성 간염 → 간경변증(liver cirrhosis) → 간세포암종(hepatocellular carcinoma, HCC)으로 이어질 수 있다. **항바이러스 치료의 목표는 이 진행 경로를 차단하는 것**이다.
+series-HBV 감염의 자연 경과는 급성 간염 → 만성 간염 → 간경변증(liver cirrhosis) → 간세포암종(hepatocellular carcinoma, HCC)으로 이어질 수 있다. **항바이러스 치료의 목표는 이 진행 경로를 차단하는 것**이다.
 
-급성 간염에서는 HBV 자체에 대한 항바이러스 치료를 원칙적으로 시행하지 않는다. 만성 간염의 일부, 간경변증, 간세포암종 상황에서 적극적으로 치료에 개입한다.
+급성 간염에서는 series-HBV 자체에 대한 항바이러스 치료를 원칙적으로 시행하지 않는다. 만성 간염의 일부, 간경변증, 간세포암종 상황에서 적극적으로 치료에 개입한다.
 
 우리나라에서는 만성 B형간염 보유율이 약 5%(20명 중 1명)로, 대부분 수직 감염(모자 간 전파)으로 발생한다. 이 때문에 수직 감염 예방이 공중보건 관점에서 특히 중요하다.
 
 ## ❹ 결국
 
-HBV 치료를 이해하려면 바이러스의 유전자 수준 특성을 먼저 알아야 한다. cccDNA와 숙주 유전체 통합이라는 두 가지 메커니즘이 완치를 막는 근본 이유이고, 이것이 치료 전략 전체의 배경이 된다. HBsAg, 코어 항원(core antigen), e항원(e antigen)과 각각의 항체가 의미하는 바는 이 흐름 위에서 해석된다.
+series-HBV 치료를 이해하려면 바이러스의 유전자 수준 특성을 먼저 알아야 한다. cccDNA와 숙주 유전체 통합이라는 두 가지 메커니즘이 완치를 막는 근본 이유이고, 이것이 치료 전략 전체의 배경이 된다. HBsAg, 코어 항원(core antigen), e항원(e antigen)과 각각의 항체가 의미하는 바는 이 흐름 위에서 해석된다.
 
 영상으로 더 깊이 보고 싶다면:
 [▶ 영상으로 보기](https://youtu.be/HCP05qSUckM) *(멤버십)*

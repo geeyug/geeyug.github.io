@@ -6,7 +6,7 @@ level: 1
 youtube_id: P_jn2HmM7U4
 membership: public
 short_title: LIVER 문맥압 항진증 3형태
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 ---
 
 > 간문맥(portal vein)의 압력이 오르는 위치를 굴 모양 혈관(sinusoid)을 기준으로 앞·내·뒤로 나누면 원인과 기전이 달라진다.

@@ -1,12 +1,12 @@
 ---
 id: osteo01-definition
 title: 골다공증은 왜 단순히 "뼈가 약해지는 것"이 아닌가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: bO4oRhneqfw
 membership: nieun
-short_title: OSTEO-01 골재형성과 골절
-tags: [증상-접근]
+short_title: series-OSTEO-01 골재형성과 골절
+tags: [증상-접근, series-OSTEO]
 ---
 
 > 골다공증은 골량의 감소(양)와 미세구조의 이상(질)이 함께 생기는 전신 골격 질환이며, 그 궁극적인 치료 목적은 골절 예방이다.

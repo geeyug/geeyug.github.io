@@ -6,7 +6,7 @@ level: 1
 youtube_id: l_LpskVH4jA
 membership: public
 short_title: 이뇨제-저칼륨 기전
-tags: [신장-전해질, 약물-기전]
+tags: [신장-전해질, 약물-기전, GI]
 ---
 
 > 이뇨제는 소변량을 늘리는 과정에서 두 가지 경로를 통해 칼륨(potassium)을 신장 밖으로 밀어낸다.

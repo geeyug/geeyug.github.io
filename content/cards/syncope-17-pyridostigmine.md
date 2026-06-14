@@ -1,12 +1,12 @@
 ---
 id: syncope-17-pyridostigmine
 title: 피리도스티그민은 왜 누운 자세 고혈압 없이 기립성 저혈압을 개선할 수 있는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 3
 youtube_id: Ihdhksh-4M0
 membership: ssangkiyeok
-tags: [약물-기전, 증상-접근]
-short_title: SYNCOPE-17 피리도스티그민
+tags: [약물-기전, 증상-접근, series-SYNCOPE]
+short_title: series-SYNCOPE-17 피리도스티그민
 ---
 
 > 피리도스티그민은 자율신경절에서 신호 전달 효율을 높여 기립 시 교감신경 반응을 보조하지만, 누워 있을 때는 교감신경 기저 톤이 낮아 작용이 거의 없다.

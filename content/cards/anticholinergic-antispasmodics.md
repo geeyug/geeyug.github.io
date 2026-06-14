@@ -6,7 +6,7 @@ level: 2
 youtube_id: AWs3wklkKuM
 membership: public
 short_title: GI-PHARM 항콜린 진경제
-tags: [약물-기전, 간-소화기]
+tags: [약물-기전, 간-소화기, PHARM]
 ---
 
 > 부스코판(부틸스코폴라민)과 알피움(cimetropium bromide)은 뇌로 가는 장벽을 통과하지 못하도록 설계해, 중추신경계 부작용을 줄인 항콜린 진경제다.

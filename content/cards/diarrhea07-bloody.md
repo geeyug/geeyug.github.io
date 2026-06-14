@@ -1,11 +1,11 @@
 ---
 id: diarrhea07-bloody
 title: 혈성 설사를 볼 때 어떤 두 가지 병원균을 먼저 생각해야 하는가
-series: DIARRHEA
+series: series-DIARRHEA
 level: 2
 youtube_id: 7FK6jk_lGhI
 membership: ssangkiyeok
-tags: [간-소화기]
+tags: [간-소화기, series-DIARRHEA]
 short_title: 설사07 혈성설사 병원균
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: pain12-neurogenic-inflammation
 title: 통증 신경이 염증을 직접 일으킨다는 것은 무슨 뜻인가
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: yURykWAEO6A
 membership: ssangkiyeok
-short_title: PAIN-12 신경원성 염증
-tags: [증상-접근]
+short_title: series-PAIN-12 신경원성 염증
+tags: [증상-접근, series-PAIN]
 ---
 
 > 통증 수용기는 자극을 뇌로 전달하는 구심성 역할에 그치지 않고, 말단에서 염증 펩타이드를 역방향으로 분비하여 염증을 직접 증폭시킨다.

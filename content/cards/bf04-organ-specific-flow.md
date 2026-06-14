@@ -1,11 +1,11 @@
 ---
 id: bf04-organ-specific-flow
 title: "콩팥, 뇌, 피부의 혈류량은 왜 다른 방식으로 조절되는가"
-series: BF
+series: series-BF
 level: 2
 youtube_id: hbPAAypZrVo
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BF]
 short_title: BF04 장기별 혈류 조절
 ---
 

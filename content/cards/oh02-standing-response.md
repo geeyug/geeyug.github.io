@@ -1,12 +1,12 @@
 ---
 id: oh02-standing-response
 title: 일어설 때 혈압은 왜 심하게 떨어지지 않는가
-series: OH
+series: series-OH
 level: 2
 youtube_id: 9J8K-rr6IXs
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근]
-short_title: OH-02 기립 시 정상혈압반응
+tags: [심장-혈관, 증상-접근, series-OH]
+short_title: series-OH-02 기립 시 정상혈압반응
 ---
 
 > 일어서면 500~1000ml의 혈액이 하지와 복부에 쏠리지만, 압력수용체(baroreceptor)가 이를 즉시 감지해 교감신경계를 가동함으로써 혈압은 크게 떨어지지 않는다.

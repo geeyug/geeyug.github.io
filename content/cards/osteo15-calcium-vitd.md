@@ -1,12 +1,12 @@
 ---
 id: osteo15-calcium-vitd
 title: 칼슘과 비타민 D는 어떻게 복용해야 실제로 효과가 있는가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: uQb4pegbuoU
 membership: nieun
-short_title: OSTEO-15 칼슘·비타민D
-tags: [약물-기전, 증상-접근]
+short_title: series-OSTEO-15 칼슘·비타민D
+tags: [약물-기전, 증상-접근, series-OSTEO]
 ---
 
 > 칼슘과 비타민 D는 골다공증 치료의 기본이지만, 제형 선택과 복용 방법이 실제 흡수율을 좌우하며, 비타민 D는 주사보다 매일 경구 복용이 권장된다.

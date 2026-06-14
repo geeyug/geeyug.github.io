@@ -1,12 +1,12 @@
 ---
 id: shock03-distributive
 title: 분배성 쇼크에서는 왜 혈액이 충분한데도 쇼크가 오는가
-series: SHOCK
+series: series-SHOCK
 level: 2
 youtube_id: -BIeqPW1JRo
 membership: ssangkiyeok
-short_title: SHOCK-03 분배성 쇼크
-tags: [응급]
+short_title: series-SHOCK-03 분배성 쇼크
+tags: [응급, series-SHOCK]
 ---
 
 > 분배성 쇼크(distributive shock)는 혈액량이 줄어서가 아니라, 혈관이 과도하게 확장되어 혈액이 조직에 제대로 배분되지 못하면서 발생하는 쇼크다.

@@ -1,12 +1,12 @@
 ---
 id: osteo14-treatment-summary
 title: 골다공증 치료제를 어떻게 선택하고 순서를 정하는가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: 8RcndCV2Nx8
 membership: nieun
-short_title: OSTEO-14 치료제 요약
-tags: [약물-기전, 증상-접근]
+short_title: series-OSTEO-14 치료제 요약
+tags: [약물-기전, 증상-접근, series-OSTEO]
 ---
 
 > 골다공증 치료제는 기전과 중단 후 특성에 따라 선택하며, 강력한 약제일수록 사용 후 골흡수 억제제로의 순차 치료(sequential therapy)가 필수적이다.

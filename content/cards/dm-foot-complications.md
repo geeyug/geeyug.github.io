@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: xFHFfcDm4Cc
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 당뇨 족부 합병증
 ---
 

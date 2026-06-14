@@ -5,7 +5,7 @@ topic: GI
 level: 2
 youtube_id: EB5dEwMkYPc
 membership: ssangkiyeok
-tags: [간-소화기]
+tags: [간-소화기, GI]
 short_title: 소화기생리학28 흡수 면적
 ---
 

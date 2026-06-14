@@ -1,12 +1,12 @@
 ---
 id: bf07-long-term-regulation
 title: 조직이 지속적으로 더 많은 혈류를 요구할 때 몸은 어떻게 대응하는가
-series: BF
+series: series-BF
 level: 2
 youtube_id: QXLU3cs3yuU
 membership: ssangkiyeok
 short_title: BF07 혈류 장기조절
-tags: [심장-혈관]
+tags: [심장-혈관, series-BF]
 ---
 
 > 단기 조절이 혈관의 굵기를 조였다 풀었다 하는 것이라면, 장기 조절은 혈관 자체를 새로 만드는 것이다.

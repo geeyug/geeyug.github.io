@@ -5,7 +5,7 @@ topic: MURMUR
 level: 1
 youtube_id: Ius0hh_5NhE
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, MURMUR]
 short_title: MURMUR-01 심잡음 개요
 ---
 

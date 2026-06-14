@@ -6,7 +6,7 @@ level: 1
 youtube_id: FAxzDUnATEQ
 membership: public
 short_title: HTN 자율신경 혈압조절
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 혈압의 단기 조절은 약도 호르몬도 아닌 자율신경계가 담당한다. 이 시스템은 밀리초 단위로 작동하며, 자세 변화나 일상 활동 중에도 쉼 없이 혈압을 유지한다.

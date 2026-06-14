@@ -5,7 +5,7 @@ topic: SHOCK
 level: 2
 youtube_id: HlqMn3XsLXY
 membership: ssangkiyeok
-tags: [응급]
+tags: [응급, SHOCK]
 short_title: SHOCK-06 아나필락시스 쇼크
 ---
 

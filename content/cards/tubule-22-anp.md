@@ -1,12 +1,12 @@
 ---
 id: tubule-22-anp
 title: ANP는 어떻게 나트륨 배출을 늘리는가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: P_f9C1idAZM
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-22 ANP의 작용 경로
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-22 ANP의 작용 경로
 ---
 
 > 심방나트륨이뇨펩타이드(ANP)는 사구체 여과율 증가, 레닌 억제, 세관 각 구간의 나트륨 재흡수 억제를 통해 체액량을 줄인다.

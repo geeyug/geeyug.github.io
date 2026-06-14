@@ -1,12 +1,12 @@
 ---
 id: pain11-silent-nociceptors
 title: 침묵 통증 수용기는 내장 신경에만 있는가
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: PLvvlLMEp7k
 membership: ssangkiyeok
-short_title: PAIN-11 침묵 통증 수용기
-tags: [증상-접근]
+short_title: series-PAIN-11 침묵 통증 수용기
+tags: [증상-접근, series-PAIN]
 ---
 
 > 침묵 통증 수용기(silent nociceptor)는 체성 신경과 내장 신경 모두에 존재하지만, 내장에서 결정적인 역할을 한다. 내장 대부분의 nociceptor가 평소에는 침묵 상태로 있다가 병리 상황에서 집단으로 각성하기 때문이다.

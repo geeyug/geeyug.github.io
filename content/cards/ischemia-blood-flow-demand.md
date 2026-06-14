@@ -6,7 +6,7 @@ level: 1
 youtube_id: cECG6sEH95g
 membership: public
 short_title: IHD 혈류 요구
-tags: [심장-혈관]
+tags: [심장-혈관, IHD]
 ---
 
 > 염증 부위에서 분비되는 브라디키닌(bradykinin)은 세동맥을 확장하고 모세혈관 투과성을 높여 면역세포가 조직으로 들어오는 통로를 만든다. 이 반응이 전신으로 퍼지면 혈압이 떨어지는 패혈증(sepsis) 상황이 된다.

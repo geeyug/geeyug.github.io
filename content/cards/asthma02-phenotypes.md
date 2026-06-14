@@ -1,12 +1,12 @@
 ---
 id: asthma02-phenotypes
 title: "천식이 왜 치료 반응이 제각각인가 — 5가지 임상 표현형"
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: 5fyRSiGch2U
 membership: nieun
-tags: [호흡기]
-short_title: ASTHMA-02 5가지 표현형
+tags: [호흡기, series-ASTHMA]
+short_title: series-ASTHMA-02 5가지 표현형
 ---
 
 > 천식은 하나의 병이 아니라 다양한 염증 기전을 가진 이질적 질환군이다. 표현형을 구분하는 것이 치료 반응을 예측하는 출발점이다.

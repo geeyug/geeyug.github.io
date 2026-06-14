@@ -5,7 +5,7 @@ topic: HEMATOLOGY
 level: 1
 youtube_id: sFEpis7psKE
 membership: public
-tags: [증상-접근]
+tags: [증상-접근, HEMATOLOGY]
 short_title: 빈혈 검사 접근
 ---
 

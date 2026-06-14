@@ -5,7 +5,7 @@ topic: HCC
 level: 2
 youtube_id: KwizW8kVRAQ
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, HCC]
 short_title: HCC TACE 치료 원리
 ---
 

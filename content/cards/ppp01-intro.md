@@ -1,11 +1,11 @@
 ---
 id: ppp01-intro
 title: "오탄당인산회로는 왜 당대사의 숨겨진 퍼즐 조각인가"
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 6v2w6S1agEU
 membership: ssangkiyeok
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 short_title: PPP-01 오탄당인산회로 개요
 ---
 

@@ -6,7 +6,7 @@ level: 1
 youtube_id: 6jTlbb7MzgY
 membership: public
 short_title: GI 방귀 생성 기전
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 방귀는 질소·산소(삼킨 공기)와 이산화탄소·수소·메탄(장내 세균이 만든 가스)으로 구성되며, 냄새는 황화물에서 비롯된다.

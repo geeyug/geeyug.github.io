@@ -6,7 +6,7 @@ level: 1
 youtube_id: 7Uq28v1WoIs
 membership: public
 short_title: DM 당뇨약 오해
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨약이 성 기능을 해친다는 근거는 없다. 오히려 당뇨를 치료하지 않을 때 생기는 자율신경병증이 발기부전의 원인이 된다.

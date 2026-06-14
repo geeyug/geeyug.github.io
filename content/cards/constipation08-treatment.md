@@ -1,11 +1,11 @@
 ---
 id: constipation08-treatment
 title: 변비가 있을 때 약보다 먼저 해야 할 것들은 무엇인가
-series: CONSTIPATION
+series: series-CONSTIPATION
 level: 2
 youtube_id: 63y0ClxKbo0
 membership: ssangkiyeok
-tags: [간-소화기]
+tags: [간-소화기, series-CONSTIPATION]
 short_title: 변비08 치료 원칙
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: sepsis09-glycocalyx
 title: 패혈증이 혈관 내피를 무너뜨리는 방식 — glycocalyx 손상
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: bNo3jBdRGcY
 membership: ssangkiyeok
-short_title: SEPSIS-09 glycocalyx 손상
-tags: [응급]
+short_title: series-SEPSIS-09 glycocalyx 손상
+tags: [응급, series-SEPSIS]
 ---
 
 > 패혈증에서 혈관 내피의 방어막인 glycocalyx가 손상되면 염증세포의 혈관 외 침투가 급증하고, 이것이 미세순환 장애와 조직 손상을 증폭시키는 핵심 기전이다.

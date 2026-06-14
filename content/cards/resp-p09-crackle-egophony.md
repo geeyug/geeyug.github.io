@@ -6,7 +6,7 @@ level: 2
 youtube_id: iRig7CNYYcg
 membership: ssangkiyeok
 short_title: P09 crackle/egophony
-tags: [호흡기]
+tags: [호흡기, RESP]
 ---
 
 > crackle은 폐포에 물이 찼음을 알리는 가장 중요한 청진음이며, 들리는 위치가 원인을 구분하는 단서가 된다.

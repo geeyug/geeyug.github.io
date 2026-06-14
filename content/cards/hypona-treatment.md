@@ -5,7 +5,7 @@ topic: HYPONA
 level: 2
 youtube_id: SZQubhlr-3o
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, HYPONA]
 short_title: HYPONA-10 저나트륨혈증 치료
 ---
 

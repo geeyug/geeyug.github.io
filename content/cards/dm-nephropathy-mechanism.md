@@ -5,7 +5,7 @@ topic: DM
 level: 2
 youtube_id: LHx4h0fhF7Y
 membership: public
-tags: [당뇨-대사, 신장-전해질]
+tags: [당뇨-대사, 신장-전해질, DM]
 short_title: DM 당뇨병성 신증 기전
 ---
 

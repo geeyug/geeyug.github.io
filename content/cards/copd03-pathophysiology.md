@@ -1,19 +1,19 @@
 ---
 id: copd03-pathophysiology
 title: COPD에서 공기가 갇히는 것이 왜 문제인가
-series: COPD
+series: series-COPD
 level: 2
 youtube_id: xgoZ5iPdrN8
 membership: nieun
 short_title: COPD03 병태생리
-tags: [호흡기]
+tags: [호흡기, series-COPD]
 ---
 
 > COPD의 기류 제한은 기도 저항 증가와 탄성 수축력 감소가 겹쳐서 발생하며, 이로 인해 공기가 폐에 갇히는 동적 과팽창(dynamic hyperinflation)이 생겨 호흡 자체가 힘들어진다.
 
 ## ❶ 생각해 보셨나요?
 
-COPD 환자의 폐 기능이 떨어진다는 것은 알지만, 왜 그 환자가 숨을 쉬는 것 자체가 힘든지는 덜 직관적이다. 기도가 좁아지는 것만으로도 숨이 차지 않을까? 실제로는 기도 좁아짐 외에 폐에 공기가 갇히는 현상이 더해지면서 상황이 훨씬 심각해진다.
+series-COPD 환자의 폐 기능이 떨어진다는 것은 알지만, 왜 그 환자가 숨을 쉬는 것 자체가 힘든지는 덜 직관적이다. 기도가 좁아지는 것만으로도 숨이 차지 않을까? 실제로는 기도 좁아짐 외에 폐에 공기가 갇히는 현상이 더해지면서 상황이 훨씬 심각해진다.
 
 ## ❷ 기류 제한이 생기는 두 가지 이유
 

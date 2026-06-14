@@ -1,12 +1,12 @@
 ---
 id: osteo05-bone-markers
 title: 골표지자는 골밀도 검사와 무엇이 다른가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: S8wMLMCSuJY
 membership: nieun
-short_title: OSTEO-05 골표지자 의미와 활용
-tags: [증상-접근, 약물-기전]
+short_title: series-OSTEO-05 골표지자 의미와 활용
+tags: [증상-접근, 약물-기전, series-OSTEO]
 ---
 
 > 골표지자는 골재형성의 활성도를 혈액 검사로 실시간 반영하며, 골밀도 검사로는 알 수 없는 약물 반응 평가와 치료 모니터링에 활용된다.

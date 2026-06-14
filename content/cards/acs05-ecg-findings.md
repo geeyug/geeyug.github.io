@@ -1,12 +1,12 @@
 ---
 id: acs05-ecg-findings
 title: ACS에서 심전도는 무엇을 보여주는가
-series: ACS
+series: series-ACS
 level: 2
 youtube_id: BcUk0d98UCM
 membership: nieun
 short_title: ACS05 심전도 소견
-tags: [심장-혈관]
+tags: [심장-혈관, series-ACS]
 ---
 
 > ACS에서 심전도의 핵심은 ST분절 상승이 지속적인지 여부를 판단하는 것이며, ST분절 상승에 준하는 소견들을 함께 인식해야 STEMI와 NSTE-ACS를 정확하게 구분할 수 있다.
@@ -22,7 +22,7 @@ tags: [심장-혈관]
 Working diagnosis를 결정하는 기준은 ST분절의 **지속적 상승(persistent ST elevation)**이다.
 
 - **STEMI**: 지속적인 ST분절 상승이 있는 경우. 즉각적인 관상동맥 조영술(coronary angiography)이 필요하다.
-- **NSTE-ACS**: ST분절 상승이 없는 경우. 이후 트로포닌 상승 여부에 따라 NSTEMI(non-ST elevation myocardial infarction, 비ST분절 상승 심근경색) 또는 불안정형 협심증으로 최종 진단된다.
+- **NSTE-series-ACS**: ST분절 상승이 없는 경우. 이후 트로포닌 상승 여부에 따라 NSTEMI(non-ST elevation myocardial infarction, 비ST분절 상승 심근경색) 또는 불안정형 협심증으로 최종 진단된다.
 
 일시적으로 올라갔다가 20분 이내에 정상으로 돌아오면(transient ST elevation) STEMI가 아닌 NSTE-ACS로 분류한다. 반복적으로 올라갔다 내려오는 양상은 very high risk에 해당한다.
 

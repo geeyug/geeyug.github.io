@@ -1,12 +1,12 @@
 ---
 id: syncope22-brief-loss
 title: 실신은 왜 반드시 "잠깐"이어야 하는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: AGpGsSW8wbU
 membership: ssangkiyeok
-short_title: SYNCOPE-22 실신의 정의
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-22 실신의 정의
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 실신은 일시적 의식 상실(transient loss of consciousness)로 정의되며, "일시적"이라는 조건이 감별진단의 핵심이다.

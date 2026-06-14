@@ -6,7 +6,7 @@ level: 1
 youtube_id: 7KDjYExlr48
 membership: public
 short_title: DM 내분비내과 의뢰
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨 환자 대부분은 동네 내과에서 치료받을 수 있지만, 집중적인 인슐린 치료가 필요하거나 심각한 동반 질환이 있을 때는 내분비내과에서 전문 관리를 받는 것이 유리하다.

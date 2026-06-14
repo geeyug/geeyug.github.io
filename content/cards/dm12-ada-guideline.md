@@ -1,12 +1,12 @@
 ---
 id: dm12-ada-guideline
 title: "미국 당뇨병 학회 가이드라인은 한국 진료지침과 무엇이 다른가"
-series: DM
+series: series-DM
 level: 2
 youtube_id: a7oNgOM7SlU
 membership: nieun
 short_title: DM12 미국 ADA 가이드라인
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 ---
 
 > 미국 당뇨병 학회(ADA) 가이드라인은 한국 지침과 구조는 유사하지만, 동반질환 범위를 심혈관 고위험군(high-risk)까지 확장하고, 약제 효능을 혈당 강하와 체중 조절 두 축으로 명시적으로 분류한다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: v4B1DCVKXuM
 membership: ssangkiyeok
 short_title: P08 청진음 wheezing/rhonchi/stridor
-tags: [호흡기]
+tags: [호흡기, RESP]
 ---
 
 > 청진기로 듣는 소리는 기도 어느 부위가, 어떤 이유로 좁아졌는지를 알려주는 신호다.

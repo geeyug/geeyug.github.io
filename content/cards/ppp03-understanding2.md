@@ -1,11 +1,11 @@
 ---
 id: ppp03-understanding2
 title: "비산화 단계에서 탄소는 어떻게 재조합되어 해당과정으로 돌아오는가"
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: d4VZWArr4y8
 membership: ssangkiyeok
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 short_title: PPP-03 비산화 단계 탄소 재조합
 ---
 

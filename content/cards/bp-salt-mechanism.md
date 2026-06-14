@@ -6,7 +6,7 @@ level: 2
 youtube_id: C46AqualGTQ
 membership: public
 short_title: BP 소금과 혈압 기전
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, BP]
 ---
 
 > 소금은 체액량을 늘려 혈압을 올리지만, 신체는 이를 되돌리는 두 개의 음성 피드백 루프를 작동시킨다. 문제는 이 피드백이 공짜로 작동하지 않는다는 점이다.

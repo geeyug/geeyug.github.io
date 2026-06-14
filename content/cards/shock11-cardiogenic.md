@@ -1,12 +1,12 @@
 ---
 id: shock11-cardiogenic
 title: 심장의 어느 부분에 문제가 생겨도 결국 같은 결말에 이르는가
-series: SHOCK
+series: series-SHOCK
 level: 2
 youtube_id: 8Ox8TN7nCNU
 membership: ssangkiyeok
-short_title: SHOCK-11 심인성쇼크
-tags: [응급, 심장-혈관]
+short_title: series-SHOCK-11 심인성쇼크
+tags: [응급, 심장-혈관, series-SHOCK]
 ---
 
 > 심장을 구성하는 근육, 관상동맥, 전기계, 판막, 심낭 중 어느 하나에 문제가 생겨도 심장 기능이 떨어져 결국 심인성 쇼크(cardiogenic shock)로 이어질 수 있다.

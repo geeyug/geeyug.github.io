@@ -5,7 +5,7 @@ topic: LUPUS
 level: 1
 youtube_id: 2tZAEelKoYY
 membership: nieun
-tags: [증상-접근]
+tags: [증상-접근, LUPUS]
 short_title: LUPUS-01 루푸스 전형 증례
 ---
 

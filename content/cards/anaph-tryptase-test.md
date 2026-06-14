@@ -5,7 +5,7 @@ topic: ANAPH
 level: 2
 youtube_id: gfmVenIu20M
 membership: nieun
-tags: [응급]
+tags: [응급, ANAPH]
 short_title: ANAPH22 트립테이스 검사
 ---
 

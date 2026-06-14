@@ -5,7 +5,7 @@ topic: ACIDBASE
 level: 2
 youtube_id: 9V6URGIVItQ
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, ACIDBASE]
 short_title: AB-03 산염기 보상 기전
 ---
 

@@ -6,7 +6,7 @@ level: 1
 youtube_id: JGWlEL6NERk
 membership: public
 short_title: CKD 단백뇨 기초
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 ---
 
 > 소변에서 단백질이 검출되면 대부분 사구체 손상을 의미하지만, 혈뇨가 동반된 경우나 특정 조건에서는 거짓 양성이나 일시적 단백뇨일 수 있으므로 맥락을 먼저 따져야 한다.

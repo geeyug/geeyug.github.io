@@ -1,12 +1,12 @@
 ---
 id: acidbase12-respiratory-control
 title: 호흡은 어떻게 산염기 균형을 유지하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: XG-CxIp-0iw
 membership: ssangkiyeok
-tags: [신장-전해질, 호흡기]
-short_title: ACIDBASE-12 호흡조절
+tags: [신장-전해질, 호흡기, series-ACIDBASE]
+short_title: series-ACIDBASE-12 호흡조절
 ---
 
 > 폐는 CO₂ 배출량을 조절해 pH를 빠르게 교정할 수 있으며, 이 능력은 세포외액의 모든 화학적 완충제를 합친 것과 맞먹는다.

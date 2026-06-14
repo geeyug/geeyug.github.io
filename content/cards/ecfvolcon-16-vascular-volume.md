@@ -1,12 +1,12 @@
 ---
 id: ecfvolcon-16-vascular-volume
 title: 혈관 용적이 늘어나면 체액 균형 시스템은 어떻게 반응하는가
-series: ECFVOLCON
+series: series-ECFVOLCON
 level: 2
 youtube_id: vv2dUdhYhCs
 membership: ssangkiyeok
-tags: [신장-전해질, 심장-혈관]
-short_title: ECFVOLCON-16 혈관 용적 증가와 체액
+tags: [신장-전해질, 심장-혈관, series-ECFVOLCON]
+short_title: series-ECFVOLCON-16 혈관 용적 증가와 체액
 ---
 
 > 혈관 용적이 증가하면 정맥 충만압(mean circulatory filling pressure)이 낮아져 피드백 고리가 약해지고, 새로운 균형에 도달할 때까지 혈액량이 증가한다.

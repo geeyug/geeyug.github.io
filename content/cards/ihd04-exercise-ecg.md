@@ -1,12 +1,12 @@
 ---
 id: ihd04-exercise-ecg
 title: 운동부하 심전도는 무엇을 보고 언제 멈추는가
-series: IHD
+series: series-IHD
 level: 2
 youtube_id: GKUAVfi56Ds
 membership: nieun
-short_title: IHD-04 운동부하 심전도
-tags: [심장-혈관]
+short_title: series-IHD-04 운동부하 심전도
+tags: [심장-혈관, series-IHD]
 ---
 
 > 운동부하 심전도는 생리적 스트레스를 인위적으로 유발해 허혈을 심전도로 직접 확인하는 검사이며, 양성 판단 기준과 중단 기준을 함께 알아야 의미 있게 해석할 수 있다.

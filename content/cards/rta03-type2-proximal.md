@@ -1,12 +1,12 @@
 ---
 id: rta03-type2-proximal
 title: Type 2 RTA에서 왜 중탄산염만 빠져나가지 않는가 — 판코니 증후군과의 연결
-series: RTA
+series: series-RTA
 level: 2
 youtube_id: p_GB7aYAiv8
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-03 Type 2 근위 결함
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-03 Type 2 근위 결함
 ---
 
 > Type 2 RTA는 중탄산염 재흡수 결함에 그치지 않고, 근위세뇨관 전체 기능이 무너지는 판코니 증후군(Fanconi syndrome) 형태로 오는 경우가 많다.

@@ -1,12 +1,12 @@
 ---
 id: kidney01-seven-functions
 title: 콩팥은 몸에서 어떤 일곱 가지 일을 하는가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: EIM_a_Y6O6s
 membership: ssangkiyeok
-short_title: KIDNEY-01 일곱 가지 기능
-tags: [신장-전해질]
+short_title: series-KIDNEY-01 일곱 가지 기능
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 콩팥은 노폐물 배설 외에도 혈압 조절, 산염기 균형, 적혈구 생산, 비타민 D 활성화, 포도당 신합성까지 수행하는 다기능 장기다.

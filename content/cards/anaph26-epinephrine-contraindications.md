@@ -1,11 +1,11 @@
 ---
 id: anaph26-epinephrine-contraindications
 title: 아나필락시스에서 에피네프린을 쓰지 말아야 하는 금기가 있는가
-series: ANAPH
+series: series-ANAPH
 level: 2
 youtube_id: tkYJo6G_KOM
 membership: nieun
-tags: [응급]
+tags: [응급, series-ANAPH]
 short_title: ANAPH26 에피네프린 금기
 ---
 

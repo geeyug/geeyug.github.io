@@ -1,12 +1,12 @@
 ---
 id: oh08-treatment
 title: 기립성 저혈압을 약 없이 어떻게 치료하는가
-series: OH
+series: series-OH
 level: 2
 youtube_id: TTlV1FL57aE
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근]
-short_title: OH-08 기립성저혈압 비약물치료
+tags: [심장-혈관, 증상-접근, series-OH]
+short_title: series-OH-08 기립성저혈압 비약물치료
 ---
 
 > 기립성 저혈압의 1차 치료는 약물이 아니다. 수분과 염분 섭취, 유발 상황 회피, 그리고 하지 근육 강화가 핵심이다.

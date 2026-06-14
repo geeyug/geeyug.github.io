@@ -6,7 +6,7 @@ level: 1
 youtube_id: 680fgJQdrVA
 membership: public
 short_title: GI 부종 원인 접근
-tags: [증상-접근]
+tags: [증상-접근, GI]
 ---
 
 > 부종은 원인 없이 빼는 약이 존재하지 않는다. 심장·갑상선·간·신장 문제 혹은 특발성인지 먼저 확인해야 이뇨제를 안전하게 쓸 수 있다.

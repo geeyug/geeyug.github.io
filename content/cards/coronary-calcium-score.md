@@ -6,7 +6,7 @@ level: 1
 youtube_id: 11EHuqEwoSM
 membership: ssangkiyeok
 short_title: ACS 관상동맥 칼슘점수
-tags: [심장-혈관]
+tags: [심장-혈관, ACS]
 ---
 
 > 관상동맥 칼슘 점수(coronary artery calcium score)는 동맥경화의 진행 정도를 반영하며, 심혈관 위험도가 중간 수준이거나 계산기로는 저위험이지만 임상적으로 의심스러운 경우에 활용 가치가 있다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: Kl4rdMoi36Y
 membership: public
 short_title: HTN 혈압약 중단 문제
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 혈압약을 불규칙하게 먹으면 약이 안 듣는 것인지 안 먹어서 오른 것인지 판별이 불가능해지고, 의사가 약을 조율할 근거 자체가 사라진다.

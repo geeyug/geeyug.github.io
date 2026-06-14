@@ -1,12 +1,12 @@
 ---
 id: sepsis02-normal-immune
 title: 감염이 들어왔을 때 정상 면역 반응은 어떻게 작동하는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: QfHzGFh3GXc
 membership: ssangkiyeok
-tags: [응급, 감염-항생제]
-short_title: SEPSIS-02 정상 면역 반응
+tags: [응급, 감염-항생제, series-SEPSIS]
+short_title: series-SEPSIS-02 정상 면역 반응
 ---
 
 > 세균이 들어오면 면역 세포가 패턴을 인식해 사이토카인을 분비하고, 이 신호에 따라 내피세포가 변화하며 호중구가 염증 현장으로 이동한다.

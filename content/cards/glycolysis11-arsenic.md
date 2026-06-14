@@ -1,12 +1,12 @@
 ---
 id: glycolysis11-arsenic
 title: 비소는 어떻게 세포 에너지를 차단하는가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: AMJSRdpKqhI
 membership: ssangkiyeok
 short_title: GLYCOLYSIS-11 비소 독성
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-METABOLISM]
 ---
 
 > 비소(arsenic)는 해당과정에서 무기인산(inorganic phosphate, Pi)을 대체하거나 시트르산 회로(citric acid cycle)의 인산화를 방해하여 ATP 합성을 차단하고, 활성산소종(reactive oxygen species, ROS) 생성으로 세포 구조를 손상시킨다.

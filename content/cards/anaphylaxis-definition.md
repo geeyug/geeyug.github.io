@@ -5,7 +5,7 @@ topic: ANAPH
 level: 1
 youtube_id: 01WjWMnIikA
 membership: nieun
-tags: [응급]
+tags: [응급, ANAPH]
 short_title: ANAPH-02 아나필락시스 정의
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: kidney06-nephron
 title: 콩팥의 기능적 단위, 네프론은 어떻게 생겼는가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: SJ0p2HvWqIA
 membership: ssangkiyeok
-short_title: KIDNEY-06 네프론 구조
-tags: [신장-전해질]
+short_title: series-KIDNEY-06 네프론 구조
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 네프론(nephron)은 사구체 모세혈관 덩어리와 세관(tubule)이 결합된 콩팥의 기능적 단위로, 한쪽 콩팥에 약 80만~100만 개가 존재한다.

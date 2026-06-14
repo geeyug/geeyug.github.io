@@ -5,7 +5,7 @@ topic: DM
 level: 2
 youtube_id: 8rw-ucVDStE
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: DM 노인 혈당조절 목표
 ---
 

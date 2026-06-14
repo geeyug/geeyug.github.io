@@ -1,12 +1,12 @@
 ---
 id: dm08-1-metformin-b12
 title: "메트포민을 오래 복용하면 왜 비타민 B12가 부족해지는가"
-series: DM
+series: series-DM
 level: 2
 youtube_id: DwZlqFGKCxc
 membership: nieun
 short_title: DM08-1 메트포민 B12 결핍
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 ---
 
 > 메트포민은 회장(ileum) 세포에서 칼슘 의존성 비타민 B12 흡수를 방해하며, 고용량을 5년 이상 복용한 환자의 약 20%에서 혈중 농도 저하가 확인된다.

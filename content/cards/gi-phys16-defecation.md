@@ -6,7 +6,7 @@ level: 2
 youtube_id: 4ekr3VU88go
 membership: ssangkiyeok
 short_title: GI-PHYS16 배변 반사
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 평소 직장에는 변이 없다. 집단 운동이 변을 직장으로 밀어 넣으면 직장벽이 팽창하고, 이 신호가 장신경계와 부교감신경을 통해 전파되어 배변 반사가 일어난다. 외부항문괄약근을 의식적으로 이완시키는 순간 배변이 완성된다.

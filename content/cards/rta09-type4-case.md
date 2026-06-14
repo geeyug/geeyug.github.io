@@ -1,15 +1,15 @@
 ---
 id: rta09-type4-case
-title: Type 4 RTA 증례에서 무엇을 먼저 해결해야 하는가?
-series: RTA
+title: Type 4 series-RTA 증례에서 무엇을 먼저 해결해야 하는가?
+series: series-RTA
 level: 3
 youtube_id: iTsqG4lcBSw
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-09 Type4 증례분석
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-09 Type4 증례분석
 ---
 
-> Type 4 RTA 증례에서는 산증보다 고칼륨혈증이 먼저 눈에 들어와야 하며, 칼륨을 내리면 산증도 따라 호전된다.
+> Type 4 series-RTA 증례에서는 산증보다 고칼륨혈증이 먼저 눈에 들어와야 하며, 칼륨을 내리면 산증도 따라 호전된다.
 
 ## ❶ 생각해 보셨나요?
 
@@ -36,7 +36,7 @@ ABG: pH 7.32, HCO₃⁻ 17.2 mEq/L → **대사성 산증**이다.
 1) **고칼륨혈증** — 근력 약화로 응급실에 온 이유
 2) 당뇨병성 신병증
 3) eGFR로 계산 시 CKD 3B
-4) Type 4 RTA (저레닌성 저알도스테론증에 동반)
+4) Type 4 series-RTA (저레닌성 저알도스테론증에 동반)
 
 이 구조를 한 눈에 보면 당뇨병성 신병증이 CKD와 Type 4 RTA를 만들었고, 그 결과 고칼륨혈증이 왔다는 흐름이 보인다.
 

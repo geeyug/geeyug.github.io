@@ -1,11 +1,11 @@
 ---
 id: bpk08-raas-function
 title: "레닌-안지오텐신 시스템은 본질적으로 무슨 일을 하는가"
-series: BPK
+series: series-BPK
 level: 2
 youtube_id: jS7-Me0i-gA
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BPK]
 short_title: BPK08 RAAS의 본질
 ---
 

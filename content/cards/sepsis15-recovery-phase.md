@@ -1,12 +1,12 @@
 ---
 id: sepsis15-recovery-phase
 title: 패혈증 이후 회복이 잘못되면 콩팥은 왜 영구적으로 망가지는가
-series: SEPSIS
+series: series-SEPSIS
 level: 3
 youtube_id: VmHhreSKL24
 membership: ssangkiyeok
-short_title: SEPSIS-15 회복기 재건
-tags: [응급, 신장-전해질]
+short_title: series-SEPSIS-15 회복기 재건
+tags: [응급, 신장-전해질, series-SEPSIS]
 ---
 
 > 패혈증에서 감염이 종료된 이후에도 조직 재건이 비정상적으로 이루어지면, 콩팥은 섬유화를 거쳐 만성 콩팥병으로 진행한다.

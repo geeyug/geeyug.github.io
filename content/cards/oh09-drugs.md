@@ -1,12 +1,12 @@
 ---
 id: oh09-drugs
 title: 기립성 저혈압에 쓰는 3가지 약물은 어떻게 작용하는가
-series: OH
+series: series-OH
 level: 2
 youtube_id: 7ZQeh6__zdE
 membership: ssangkiyeok
-tags: [심장-혈관, 약물-기전]
-short_title: OH-09 기립성저혈압 3가지 약물
+tags: [심장-혈관, 약물-기전, series-OH]
+short_title: series-OH-09 기립성저혈압 3가지 약물
 ---
 
 > 기립성 저혈압의 약물 치료에는 미도드린, 드록시도파, 플루드로코르티손이 쓰인다. 세 약물은 작용 기전이 다르지만, 공통 부작용은 모두 고혈압이다.

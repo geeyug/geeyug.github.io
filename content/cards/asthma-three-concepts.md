@@ -6,7 +6,7 @@ level: 1
 youtube_id: 1bmOAqtIjWY
 membership: ssangkiyeok
 short_title: ASTHMA 3가지 핵심개념
-tags: [호흡기]
+tags: [호흡기, ASTHMA]
 ---
 
 > 천식은 만성 염증, 기도 과민성, 기도 폐쇄가 서로 연결된 상태이며, 이 세 가지가 맞물려 반복적인 발작을 일으킨다.

@@ -1,12 +1,12 @@
 ---
 id: bpn08-summary
 title: 신경에 의한 혈압 조절 — BPN01~BPN07 요약
-series: BPN
+series: series-BPN
 level: 2
 youtube_id: 6n40PCGQLcw
 membership: ssangkiyeok
 short_title: BPN08 혈압 신경조절 요약
-tags: [심장-혈관]
+tags: [심장-혈관, series-BPN]
 ---
 
 > 신경에 의한 혈압 조절은 네 가지 반사 기전으로 구성된다. 각 기전은 작동 범위와 목적이 다르며, 서로 보완하면서 혈압의 단기·중기 안정화를 담당한다.

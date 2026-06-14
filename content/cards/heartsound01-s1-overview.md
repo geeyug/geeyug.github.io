@@ -1,12 +1,12 @@
 ---
 id: heartsound01-s1-overview
 title: 제1심음(S1)은 어떻게 만들어지고 언제 분열되는가?
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: WAxqwYyZC8k
 membership: ssangkiyeok
-tags: [심장-혈관]
-short_title: HEARTSOUND-01 S1 개요·분열
+tags: [심장-혈관, series-HEARTSOUND]
+short_title: series-HEARTSOUND-01 S1 개요·분열
 ---
 
 > S1은 승모판(mitral valve)과 삼첨판(tricuspid valve)이 닫히면서 나는 소리이며, 실질적으로는 승모판 닫힘 소리(M1)가 주를 이룬다. 두 판막의 닫힘 시점 차이가 벌어지면 S1 분열(splitting)이 들린다.

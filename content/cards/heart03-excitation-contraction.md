@@ -1,12 +1,12 @@
 ---
 id: heart03-excitation-contraction
 title: 심장근육에서 흥분은 어떻게 수축으로 이어지는가
-series: HEART
+series: series-HEART
 level: 2
 youtube_id: oPHocV7zO6k
 membership: ssangkiyeok
-short_title: HEART-03 흥분-수축 연결
-tags: [심장-혈관]
+short_title: series-HEART-03 흥분-수축 연결
+tags: [심장-혈관, series-HEART]
 ---
 
 > 심장근육에서 전기 신호(흥분)가 수축으로 이어지는 핵심 연결고리는 칼슘이며, 골격근과 달리 세포 밖 칼슘 유입에 의존하는 구조가 특징이다.

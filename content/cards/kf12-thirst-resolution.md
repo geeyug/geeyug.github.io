@@ -1,12 +1,12 @@
 ---
 id: kf12-thirst-resolution
 title: 물을 마시면 갈증이 거의 바로 해소되는 이유는 무엇인가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: AgtuPwmT45s
 membership: ssangkiyeok
 short_title: KF-12 갈증 해소 기전
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 물이 흡수되기 훨씬 전에 갈증이 가라앉는 것은, 구강·인두·식도·위장 점막의 습윤 상태가 갈증 중추를 억제하기 때문이다.

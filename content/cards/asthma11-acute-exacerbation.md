@@ -1,12 +1,12 @@
 ---
 id: asthma11-acute-exacerbation
 title: 천식 급성 악화가 왔을 때 중증도는 어떻게 판단하고 어떻게 치료하는가
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: L-8ljiQHED0
 membership: nieun
-short_title: ASTHMA-11 급성악화
-tags: [호흡기, 응급]
+short_title: series-ASTHMA-11 급성악화
+tags: [호흡기, 응급, series-ASTHMA]
 ---
 
 > 천식 급성 악화는 중증도에 따라 치료 장소와 방법이 달라지며, 생명 위협 수준에서는 기도 삽관 준비가 가능한 시설로 즉시 이송해야 한다.

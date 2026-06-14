@@ -6,7 +6,7 @@ level: 2
 youtube_id: 59GaxFHy0lo
 membership: ssangkiyeok
 short_title: HTN ACEi·ARB 기전과 적응증
-tags: [심장-혈관, 약물-기전]
+tags: [심장-혈관, 약물-기전, HTN]
 ---
 
 > ACEi(안지오텐신 전환효소 억제제)와 ARB(안지오텐신 수용체 차단제)는 혈압을 낮추는 것 외에 신장·심장·혈관 내피세포를 보호하는 효과가 있어, 심부전·만성 신질환이 있는 경우에는 반드시 사용해야 하는 약이다.

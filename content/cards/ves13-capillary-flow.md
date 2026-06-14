@@ -1,11 +1,11 @@
 ---
 id: ves13-capillary-flow
 title: 모세혈관에서 혈액은 항상 흐르고 있는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: OkCt4-xb0sc
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES13 모세혈관 간헐적 흐름
 ---
 

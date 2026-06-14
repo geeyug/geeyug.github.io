@@ -1,12 +1,12 @@
 ---
 id: shock08-adrenal-crisis
 title: 부신피질호르몬이 없으면 왜 혈압이 무너지는가
-series: SHOCK
+series: series-SHOCK
 level: 2
 youtube_id: i3YcuHygCcY
 membership: ssangkiyeok
-short_title: SHOCK-08 부신위기
-tags: [응급]
+short_title: series-SHOCK-08 부신위기
+tags: [응급, series-SHOCK]
 ---
 
 > 부신피질호르몬이 극심하게 부족해지면 체액이 빠지고 혈관이 이완되어 혈압이 급격히 떨어지는 쇼크 상태에 이른다.

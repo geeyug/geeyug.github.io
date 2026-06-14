@@ -1,12 +1,12 @@
 ---
 id: ves12-capillary-pores
 title: 모세혈관은 어떤 구조로 물질을 교환하는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: 05gtkTsXbHw
 membership: ssangkiyeok
 short_title: VES12 모세혈관 구멍
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 ---
 
 > 모세혈관 벽은 세포 사이 간극(cleft)과 세포 통과 이동(transcytosis)이라는 두 경로를 통해 물질을 교환하며, 이동 경로는 물질의 지용성 여부에 따라 결정된다.

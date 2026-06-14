@@ -1,12 +1,12 @@
 ---
 id: bpk06-1-renal-resistance
 title: 콩팥 기능이 저하되면 혈관저항이 왜 증가하는가
-series: BPK
+series: series-BPK
 level: 3
 youtube_id: avHV380JYxo
 membership: ssangkiyeok
 short_title: BPK06-1 신기능저하와 혈관저항
-tags: [신장-전해질, 심장-혈관]
+tags: [신장-전해질, 심장-혈관, series-BPK]
 ---
 
 > 콩팥 기능이 저하될 때 혈관저항이 증가하는 것은 단일 경로가 아니라, 타임스케일이 다른 두 기전 — 혈류 자동조절과 병리학적 혈관 변화 — 이 함께 작용한 결과이다.

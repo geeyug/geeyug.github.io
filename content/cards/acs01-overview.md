@@ -1,15 +1,15 @@
 ---
 id: acs01-overview
 title: 급성 관상동맥 증후군의 흐름을 어떻게 잡는가
-series: ACS
+series: series-ACS
 level: 2
 youtube_id: Bk1oDG-k1Mo
 membership: nieun
 short_title: ACS01 전체 흐름
-tags: [심장-혈관]
+tags: [심장-혈관, series-ACS]
 ---
 
-> 급성 관상동맥 증후군(ACS)은 심전도와 심근 효소를 통해 working diagnosis를 먼저 정한 다음, 그 진단에 따라 평가·치료의 방향이 결정되는 구조다.
+> 급성 관상동맥 증후군(series-ACS)은 심전도와 심근 효소를 통해 working diagnosis를 먼저 정한 다음, 그 진단에 따라 평가·치료의 방향이 결정되는 구조다.
 
 ## ❶ 생각해 보셨나요?
 
@@ -33,18 +33,18 @@ Working diagnosis를 세우기 위해 반드시 해야 하는 다섯 가지가 �
 
 **STEMI(ST-elevation MI)**: 심전도에서 ST 상승이 있거나 치명적 부정맥이 동반된 경우. 심근이 죽었을 가능성이 높다고 추정한다. 다만 이것은 여전히 working diagnosis이며, 심근 효소가 상승했다가 하강하는 것이 확인되면 비로소 최종 진단(final diagnosis)이 된다.
 
-**NSTE-ACS, Very High Risk**: ST 상승은 없으나 매우 위험한 소견이 있는 경우.
+**NSTE-series-ACS, Very High Risk**: ST 상승은 없으나 매우 위험한 소견이 있는 경우.
 
-**NSTE-ACS, Without Very High Risk**: ST 상승이 없고 위험 소견도 없으나, 아직 완전히 안심할 수 없는 경우. 이 중 high-risk feature가 있으면 24시간 이내 관상동맥 조영술(coronary angiography)을 고려한다.
+**NSTE-series-ACS, Without Very High Risk**: ST 상승이 없고 위험 소견도 없으나, 아직 완전히 안심할 수 없는 경우. 이 중 high-risk feature가 있으면 24시간 이내 관상동맥 조영술(coronary angiography)을 고려한다.
 
 ## ❸ Working diagnosis에 따라 치료가 어떻게 달라지는가
 
 | Working Diagnosis | 치료 방향 |
 |-------------------|---------|
 | STEMI | 즉각적인 관상동맥 조영술 + primary PCI (또는 fibrinolysis) |
-| NSTE-ACS, Very High Risk | 즉각적인 관상동맥 조영술 + PCI (fibrinolysis 없음) |
-| NSTE-ACS, High Risk | 24시간 이내 조기 관상동맥 조영술 고려 |
-| NSTE-ACS, Low Risk | 시간 여유를 두고 평가 진행 |
+| NSTE-series-ACS, Very High Risk | 즉각적인 관상동맥 조영술 + PCI (fibrinolysis 없음) |
+| NSTE-series-ACS, High Risk | 24시간 이내 조기 관상동맥 조영술 고려 |
+| NSTE-series-ACS, Low Risk | 시간 여유를 두고 평가 진행 |
 
 STEMI와 달리 ST 상승이 없는 경우에는 fibrinolysis(혈전 용해제)를 사용하지 않는다. Primary PCI는 fibrinolysis 없이 바로 시행하는 응급 PCI를 뜻하며, primary PCI가 불가능할 때만 fibrinolysis를 대안으로 사용한다.
 

@@ -1,11 +1,11 @@
 ---
 id: ves16-capillary-exchange-forces
 title: 산소와 영양분은 어떻게 모세혈관에서 조직으로 빠져나가는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: hoEJvxazJ2k
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES16 모세혈관 여과 4가지 힘
 ---
 

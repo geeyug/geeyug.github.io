@@ -6,7 +6,7 @@ level: 2
 youtube_id: d0UDb_I9qUE
 membership: ssangkiyeok
 short_title: P02 호흡기 환자 접근법
-tags: [호흡기]
+tags: [호흡기, RESP]
 ---
 
 > 호흡기 환자 접근은 병력과 진찰에서 시작해 검사로 나아가는 순서를 따르며, 이 모든 과정의 바탕에는 폐쇄성·제한성·혈관성·감염·악성 종양이라는 다섯 가지 병태생리 원리가 깔려 있다.

@@ -5,7 +5,7 @@ topic: LUPUS
 level: 2
 youtube_id: sbchsESU5-8
 membership: nieun
-tags: [증상-접근]
+tags: [증상-접근, LUPUS]
 short_title: lupus18 루푸스 진단 두 경로
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: asthma03-risk-factors
 title: "천식은 어떻게 발생하는가 — 노출과 위험인자"
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: 14-ATzSa_4E
 membership: nieun
-tags: [호흡기]
-short_title: ASTHMA-03 노출·위험인자
+tags: [호흡기, series-ASTHMA]
+short_title: series-ASTHMA-03 노출·위험인자
 ---
 
 > 천식은 유전적 소인을 가진 사람이 민감한 물질에 장기간 노출될 때 발생한다. 노출(exposure), 위험인자(risk factor), 유발 상황(trigger)은 서로 다른 개념이다.

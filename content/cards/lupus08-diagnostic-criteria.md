@@ -1,12 +1,12 @@
 ---
 id: lupus08-diagnostic-criteria
 title: 루푸스는 어떤 기준으로 진단하는가 — ANA와 점수 체계
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: Ofx96rqY7vc
 membership: nieun
-short_title: LUPUS-08 진단 기준 구조
-tags: [증상-접근]
+short_title: series-LUPUS-08 진단 기준 구조
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 루푸스는 항핵항체(ANA) ≥1:80을 진입 기준으로 삼은 뒤, 다섯 개 도메인에 걸친 추가 기준 점수를 합산하여 10점 이상이면 진단한다.

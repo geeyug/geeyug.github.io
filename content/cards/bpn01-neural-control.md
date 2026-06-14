@@ -1,12 +1,12 @@
 ---
 id: bpn01-neural-control
 title: 자율신경은 어떻게 심장과 혈관을 조절하는가
-series: BPN
+series: series-BPN
 level: 2
 youtube_id: 2vhX5A3zLR0
 membership: ssangkiyeok
 short_title: BPN01 순환의 신경성 조절
-tags: [심장-혈관]
+tags: [심장-혈관, series-BPN]
 ---
 
 > 순환의 신경성 조절은 결국 교감신경과 부교감신경이 심장과 혈관에 작용하는 방식으로 설명된다. 혈관의 긴장도(tone)는 교감신경이 단독으로 결정하며, 부교감신경은 주로 심박수 조절에만 관여한다.

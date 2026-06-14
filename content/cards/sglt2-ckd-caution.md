@@ -1,11 +1,11 @@
 ---
 id: sglt2-ckd-caution
 title: 콩팥 기능이 낮은 환자에게 SGLT2 억제제를 쓰지 않는 이유는 무엇인가
-series: DM
+series: series-DM
 level: 1
 youtube_id: uYUv0b4iA_Q
 membership: public
-tags: [당뇨-대사, 신장-전해질, 약물-기전]
+tags: [당뇨-대사, 신장-전해질, 약물-기전, series-DM]
 short_title: SGLT2 CKD 사용 제한
 ---
 

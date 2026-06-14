@@ -6,7 +6,7 @@ level: 1
 youtube_id: jX3u6x8QdMs
 membership: public
 short_title: GI 췌장 기능
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 췌장은 소화 효소와 중탄산염을 분비하는 외분비 기능과, 인슐린·글루카곤을 혈액으로 분비하는 내분비 기능을 동시에 수행하는 기관이다.

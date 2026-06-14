@@ -6,7 +6,7 @@ level: 1
 youtube_id: SkIzfyac7wo
 membership: public
 short_title: HTN 이완기 고혈압
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 이완기 고혈압(diastolic hypertension)은 혈관 탄력이 좋은 젊은 층에서 주로 나타나는 고혈압이며, 수축기 고혈압과 발생 기전은 다르지만 치료 원칙은 동일하다.

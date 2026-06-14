@@ -1,12 +1,12 @@
 ---
 id: h2co3-04-breathing-reflex
 title: 달릴 때 숨이 빨라지는 것은 의식적 결정인가, 반사인가
-series: H2CO3
+series: series-H2CO3
 level: 2
 youtube_id: fTyap47VWUA
 membership: public
-short_title: H2CO3-04 호흡 조절 기전
-tags: [호흡기, 신장-전해질]
+short_title: series-H2CO3-04 호흡 조절 기전
+tags: [호흡기, 신장-전해질, series-H2CO3]
 ---
 
 > 호흡은 산소 분압 저하와 이산화탄소 분압 상승이라는 두 자극에 의해 반사적으로 조절되며, 만성 고탄산혈증 환자에서는 이 조절 체계가 재편된다.

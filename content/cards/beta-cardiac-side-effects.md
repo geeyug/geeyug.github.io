@@ -5,7 +5,7 @@ topic: BETA
 level: 2
 youtube_id: 5MhhsEPYmNs
 membership: ssangkiyeok
-tags: [약물-기전, 심장-혈관]
+tags: [약물-기전, 심장-혈관, BETA]
 short_title: BETA-08 심장 부작용
 ---
 

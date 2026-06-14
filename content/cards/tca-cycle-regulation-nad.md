@@ -6,7 +6,7 @@ level: 2
 youtube_id: CmWO9zEyxZg
 membership: ssangkiyeok
 short_title: 시트르산회로22 NAD 조절
-tags: [당뇨-대사]
+tags: [당뇨-대사, METABOLISM]
 ---
 
 > 시트르산 회로의 속도는 NAD+ 가용량에 의해 조절되며, 이는 곧 세포의 에너지 요구량(ADP 농도)과 타이트하게 연결되어 있다.

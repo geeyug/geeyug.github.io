@@ -5,7 +5,7 @@ topic: HBV
 level: 2
 youtube_id: _zO427rARuI
 membership: nieun
-tags: [간-소화기]
+tags: [간-소화기, HBV]
 short_title: HBV-03 항원항체 해석
 ---
 

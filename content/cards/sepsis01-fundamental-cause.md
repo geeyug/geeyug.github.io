@@ -1,12 +1,12 @@
 ---
 id: sepsis01-fundamental-cause
 title: 패혈증은 근본적으로 왜 발생하는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: -RVBW3ckSCI
 membership: ssangkiyeok
-tags: [응급, 감염-항생제]
-short_title: SEPSIS-01 패혈증의 근본 원인
+tags: [응급, 감염-항생제, series-SEPSIS]
+short_title: series-SEPSIS-01 패혈증의 근본 원인
 ---
 
 > 염증 반응과 항염증 반응의 균형이 무너져 전신으로 퍼질 때 패혈증이 시작된다.

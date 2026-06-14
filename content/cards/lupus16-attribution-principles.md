@@ -1,12 +1,12 @@
 ---
 id: lupus16-attribution-principles
 title: 루푸스 진단 기준을 적용할 때 — 귀속의 원칙이란 무엇인가
-series: LUPUS
+series: series-LUPUS
 level: 3
 youtube_id: dXwlQJMnYzE
 membership: nieun
-short_title: LUPUS-16 귀속의 원칙
-tags: [증상-접근]
+short_title: series-LUPUS-16 귀속의 원칙
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 분류 기준의 각 항목은 루푸스로 인해 나타난 소견에만 점수를 부여해야 한다. 다른 더 그럴듯한 원인으로 설명이 되는 소견은 점수로 인정하지 않는다 — 이것이 귀속의 원칙(attribution principle)이다.

@@ -1,12 +1,12 @@
 ---
 id: acs02-flow-grace
 title: NSTE-ACS에서 Very High Risk와 High Risk는 어떻게 구분하는가
-series: ACS
+series: series-ACS
 level: 3
 youtube_id: SMqh9kF-cnY
 membership: nieun
 short_title: ACS02-03 위험도 분류
-tags: [심장-혈관]
+tags: [심장-혈관, series-ACS]
 ---
 
 > ST 상승이 없는 ACS에서 치료 긴박도는 Very High Risk와 High Risk 소견의 유무로 결정되며, 이 둘을 구분하는 기준이 조기 관상동맥 조영술 시행 여부를 좌우한다.
@@ -57,7 +57,7 @@ GRACE(Global Registry of Acute Coronary Events) score는 여러 임상 변수를
 - 크레아티닌 1.0 mg/dL: 8점
 - 합계: **144점** → High Risk → 24시간 이내 조영술
 
-이 계산을 하려면 활력 징후, 신체 진찰, 신기능 수치가 모두 있어야 한다. 그래서 ACS 환자에게 다섯 가지(ECG, 트로포닌, 신체 진찰, 병력, 활력 징후)를 빠짐없이 시행해야 한다는 원칙이 단순한 형식이 아님을 알 수 있다.
+이 계산을 하려면 활력 징후, 신체 진찰, 신기능 수치가 모두 있어야 한다. 그래서 series-ACS 환자에게 다섯 가지(ECG, 트로포닌, 신체 진찰, 병력, 활력 징후)를 빠짐없이 시행해야 한다는 원칙이 단순한 형식이 아님을 알 수 있다.
 
 ## ❹ 이 흐름에서 Primary PCI와 Rescue PCI는 어떻게 다른가
 

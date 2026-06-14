@@ -1,12 +1,12 @@
 ---
 id: osteo06-frax
 title: 골밀도가 낮다는 것과 골절 위험이 높다는 것은 같은 말인가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: U0rmJWdI-O8
 membership: nieun
-short_title: OSTEO-06 FRAX 골절위험도
-tags: [증상-접근]
+short_title: series-OSTEO-06 FRAX 골절위험도
+tags: [증상-접근, series-OSTEO]
 ---
 
 > 골다공증 치료의 궁극적 목표는 골절 예방이다. 골밀도 수치 자체보다 실제 골절 위험도를 계산하는 FRAX가 치료 결정의 핵심 근거가 된다.

@@ -1,11 +1,11 @@
 ---
 id: bpk12-obesity-htn
 title: "비만은 어떤 경로로 고혈압을 일으키는가"
-series: BPK
+series: series-BPK
 level: 2
 youtube_id: 5_cBD3qke3g
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BPK]
 short_title: BPK12 비만 고혈압 기전
 ---
 

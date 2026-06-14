@@ -6,7 +6,7 @@ level: 1
 youtube_id: 2w6n-jo1HlA
 membership: public
 short_title: GI 류마티스인자 해석
-tags: [증상-접근]
+tags: [증상-접근, GI]
 ---
 
 > 류마티스 인자(rheumatoid factor, RF)가 양성이라고 해서 류마티스 관절염(rheumatoid arthritis, RA)을 의미하지는 않는다. RF는 감염, 자가면역질환, 심지어 정상인에서도 양성으로 나올 수 있다.

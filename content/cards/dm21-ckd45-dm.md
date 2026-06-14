@@ -1,12 +1,12 @@
 ---
 id: dm21-ckd45-dm
 title: CKD stage 4, 5에서 당뇨병 치료는 왜 저혈당 방지가 최우선이 되는가
-series: DM
+series: series-DM
 level: 3
 youtube_id: YvFSW7tszOg
 membership: nieun
 short_title: DM21 CKD45 당뇨치료
-tags: [당뇨-대사, 신장-전해질]
+tags: [당뇨-대사, 신장-전해질, series-DM]
 ---
 
 > CKD stage 4, 5에 이르면 콩팥이 인슐린을 분해하는 기능이 저하되어 인슐린 요구량이 줄어들고, 일부 환자에서는 혈당이 오히려 낮아지는 '소진당뇨병(burnt-out diabetes)' 현상이 나타나므로, 이 시기의 치료 목표는 혈당 조절보다 저혈당 방지가 먼저다.

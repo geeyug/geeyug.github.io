@@ -1,12 +1,12 @@
 ---
 id: ppp12-galactose
 title: 갈락토오스는 어떻게 포도당 대사로 편입되는가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 5WLw8u3mo-E
 membership: ssangkiyeok
 short_title: PPP-12 갈락토오스 대사
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 갈락토오스(galactose)는 UDP를 매개로 포도당-1-인산으로 변환되어 기존 당 대사 경로로 편입되며, 필요에 따라 역반응으로 갈락토오스를 합성하는 데도 쓰인다.

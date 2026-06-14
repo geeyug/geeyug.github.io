@@ -1,12 +1,12 @@
 ---
 id: bpk10-goldblatt
 title: 편측 vs 양측 Goldblatt 고혈압 — 같은 협착인데 왜 기전이 다른가
-series: BPK
+series: series-BPK
 level: 3
 youtube_id: 7-tzqdhyT3o
 membership: ssangkiyeok
 short_title: BPK10 Goldblatt 고혈압
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BPK]
 ---
 
 > 편측 Goldblatt 고혈압은 체액량 증가가, 양측 Goldblatt 고혈압은 안지오텐신의 지속적 상승이 혈압이뇨곡선을 오른쪽으로 이동시켜 고혈압을 유발한다.

@@ -5,7 +5,7 @@ topic: CKD
 level: 3
 youtube_id: 2huc88evepU
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 short_title: CKD-07 동반질환 관리
 ---
 

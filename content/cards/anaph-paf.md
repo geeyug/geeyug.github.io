@@ -6,7 +6,7 @@ level: 3
 youtube_id: dHnuqhHGVxo
 membership: nieun
 short_title: ANAPH06 PAF의 역할
-tags: [응급]
+tags: [응급, ANAPH]
 ---
 
 > PAF(platelet activating factor, 혈소판 활성화 인자)는 이름과 달리 혈소판 활성화보다 혈관 투과성 증가와 기관지 수축에서 히스타민보다 훨씬 강력하게 작용하며, 혈중 농도가 아나필락시스 중증도와 비례한다.

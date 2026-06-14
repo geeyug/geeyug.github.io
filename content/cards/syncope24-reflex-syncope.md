@@ -1,12 +1,12 @@
 ---
 id: syncope24-reflex-syncope
 title: 반사성 실신은 어떤 기전으로 혈압을 떨어뜨리는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: Yi7WOgFuq74
 membership: ssangkiyeok
-short_title: SYNCOPE-24 반사성 실신
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-24 반사성 실신
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 반사성 실신(reflex syncope)은 혈관 확장과 서맥이라는 두 경로가 동시에 작동해 혈압을 급격히 낮추는 기전으로 발생한다.

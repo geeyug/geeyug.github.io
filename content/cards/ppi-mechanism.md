@@ -5,7 +5,7 @@ topic: GI
 level: 2
 youtube_id: cOGPduVpZXA
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, GI]
 short_title: GI PPI 작용기전
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: syncope28-danger-signs
 title: 실신 위험도 평가 도구는 얼마나 믿을 수 있는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: F6AoOmLPgSk
 membership: ssangkiyeok
-short_title: SYNCOPE-28 위험도 평가
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-28 위험도 평가
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 실신 위험도 평가 도구는 민감도는 높지만 특이도가 낮으며, 각 항목은 이미 기본 평가에서 파악되는 정보이기 때문에 별도의 스코어로 기억할 필요는 없다.

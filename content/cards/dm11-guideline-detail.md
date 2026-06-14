@@ -1,11 +1,11 @@
 ---
 id: dm11-guideline-detail
 title: 당뇨병 진료지침의 각 항목은 실제 처방에서 어떻게 적용되는가?
-series: DM
+series: series-DM
 level: 3
 youtube_id: 2T9--q3rIgg
 membership: nieun
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 short_title: DM11 진료지침 하나하나 뜯어보기
 ---
 

@@ -6,7 +6,7 @@ level: 1
 youtube_id: 1EbxaXXl5Pw
 membership: public
 short_title: HBV 급성 B형간염 진단
-tags: [간-소화기]
+tags: [간-소화기, HBV]
 ---
 
 > 급성 B형간염은 HBsAg(표면항원)과 anti-HBc IgM(핵심 항체 IgM)이 함께 양성일 때 진단하며, 이 두 마커가 "지금 감염 중"임을 나타낸다.

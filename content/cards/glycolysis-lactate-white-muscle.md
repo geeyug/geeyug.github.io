@@ -5,7 +5,7 @@ topic: GLYCOLYSIS
 level: 2
 youtube_id: EAMj1_xE_Z8
 membership: ssangkiyeok
-tags: [당뇨-대사]
+tags: [당뇨-대사, GLYCOLYSIS]
 short_title: 해당과정18 백근과 젖산
 ---
 

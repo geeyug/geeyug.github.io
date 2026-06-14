@@ -5,7 +5,7 @@ topic: SHOCK
 level: 1
 youtube_id: _v7wiDLE_ic
 membership: ssangkiyeok
-tags: [응급]
+tags: [응급, SHOCK]
 short_title: SHOCK-01 쇼크 정의와 분류
 ---
 

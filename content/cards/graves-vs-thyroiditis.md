@@ -5,7 +5,7 @@ topic: THYROID
 level: 2
 youtube_id: 2IfIvvmbM-A
 membership: public
-tags: [증상-접근]
+tags: [증상-접근, THYROID]
 short_title: THYROID 그레이브스 vs 무통성 갑상선염
 ---
 

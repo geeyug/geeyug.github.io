@@ -1,12 +1,12 @@
 ---
 id: af-03-classification
 title: "심방세동의 분류는 치료 결정에 어떤 영향을 미치는가"
-series: AF
+series: series-AF
 level: 2
 youtube_id: samAHpCyOZs
 membership: nieun
-tags: [심장-혈관]
-short_title: AF-03 심방세동 분류와 자연경과
+tags: [심장-혈관, series-AF]
+short_title: series-AF-03 심방세동 분류와 자연경과
 ---
 
 > 심방세동은 지속 기간과 자발 회복 여부에 따라 발작성·지속성·장기 지속성·영구성으로 분류하며, 이 분류가 리듬 조절 시도 여부를 결정하는 핵심 기준이 된다.
@@ -19,11 +19,11 @@ short_title: AF-03 심방세동 분류와 자연경과
 
 분류 기준은 지속 기간과 자발 회복 여부입니다.
 
-- **처음 확인된 심방세동(first-diagnosed AF)**: 처음으로 진단된 상태. 발작성인지 지속성인지 아직 알 수 없는 임시 분류입니다.
-- **발작성 심방세동(paroxysmal AF)**: 7일 이내에 자발적으로 정상 동율동(sinus rhythm)으로 회복됩니다.
-- **지속성 심방세동(persistent AF)**: 7일 이상 지속되어 자발 회복이 없는 상태입니다.
-- **장기 지속성 심방세동(long-standing persistent AF)**: 12개월 이상 지속됩니다.
-- **영구성 심방세동(permanent AF)**: 환자와 의사가 상의하여 동율동으로 되돌리려는 시도를 포기하기로 결정한 상태입니다.
+- **처음 확인된 심방세동(first-diagnosed series-AF)**: 처음으로 진단된 상태. 발작성인지 지속성인지 아직 알 수 없는 임시 분류입니다.
+- **발작성 심방세동(paroxysmal series-AF)**: 7일 이내에 자발적으로 정상 동율동(sinus rhythm)으로 회복됩니다.
+- **지속성 심방세동(persistent series-AF)**: 7일 이상 지속되어 자발 회복이 없는 상태입니다.
+- **장기 지속성 심방세동(long-standing persistent series-AF)**: 12개월 이상 지속됩니다.
+- **영구성 심방세동(permanent series-AF)**: 환자와 의사가 상의하여 동율동으로 되돌리려는 시도를 포기하기로 결정한 상태입니다.
 
 영구성 분류가 의사의 의학적 판단뿐 아니라 환자와의 합의를 포함한다는 점이 특징적입니다. 심장이 이미 구조적으로 리모델링된 단계에서 무리하게 동율동으로 되돌리려 하면 효과보다 부작용이 클 수 있습니다. 그 시점에서 함께 치료 목표를 재설정하는 것입니다.
 

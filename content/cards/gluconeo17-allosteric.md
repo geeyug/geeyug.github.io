@@ -1,12 +1,12 @@
 ---
 id: gluconeo17-allosteric
 title: 아세틸 CoA는 어떻게 대사의 방향을 에너지 생성에서 당신생으로 전환시키는가?
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 0EeJ68-xE4I
 membership: ssangkiyeok
 short_title: 당신생17 allosteric 조절
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 아세틸 CoA(acetyl-CoA)는 대사 산물이자 조절자로, 피루브산 카르복실화효소(pyruvate carboxylase)를 활성화하고 피루브산 탈수소효소(pyruvate dehydrogenase)를 억제함으로써 대사를 당신생 방향으로 전환시킨다.

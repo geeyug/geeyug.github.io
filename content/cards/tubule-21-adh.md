@@ -1,12 +1,12 @@
 ---
 id: tubule-21-adh
 title: ADH는 어떻게 물만 선택적으로 재흡수시키는가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: yVnUdhVLxMw
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-21 ADH와 아쿠아포린
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-21 ADH와 아쿠아포린
 ---
 
 > ADH는 세포막에 수분 통로 단백질인 아쿠아포린(aquaporin)을 삽입해 물의 투과도를 높임으로써 물을 재흡수시킨다.

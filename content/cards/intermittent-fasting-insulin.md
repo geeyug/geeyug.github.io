@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: ZH0nIsWDjOM
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 간헐적단식과 인슐린저항성
 ---
 

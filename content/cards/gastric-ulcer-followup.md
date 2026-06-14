@@ -6,7 +6,7 @@ level: 1
 youtube_id: 5kdS76Wm07s
 membership: public
 short_title: GI 위궤양 추적 내시경
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 위궤양은 양성 궤양과 위암이 내시경 소견만으로 완전히 구별되지 않아 반복 조직검사가 필요하며, 처음 치료를 시작한 병원에서 연속적으로 추적하지 않으면 중요한 경과 정보가 끊긴다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: jW3T4DmvLtk
 membership: public
 short_title: CIRRHOSIS 감염 취약성
-tags: [간-소화기]
+tags: [간-소화기, CIRRHOSIS]
 ---
 
 > 간경변증에서 세균 감염이 증가하는 것은 보체 기능 저하, 장 점막 투과성 증가, 세균의 간 통과 우회라는 세 가지 기전이 겹친 결과다.

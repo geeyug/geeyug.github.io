@@ -1,12 +1,12 @@
 ---
 id: bf01-blood-flow-overview
 title: 결국 모든 조직의 1번 목표는 혈류를 잘 공급받는 것이다 — 왜 그런가
-series: BF
+series: series-BF
 level: 2
 youtube_id: 9STtGPkjXsU
 membership: ssangkiyeok
 short_title: BF01 혈류의 중요성
-tags: [심장-혈관]
+tags: [심장-혈관, series-BF]
 ---
 
 > 혈류는 각 조직이 산소와 영양분을 받고, 노폐물을 내보내고, 이온 균형을 유지하고, 호르몬 신호를 전달받는 유일한 수단이다.
@@ -42,7 +42,7 @@ tags: [심장-혈관]
 
 넉넉하게 줄 수 없다. 혈류는 심장이 일을 해서 만드는 자원이다. 필요 이상으로 퍼주면 심장에 과부하가 걸린다.
 
-그래서 우리 몸은 딱 필요한 만큼만, 매우 정교하게 혈류를 조절한다. 이 조절 시스템(regulatory system)이 혈류 계열(BF series) 전체를 관통하는 핵심 주제다.
+그래서 우리 몸은 딱 필요한 만큼만, 매우 정교하게 혈류를 조절한다. 이 조절 시스템(regulatory system)이 혈류 계열(series-BF series) 전체를 관통하는 핵심 주제다.
 
 [▶ 영상으로 보기](https://youtu.be/9STtGPkjXsU) *(멤버십)*
 

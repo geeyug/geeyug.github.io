@@ -1,12 +1,12 @@
 ---
 id: aki06-atn-vs-ain
 title: ATN과 AIN은 왜 구분해야 하고 어떻게 다른가
-series: AKI
+series: series-AKI
 level: 3
 youtube_id: lCSpiYfdJRE
 membership: nieun
-tags: [신장-전해질]
-short_title: AKI-06 ATN vs AIN
+tags: [신장-전해질, series-AKI]
+short_title: series-AKI-06 ATN vs AIN
 ---
 
 > 급성 세뇨관 괴사(ATN)와 급성 간질성 신염(AIN)은 모두 intrinsic renal AKI에 속하지만 손상 구조가 다르고, AIN은 스테로이드 치료를 고려할 수 있어 구별이 중요하다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3evcWgY1rKI
 membership: public
 short_title: DM 저혈당 방어기전
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 정상인에게 저혈당이 드문 이유는 촘촘하게 구성된 방어기전 덕분이며, 당뇨 환자에서는 이 기전이 단계적으로 무너진다.

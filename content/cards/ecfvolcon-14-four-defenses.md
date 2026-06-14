@@ -1,12 +1,12 @@
 ---
 id: ecfvolcon-14-four-defenses
 title: 짜게 먹어도 몸이 붓지 않는 이유는 무엇인가
-series: ECFVOLCON
+series: series-ECFVOLCON
 level: 2
 youtube_id: qTEkmBaHTnY
 membership: ssangkiyeok
-tags: [신장-전해질, 심장-혈관]
-short_title: ECFVOLCON-14 체액 과부하 방어 4가지
+tags: [신장-전해질, 심장-혈관, series-ECFVOLCON]
+short_title: series-ECFVOLCON-14 체액 과부하 방어 4가지
 ---
 
 > 염분이 과잉 섭취되어도 체액량이 폭발적으로 늘지 않는 것은, 혈압-이뇨 기전을 중심으로 교감신경계·레닌-안지오텐신-알도스테론 시스템·ANP가 협력하여 소변 배출을 늘리기 때문이다.

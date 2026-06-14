@@ -1,21 +1,21 @@
 ---
 id: dka07-sglt2-dka
 title: SGLT2 억제제를 쓰는데 혈당이 정상에 가까운데도 DKA가 올 수 있는가
-series: DKA
+series: series-DKA
 level: 2
 youtube_id: U6PtGVgB7gs
 membership: nieun
-short_title: DKA-07 SGLT2 억제제 DKA
-tags: [당뇨-대사, 약물-기전]
+short_title: series-DKA-07 SGLT2 억제제 series-DKA
+tags: [당뇨-대사, 약물-기전, series-DKA]
 ---
 
 > SGLT2 억제제는 인슐린과 무관하게 포도당을 소변으로 배출시킨다. 그 결과 몸은 혈당이 낮아도 "당이 부족하다"고 인식해 케톤 생성 경로를 가동할 수 있으며, 혈당이 높지 않아도 DKA가 발생하는 이른바 euglycemic DKA가 나타난다.
 
 ## ❶ 생각해 보셨나요?
 
-DKA 하면 혈당이 300~500 이상 올라가 있는 것이 당연한 그림이다. 그런데 SGLT2 억제제를 복용하는 환자에서 혈당이 200 정도밖에 안 되는데 DKA가 생겼다는 보고가 있다. 혈당이 높지 않은 DKA는 어떻게 가능한가?
+series-DKA 하면 혈당이 300~500 이상 올라가 있는 것이 당연한 그림이다. 그런데 SGLT2 억제제를 복용하는 환자에서 혈당이 200 정도밖에 안 되는데 DKA가 생겼다는 보고가 있다. 혈당이 높지 않은 DKA는 어떻게 가능한가?
 
-## ❷ SGLT2 억제제의 작용 기전이 왜 DKA 위험을 만드는가
+## ❷ SGLT2 억제제의 작용 기전이 왜 series-DKA 위험을 만드는가
 
 정상적으로 포도당은 신장 근위세뇨관(proximal tubule)에서 100% 재흡수된다. SGLT2 억제제는 이 재흡수를 담당하는 SGLT2 수송체를 차단해 포도당을 소변으로 배출시킨다. 하루 약 70g의 포도당이 빠져나간다.
 

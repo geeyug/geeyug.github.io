@@ -1,12 +1,12 @@
 ---
 id: kidney09-priority-substances
 title: 콩팥이 절대 내보내지 않는 물질과 반드시 내보내는 물질은 무엇인가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: RFVJU_rEbvI
 membership: ssangkiyeok
-short_title: KIDNEY-09 재흡수-분비 우선순위
-tags: [신장-전해질]
+short_title: series-KIDNEY-09 재흡수-분비 우선순위
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 콩팥에서 여과된 물질은 재흡수 여부에 따라 네 가지 유형으로 나뉘며, 포도당과 아미노산은 전량 재흡수되고 크레아티닌은 여과된 그대로 배출된다.

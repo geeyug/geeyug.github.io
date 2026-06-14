@@ -6,7 +6,7 @@ level: 1
 youtube_id: KzTaKo6LAIo
 membership: public
 short_title: GI-CANCER 위암 T병기
-tags: [간-소화기]
+tags: [간-소화기, ONCO]
 ---
 
 > 위암의 T병기는 암이 위벽을 얼마나 깊이 침범했는지를 나타내며, 최종 병기를 결정하는 세 요소 중 하나다.

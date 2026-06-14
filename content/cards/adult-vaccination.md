@@ -6,7 +6,7 @@ level: 1
 youtube_id: 0-6aNI2RnJU
 membership: ssangkiyeok
 short_title: VACCINE 성인 예방접종
-tags: [감염-항생제]
+tags: [감염-항생제, VACCINE]
 ---
 
 > 성인의 면역계도 노화되며, 자연 감염으로 형성된 면역은 시간이 지나면 약해진다. 성인 예방접종은 소아 예방접종 못지않게 사회경제적으로 중요하다.

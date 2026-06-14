@@ -1,12 +1,12 @@
 ---
 id: lupus14-criteria-absolute
 title: 루푸스 분류 기준은 절대적인가
-series: LUPUS
+series: series-LUPUS
 level: 3
 youtube_id: LIrMn01BDkU
 membership: nieun
-short_title: LUPUS-14 기준의 한계
-tags: [증상-접근]
+short_title: series-LUPUS-14 기준의 한계
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 루푸스 분류 기준은 임상 판단을 돕는 도구이지 절대 기준이 아니다. 점수가 기준에 미치지 못해도 치료가 필요한 경우가 있고, 진입 기준을 충족하지 못해도 압도적 증거가 있으면 치료해야 하는 경우가 있다.

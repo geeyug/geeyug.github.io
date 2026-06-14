@@ -1,12 +1,12 @@
 ---
 id: hyperna02-treatment
 title: 고나트륨혈증을 너무 빨리 교정하면 왜 위험한가
-series: HYPERNA
+series: series-HYPERNA
 level: 2
 youtube_id: eWCrjHWEaGg
 membership: nieun
 short_title: HYPERNA02 교정 속도와 수액 선택
-tags: [신장-전해질]
+tags: [신장-전해질, series-HYPERNA]
 ---
 
 > 고나트륨혈증(hypernatremia)을 빠르게 교정하면 뇌 세포가 급격히 팽창하면서 뇌부종이 발생할 수 있어 교정 속도와 수액 선택 모두 신중하게 결정해야 한다.

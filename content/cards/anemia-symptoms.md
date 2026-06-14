@@ -6,7 +6,7 @@ level: 1
 youtube_id: siMDJhJmkUw
 membership: public
 short_title: ANEMIA 증상 목록
-tags: [증상-접근]
+tags: [증상-접근, HEMATOLOGY]
 ---
 
 > 빈혈의 증상은 산소 부족, 색소 감소, 보상 반응으로 세 방향에서 나타나지만, 이 증상들이 있다고 해서 반드시 빈혈은 아니며 다른 질환이 함께 있을 수 있다.

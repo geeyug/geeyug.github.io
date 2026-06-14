@@ -1,12 +1,12 @@
 ---
 id: oh03-elderly-mechanism
 title: 기립성 저혈압이 노인에게 유독 흔한 이유는 무엇인가
-series: OH
+series: series-OH
 level: 2
 youtube_id: K8UUQK-4JOo
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근]
-short_title: OH-03 노인 기립성저혈압 기전
+tags: [심장-혈관, 증상-접근, series-OH]
+short_title: series-OH-03 노인 기립성저혈압 기전
 ---
 
 > 나이가 들면 압력수용체(baroreceptor)의 민감도가 떨어져, 혈압이 내려가도 교감신경계가 늦게 반응한다. 이 반응 지연이 기립성 저혈압을 일으키는 핵심 기전이다.

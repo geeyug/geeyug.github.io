@@ -1,12 +1,12 @@
 ---
 id: ves20-summary
 title: 혈관 생리학의 핵심 개념을 어떻게 연결해서 이해할 수 있는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: FOpWkLEiqq8
 membership: ssangkiyeok
 short_title: VES20 혈관 생리 요약
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 ---
 
 > 혈관 생리학은 동맥·정맥의 구조적 차이, 모세혈관에서의 교환, 그리고 림프계를 통한 회수라는 세 축으로 이루어진 정교한 시스템이다.

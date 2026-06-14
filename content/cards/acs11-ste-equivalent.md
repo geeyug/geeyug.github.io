@@ -1,12 +1,12 @@
 ---
 id: acs11-ste-equivalent
 title: ST 분절 상승 없이도 즉각 재관류가 필요한 심전도 소견은 무엇인가
-series: ACS
+series: series-ACS
 level: 3
 youtube_id: uMqtYZ2hcG0
 membership: nieun
 short_title: ACS11 ST상승 동등 소견
-tags: [심장-혈관]
+tags: [심장-혈관, series-ACS]
 ---
 
 > ST 분절 상승(ST elevation) 없이도 우심실 경색, 후벽 경색, aVR 유도 상승은 각각 고유한 심전도 패턴으로 확인되며, STEMI와 동등한 긴급 재관류 적응증이 된다.

@@ -6,7 +6,7 @@ level: 3
 youtube_id: 5C0IK28CefI
 membership: public
 short_title: GI 간신증후군 종합 접근
-tags: [간-소화기, 신장-전해질]
+tags: [간-소화기, 신장-전해질, GI]
 ---
 
 > 간경화 환자에서의 급성 신손상(AKI)은 단일 원인이 아니라, 복수·이뇨제·감염·출혈·저혈압·복용 약물이 모두 엮인 복합적 문제다. 간신증후군(hepatorenal syndrome, HRS)은 이 맥락의 끝에 있다.

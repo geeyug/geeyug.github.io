@@ -5,7 +5,7 @@ topic: SYNCOPE
 level: 2
 youtube_id: JEFgsm4OGz4
 membership: ssangkiyeok
-tags: [증상-접근]
+tags: [증상-접근, SYNCOPE]
 short_title: SYNCOPE-02 실신 정의와 감별
 ---
 

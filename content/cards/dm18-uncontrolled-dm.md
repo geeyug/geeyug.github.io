@@ -1,11 +1,11 @@
 ---
 id: dm18-uncontrolled-dm
 title: 혈당이 계속 조절되지 않을 때 어디서부터 다시 접근해야 하는가
-series: DM
+series: series-DM
 level: 3
 youtube_id: mZB51tQ-IOc
 membership: nieun
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 short_title: DM18 조절 안 되는 당뇨
 ---
 

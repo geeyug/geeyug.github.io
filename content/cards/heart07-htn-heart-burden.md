@@ -1,12 +1,12 @@
 ---
 id: heart07-htn-heart-burden
 title: 고혈압이 심장을 힘들게 하는 근본적인 이유는 무엇인가
-series: HEART
+series: series-HEART
 level: 2
 youtube_id: 2QLdHd49E9I
 membership: ssangkiyeok
-short_title: HEART-07 고혈압과 심근 장력
-tags: [심장-혈관]
+short_title: series-HEART-07 고혈압과 심근 장력
+tags: [심장-혈관, series-HEART]
 ---
 
 > 고혈압이 심장을 힘들게 하는 근본 이유는 혈압이 높을수록 심근에 걸리는 장력(tension)이 커지고, 그만큼 산소 소모량이 늘어나기 때문이다.

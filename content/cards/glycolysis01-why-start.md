@@ -1,12 +1,12 @@
 ---
 id: glycolysis01-why-start
 title: 물질대사는 왜 해당과정에서 시작하는가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 4-T8vlDLLOI
 membership: ssangkiyeok
 short_title: GLYCOLYSIS-01 해당과정 출발점
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 포도당(glucose)은 우리 몸에서 가장 중심적인 에너지 기질이며, 모든 물질대사 경로는 포도당을 분해하는 해당과정(glycolysis)을 공통 출발점으로 삼는다.

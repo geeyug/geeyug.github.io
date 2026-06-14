@@ -1,12 +1,12 @@
 ---
 id: syncope13-orthostatic-symptoms
 title: 기립성 저혈압의 증상은 왜 어지럼 하나가 아닌가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: zX_oAz3pWsQ
 membership: ssangkiyeok
-tags: [증상-접근]
-short_title: SYNCOPE-13 기립성 저혈압 증상
+tags: [증상-접근, series-SYNCOPE]
+short_title: series-SYNCOPE-13 기립성 저혈압 증상
 ---
 
 > 기립성 저혈압(orthostatic hypotension)은 단일 증상이 아니라 혈압이 떨어질 때 혈류가 감소하는 모든 장기에서 다양한 증상이 동시에 나타날 수 있다.

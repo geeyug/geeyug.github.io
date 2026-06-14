@@ -1,12 +1,12 @@
 ---
 id: oh07-four-dangers
 title: 기립성 저혈압이 위험한 이유는 무엇인가
-series: OH
+series: series-OH
 level: 2
 youtube_id: KjTZhWAFoDk
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근]
-short_title: OH-07 기립성저혈압 위험한 이유
+tags: [심장-혈관, 증상-접근, series-OH]
+short_title: series-OH-07 기립성저혈압 위험한 이유
 ---
 
 > 기립성 저혈압은 단순한 어지럼증이 아니다. 낙상, 인지 기능 저하, 치매, 그리고 심리적 위축까지 이어지는 복합적인 위험을 가진다.

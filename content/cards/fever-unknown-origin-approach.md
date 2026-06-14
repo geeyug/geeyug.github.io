@@ -6,7 +6,7 @@ level: 2
 youtube_id: 0kVfZsEx_oY
 membership: ssangkiyeok
 short_title: CLINIC 불명열 접근
-tags: [증상-접근, 감염-항생제]
+tags: [증상-접근, 감염-항생제, GENERAL]
 ---
 
 > 열과 관절통이 동반될 때 감별해야 할 질환은 감염, 약제 부작용, 자가면역 질환이며, 임상 맥락(외상 여부, 복용 약물, 기저 질환)이 진단의 출발점이다.

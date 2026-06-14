@@ -1,12 +1,12 @@
 ---
 id: osteo13-romosozumab
 title: 골 형성과 흡수를 동시에 조절하는 약은 어떻게 가능한가
-series: OSTEO
+series: series-OSTEO
 level: 3
 youtube_id: NgBuohFw_Yw
 membership: nieun
-short_title: OSTEO-13 로모소주맙
-tags: [약물-기전, 증상-접근]
+short_title: series-OSTEO-13 로모소주맙
+tags: [약물-기전, 증상-접근, series-OSTEO]
 ---
 
 > 로모소주맙(romosozumab)은 골세포(osteocyte)가 분비하는 스클레로스틴(sclerostin)에 대한 단클론항체로, 골 형성 촉진과 골 흡수 억제를 동시에 달성하는 이중 효과(dual effect)를 가진다.

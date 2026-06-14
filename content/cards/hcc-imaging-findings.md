@@ -5,7 +5,7 @@ topic: HCC
 level: 2
 youtube_id: yOLcE3m6sE0
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, HCC]
 short_title: HCC 간암 영상 소견
 ---
 

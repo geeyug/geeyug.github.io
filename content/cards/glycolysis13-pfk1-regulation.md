@@ -1,12 +1,12 @@
 ---
 id: glycolysis13-pfk1-regulation
 title: PFK1은 왜 해당과정의 핵심 조절점인가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 1mTZoRKfj7g
 membership: ssangkiyeok
 short_title: GLYCOLYSIS-13 PFK1 조절
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 포스포프룩토인산화효소 1(phosphofructokinase-1, PFK1)은 해당과정에서 되돌릴 수 없는 첫 번째 반응을 촉매하므로, 이 효소의 활성이 곧 해당과정 전체의 속도를 결정한다.

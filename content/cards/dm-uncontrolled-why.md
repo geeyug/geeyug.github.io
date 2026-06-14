@@ -6,7 +6,7 @@ level: 1
 youtube_id: AKbHXovU80s
 membership: public
 short_title: DM 혈당 조절 안 되는 이유
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 치료를 받는 당뇨 환자의 75%는 혈당 조절 목표에 미달한다. 나만 안 되는 것이 아니다. 그러나 원인을 찾아야 나아갈 수 있다.

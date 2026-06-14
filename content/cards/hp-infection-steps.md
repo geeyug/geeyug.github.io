@@ -5,7 +5,7 @@ topic: HPYLORI
 level: 2
 youtube_id: 2AQ7zr_URjA
 membership: public
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, HPYLORI]
 short_title: HPYLORI 감염 3단계
 ---
 

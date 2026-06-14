@@ -5,7 +5,7 @@ topic: ANAPH
 level: 3
 youtube_id: FC3T9LIoZ7Y
 membership: nieun
-tags: [응급]
+tags: [응급, ANAPH]
 short_title: ANAPH13 IgE의존성 기전
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: asthma10-biologics
 title: 치료해도 조절이 안 되는 천식에서 생물학적 치료제를 어떻게 선택하는가
-series: ASTHMA
+series: series-ASTHMA
 level: 3
 youtube_id: xZKAAil-tYo
 membership: nieun
-short_title: ASTHMA-10 biologics
-tags: [호흡기, 약물-기전]
+short_title: series-ASTHMA-10 biologics
+tags: [호흡기, 약물-기전, series-ASTHMA]
 ---
 
 > 스텝 5 중증 천식에서는 환자의 표현형(phenotype)을 파악한 뒤, 그 기전에 맞는 생물학적 치료제를 선택한다.

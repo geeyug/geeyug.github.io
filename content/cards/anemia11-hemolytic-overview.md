@@ -1,12 +1,12 @@
 ---
 id: anemia11-hemolytic-overview
 title: 용혈성 빈혈 개요 — 적혈구가 파괴될 때 무슨 일이 생기는가
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 2
 youtube_id: E3-VGKUbVoI
 membership: nieun
 short_title: 빈혈11 용혈성빈혈 개요
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 용혈성 빈혈(hemolytic anemia)은 적혈구(RBC) 파괴가 생성 속도를 초과할 때 발생하며, 황달·비장비대·망상적혈구(reticulocyte) 증가라는 세 가지 단서로 의심한다.

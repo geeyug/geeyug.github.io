@@ -1,11 +1,11 @@
 ---
 id: ab09-urine-ag
 title: 정상 음이온 차 대사성 산증에서 소변 음이온 차(urine anion gap)는 무엇을 알려주는가?
-series: AB
+series: series-AB
 level: 3
 youtube_id: RgbPQtpzFEw
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-AB]
 short_title: AB09 소변 음이온 차의 의미
 ---
 

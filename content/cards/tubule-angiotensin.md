@@ -5,7 +5,7 @@ topic: TUBULE
 level: 2
 youtube_id: Q0zUAScYETA
 membership: ssangkiyeok
-tags: [신장-전해질]
+tags: [신장-전해질, TUBULE]
 short_title: TUBULE-20 안지오텐신 2 작용
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: pain08-sensitization
 title: 왜 통증은 스스로 커지는가 — 감작의 두 경로
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: o2qSYd6YPJ4
 membership: ssangkiyeok
-short_title: PAIN-08 감작(sensitization)
-tags: [증상-접근]
+short_title: series-PAIN-08 감작(sensitization)
+tags: [증상-접근, series-PAIN]
 ---
 
 > 감작(sensitization)은 통증 회로가 병적으로 예민해지는 과정이다. 조직 손상이 경고 신호를 내보내는 데 그쳐야 하는데, 통증이 스스로 증폭되고 유지되는 상태가 된다.

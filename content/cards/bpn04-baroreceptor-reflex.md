@@ -1,12 +1,12 @@
 ---
 id: bpn04-baroreceptor-reflex
 title: 압력수용체 반사는 어떻게 혈압을 안정시키는가
-series: BPN
+series: series-BPN
 level: 2
 youtube_id: H3hEAXoMS00
 membership: ssangkiyeok
 short_title: BPN04 압력수용체 반사
-tags: [심장-혈관]
+tags: [심장-혈관, series-BPN]
 ---
 
 > 압력수용체 반사(baroreceptor reflex)는 정상 혈압 근처에서 급격한 변동을 감지해 반대 방향으로 힘을 가하는 음성 피드백 시스템이다. 단기적 혈압 안정화에 특화되어 있으며, 장기적 혈압 설정에는 관여하지 못한다.

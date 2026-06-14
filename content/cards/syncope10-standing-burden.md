@@ -1,12 +1,12 @@
 ---
 id: syncope10-standing-burden
 title: 일어선다는 것은 얼마나 큰 생리적 도전인가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: FaUXAn7zN-s
 membership: ssangkiyeok
-short_title: SYNCOPE-10 기립의 생리적 부담
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-10 기립의 생리적 부담
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 직립 자세는 혈액을 하체로 이동시켜 심장으로의 정맥 환류를 줄이고, 이를 보상하는 자율신경 반사가 실패하면 기립성 저혈압이나 실신으로 이어진다.

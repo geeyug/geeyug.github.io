@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: 2gjSwrLtxao
 membership: public
-tags: [당뇨-대사, 증상-접근]
+tags: [당뇨-대사, 증상-접근, DM]
 short_title: DM 망막병증 혈당급강하
 ---
 

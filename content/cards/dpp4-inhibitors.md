@@ -1,12 +1,12 @@
 ---
 id: dpp4-inhibitors
 title: DPP-4 저해제는 어떻게 식후 혈당을 잡는가
-series: DM
+series: series-DM
 level: 2
 youtube_id: YJu0cSiOxSw
 membership: public
-tags: [당뇨-대사, 약물-기전]
-short_title: DM DPP-4 저해제 기전
+tags: [당뇨-대사, 약물-기전, series-DM]
+short_title: series-DM DPP-4 저해제 기전
 ---
 
 > DPP-4 저해제는 장에서 분비되는 인크레틴(incretin) 호르몬의 분해를 억제하여 식후 혈당을 낮추는 계열의 당뇨 약제이다.

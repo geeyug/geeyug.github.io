@@ -1,12 +1,12 @@
 ---
 id: lupus15-three-principles
 title: 루푸스 분류 기준을 적용할 때 반드시 지켜야 하는 세 가지 원칙
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: 3TdZ9Yb3nGA
 membership: nieun
-short_title: LUPUS-15 적용 3원칙
-tags: [증상-접근]
+short_title: series-LUPUS-15 적용 3원칙
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 루푸스 분류 기준을 적용할 때는 단순히 점수를 더하는 것이 아니다. 도메인 내 중복 합산 금지, 누적 적용, 임상 소견 필수 — 이 세 원칙을 지키지 않으면 오진의 위험이 생긴다.

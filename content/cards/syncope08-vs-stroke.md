@@ -1,12 +1,12 @@
 ---
 id: syncope08-vs-stroke
 title: 실신과 뇌졸중 — 같은 쓰러짐인데 왜 이렇게 다른가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: 2sJ5jk0iczE
 membership: ssangkiyeok
-short_title: SYNCOPE-08 실신 vs 뇌졸중
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-08 실신 vs 뇌졸중
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 실신은 전반적 뇌혈류 감소로 뇌 전체가 일시적으로 꺼지는 현상이고, 뇌졸중은 특정 혈관의 국소적 손상으로 그 부위 기능이 지속적으로 고장 나는 현상이다.

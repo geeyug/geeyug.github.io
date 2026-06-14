@@ -6,7 +6,7 @@ level: 3
 youtube_id: GjGRlU2j_vk
 membership: ssangkiyeok
 short_title: PPP-10 우론산 경로
-tags: [당뇨-대사]
+tags: [당뇨-대사, METABOLISM]
 ---
 
 > 우론산 경로(uronic acid pathway)는 포도당에서 글루쿠론산(glucuronic acid)을 만들어 세포외기질 구성과 약물·빌리루빈 해독에 사용하는 보조 대사 경로이다.

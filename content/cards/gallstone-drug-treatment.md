@@ -6,7 +6,7 @@ level: 1
 youtube_id: JWHRD_x48Ow
 membership: public
 short_title: 담석 약물 치료
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, GI]
 ---
 
 > 담석 약물 치료는 특정 조건을 만족하는 콜레스테롤 담석에 한해 선택적으로 시도할 수 있으며, 재발률이 높아 현재 표준 치료는 아니다.

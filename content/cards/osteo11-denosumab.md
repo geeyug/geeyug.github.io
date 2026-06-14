@@ -1,12 +1,12 @@
 ---
 id: osteo11-denosumab
 title: 데노수맙은 비스포스포네이트와 어떻게 다른가
-series: OSTEO
+series: series-OSTEO
 level: 3
 youtube_id: LmglfyMWfuU
 membership: nieun
-short_title: OSTEO-11 데노수맙 기전
-tags: [약물-기전, 증상-접근]
+short_title: series-OSTEO-11 데노수맙 기전
+tags: [약물-기전, 증상-접근, series-OSTEO]
 ---
 
 > 데노수맙(denosumab)은 RANK 리간드에 대한 단클론항체(monoclonal antibody)로, 파골세포(osteoclast)가 분화되기 전 단계에서 골 흡수를 차단하는 골흡수 억제제이다.

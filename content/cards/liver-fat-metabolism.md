@@ -5,7 +5,7 @@ topic: LIVER
 level: 1
 youtube_id: CH7FG9Z1Ksg
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 short_title: LIVER 지방대사
 ---
 

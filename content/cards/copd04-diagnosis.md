@@ -1,15 +1,15 @@
 ---
 id: copd04-diagnosis
 title: COPD는 증상만으로 진단할 수 있는가
-series: COPD
+series: series-COPD
 level: 2
 youtube_id: OuY03qgHJzI
 membership: nieun
 short_title: COPD04 폐기능검사
-tags: [호흡기]
+tags: [호흡기, series-COPD]
 ---
 
-> COPD 진단의 핵심은 기관지 확장제 투여 후 FEV1/FVC 비율이 0.7 미만임을 폐기능 검사(spirometry)로 확인하는 것이다.
+> series-COPD 진단의 핵심은 기관지 확장제 투여 후 FEV1/FVC 비율이 0.7 미만임을 폐기능 검사(spirometry)로 확인하는 것이다.
 
 ## ❶ 생각해 보셨나요?
 
@@ -17,7 +17,7 @@ tags: [호흡기]
 
 ## ❷ 왜 폐기능 검사가 반드시 필요한가
 
-COPD의 병태생리는 **기도 폐쇄(airway obstruction)**다. 이것이 실제로 존재하는지를 객관적으로 확인하려면 폐기능 검사가 유일한 방법이다. 당뇨 진단에 혈당 측정이 필수이듯, COPD 진단에는 폐활량 측정(spirometry)이 필수다.
+COPD의 병태생리는 **기도 폐쇄(airway obstruction)**다. 이것이 실제로 존재하는지를 객관적으로 확인하려면 폐기능 검사가 유일한 방법이다. 당뇨 진단에 혈당 측정이 필수이듯, series-COPD 진단에는 폐활량 측정(spirometry)이 필수다.
 
 검사에서 보는 수치는 두 가지다.
 
@@ -49,7 +49,7 @@ COPD에서 FVC도 감소하는 이유가 있다. 기도 폐쇄로 인해 일부 
 
 ## ❹ CT는 어떤 역할인가
 
-COPD 진단에 CT는 필수가 아니다. 기폐(emphysema)나 폐포(bullae) 확인, 폐암의 우연 발견 등에 도움이 될 수 있으나, 진단의 핵심은 어디까지나 폐기능 검사다. CT 소견이 뚜렷해도 폐기능 검사 기준을 충족하지 않으면 COPD로 진단할 수 없다.
+series-COPD 진단에 CT는 필수가 아니다. 기폐(emphysema)나 폐포(bullae) 확인, 폐암의 우연 발견 등에 도움이 될 수 있으나, 진단의 핵심은 어디까지나 폐기능 검사다. CT 소견이 뚜렷해도 폐기능 검사 기준을 충족하지 않으면 COPD로 진단할 수 없다.
 
 영상으로 더 깊이 보고 싶다면:
 [▶ 영상으로 보기](https://youtu.be/OuY03qgHJzI) *(멤버십)*

@@ -6,7 +6,7 @@ level: 2
 youtube_id: OnwRuGHMpSE
 membership: ssangkiyeok
 short_title: RESP-P04 기침 평가
-tags: [호흡기, 증상-접근]
+tags: [호흡기, 증상-접근, RESP]
 ---
 
 > 기침은 지속 기간, 가래 유무와 성상, 혈액 혼재 여부, 유발 상황이라는 네 가지 속성으로 그 원인을 좁힌다.

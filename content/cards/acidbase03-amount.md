@@ -1,12 +1,12 @@
 ---
 id: acidbase03-amount
 title: 혈중 수소 이온 농도는 어떻게 표현하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: Fsu5qEHg6AM
 membership: ssangkiyeok
-short_title: ACIDBASE-03 pH와 수소이온 농도
-tags: [신장-전해질]
+short_title: series-ACIDBASE-03 pH와 수소이온 농도
+tags: [신장-전해질, series-ACIDBASE]
 ---
 
 > 혈중 수소 이온 농도는 0이 너무 많아 일반 단위로 표현하기 어렵기 때문에 pH라는 역로그 척도를 사용하며, 정상 동맥혈 pH는 7.4다.

@@ -1,12 +1,12 @@
 ---
 id: ckd09-1-pth-cinacalcet
 title: PTH는 인(phosphorus)을 올리는가, 내리는가 — cinacalcet은 어떻게 다른가
-series: CKD
+series: series-CKD
 level: 3
 youtube_id: 5NnYEVQjwYI
 membership: nieun
 short_title: CKD09-1 PTH·cinacalcet과 인
-tags: [신장-전해질]
+tags: [신장-전해질, series-CKD]
 ---
 
 > PTH는 인을 감소시키는데, cinacalcet(시나칼셋)이 PTH를 억제하면 인이 증가할 것 같지만 투석 환자에서는 오히려 반대로 나타난다.

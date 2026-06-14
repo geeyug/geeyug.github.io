@@ -6,7 +6,7 @@ level: 1
 youtube_id: K4hU5nsH09U
 membership: public
 short_title: 대장암 위험 인자
-tags: [간-소화기, 증상-접근]
+tags: [간-소화기, 증상-접근, GI]
 ---
 
 > 대장암은 생활 습관병이며, 몸에 좋은 것을 찾아 먹는 것보다 위험 인자를 피하는 것이 예방에 더 효과적이다.

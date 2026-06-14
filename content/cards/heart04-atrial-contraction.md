@@ -1,12 +1,12 @@
 ---
 id: heart04-atrial-contraction
 title: 심방 수축이 없어도 심장은 뛰는데 왜 그게 문제가 되는가
-series: HEART
+series: series-HEART
 level: 2
 youtube_id: _8Icmjkg10Q
 membership: ssangkiyeok
-short_title: HEART-04 심방 수축의 의미
-tags: [심장-혈관]
+short_title: series-HEART-04 심방 수축의 의미
+tags: [심장-혈관, series-HEART]
 ---
 
 > 심방 수축은 심실이 이완할 때 혈액의 20~30%를 추가로 밀어 넣는다. 평소에는 없어도 버티지만, 심박수가 빨라지는 상황에서 그 역할이 결정적으로 드러난다.

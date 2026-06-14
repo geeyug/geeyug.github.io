@@ -5,7 +5,7 @@ topic: HBV
 level: 1
 youtube_id: ilIONGgjXJs
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, HBV]
 short_title: HBV 노출 후 예방
 ---
 

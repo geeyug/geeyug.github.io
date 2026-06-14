@@ -6,7 +6,7 @@ level: 1
 youtube_id: 74fxdl3_14M
 membership: public
 short_title: THYROID 심장 영향
-tags: [심장-혈관, 증상-접근]
+tags: [심장-혈관, 증상-접근, THYROID]
 ---
 
 > 갑상선호르몬은 기능 저하 때는 콜레스테롤을 높여 동맥경화를 촉진하고, 기능 항진 때는 심박수를 높여 부정맥을 일으키는 방식으로 심장에 영향을 준다.

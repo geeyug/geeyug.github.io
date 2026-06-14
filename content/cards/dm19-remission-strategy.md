@@ -1,12 +1,12 @@
 ---
 id: dm19-remission-strategy
 title: 초기 2형 당뇨병 환자에게 '완치'를 목표로 치료할 수 있는가
-series: DM
+series: series-DM
 level: 2
 youtube_id: eLE_meC_Aik
 membership: nieun
 short_title: DM19 관해전략
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 ---
 
 > 초기 2형 당뇨병에서 집중 인슐린 치료와 체중 감량을 병행하면 일부 환자는 약물 없이도 정상 혈당을 유지하는 관해(remission) 상태에 도달할 수 있다.

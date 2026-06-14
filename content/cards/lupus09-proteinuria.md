@@ -1,12 +1,12 @@
 ---
 id: lupus09-proteinuria
 title: 단백뇨 진단 기준이 왜 딥스틱이 아닌 정량 검사를 요구하는가
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: DpVf4pIKaH4
 membership: nieun
-short_title: LUPUS-09 단백뇨 기준
-tags: [증상-접근, 신장-전해질]
+short_title: series-LUPUS-09 단백뇨 기준
+tags: [증상-접근, 신장-전해질, series-LUPUS]
 ---
 
 > 루푸스 진단 기준의 단백뇨 항목은 딥스틱 양성만으로는 충분하지 않으며, 24시간 소변 단백 정량 또는 소변 단백/크레아티닌 비율(UPCR)로 ≥500mg/일을 확인해야 4점이 부여된다.

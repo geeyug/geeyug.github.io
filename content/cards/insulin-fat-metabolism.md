@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: YmShGUCKVMM
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 인슐린과 지방 대사
 ---
 

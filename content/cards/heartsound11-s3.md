@@ -1,12 +1,12 @@
 ---
 id: heartsound11-s3
 title: S3가 들린다는 것은 좌심실에 무슨 일이 생긴 것인가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: KSFqL2xgJfQ
 membership: ssangkiyeok
-short_title: HEARTSOUND-11 제3심음 S3
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-11 제3심음 S3
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > S3는 이완기 초기 혈액이 빠르게 좌심실로 유입되다 속도가 급감할 때 나는 저음으로, 40세 이상에서 청진되면 좌심실이 혈액을 받아들이는 데 문제가 있음을 시사한다.

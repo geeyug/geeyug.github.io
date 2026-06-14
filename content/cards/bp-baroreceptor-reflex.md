@@ -5,7 +5,7 @@ topic: BP
 level: 1
 youtube_id: FAxzDUnATEQ
 membership: public
-tags: [심장-혈관]
+tags: [심장-혈관, BP]
 short_title: BP 압수용체 반사
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: bpk01-renal-fluid
 title: 혈압을 장기적으로 조절하는 것은 신경이 아니라 콩팥이다 — 왜 그런가
-series: BPK
+series: series-BPK
 level: 2
 youtube_id: VV92rnAxdVA
 membership: ssangkiyeok
 short_title: BPK01 콩팥체액 혈압조절
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BPK]
 ---
 
 > 혈압의 단기 조절은 신경 반사가 담당하지만, 장기적 혈압은 콩팥이 체액량을 조절함으로써 결정된다.

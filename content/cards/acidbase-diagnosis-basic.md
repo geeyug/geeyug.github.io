@@ -5,7 +5,7 @@ topic: ACIDBASE
 level: 2
 youtube_id: bsVBfRBfI6E
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, ACIDBASE]
 short_title: AB02 산증·알칼리증 기본진단
 ---
 

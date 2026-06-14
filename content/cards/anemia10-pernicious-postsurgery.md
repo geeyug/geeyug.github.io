@@ -1,12 +1,12 @@
 ---
 id: anemia10-pernicious-postsurgery
 title: 악성빈혈과 위수술 후 빈혈 — 코발라민 결핍에 이르는 두 경로
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 3
 youtube_id: XfZ5rjkDLlg
 membership: nieun
 short_title: 빈혈10 악성빈혈·위수술
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 악성빈혈(pernicious anemia)은 벽세포(parietal cell) 자가항체로 내인성인자(intrinsic factor) 분비가 차단되어 코발라민(cobalamin) 흡수가 불가능해지는 자가면역 질환이며, 위수술 후에는 철결핍빈혈이 오히려 더 흔하게 나타난다.

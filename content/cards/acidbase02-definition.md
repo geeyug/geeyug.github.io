@@ -1,12 +1,12 @@
 ---
 id: acidbase02-definition
 title: 산과 염기는 생리학에서 어떻게 정의하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: YbJV3B_VCwE
 membership: ssangkiyeok
-short_title: ACIDBASE-02 산·염기 정의
-tags: [신장-전해질]
+short_title: series-ACIDBASE-02 산·염기 정의
+tags: [신장-전해질, series-ACIDBASE]
 ---
 
 > 생리학에서 산은 수소 이온을 내놓는 분자, 염기는 수소 이온을 받아들이는 이온 또는 분자로 정의하며, 둘은 항상 짝을 이루어 존재한다.

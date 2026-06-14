@@ -1,11 +1,11 @@
 ---
 id: hypona02-raas-adh-review
 title: 안지오텐신, 알도스테론, ADH — 저나트륨혈증 이해를 위한 선행 리뷰
-series: HYPONA
+series: series-HYPONA
 level: 2
 youtube_id: eQLoRClTgwo
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-HYPONA]
 short_title: HYPONA02 RAAS·ADH 리뷰
 ---
 

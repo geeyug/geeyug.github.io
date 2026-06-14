@@ -1,12 +1,12 @@
 ---
 id: sepsis05-lung-effects
 title: 패혈증의 염증 물질이 폐를 어떻게 망가뜨리는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: -0mBXVXNagU
 membership: ssangkiyeok
-tags: [응급, 호흡기]
-short_title: SEPSIS-05 패혈증과 폐 손상
+tags: [응급, 호흡기, series-SEPSIS]
+short_title: series-SEPSIS-05 패혈증과 폐 손상
 ---
 
 > 패혈증의 염증 물질이 폐 모세혈관 투과성을 높이면 공기가 차야 할 폐포에 액체가 들어차고, 가스 교환 장애와 저산소증을 거쳐 급성 호흡곤란 증후군(ARDS)으로 이어진다.

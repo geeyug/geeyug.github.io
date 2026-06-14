@@ -1,12 +1,12 @@
 ---
 id: kf13-adh-thirst-synergy
 title: ADH와 갈증 기전이 함께 있어야 하는 이유는 무엇인가?
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: XKKgY9Hnux4
 membership: ssangkiyeok
 short_title: KF-13 ADH·갈증 협력
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > ADH와 갈증 기전은 각각 콩팥과 외부 섭취를 통해 물만 단독으로 이동시킴으로써 혈장 삼투압(plasma osmolality)을 일정하게 유지한다. 알도스테론이 이 역할을 담당할 수 없는 이유는 소듐과 물을 항상 함께 이동시키기 때문이다.

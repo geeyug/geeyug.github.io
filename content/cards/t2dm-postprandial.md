@@ -1,12 +1,12 @@
 ---
 id: t2dm-postprandial
 title: 2형 당뇨에서 식후 혈당이 오르는 이유는 무엇인가
-series: DM
+series: series-DM
 level: 2
 youtube_id: -iTogtCwnyo
 membership: public
-tags: [당뇨-대사]
-short_title: DM 식후 혈당과 GLP-1
+tags: [당뇨-대사, series-DM]
+short_title: series-DM 식후 혈당과 GLP-1
 ---
 
 > 2형 당뇨에서 식후 혈당이 높게 유지되는 핵심 이유는 식사 직후 인슐린이 빠르게 분출되지 못하기 때문이며, 이 초기 분출을 유도하는 장 호르몬 GLP-1의 기능 저하가 중요한 원인이다.

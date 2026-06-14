@@ -6,7 +6,7 @@ level: 2
 youtube_id: -X0GKTSRQUI
 membership: public
 short_title: DM 자율신경병증
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨병성 자율신경병증은 스스로 작동해야 할 내장기관의 조절을 방해하며, 특히 저혈당 무감지증으로 이어질 경우 생명을 위협하는 상황을 초래할 수 있다.

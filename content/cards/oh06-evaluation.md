@@ -1,12 +1,12 @@
 ---
 id: oh06-evaluation
 title: 기립성저혈압을 어떻게 평가하는가
-series: OH
+series: series-OH
 level: 2
 youtube_id: IRLKLn6IkZ4
 membership: ssangkiyeok
-short_title: OH-06 기립성저혈압 평가
-tags: [심장-혈관]
+short_title: series-OH-06 기립성저혈압 평가
+tags: [심장-혈관, series-OH]
 ---
 
 > 기립성저혈압 평가는 약물 확인, 채혈량 손실 원인 탐색, 동반 질환 파악, 기본 혈액 검사, 심전도 순으로 진행하며 고비용 자율신경 검사의 가성비는 낮다.

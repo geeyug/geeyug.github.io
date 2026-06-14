@@ -1,12 +1,12 @@
 ---
 id: asthma06-diagnosis
 title: "천식을 어떻게 진단하는가 — 가역성·과민성·만성염증 검사"
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: oj1brZJSqVs
 membership: nieun
-tags: [호흡기]
-short_title: ASTHMA-06 진단 검사
+tags: [호흡기, series-ASTHMA]
+short_title: series-ASTHMA-06 진단 검사
 ---
 
 > 천식 진단의 핵심은 변동성(variability)이다. 증상만으로는 부족하며, 기류 제한이 있고 그것이 가역적으로 변동한다는 것을 검사로 확인해야 한다.

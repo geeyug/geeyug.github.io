@@ -6,7 +6,7 @@ level: 1
 youtube_id: WCYBpJv3pgU
 membership: public
 short_title: HTN 치료 목적과 뇌졸중
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 증상 없는 고혈압을 치료하는 이유는 뇌졸중(stroke)을 비롯한 심뇌혈관 질환의 발생 위험을 낮추기 위해서이다.

@@ -1,12 +1,12 @@
 ---
 id: shock07-septic-case
 title: 모기에 물린 후 패혈증으로 사망한 것은 어떻게 가능한가
-series: SHOCK
+series: series-SHOCK
 level: 2
 youtube_id: j3RlV1RqmvQ
 membership: ssangkiyeok
-short_title: SHOCK-07 패혈증 케이스
-tags: [응급]
+short_title: series-SHOCK-07 패혈증 케이스
+tags: [응급, series-SHOCK]
 ---
 
 > 모기에 물린 상처를 통해 유입된 황색포도상구균이 2차 세균 감염을 일으키고, 눈 주변이라는 위치적 특성과 독소 매개 면역 활성화가 맞물려 패혈증으로 빠르게 진행한 사례다.

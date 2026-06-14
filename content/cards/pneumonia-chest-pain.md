@@ -6,7 +6,7 @@ level: 2
 youtube_id: 1RApMMsYxGk
 membership: ssangkiyeok
 short_title: 폐렴 흉통 흉막 기전
-tags: [호흡기, 증상-접근]
+tags: [호흡기, 증상-접근, PNEUMONIA]
 ---
 
 > 폐 자체에는 체성 통증 수용체가 없어 통증을 느끼지 못하며, 폐렴이 흉통을 일으키려면 염증이 흉막 바로 아래쪽까지 번져 벽측 흉막(parietal pleura)을 자극해야 한다.

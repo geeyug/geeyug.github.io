@@ -1,11 +1,11 @@
 ---
 id: bpk11-aortic-coarctation
 title: "대동맥 협착이 있을 때 왜 상체만 고혈압이 생기는가"
-series: BPK
+series: series-BPK
 level: 2
 youtube_id: 9P0E5cfJyAU
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질]
+tags: [심장-혈관, 신장-전해질, series-BPK]
 short_title: BPK11 대동맥협착 고혈압
 ---
 

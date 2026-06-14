@@ -5,7 +5,7 @@ topic: LUPUS
 level: 2
 youtube_id: uPFmkPujxVY
 membership: nieun
-tags: [증상-접근]
+tags: [증상-접근, LUPUS]
 short_title: Lupus-03 면역 기전
 ---
 

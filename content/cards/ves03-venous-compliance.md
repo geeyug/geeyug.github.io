@@ -1,12 +1,12 @@
 ---
 id: ves03-venous-compliance
 title: 정맥은 왜 수액을 받아들여도 혈압이 거의 오르지 않는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: 77erXIlpHpA
 membership: ssangkiyeok
 short_title: VES03 정맥 혈관 유순도
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 ---
 
 > 정맥은 혈액량이 크게 늘어도 압력이 거의 변하지 않는다. 이 혈관 유순도(vascular compliance) 덕분에 수액을 정맥으로 빠르게 주입해도 안전하고, 출혈 시 교감신경이 활성화되면 정맥이 수축하여 심장으로 혈액을 추가 공급할 수 있다.

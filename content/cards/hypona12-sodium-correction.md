@@ -1,11 +1,11 @@
 ---
 id: hypona12-sodium-correction
 title: 저나트륨혈증 교정 — 얼마나, 어떻게 올려야 하는가
-series: HYPONA
+series: series-HYPONA
 level: 3
 youtube_id: JUtEaBjuh1U
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-HYPONA]
 short_title: HYPONA12 Na교정 실제
 ---
 

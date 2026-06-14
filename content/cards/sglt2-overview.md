@@ -1,11 +1,11 @@
 ---
 id: sglt2-overview
 title: SGLT2 저해제가 당뇨약 중에서 주목받는 이유는 무엇인가
-series: DM
+series: series-DM
 level: 1
 youtube_id: jFZJ-cCG578
 membership: public
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 short_title: SGLT2 저해제 개요
 ---
 

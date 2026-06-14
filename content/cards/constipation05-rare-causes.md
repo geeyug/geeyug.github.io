@@ -1,12 +1,12 @@
 ---
 id: constipation05-rare-causes
 title: 변비의 원인이 될 수 있는 생소한 질환들에는 어떤 것이 있는가
-series: CONSTIPATION
+series: series-CONSTIPATION
 level: 2
 youtube_id: 8uLTqufgpZw
 membership: ssangkiyeok
 short_title: 변비05 생소한 원인 질환
-tags: [간-소화기]
+tags: [간-소화기, series-CONSTIPATION]
 ---
 
 > 변비의 원인이 되는 드문 질환들은 대부분 장 근육 또는 장을 지배하는 신경에 문제가 생긴 것으로, 전신 결합조직 질환이나 근육병, 신경병이 장 운동 장애로 이어지는 경로를 따른다.

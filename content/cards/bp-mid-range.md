@@ -6,7 +6,7 @@ level: 1
 youtube_id: FO4wiftGBFk
 membership: public
 short_title: BP 150~170 대응
-tags: [심장-혈관]
+tags: [심장-혈관, BP]
 ---
 
 > 150/95~170/105 범위의 혈압은 응급은 아니지만 즉각적인 개입이 필요한 수치이며, 수치가 높아질수록 대응의 긴박성이 달라진다.

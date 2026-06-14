@@ -1,12 +1,12 @@
 ---
 id: kf01-urine-concentration
 title: 짠 소변과 싱거운 소변은 어떻게 만들어지는가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: R1aueiYpuq0
 membership: ssangkiyeok
 short_title: KF-01 소변 농축·희석 원리
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 소변의 농축과 희석은 ADH(항이뇨 호르몬)가 용질과 무관하게 수분 재흡수량만을 독립적으로 조절함으로써 가능하다.

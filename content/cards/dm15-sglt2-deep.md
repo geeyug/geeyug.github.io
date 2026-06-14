@@ -1,11 +1,11 @@
 ---
 id: dm15-sglt2-deep
 title: SGLT-2 억제제는 어떻게 당뇨약에서 심장·신장 치료제로 자리잡게 되었는가
-series: DM
+series: series-DM
 level: 2
 youtube_id: Zpk3zhagB3Q
 membership: nieun
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 short_title: DM15 SGLT2 심장·신장
 ---
 

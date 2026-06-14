@@ -1,15 +1,15 @@
 ---
 id: af-01-diagnosis
 title: "심방세동은 어떻게 생기고, 어떻게 진단하는가"
-series: AF
+series: series-AF
 level: 2
 youtube_id: XfTR4A9pAp8
 membership: nieun
-tags: [심장-혈관]
-short_title: AF-01 심방세동 정의와 진단
+tags: [심장-혈관, series-AF]
+short_title: series-AF-01 심방세동 정의와 진단
 ---
 
-> 심방세동(atrial fibrillation, AF)은 심방이 조화롭게 수축하지 못하고 잘게 떨면서 심실로의 충전이 20~30% 줄어드는 상심실성 부정맥(supraventricular arrhythmia)이다.
+> 심방세동(atrial fibrillation, series-AF)은 심방이 조화롭게 수축하지 못하고 잘게 떨면서 심실로의 충전이 20~30% 줄어드는 상심실성 부정맥(supraventricular arrhythmia)이다.
 
 ## ❶ 생각해 보셨나요?
 
@@ -25,7 +25,7 @@ short_title: AF-01 심방세동 정의와 진단
 1) 명확한 P파 소실 — V1 유도에서 기저선이 잘게 떨리는 F파(fibrillation wave)로 대체됩니다.
 2) RR 간격의 불규칙 — 심실은 AV 결절을 통해 무작위로 전달되는 신호에 따라 불규칙하게 뜁니다.
 
-### AF with RVR
+### series-AF with RVR
 
 심방세동에 빠른 심실 반응(rapid ventricular response, RVR)이 동반되면 심전도에서 RR 간격이 매우 짧게 반복됩니다. 이완기가 극도로 짧아지므로 심실 충전 불량이 심해집니다. 레이트 컨트롤(rate control)이 필요하다는 것을 내포하는 표현입니다.
 

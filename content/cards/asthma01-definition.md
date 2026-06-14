@@ -1,12 +1,12 @@
 ---
 id: asthma01-definition
 title: "천식이란 무엇인가 — 정의와 증상"
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: Sn9Pv7eYDnc
 membership: nieun
-tags: [호흡기]
-short_title: ASTHMA-01 정의·증상
+tags: [호흡기, series-ASTHMA]
+short_title: series-ASTHMA-01 정의·증상
 ---
 
 > 천식은 기도의 만성 염증으로 인해 변동성 호기 기류 제한이 반복되는 질환이다. 단일 질병이 아닌 이질적 질환군(heterogeneous disease)의 집합이다.

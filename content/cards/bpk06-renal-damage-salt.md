@@ -1,12 +1,12 @@
 ---
 id: bpk06-renal-damage-salt
 title: 콩팥 기능이 저하된 상태에서 염분을 많이 섭취하면 어떤 일이 생기는가
-series: BPK
+series: series-BPK
 level: 2
 youtube_id: v_RKE6-3iE0
 membership: ssangkiyeok
 short_title: BPK06 신기능저하와 고염식
-tags: [신장-전해질, 심장-혈관]
+tags: [신장-전해질, 심장-혈관, series-BPK]
 ---
 
 > 콩팥 기능이 저하된 상태에서 염분을 많이 섭취하면, 혈압이뇨가 불완전하게 작동하여 체액량과 혈관저항이 함께 오르는 복합적 고혈압이 형성된다.

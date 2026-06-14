@@ -1,12 +1,12 @@
 ---
 id: asthma04-triggers
 title: "무엇이 천식 발작을 일으키는가 — 유발 상황"
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: yXOhxGswjq4
 membership: nieun
-tags: [호흡기]
-short_title: ASTHMA-04 발작 유발 상황
+tags: [호흡기, series-ASTHMA]
+short_title: series-ASTHMA-04 발작 유발 상황
 ---
 
 > 유발 상황(trigger)은 천식을 만들지 않지만, 이미 있는 천식을 발작으로 터뜨린다. 알레르겐, 바이러스 감염, 약물, 운동과 찬 공기가 대표적이다.

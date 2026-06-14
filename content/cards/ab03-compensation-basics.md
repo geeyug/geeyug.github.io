@@ -1,11 +1,11 @@
 ---
 id: ab03-compensation-basics
 title: 보상이 아무리 잘 작동해도 pH를 완전히 정상으로 되돌릴 수 없는 이유는 무엇인가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: 9V6URGIVItQ
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-ACIDBASE]
 short_title: AB03 보상의 방향과 한계
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: pain07-lidocaine-mechanism
 title: 리도케인은 어떻게 통증을 차단하는가 — 전선을 끊는 방식
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: BcmqUVewPuo
 membership: ssangkiyeok
-short_title: PAIN-07 리도케인 기전
-tags: [약물-기전]
+short_title: series-PAIN-07 리도케인 기전
+tags: [약물-기전, series-PAIN]
 ---
 
 > 리도케인(lidocaine)은 전압개폐 나트륨 채널(voltage-gated sodium channel)을 물리적으로 차단하여 활동전위(action potential) 자체가 발생하지 못하게 한다. 통증의 크기를 줄이는 것이 아니라 신호의 출발을 막는다.

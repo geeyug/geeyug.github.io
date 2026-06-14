@@ -1,12 +1,12 @@
 ---
 id: anemia13-nonimmune-hemolytic
 title: 비면역 용혈성 빈혈 — 항체 없이 적혈구가 파괴되는 경로들
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 3
 youtube_id: nJqLL06qoNU
 membership: nieun
 short_title: 빈혈13 비면역 용혈성빈혈
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 비면역 용혈성 빈혈(non-immune hemolytic anemia)은 항체 없이 적혈구 자체의 결함이나 외부 기계적·화학적 손상에 의해 용혈이 발생하는 이질적인 질환군이다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: 046ZyGqLQDM
 membership: public
 short_title: HTN 혈압 목표 하한선
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 혈압은 높으면 해롭지만 지나치게 낮추는 것도 문제가 될 수 있다. 최근 가이드라인은 110/70 mmHg 미만으로 낮추는 것을 피하도록 권고하며, 이를 J-curve 현상으로 설명한다.

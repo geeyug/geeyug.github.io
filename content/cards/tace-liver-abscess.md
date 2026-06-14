@@ -5,7 +5,7 @@ topic: LIVER
 level: 2
 youtube_id: 9GB5dfiVcaw
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 short_title: LIVER TACE 합병증 간농양
 ---
 

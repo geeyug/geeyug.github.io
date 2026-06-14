@@ -1,12 +1,12 @@
 ---
 id: ecfvolcon-15-heart-failure
 title: 심장이 약해지면 체액 균형 시스템은 어떻게 무너지는가
-series: ECFVOLCON
+series: series-ECFVOLCON
 level: 2
 youtube_id: 2FGz50_-T6M
 membership: ssangkiyeok
-tags: [신장-전해질, 심장-혈관]
-short_title: ECFVOLCON-15 심부전과 체액 과부하
+tags: [신장-전해질, 심장-혈관, series-ECFVOLCON]
+short_title: series-ECFVOLCON-15 심부전과 체액 과부하
 ---
 
 > 심박출량(cardiac output)이 감소하면 혈압-이뇨 기전이 작동하지 못해 체액이 계속 쌓이고, 그 결과 폐부종으로 이어질 수 있다.

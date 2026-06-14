@@ -1,12 +1,12 @@
 ---
 id: glycolysis02-one-sentence
 title: 해당과정을 한 문장으로 나타내면 무엇인가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 9fSryLNHinY
 membership: ssangkiyeok
 short_title: GLYCOLYSIS-02 한 문장 요약
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 해당과정(glycolysis)은 포도당(glucose) 1분자가 피루브산(pyruvate) 2분자로 분해되면서 ATP 2개와 NADH 2개를 순생산하는 반응이다.

@@ -1,12 +1,12 @@
 ---
 id: cirrhosis06-aki-hrs
 title: 간경변에서 급성신손상과 간신증후군은 어떻게 다르고, 어떻게 치료하는가
-series: CIRRHOSIS
+series: series-CIRRHOSIS
 level: 3
 youtube_id: OV8QJf4A7oM
 membership: nieun
-short_title: CIRRHOSIS-06 AKI·간신증후군
-tags: [간-소화기, 신장-전해질]
+short_title: series-CIRRHOSIS-06 AKI·간신증후군
+tags: [간-소화기, 신장-전해질, series-CIRRHOSIS]
 ---
 
 > 간경변에서 콩팥 기능이 떨어지는 핵심 이유는 유효 혈액량 감소이며, 알부민 투여에 반응하면 급성신손상(AKI)이고 반응하지 않으면 간신증후군(hepatorenal syndrome, HRS)으로 진단한다.

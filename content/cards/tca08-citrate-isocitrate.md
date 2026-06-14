@@ -1,12 +1,12 @@
 ---
 id: tca08-citrate-isocitrate
 title: 시트르산(citrate)을 이소시트르산(isocitrate)으로 바꾸는 이유는 무엇인가?
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: AzBT12zVMFg
 membership: ssangkiyeok
 short_title: TCA08 citrate→isocitrate
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 시트르산 회로에서 시트르산(citrate)을 이소시트르산(isocitrate)으로 바꾸는 것은 단순한 구조 변환이 아니라, 다음 단계인 산화적 탈탄산(oxidative decarboxylation)을 가능하게 만드는 준비 단계이다.

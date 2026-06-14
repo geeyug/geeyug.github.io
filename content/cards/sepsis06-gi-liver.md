@@ -1,12 +1,12 @@
 ---
 id: sepsis06-gi-liver
 title: 패혈증이 위장관과 간에 미치는 영향은 무엇인가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: 6nJBmuxABhs
 membership: ssangkiyeok
-tags: [응급, 간-소화기]
-short_title: SEPSIS-06 패혈증과 위장관·간
+tags: [응급, 간-소화기, series-SEPSIS]
+short_title: series-SEPSIS-06 패혈증과 위장관·간
 ---
 
 > 패혈증의 미세 순환 장애로 위장관 점막 방어벽이 무너지면 세균과 독소가 혈류로 유입되고, 간의 방어 시스템도 함께 기능을 잃으면서 전신 오염이 가속화된다.

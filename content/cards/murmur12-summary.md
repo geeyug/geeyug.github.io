@@ -1,12 +1,12 @@
 ---
 id: murmur12-summary
 title: 심잡음 총정리 — 각 판막 질환에서 무엇이 들리는가
-series: MURMUR
+series: series-MURMUR
 level: 2
 youtube_id: uS69bPL2Qpk
 membership: ssangkiyeok
-short_title: MURMUR-12 심잡음 총정리
-tags: [심장-혈관]
+short_title: series-MURMUR-12 심잡음 총정리
+tags: [심장-혈관, series-MURMUR]
 ---
 
 > 심잡음의 종류는 외우는 것이 아니라, 어느 시점에 어느 방향으로 혈액이 비정상적으로 흐르는지를 추론하면 따라온다.

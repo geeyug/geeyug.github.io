@@ -6,7 +6,7 @@ level: 2
 youtube_id: -w4J6UykKXo
 membership: public
 short_title: THYROID 갑상선 자가항체 3종
-tags: [증상-접근]
+tags: [증상-접근, THYROID]
 ---
 
 > 갑상선 자가항체는 공격 대상에 따라 anti-TPO Ab, anti-TG Ab, TSH receptor Ab 세 가지로 나뉘며, 각각 진단적 의미가 다르다.

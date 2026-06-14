@@ -5,7 +5,7 @@ topic: SHOCK
 level: 2
 youtube_id: q-UjQHtI4f4
 membership: ssangkiyeok
-tags: [응급]
+tags: [응급, SHOCK]
 short_title: SHOCK-05 신경인성 쇼크
 ---
 

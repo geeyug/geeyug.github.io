@@ -6,7 +6,7 @@ level: 2
 youtube_id: 8q6C9IGVuvg
 membership: ssangkiyeok
 short_title: GI-PHYS23 췌장액 구성
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 췌장액은 모든 영양소를 분해할 수 있는 소화효소와 위산을 중화하는 중탄산염(bicarbonate)으로 구성되며, 소화효소는 췌장 자신을 보호하기 위해 비활성 전구효소 형태로 분비된다.

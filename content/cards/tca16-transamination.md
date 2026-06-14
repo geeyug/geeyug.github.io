@@ -1,12 +1,12 @@
 ---
 id: tca16-transamination
 title: 아미노산은 어떻게 시트르산 회로로 들어오는가 — 아미노기 전이반응과 탈아미노반응
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 2hbd98ETbwU
 membership: ssangkiyeok
 short_title: 시트르산16 아미노기 전이·탈아미노
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 아미노산의 아미노기(-NH₃⁺)를 분리하면 남은 탄소 골격(carbon skeleton)이 시트르산 회로의 중간 대사물로 전환되며, 이 과정에는 두 가지 경로—아미노기 전이반응과 탈아미노반응—가 관여한다.

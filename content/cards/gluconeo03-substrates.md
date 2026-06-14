@@ -1,12 +1,12 @@
 ---
 id: gluconeo03-substrates
 title: 당신생(gluconeogenesis)의 재료는 굶을 때만 공급되는가?
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 7pHLukdpTE8
 membership: ssangkiyeok
 short_title: 당신생03 재료의 믹스
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 당신생의 재료는 굶을 때와 밥 먹을 때 모두 공급되며, 달라지는 것은 재료의 구성 비율이지 당신생 자체가 멈추는 것이 아니다.

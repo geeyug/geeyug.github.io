@@ -1,12 +1,12 @@
 ---
 id: co06-low-output-situations
 title: 심박출량이 감소하는 상황은 어떻게 나뉘는가
-series: CO
+series: series-CO
 level: 2
 youtube_id: s12Xx3P9mLY
 membership: ssangkiyeok
-short_title: CO-06 심박출량 감소
-tags: [심장-혈관]
+short_title: series-CO-06 심박출량 감소
+tags: [심장-혈관, series-CO]
 ---
 
 > 심박출량 감소는 심장 자체의 문제와 정맥 환류 감소라는 두 가지 경로로 나뉘며, 어느 쪽이든 조직 관류가 떨어지면 순환성 쇼크로 이어진다.

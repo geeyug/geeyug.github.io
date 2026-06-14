@@ -1,12 +1,12 @@
 ---
 id: heartsound13-extra-sounds
 title: S1·S2 외에 들리는 소리들은 무엇을 뜻하는가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: aZWWtr4Uxrw
 membership: ssangkiyeok
-short_title: HEARTSOUND-13 기타심음
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-13 기타심음
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > 심음은 원래 판막이 닫히면서 나는 소리이지만, 특수한 상황에서는 충만 제한, 박출, 판막 탈출, 또는 판막이 열리는 순간에도 소리가 발생한다.

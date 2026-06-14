@@ -1,12 +1,12 @@
 ---
 id: osteo03-dexa
 title: 골밀도 검사 결과지를 제대로 읽으려면 무엇을 확인해야 하는가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: VXwk8G5hQBY
 membership: nieun
-short_title: OSTEO-03 DEXA 시행과 해석
-tags: [증상-접근]
+short_title: series-OSTEO-03 DEXA 시행과 해석
+tags: [증상-접근, series-OSTEO]
 ---
 
 > 골밀도 검사(DEXA)는 환자 정보 입력, 영상 확인, 판정 부위 선택까지 여러 단계에서 오류가 생길 수 있다. 결과지의 T-score를 그대로 읽는 것만으로는 부족하다.

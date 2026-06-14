@@ -1,12 +1,12 @@
 ---
 id: rta08-type4
 title: Type 4 RTA에서 산증보다 고칼륨혈증이 더 문제가 되는 이유는 무엇인가?
-series: RTA
+series: series-RTA
 level: 3
 youtube_id: 0sTASdHwy-4
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-08 Type4 심층분석
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-08 Type4 심층분석
 ---
 
 > Type 4 RTA에서 산증은 고칼륨혈증의 결과로 따라오는 이차적 문제이며, 고칼륨혈증을 교정하면 산증도 함께 호전되는 경우가 많다.

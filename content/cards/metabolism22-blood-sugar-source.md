@@ -1,12 +1,12 @@
 ---
 id: metabolism22-blood-sugar-source
 title: 혈액 속 포도당은 어디서 오는가
-series: METABOLISM
+series: series-METABOLISM
 level: 2
 youtube_id: BHTnPBTjHNM
 membership: ssangkiyeok
-short_title: METABOLISM-22 혈당의 세 가지 원천
-tags: [당뇨-대사]
+short_title: series-METABOLISM-22 혈당의 세 가지 원천
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 혈중 포도당(glucose)의 원천은 정확히 세 가지다 — 식이 섭취, 당신생(gluconeogenesis), 글리코겐 분해(glycogenolysis). 이 세 경로 이외의 원천은 없다.

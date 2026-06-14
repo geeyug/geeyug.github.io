@@ -6,7 +6,7 @@ level: 1
 youtube_id: 7rkT447IWOI
 membership: public
 short_title: SYMPTOM 구역구토 기전
-tags: [증상-접근, 간-소화기]
+tags: [증상-접근, 간-소화기, GENERAL]
 ---
 
 > 구토는 뇌의 구토 중추(vomiting center)가 여러 경로의 신호를 취합해 위장, 소장, 횡경막, 복근을 단계적으로 조율하는 복잡한 신경 반사다.

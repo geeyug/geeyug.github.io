@@ -6,7 +6,7 @@ level: 1
 youtube_id: ap_xP5PLm8Q
 membership: public
 short_title: DM 당뇨약 성기능 오해
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨약이 성기능을 떨어뜨리는 것이 아니라, 치료되지 않은 당뇨병 자체가 혈관과 신경을 손상시켜 성기능 저하를 일으킨다.

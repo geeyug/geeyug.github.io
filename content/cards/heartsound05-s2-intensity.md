@@ -1,12 +1,12 @@
 ---
 id: heartsound05-s2-intensity
 title: S2의 강도가 증가하거나 감소하는 이유는 무엇인가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: VBLbPxMzT6o
 membership: ssangkiyeok
-short_title: HEARTSOUND-05 S2 강도
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-05 S2 강도
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > S2의 강도는 해당 판막이 닫힐 때의 압력 환경에 의해 결정된다. A2는 대동맥압, P2는 폐동맥압이 높을수록 커진다.

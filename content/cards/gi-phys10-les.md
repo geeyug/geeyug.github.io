@@ -6,7 +6,7 @@ level: 2
 youtube_id: FFhLus79mD0
 membership: ssangkiyeok
 short_title: GIPHYS-10 하부식도괄약근
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 하부식도괄약근(LES)은 식도와 위 사이에서 위산의 역류를 막고, 연동파가 오면 이완해 음식물을 통과시키는 문지기 역할을 한다.

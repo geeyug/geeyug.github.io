@@ -1,11 +1,11 @@
 ---
 id: ves19-lymph-flow
 title: 심장 없이 림프 순환은 어떻게 유지되며 무슨 의미를 가지는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: BAa5XpPkCW8
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES19 림프 순환 촉진 기전
 ---
 

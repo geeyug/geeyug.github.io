@@ -6,7 +6,7 @@ level: 2
 youtube_id: 0qfHquGrLLY
 membership: ssangkiyeok
 short_title: GI-PHYS06 위장관 혈류
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 위장관에 혈액을 공급하는 동맥은 세 줄기(복강동맥, 상장간막동맥, 하장간막동맥)에서 시작하고, 나온 혈액은 장간막정맥을 거쳐 간문맥으로 모두 간에 먼저 들어간다. 지방만 예외로 림프관(흉관)을 통해 운반된다.

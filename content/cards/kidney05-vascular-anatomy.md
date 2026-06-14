@@ -1,12 +1,12 @@
 ---
 id: kidney05-vascular-anatomy
 title: 콩팥으로 들어간 혈관이 두 번 교환하는 이유는 무엇인가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: IcwetENWdRE
 membership: ssangkiyeok
-short_title: KIDNEY-05 콩팥 혈관 구조
-tags: [신장-전해질]
+short_title: series-KIDNEY-05 콩팥 혈관 구조
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 콩팥 혈관계는 여과와 재흡수를 위해 모세혈관 교환이 두 차례 일어나도록 설계되어 있다.

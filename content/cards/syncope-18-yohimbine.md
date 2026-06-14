@@ -1,12 +1,12 @@
 ---
 id: syncope-18-yohimbine
 title: 요힘빈은 어떤 기전으로 기립성 저혈압에 쓰이며, 왜 실제로는 거의 쓰이지 않는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 3
 youtube_id: v8GcuzwlFMU
 membership: ssangkiyeok
-tags: [약물-기전, 증상-접근]
-short_title: SYNCOPE-18 요힘빈
+tags: [약물-기전, 증상-접근, series-SYNCOPE]
+short_title: series-SYNCOPE-18 요힘빈
 ---
 
 > 요힘빈은 교감신경 말단의 음성 피드백을 차단해 노르에피네프린을 늘리는 방식으로 혈압을 올리지만, 전신 교감신경 흥분, 불안정한 효과, 근거 부족으로 실제 사용은 매우 제한적이다.

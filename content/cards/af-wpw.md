@@ -6,7 +6,7 @@ level: 3
 youtube_id: w4yXpuff1m4
 membership: nieun
 short_title: AF-08 AF with WPW
-tags: [심장-혈관]
+tags: [심장-혈관, AF]
 ---
 
 > 심방세동에 WPW 증후군이 동반되면, 방실결절(AV node)의 여과 기능이 우회되어 심방의 빠른 신호가 심실로 그대로 전달되고 돌연사에 이를 수 있다.

@@ -1,12 +1,12 @@
 ---
 id: murmur10-vsd
 title: VSD(심실중격결손)에서는 어떤 심잡음이 들리는가
-series: MURMUR
+series: series-MURMUR
 level: 2
 youtube_id: u6-OkSHsUdo
 membership: ssangkiyeok
-short_title: MURMUR-10 VSD 심잡음
-tags: [심장-혈관]
+short_title: series-MURMUR-10 VSD 심잡음
+tags: [심장-혈관, series-MURMUR]
 ---
 
 > VSD(ventricular septal defect, 심실중격결손)에서는 수축기 내내 들리는 holosystolic murmur가 기본이지만, 동반 상황에 따라 그 성격이 달라진다.

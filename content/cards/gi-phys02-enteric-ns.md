@@ -6,7 +6,7 @@ level: 2
 youtube_id: oAKBg5ui4x8
 membership: ssangkiyeok
 short_title: GI-PHYS02 장신경계
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 장신경계는 교감·부교감신경의 조절 아래 다양한 신경전달물질과 감각 신경을 이용해 소화 운동·분비·흡수를 정교하게 조율한다.

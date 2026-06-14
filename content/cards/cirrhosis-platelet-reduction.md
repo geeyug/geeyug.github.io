@@ -6,7 +6,7 @@ level: 2
 youtube_id: HMzu9cC0SUY
 membership: public
 short_title: LIVER 혈소판 감소 기전
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 ---
 
 > 간경변에서 혈소판 감소는 비장 격리, 트롬보포이에틴 감소, 자가항체에 의한 파괴, 소모성 응고 등 여러 기전이 동시에 작용한다.

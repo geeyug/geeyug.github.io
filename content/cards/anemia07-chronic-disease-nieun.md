@@ -1,12 +1,12 @@
 ---
 id: anemia07-chronic-disease-nieun
 title: 만성질환이 있을 때 빈혈이 생기는 이유는 무엇인가
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 2
 youtube_id: u7_zkhY7xNY
 membership: nieun
 short_title: 빈혈07 만성질환 빈혈
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 만성질환에 의한 빈혈(anemia of chronic disease, ACD)은 철이 부족해서가 아니라, 헵시딘(hepcidin)이 철의 이동을 막아 몸이 철을 제대로 쓰지 못하는 상태다.

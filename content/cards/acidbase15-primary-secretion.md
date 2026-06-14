@@ -1,12 +1,12 @@
 ---
 id: acidbase15-primary-secretion
 title: 원위 세관에서 수소 이온이 직접 펌프로 분비되는 이유는 무엇인가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: -lxXSIsQ9Ec
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: ACIDBASE-15 수소이온 일차능동분비
+tags: [신장-전해질, series-ACIDBASE]
+short_title: series-ACIDBASE-15 수소이온 일차능동분비
 ---
 
 > 원위 세관과 집합세관은 에너지를 직접 소비하는 일차능동분비(primary active secretion)로 수소 이온을 내보내며, 이 방식만이 소변 pH를 4.5까지 낮출 수 있다.

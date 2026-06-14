@@ -1,12 +1,12 @@
 ---
 id: cirrhosis01-intro
 title: 간경변은 어떤 경로로 진행하고, 무엇을 치료해야 하는가
-series: CIRRHOSIS
+series: series-CIRRHOSIS
 level: 2
 youtube_id: s3zX69_Ngsw
 membership: nieun
-short_title: CIRRHOSIS-01 진행 경로와 치료 방향
-tags: [간-소화기]
+short_title: series-CIRRHOSIS-01 진행 경로와 치료 방향
+tags: [간-소화기, series-CIRRHOSIS]
 ---
 
 > 간경변(liver cirrhosis)은 만성 간질환이 진행한 결과이며, 합병증이 나타나기 전의 대상성 단계에서 원인 질환을 치료하는 것이 핵심이다.

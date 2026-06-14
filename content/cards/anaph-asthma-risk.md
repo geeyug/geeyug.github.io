@@ -6,7 +6,7 @@ level: 2
 youtube_id: UqF7WY5eu9E
 membership: nieun
 short_title: ANAPH20 천식·비염과 아나필락시스
-tags: [응급, 호흡기]
+tags: [응급, 호흡기, ANAPH]
 ---
 
 > 천식과 알레르기 비염에서 아나필락시스 위험이 높은 이유는 두 가지다. 첫째는 아토피 체질 특유의 높은 감작(sensitization) 가능성이고, 둘째는 천식에 동반된 기관지 과민성이 아나필락시스 발생 시 호흡부전을 악화시키기 때문이다.

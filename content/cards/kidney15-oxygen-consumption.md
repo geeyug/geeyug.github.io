@@ -1,12 +1,12 @@
 ---
 id: kidney15-oxygen-consumption
 title: 콩팥으로 가는 그 많은 산소는 다 어디에 쓰이는가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: X86i_Axj4UA
 membership: ssangkiyeok
-short_title: KIDNEY-15 콩팥 산소 소비
-tags: [신장-전해질]
+short_title: series-KIDNEY-15 콩팥 산소 소비
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 콩팥은 체중의 0.4%에 불과하지만 심박출량의 22%를 받는다. 이 불균형적인 혈류에 포함된 산소의 대부분은 세관(tubule)에서 소듐(Na⁺)을 재흡수하는 데 소비된다.

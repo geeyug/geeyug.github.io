@@ -6,7 +6,7 @@ level: 1
 youtube_id: J_DgAANkhLg
 membership: public
 short_title: HTN 균형점 이동
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 고혈압은 심박출량이나 혈관 저항이 단순히 높아진 상태가 아니라, 나트륨 배출과 혈압 사이의 균형점 자체가 더 높은 쪽으로 이동한 상태이다.

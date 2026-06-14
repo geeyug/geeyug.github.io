@@ -1,12 +1,12 @@
 ---
 id: ves08-venous-return-varicose
 title: 정맥은 어떻게 중력을 거슬러 혈액을 심장으로 보내는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: 69eLH47CgJw
 membership: ssangkiyeok
 short_title: VES08 정맥환류 정맥류
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 ---
 
 > 정맥은 심장의 펌프 압력을 거의 받지 못하므로, 근육 수축과 판막(valve)의 조합으로 혈액을 중력에 맞서 심장으로 올려 보낸다.

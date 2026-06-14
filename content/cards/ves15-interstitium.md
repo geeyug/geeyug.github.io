@@ -1,11 +1,11 @@
 ---
 id: ves15-interstitium
 title: 모세혈관과 세포 사이에는 무엇이 있는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: Ba5jjxTvE7Q
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES15 간질 구조와 부종
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: heartsound03-s1-decreased
 title: S1이 감소하는 개별 상황들은 어떻게 설명되는가?
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: pAyZorQ7KFU
 membership: ssangkiyeok
-tags: [심장-혈관]
-short_title: HEARTSOUND-03 S1 감소 상황
+tags: [심장-혈관, series-HEARTSOUND]
+short_title: series-HEARTSOUND-03 S1 감소 상황
 ---
 
 > S1이 감소하는 상황은 소리 전달을 방해하는 물리적 장벽(비만, COPD, 심낭삼출)과 수축 직전 판막이 이미 닫혀 있거나 제대로 움직이지 못하는 상황(긴 PR 간격, 대동맥판 역류, 승모판 역류 중증도에 따라, LBBB, 대동맥판 협착증, 확장성 심근병증)으로 나뉜다.
@@ -25,7 +25,7 @@ S1이 작게 들린다. 이 소견은 무엇을 의미하는가? 단순히 청�
 
 ## ❸ 판막이 제대로 닫히지 못하는 상황
 
-이 경우는 소리 자체가 작게 나거나 나지 않는 상황이다. 앞 카드(HEARTSOUND-02)에서 다룬 강도 결정 요인이 그대로 적용된다.
+이 경우는 소리 자체가 작게 나거나 나지 않는 상황이다. 앞 카드(series-HEARTSOUND-02)에서 다룬 강도 결정 요인이 그대로 적용된다.
 
 ### PR 간격 연장 (>0.2초)
 이완기가 길어지면 좌심실 압력이 서서히 상승하고, 수축 직전 승모판이 이미 반쯤 닫혀 있는 상태가 된다. 판막이 짧은 거리를 이동해 닫히므로 S1 감소.

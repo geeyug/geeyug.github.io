@@ -1,12 +1,12 @@
 ---
 id: ecfvolcon-17-low-protein
 title: 혈액 중 단백질이 감소하면 왜 부종이 생기는가
-series: ECFVOLCON
+series: series-ECFVOLCON
 level: 2
 youtube_id: LdG1d0rFhPA
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: ECFVOLCON-17 저단백혈증과 부종
+tags: [신장-전해질, series-ECFVOLCON]
+short_title: series-ECFVOLCON-17 저단백혈증과 부종
 ---
 
 > 혈중 단백질이 감소하면 교질삼투압(oncotic pressure)이 낮아져 체액이 간질(interstitium)로 빠져나가고, 혈액량은 오히려 부족해지면서 부종이 악화된다.

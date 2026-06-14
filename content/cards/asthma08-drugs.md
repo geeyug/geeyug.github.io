@@ -1,12 +1,12 @@
 ---
 id: asthma08-drugs
 title: 천식 치료 약제들은 각각 어디서, 어떻게 작용하는가
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: cb8X8qTOQJk
 membership: nieun
-short_title: ASTHMA-08 치료약제
-tags: [호흡기, 약물-기전]
+short_title: series-ASTHMA-08 치료약제
+tags: [호흡기, 약물-기전, series-ASTHMA]
 ---
 
 > 천식 치료 약제는 기도를 넓히는 기관지 확장제와 염증을 줄이는 항염증제로 나뉘며, 각 약제는 기전이 다르고 사용 목적도 구분된다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: 7gbtSnOGzg0
 membership: public
 short_title: DRUG MTX 폐독성
-tags: [약물-기전, 호흡기]
+tags: [약물-기전, 호흡기, PHARM]
 ---
 
 > 메토트렉세이트(methotrexate, MTX)는 류마티스 관절염의 대표적 치료제이지만, 드물게 간질성 폐질환(ILD)을 유발할 수 있어 호흡기 증상이 생기면 반드시 이 약을 고려해야 한다.

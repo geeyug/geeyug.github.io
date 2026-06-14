@@ -6,7 +6,7 @@ level: 1
 youtube_id: WecyhkW1cKs
 membership: public
 short_title: LIVER 간질환 주의 약물
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, LIVER]
 ---
 
 > 간 기능이 저하된 환자에서 아세트아미노펜, NSAID, 항생제는 각기 다른 경로로 심각한 독성을 일으킬 수 있다.

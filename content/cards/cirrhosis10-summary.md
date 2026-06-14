@@ -1,12 +1,12 @@
 ---
 id: cirrhosis10-summary
 title: 간경변 — 합병증들이 한 환자 안에서 어떻게 맞물리는가
-series: CIRRHOSIS
+series: series-CIRRHOSIS
 level: 2
 youtube_id: JxK6ysRRwZo
 membership: nieun
-short_title: CIRRHOSIS-10 간경변 전체 흐름
-tags: [간-소화기]
+short_title: series-CIRRHOSIS-10 간경변 전체 흐름
+tags: [간-소화기, series-CIRRHOSIS]
 ---
 
 > 간경변의 합병증은 따로따로 발생하는 것이 아니라 한 환자 안에서 동시에, 또는 순차적으로 얽혀 진행하며, 원인 치료를 놓치면 합병증 관리만으로는 한계가 있다.

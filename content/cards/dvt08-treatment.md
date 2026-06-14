@@ -1,12 +1,12 @@
 ---
 id: dvt08-treatment
 title: DVT가 진단되면 어떻게 치료하는가
-series: DVT
+series: series-DVT
 level: 2
 youtube_id: louozo4yMiY
 membership: ssangkiyeok
-short_title: DVT-08 DVT 치료
-tags: [심장-혈관]
+short_title: series-DVT-08 series-DVT 치료
+tags: [심장-혈관, series-DVT]
 ---
 
 > DVT의 치료 원칙은 항응고 치료(anticoagulation)이며, 위치에 따라 전략이 다르고 최소 3개월에서 1년 이상 유지한다.
@@ -47,7 +47,7 @@ tags: [심장-혈관]
 
 ## ❹ 결국
 
-DVT 치료의 핵심은 혈전을 즉시 없애는 것이 아니라 더 이상의 진행과 이동을 막는 것이다. 위치에 따라 전략이 다르고, 약제 선택은 효과, 편의성, 가격, 출혈 위험을 함께 고려해서 결정한다.
+series-DVT 치료의 핵심은 혈전을 즉시 없애는 것이 아니라 더 이상의 진행과 이동을 막는 것이다. 위치에 따라 전략이 다르고, 약제 선택은 효과, 편의성, 가격, 출혈 위험을 함께 고려해서 결정한다.
 
 영상으로 더 깊이 보고 싶다면:
 [▶ 영상으로 보기](https://youtu.be/louozo4yMiY) *(멤버십)*

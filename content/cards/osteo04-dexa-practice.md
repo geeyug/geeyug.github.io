@@ -1,12 +1,12 @@
 ---
 id: osteo04-dexa-practice
 title: 골밀도 결과지를 실제로 어떻게 해석하는가 — 연습문제로 확인하기
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: R_8FLYaFwlQ
 membership: nieun
-short_title: OSTEO-04 DEXA 해석 연습
-tags: [증상-접근]
+short_title: series-OSTEO-04 DEXA 해석 연습
+tags: [증상-접근, series-OSTEO]
 ---
 
 > 골밀도 판정은 T-score를 그대로 읽는 것이 아니라, 사용할 수 없는 척추를 제외하고 남은 값들 중 가장 낮은 것을 기준으로 한다.

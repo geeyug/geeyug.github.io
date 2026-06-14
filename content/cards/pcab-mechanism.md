@@ -5,7 +5,7 @@ topic: GI
 level: 2
 youtube_id: 13165aGgaV8
 membership: public
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, GI]
 short_title: GI P-CAB 기전
 ---
 

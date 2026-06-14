@@ -6,7 +6,7 @@ level: 1
 youtube_id: AS5abmcr0_M
 membership: public
 short_title: 위암 수술 적응증
-tags: [간-소화기]
+tags: [간-소화기, ONCO]
 ---
 
 > 위암이 확인되더라도 원격전이(M1)가 있으면 수술은 치료에 도움이 되지 않으며, 항암치료가 우선이다.

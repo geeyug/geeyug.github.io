@@ -6,7 +6,7 @@ level: 2
 youtube_id: 4bIAuI1z6XM
 membership: ssangkiyeok
 short_title: 대장게실 발생 원리
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 대장 게실(diverticulum)은 대장 벽을 관통하는 혈관이 지나는 지점에서 근육층이 약해지고, 그 틈으로 점막층이 밀려 나온 가성게실(pseudodiverticulum)이다.

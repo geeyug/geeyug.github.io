@@ -1,12 +1,12 @@
 ---
 id: pain06-nsaid-mechanism
 title: NSAIDs는 어떻게 통증을 줄이는가 — 말초에서의 개입
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: srcg2IkT19M
 membership: ssangkiyeok
-short_title: PAIN-06 NSAIDs 기전
-tags: [증상-접근, 약물-기전]
+short_title: series-PAIN-06 NSAIDs 기전
+tags: [증상-접근, 약물-기전, series-PAIN]
 ---
 
 > NSAIDs는 염증 부위에서 PGE2(프로스타글란딘 E2) 생성을 억제하여 통증 수용기의 과민도를 낮춘다. 염증 자체를 제거하는 것이 아니라, 염증으로 인해 과도하게 예민해진 수용기를 정상화하는 방식이다.

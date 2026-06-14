@@ -6,7 +6,7 @@ level: 1
 youtube_id: 5glQadr9TB0
 membership: ssangkiyeok
 short_title: PREV 임신 Tdap 접종 시기
-tags: [증상-접근]
+tags: [증상-접근, GENERAL]
 ---
 
 > 임산부가 임신 27~36주 사이에 Tdap을 접종하는 것은, 태반을 통해 신생아에게 항체를 전달하면서 동시에 생후 2개월 접종 효과를 해치지 않는 균형점이다.

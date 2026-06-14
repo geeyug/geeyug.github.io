@@ -6,7 +6,7 @@ level: 1
 youtube_id: 0zmAjvv_LsQ
 membership: public
 short_title: LFT-02 ALP
-tags: [간-소화기]
+tags: [간-소화기, LFT]
 ---
 
 > ALP(알칼리성 인산분해효소)는 담관과 인접한 간세포막에 위치하며, 담즙이 정체될 때 담즙산의 자극으로 대량 생성되어 혈중으로 방출된다.

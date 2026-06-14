@@ -1,12 +1,12 @@
 ---
 id: anemia14-pnh
 title: 발작성 야간 혈색소뇨증(PNH) — 보체로부터 적혈구를 지키는 방어막이 사라진다
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 3
 youtube_id: _iw0YUYGNo0
 membership: nieun
 short_title: 빈혈14 PNH
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 발작성 야간 혈색소뇨증(paroxysmal nocturnal hemoglobinuria, PNH)은 PIGA 유전자 돌연변이로 CD55·CD59라는 보체 조절 단백이 RBC 표면에서 소실되어 보체(complement) 매개 용혈이 지속적으로 일어나는 후천성 클론성 질환이다.

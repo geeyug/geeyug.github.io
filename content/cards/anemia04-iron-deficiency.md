@@ -1,12 +1,12 @@
 ---
 id: anemia04-iron-deficiency
 title: 철결핍성 빈혈에서 철분 보충보다 먼저 해야 하는 것
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 2
 youtube_id: nIB3HSj3QrQ
 membership: nieun
 short_title: 빈혈04 철결핍 원인과 진행
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 철결핍성 빈혈(iron deficiency anemia)이 확인되면 철분 보충만큼 중요한 것이 원인 워크업이다. 만성 소화관 출혈, 특히 위장관암을 배제하지 않으면 치료가 아무 의미가 없다.

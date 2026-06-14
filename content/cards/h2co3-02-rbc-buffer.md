@@ -1,12 +1,12 @@
 ---
 id: h2co3-02-rbc-buffer
 title: 이산화탄소가 그렇게 많이 나와도 혈액이 바로 산성이 되지 않는 이유는 무엇인가
-series: H2CO3
+series: series-H2CO3
 level: 2
 youtube_id: -UYrPG7_j8E
 membership: public
-short_title: H2CO3-02 적혈구 완충 역할
-tags: [호흡기, 신장-전해질]
+short_title: series-H2CO3-02 적혈구 완충 역할
+tags: [호흡기, 신장-전해질, series-H2CO3]
 ---
 
 > 운동 시 대량 발생하는 이산화탄소가 즉시 산증을 일으키지 않는 것은 헤모글로빈이 수소 이온을 가역적으로 붙잡아 두기 때문이다.

@@ -1,11 +1,11 @@
 ---
 id: anaph27-discharge-criteria
 title: 아나필락시스에서 회복되었다면 바로 귀가해도 되는가
-series: ANAPH
+series: series-ANAPH
 level: 2
 youtube_id: YoQAuJUwfHM
 membership: nieun
-tags: [응급]
+tags: [응급, series-ANAPH]
 short_title: ANAPH27 귀가 기준
 ---
 

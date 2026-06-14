@@ -1,12 +1,12 @@
 ---
 id: glycogen02-liver-muscle
 title: 간의 글리코겐과 근육의 글리코겐 — 같은 물질인데 왜 역할이 다른가?
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 9ll3CxEel38
 membership: ssangkiyeok
 short_title: 글리코겐02 간 vs 근육
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 간의 글리코겐은 혈당 유지를 위한 공공 저장고이고, 근육의 글리코겐은 자기 자신만 쓸 수 있는 전용 연료다.

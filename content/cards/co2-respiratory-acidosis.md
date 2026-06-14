@@ -1,12 +1,12 @@
 ---
 id: co2-respiratory-acidosis
 title: 이산화탄소가 늘면 왜 산증이 생기는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: AciEOIuiTMo
 membership: public
-short_title: ACIDBASE CO2와 호흡성 산증
-tags: [신장-전해질]
+short_title: series-ACIDBASE CO2와 호흡성 산증
+tags: [신장-전해질, series-ACIDBASE]
 ---
 
 > 이산화탄소(CO₂)는 물과 반응해 탄산(H₂CO₃)이 되고, 탄산은 수소이온(H⁺)을 내놓는다. 수소이온이 늘면 pH가 떨어지므로 호흡성 산증이 된다.

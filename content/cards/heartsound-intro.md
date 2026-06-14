@@ -5,7 +5,7 @@ topic: HEARTSOUND
 level: 2
 youtube_id: nFn494RmG6M
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, HEARTSOUND]
 short_title: HEARTSOUND-intro 심음 청진의 현실
 ---
 

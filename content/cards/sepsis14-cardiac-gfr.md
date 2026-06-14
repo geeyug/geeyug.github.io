@@ -1,12 +1,12 @@
 ---
 id: sepsis14-cardiac-gfr
 title: 심장 기능이 나쁜 패혈증 환자에서 GFR이 더 떨어지는 이유
-series: SEPSIS
+series: series-SEPSIS
 level: 3
 youtube_id: 5XAyjYrf97k
 membership: ssangkiyeok
-short_title: SEPSIS-14 심장과 콩팥 GFR
-tags: [응급, 신장-전해질]
+short_title: series-SEPSIS-14 심장과 콩팥 GFR
+tags: [응급, 신장-전해질, series-SEPSIS]
 ---
 
 > 비대상성 심부전이 동반된 패혈증에서는 정맥압 상승 → 콩팥 간질 부종 → 세뇨관 압력 증가의 경로로 GFR이 추가로 감소한다.

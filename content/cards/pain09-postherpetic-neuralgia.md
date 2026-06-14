@@ -1,12 +1,12 @@
 ---
 id: pain09-postherpetic-neuralgia
 title: 대상포진 후 신경통은 왜 수년간 지속되는가
-series: PAIN
+series: series-PAIN
 level: 3
 youtube_id: 1AJO2PzrN2M
 membership: ssangkiyeok
-short_title: PAIN-09 대상포진 후 신경통
-tags: [증상-접근]
+short_title: series-PAIN-09 대상포진 후 신경통
+tags: [증상-접근, series-PAIN]
 ---
 
 > 대상포진 후 신경통은 말초 염증이 사라진 뒤에도 말초 신경 손상이 중추신경계의 구조적 변화를 일으켜 통증이 수년간 지속되는 상태이다.

@@ -1,12 +1,12 @@
 ---
 id: sepsis10-kidney-inflammation
 title: 패혈증의 염증 반응이 콩팥을 망가뜨리는 과정
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: CBq3wRm6RaQ
 membership: ssangkiyeok
-short_title: SEPSIS-10 염증과 콩팥 손상
-tags: [응급, 신장-전해질]
+short_title: series-SEPSIS-10 염증과 콩팥 손상
+tags: [응급, 신장-전해질, series-SEPSIS]
 ---
 
 > 패혈증에서 염증 반응은 세뇨관 상피세포를 앞뒤에서 동시에 공격하며, 부종으로 인한 세뇨관 폐색까지 더해져 콩팥 기능을 다방면으로 저하시킨다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: Hj-8gtfB44Q
 membership: ssangkiyeok
 short_title: RESP-P07 시진 타진 촉진
-tags: [호흡기, 증상-접근]
+tags: [호흡기, 증상-접근, RESP]
 ---
 
 > 호흡기 신체 검진에서 시진은 호흡 부전의 징후를, 타진은 흉강 내 공기와 액체를, 촉진의 성음 진동(tactile fremitus)은 폐 실질의 상태를 간접적으로 파악하게 한다.

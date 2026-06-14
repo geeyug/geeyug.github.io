@@ -1,12 +1,12 @@
 ---
 id: dm13-glycemic-target
 title: "당뇨병에서 혈당 조절 목표는 어떻게 개별화하는가"
-series: DM
+series: series-DM
 level: 2
 youtube_id: ybKQvPtslQM
 membership: nieun
 short_title: DM13 혈당조절 목표
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 ---
 
 > 당뇨병 혈당 조절 목표는 HbA1c 7.0%라는 단일 기준이 아니라, 환자의 기대 수명·동반질환·저혈당 위험도·치료 의지에 따라 6.5%에서 8.5% 사이에서 개별화된다.

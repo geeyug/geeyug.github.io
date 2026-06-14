@@ -6,7 +6,7 @@ level: 2
 youtube_id: h22LBy0Y2c0
 membership: public
 short_title: LIVER 간경변 저나트륨혈증
-tags: [간-소화기, 신장-전해질]
+tags: [간-소화기, 신장-전해질, LIVER]
 ---
 
 > 간경변에서 저나트륨혈증은 나트륨이 부족해서가 아니라, 바소프레신(vasopressin)이 혈압 보정 목적으로 분비되면서 순수한 수분만 과도하게 재흡수되기 때문에 생긴다.

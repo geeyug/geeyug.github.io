@@ -6,7 +6,7 @@ level: 2
 youtube_id: wVIZlCcB5KM
 membership: public
 short_title: DKA-칼륨 변화
-tags: [당뇨-대사, 신장-전해질]
+tags: [당뇨-대사, 신장-전해질, DM]
 ---
 
 > 당뇨병성 케톤산증(DKA)에서 칼륨은 감소할 수도, 증가할 수도 있다. 방향은 어느 기전이 우세하느냐에 따라 결정된다.

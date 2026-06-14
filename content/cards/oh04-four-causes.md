@@ -1,12 +1,12 @@
 ---
 id: oh04-four-causes
 title: 기립성저혈압은 왜 생기는가 — 4가지 원인
-series: OH
+series: series-OH
 level: 2
 youtube_id: cQgv2AqJAPU
 membership: ssangkiyeok
-short_title: OH-04 기립성저혈압 4가지 원인
-tags: [심장-혈관]
+short_title: series-OH-04 기립성저혈압 4가지 원인
+tags: [심장-혈관, series-OH]
 ---
 
 > 기립성저혈압은 채혈량 부족, 약물, 압력수용체 감도 저하, 교감신경 말단의 기능 부전 — 이 네 가지 경로 중 하나 이상으로 발생한다.

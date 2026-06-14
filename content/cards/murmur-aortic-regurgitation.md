@@ -5,7 +5,7 @@ topic: MURMUR
 level: 2
 youtube_id: t4m8opKv0YY
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, MURMUR]
 short_title: MURMUR-07 대동맥판 역류 잡음
 ---
 

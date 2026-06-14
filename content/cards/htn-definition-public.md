@@ -6,7 +6,7 @@ level: 1
 youtube_id: 6BM1HQeC_YQ
 membership: public
 short_title: HTN 정의 기준
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 고혈압의 기준은 자연법칙이 아니라 심뇌혈관 질환 위험이 의미 있게 증가하는 지점을 연구로 확인한 뒤 사람이 정한 수치다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: lp_f8eLJRwM
 membership: public
 short_title: CKD 진행 억제 5가지
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 ---
 
 > 만성콩팥병(CKD)의 진행을 막는 방법은 특별하지 않으며, 단백뇨 억제·혈압 조절·식이 조절·콜레스테롤 관리·혈당 조절이라는 기본의 철저한 실행이 전부이다.

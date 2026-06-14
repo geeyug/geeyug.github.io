@@ -1,12 +1,12 @@
 ---
 id: tubule-23-sympathetic
 title: 교감신경계는 어떻게 콩팥의 나트륨 재흡수를 늘리는가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: wfkOI-7qTZ8
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-23 교감신경과 재흡수
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-23 교감신경과 재흡수
 ---
 
 > 교감신경계는 콩팥 혈관 수축, 근위 세뇨관 직접 자극, 레닌 분비 촉진의 세 경로로 나트륨과 수분 재흡수를 늘린다.

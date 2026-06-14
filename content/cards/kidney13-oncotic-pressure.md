@@ -1,12 +1,12 @@
 ---
 id: kidney13-oncotic-pressure
 title: 사구체 모세혈관 교질삼투압은 왜 단순히 고정된 값이 아닌가
-series: KIDNEY
+series: series-KIDNEY
 level: 3
 youtube_id: 9lTIBEXXuLU
 membership: ssangkiyeok
-short_title: KIDNEY-13 교질삼투압과 GFR
-tags: [신장-전해질]
+short_title: series-KIDNEY-13 교질삼투압과 GFR
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 사구체 모세혈관의 교질삼투압(oncotic pressure)은 혈장 단백질 농도에 의해 결정되는데, 이 농도는 여과 분율(filtration fraction)에 따라 달라지므로 콩팥 혈장 유량(renal plasma flow) 변화만으로도 GFR이 바뀔 수 있다.

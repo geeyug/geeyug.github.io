@@ -1,12 +1,12 @@
 ---
 id: syncope09-warning-signs
 title: 실신 후 반드시 확인해야 할 17가지 — 심장성 실신을 놓치지 않으려면
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: 023_aOOQvw8
 membership: ssangkiyeok
-short_title: SYNCOPE-09 고위험 17가지
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-09 고위험 17가지
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 실신 후 고위험군을 결정하는 17가지 소견은 모두 심장성 실신(cardiac syncope)을 시사하는 것들이다.

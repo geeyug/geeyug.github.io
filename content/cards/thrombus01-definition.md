@@ -1,12 +1,12 @@
 ---
 id: thrombus01-definition
 title: 혈전이란 무엇이며, 어떻게 만들어지는가
-series: DVT
+series: series-DVT
 level: 2
 youtube_id: CDDbKcvv5EU
 membership: ssangkiyeok
 short_title: THROMBUS-01 혈전 정의
-tags: [심장-혈관]
+tags: [심장-혈관, series-DVT]
 ---
 
 > 혈전은 혈관 안에서 비정상적으로 형성된 혈액 덩어리다. 원래 출혈을 막기 위해 존재하는 응고 시스템이 손상 없는 혈관 내부에서 작동할 때 만들어진다.

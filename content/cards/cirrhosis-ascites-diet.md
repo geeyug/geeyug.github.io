@@ -6,7 +6,7 @@ level: 1
 youtube_id: -w0hSvBL6FU
 membership: public
 short_title: CIRRHOSIS 복수 식이요법
-tags: [간-소화기]
+tags: [간-소화기, CIRRHOSIS]
 ---
 
 > 간경변증 복수 치료의 첫 번째 원칙은 나트륨 제한이며, 수분 제한은 원칙적으로 필요하지 않다.

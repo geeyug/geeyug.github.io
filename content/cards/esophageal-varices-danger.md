@@ -6,7 +6,7 @@ level: 1
 youtube_id: FhIvwZAxt6U
 membership: public
 short_title: LIVER 식도정맥류 출혈 위험
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 ---
 
 > 식도정맥류 출혈은 외부 압박으로 지혈이 불가능한 구조적 특성과 높은 재출혈률이 맞물려 간경변 합병증 중 사망률이 높은 축에 속한다.

@@ -1,12 +1,12 @@
 ---
 id: kidney19-tgf-mechanism
 title: 사구체여과율을 일정하게 유지하기 위해 콩팥은 어떻게 스스로를 조절하는가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: 33EYschGdNk
 membership: ssangkiyeok
-short_title: KIDNEY-19 TGF 되먹임 기전
-tags: [신장-전해질]
+short_title: series-KIDNEY-19 TGF 되먹임 기전
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 콩팥은 세관 끝에서 소금 농도를 감지해 사구체 혈류를 피드백 제어한다. 이 기전을 세관-사구체 되먹임(tubuloglomerular feedback, TGF)이라 한다.

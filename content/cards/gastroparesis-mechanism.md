@@ -5,7 +5,7 @@ topic: GI
 level: 1
 youtube_id: -omzGRCsL8w
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, GI]
 short_title: GI 위마비 기전
 ---
 

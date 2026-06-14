@@ -5,7 +5,7 @@ topic: ANAPH
 level: 2
 youtube_id: xziNNGcLXrE
 membership: nieun
-tags: [응급, 약물-기전]
+tags: [응급, 약물-기전, ANAPH]
 short_title: ANAPH23 아나필락시스 치료
 ---
 

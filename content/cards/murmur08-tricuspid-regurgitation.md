@@ -1,12 +1,12 @@
 ---
 id: murmur08-tricuspid-regurgitation
 title: 삼첨판역류에서 들리는 심잡음은 어떤 특징을 가지는가
-series: MURMUR
+series: series-MURMUR
 level: 2
 youtube_id: R_5HzPvtHrQ
 membership: ssangkiyeok
-short_title: MURMUR-08 삼첨판역류
-tags: [심장-혈관]
+short_title: series-MURMUR-08 삼첨판역류
+tags: [심장-혈관, series-MURMUR]
 ---
 
 > 삼첨판역류(tricuspid regurgitation, TR)의 심잡음은 수축기 전반에 걸쳐 들리는 전수축기 잡음(holosystolic murmur)이며, 정맥 환류(venous return)가 증가할수록 커진다.

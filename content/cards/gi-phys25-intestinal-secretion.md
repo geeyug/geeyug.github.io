@@ -6,7 +6,7 @@ level: 2
 youtube_id: adL-6wZENV0
 membership: ssangkiyeok
 short_title: GI-PHYS25 소장·대장 분비
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 소장은 점액과 묽은 전해질 용액을 함께 분비해 영양분 흡수를 돕고, 대장은 주로 점액만 분비해 변을 형성하고 장벽을 보호한다.

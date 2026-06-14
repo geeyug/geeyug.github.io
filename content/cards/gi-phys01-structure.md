@@ -6,7 +6,7 @@ level: 2
 youtube_id: oatY3uR0eck
 membership: ssangkiyeok
 short_title: GI-PHYS01 소화관 기본 구조
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 소화관은 수분·영양분·전해질·비타민을 몸 안으로 끌어들이기 위해 4개 층으로 이루어진 관이며, 근육층의 협동 수축이 음식물을 이동시킨다.

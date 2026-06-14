@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3h6y2JnKd3A
 membership: public
 short_title: DM 1.5형/LADA
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 성인에서 자가 항체가 있으면서도 인슐린 없이 수년을 버티는 당뇨병이 있다. 1형과 2형의 경계에 걸친 이 상태를 성인 자가 면역 당뇨병(ADA)이라고 부른다.

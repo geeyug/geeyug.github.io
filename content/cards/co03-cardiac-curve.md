@@ -1,12 +1,12 @@
 ---
 id: co03-cardiac-curve
 title: 심박출량 곡선은 심장의 펌프 기능 상태를 어떻게 보여주는가
-series: CO
+series: series-CO
 level: 2
 youtube_id: al0hTXFEgMo
 membership: ssangkiyeok
-short_title: CO-03 심박출량 곡선
-tags: [심장-혈관]
+short_title: series-CO-03 심박출량 곡선
+tags: [심장-혈관, series-CO]
 ---
 
 > 심박출량 곡선은 우심방 압력(일의 양)과 심박출량의 관계를 나타내며, 곡선의 위치가 심장 펌프 기능 상태를 직접 반영한다.
@@ -19,7 +19,7 @@ tags: [심장-혈관]
 
 심장으로 들어오는 정맥혈이 많을수록 — 즉 심장이 해야 할 일의 양이 많을수록 — 심박출량도 늘어난다. 이것이 Frank-Starling 법칙이다.
 
-이 관계를 그래프로 그리면 심박출량 곡선(cardiac output curve)이 된다. x축은 우심방 압력(right atrial pressure, RAP), y축은 심박출량(cardiac output, CO)이다. 우심방 압력이 0일 때 정상 성인의 심박출량은 약 5 L/min이며, 압력이 높아질수록 심박출량도 함께 증가하다가 일정 수준에서 더 이상 오르지 않는 포화 구간에 도달한다.
+이 관계를 그래프로 그리면 심박출량 곡선(cardiac output curve)이 된다. x축은 우심방 압력(right atrial pressure, RAP), y축은 심박출량(cardiac output, series-CO)이다. 우심방 압력이 0일 때 정상 성인의 심박출량은 약 5 L/min이며, 압력이 높아질수록 심박출량도 함께 증가하다가 일정 수준에서 더 이상 오르지 않는 포화 구간에 도달한다.
 
 ### 곡선이 올라가는 경우 — 펌프 기능 향상
 

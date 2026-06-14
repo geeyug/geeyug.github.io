@@ -1,11 +1,11 @@
 ---
 id: ab04-compensation-mechanism
 title: 산증 보상이 실제로 일어나는 세 가지 경로는 무엇인가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: 3J8Hf5OQQDA
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-ACIDBASE]
 short_title: AB04 산증 보상의 세 경로
 ---
 

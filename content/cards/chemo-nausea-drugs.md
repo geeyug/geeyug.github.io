@@ -6,7 +6,7 @@ level: 1
 youtube_id: 8n3UGax_CxI
 membership: public
 short_title: 항암 구토 약물 3가지
-tags: [약물-기전]
+tags: [약물-기전, ONCO]
 ---
 
 > 항암제는 위장관과 혈액 두 경로로 구토 반사를 동시에 자극하므로, 이 두 경로를 차단하는 특수 약물이 필요하다.

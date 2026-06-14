@@ -5,7 +5,7 @@ topic: MURMUR
 level: 2
 youtube_id: l6keDbpIFf0
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, MURMUR]
 short_title: MURMUR-04 승모판 역류 잡음
 ---
 

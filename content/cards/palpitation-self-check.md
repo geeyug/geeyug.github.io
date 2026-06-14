@@ -6,7 +6,7 @@ level: 1
 youtube_id: CETSikbemTQ
 membership: public
 short_title: ARRHYTHMIA 두근거림 자가확인
-tags: [심장-혈관, 증상-접근]
+tags: [심장-혈관, 증상-접근, HEART]
 ---
 
 > 가슴 두근거림이 심장 박동의 실제 증가인지, 아니면 심리적 느낌인지는 두근거리는 순간에 직접 맥을 짚어보는 것으로 구분할 수 있다.

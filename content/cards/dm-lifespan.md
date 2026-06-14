@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: 28fbCtRgL3k
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 당뇨병과 수명
 ---
 

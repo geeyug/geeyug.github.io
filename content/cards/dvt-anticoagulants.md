@@ -6,7 +6,7 @@ level: 2
 youtube_id: 7vCZVpadOnk
 membership: ssangkiyeok
 short_title: DVT 항응고제 치료 원리
-tags: [심장-혈관]
+tags: [심장-혈관, DVT]
 ---
 
 > 심부정맥혈전증(DVT) 치료의 기본은 항응고제(anticoagulant)이지만, 항응고제는 혈전을 직접 분해하지 않는다. 응고와 항응고의 균형을 항응고 쪽으로 기울여, 몸이 자연스럽게 혈전을 녹이도록 시간을 버는 치료다.

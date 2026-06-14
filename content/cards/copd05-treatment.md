@@ -1,19 +1,19 @@
 ---
 id: copd05-treatment
-title: COPD 치료는 무엇을 기준으로 결정하는가
-series: COPD
+title: series-COPD 치료는 무엇을 기준으로 결정하는가
+series: series-COPD
 level: 2
 youtube_id: qbU3tGAfTXo
 membership: nieun
 short_title: COPD05 치료전략
-tags: [호흡기, 약물-기전]
+tags: [호흡기, 약물-기전, series-COPD]
 ---
 
-> COPD 치료는 폐기능 수치가 아니라 급성 악화 이력과 증상·삶의 질을 기준으로 그룹을 나눠 결정하며, 기본 약물은 LABA + LAMA 복합 흡입제다.
+> series-COPD 치료는 폐기능 수치가 아니라 급성 악화 이력과 증상·삶의 질을 기준으로 그룹을 나눠 결정하며, 기본 약물은 LABA + LAMA 복합 흡입제다.
 
 ## ❶ 생각해 보셨나요?
 
-COPD 진단 후 치료 약을 결정할 때 자연스럽게 폐기능 검사 수치를 떠올리기 쉽다. FEV1이 낮을수록 더 강한 치료가 필요할 것이라는 직관이다. 그러나 실제 치료 지침은 그 방향으로 가지 않는다.
+series-COPD 진단 후 치료 약을 결정할 때 자연스럽게 폐기능 검사 수치를 떠올리기 쉽다. FEV1이 낮을수록 더 강한 치료가 필요할 것이라는 직관이다. 그러나 실제 치료 지침은 그 방향으로 가지 않는다.
 
 ## ❷ 치료 그룹은 어떻게 나누는가
 
@@ -24,7 +24,7 @@ COPD 진단 후 치료 약을 결정할 때 자연스럽게 폐기능 검사 수
 
 mMRC 2점은 평지를 걸을 때 동년배보다 느리거나, 본인 속도로 걷다가 숨이 차 멈추게 되는 수준이다.
 
-CAT(COPD Assessment Test)는 기침·가래·흉부 압박감 외에 활동 제한, 외출 자신감, 수면, 기력까지 포함한 삶의 질 지표다. 10점 이상이면 그룹 B에 해당한다.
+CAT(series-COPD Assessment Test)는 기침·가래·흉부 압박감 외에 활동 제한, 외출 자신감, 수면, 기력까지 포함한 삶의 질 지표다. 10점 이상이면 그룹 B에 해당한다.
 
 이 분류에서 FEV1 수치는 어디에도 들어가지 않는다. 치료를 결정하는 것은 검사 수치가 아니라 **임상 양상과 악화 이력**이다.
 
@@ -36,7 +36,7 @@ CAT(COPD Assessment Test)는 기침·가래·흉부 압박감 외에 활동 제�
 | B | LABA + LAMA |
 | E | LABA + LAMA (± ICS) |
 
-LABA(long-acting beta2 agonist)는 기관지를 직접 확장시키고, LAMA(long-acting muscarinic antagonist)는 기관지 수축을 억제한다. 작용 기전이 다르고 작용 부위도 달라 상호보완적이다. LABA + LAMA 복합이 COPD 치료의 기본이다.
+LABA(long-acting beta2 agonist)는 기관지를 직접 확장시키고, LAMA(long-acting muscarinic antagonist)는 기관지 수축을 억제한다. 작용 기전이 다르고 작용 부위도 달라 상호보완적이다. LABA + LAMA 복합이 series-COPD 치료의 기본이다.
 
 ### 흡입 스테로이드(ICS)는 언제 추가하는가
 
@@ -52,7 +52,7 @@ ICS는 LABA + LAMA에 더하는 방식으로만 사용한다. 추가 조건은 *
 
 흡입기 문제가 아니라면 혈중 호산구를 다시 확인하고, 필요시 ICS 추가를 검토한다. 호산구가 낮다면 roflumilast(PDE4 억제제, 항염 효과)나 azithromycin을 고려할 수 있다.
 
-치료는 고정된 것이 아니다. 매 외래마다 **검토(review) → 평가(assess) → 조정(adjust)**의 순환을 유지하는 것이 COPD 장기 관리의 핵심이다.
+치료는 고정된 것이 아니다. 매 외래마다 **검토(review) → 평가(assess) → 조정(adjust)**의 순환을 유지하는 것이 series-COPD 장기 관리의 핵심이다.
 
 영상으로 더 깊이 보고 싶다면:
 [▶ 영상으로 보기](https://youtu.be/qbU3tGAfTXo) *(멤버십)*

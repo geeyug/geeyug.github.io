@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3vcj2wpprwY
 membership: public
 short_title: DM 혈당관리 지속성
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 초기에 혈당을 잘 조절하더라도 이후 관리를 소홀히 하면 심혈관 질환 예방 효과는 유지되지 않는다.

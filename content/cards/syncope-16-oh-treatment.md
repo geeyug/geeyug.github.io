@@ -1,12 +1,12 @@
 ---
 id: syncope-16-oh-treatment
 title: 기립성 저혈압은 어떤 순서로 치료하는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: _JaZMIzcOE0
 membership: ssangkiyeok
-tags: [약물-기전, 증상-접근]
-short_title: SYNCOPE-16 기립성저혈압 치료
+tags: [약물-기전, 증상-접근, series-SYNCOPE]
+short_title: series-SYNCOPE-16 기립성저혈압 치료
 ---
 
 > 기립성 저혈압의 치료는 약물 제거에서 시작해 비약물 중재를 거친 뒤, 그래도 해결되지 않을 때 약물을 추가하는 단계적 접근이다.

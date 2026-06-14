@@ -1,12 +1,12 @@
 ---
 id: ihd01-concept
 title: 허혈성 심질환이란 무엇인가 — 스펙트럼으로 이해하기
-series: IHD
+series: series-IHD
 level: 2
 youtube_id: QX6zqM9qQqc
 membership: nieun
-short_title: IHD-01 개념과 스펙트럼
-tags: [심장-혈관]
+short_title: series-IHD-01 개념과 스펙트럼
+tags: [심장-혈관, series-IHD]
 ---
 
 > 허혈성 심질환은 심장 근육의 산소 공급과 수요 사이의 불균형이 심각성에 따라 안정형 협심증에서 심근경색까지 하나의 스펙트럼을 이룬다.

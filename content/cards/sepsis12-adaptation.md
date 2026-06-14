@@ -1,12 +1,12 @@
 ---
 id: sepsis12-adaptation
 title: 패혈증 상황에서 세포는 어떻게 스스로를 보호하는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: VX9RijGLin8
 membership: ssangkiyeok
-short_title: SEPSIS-12 세포의 적응
-tags: [응급, 신장-전해질]
+short_title: series-SEPSIS-12 세포의 적응
+tags: [응급, 신장-전해질, series-SEPSIS]
 ---
 
 > 패혈증의 극한 환경에서 세포는 불필요한 기능을 멈추고 손상된 소기관을 제거하는 방식으로 생존을 도모하며, 이 과정이 콩팥 기능 회복에 기여한다.

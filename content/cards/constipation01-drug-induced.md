@@ -1,12 +1,12 @@
 ---
 id: constipation01-drug-induced
 title: 내가 먹는 약이 변비를 일으키고 있는 것은 아닐까
-series: CONSTIPATION
+series: series-CONSTIPATION
 level: 2
 youtube_id: 82vmA3jNXME
 membership: ssangkiyeok
 short_title: 변비01 약물유발 변비
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, series-CONSTIPATION]
 ---
 
 > 변비는 원인 없이 생기는 경우보다 복용 중인 약물이 원인인 경우가 생각보다 흔하며, 작용 기전에 따라 네 가지 계열의 약물이 장 운동을 억제할 수 있다.

@@ -1,11 +1,11 @@
 ---
 id: dm14-insurance-criteria
 title: 당뇨 치료제는 어떤 조건이 갖춰져야 급여로 쓸 수 있는가
-series: DM
+series: series-DM
 level: 3
 youtube_id: sqJiN5lJV6s
 membership: nieun
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 short_title: DM14 급여기준
 ---
 

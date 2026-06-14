@@ -1,12 +1,12 @@
 ---
 id: tubule-25-gfr-clearance
 title: 청소율로 GFR을 측정하려면 어떤 물질이 필요한가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: OlAORka073w
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-25 GFR과 크레아티닌
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-25 GFR과 크레아티닌
 ---
 
 > 여과는 되고 재흡수·분비는 전혀 없는 물질의 청소율은 사구체 여과율(GFR)과 같다. 이눌린(inulin)이 이상적 기준이고, 임상에서는 크레아티닌(creatinine)으로 근사한다.

@@ -5,7 +5,7 @@ topic: SHOCK
 level: 2
 youtube_id: o_QL4-9uYNE
 membership: ssangkiyeok
-tags: [응급]
+tags: [응급, SHOCK]
 short_title: SHOCK-04 SIRS의 6가지 원인
 ---
 

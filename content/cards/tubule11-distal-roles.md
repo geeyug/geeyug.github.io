@@ -1,12 +1,12 @@
 ---
 id: tubule11-distal-roles
 title: 원위세관은 신원에서 어떤 두 가지 역할을 하는가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: 6xfZNST7rGs
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-11 원위세관 역할
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-11 원위세관 역할
 ---
 
 > 원위세관(distal tubule)은 위치상 사구체 옆에 자리하며, 여과율 조절에 관여하는 동시에 소변을 희석하는 두 가지 역할을 맡는다.

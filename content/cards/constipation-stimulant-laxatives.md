@@ -6,7 +6,7 @@ level: 2
 youtube_id: DLvHe77CzdM
 membership: ssangkiyeok
 short_title: 변비13 자극성 하제와 프루칼로프라이드
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, CONSTIPATION]
 ---
 
 > 자극성 하제는 장의 신경총을 직접 자극해 효과가 빠르지만, 장기간 사용하면 신경 기능 손상으로 내성이 생기고 변비가 오히려 악화된다.

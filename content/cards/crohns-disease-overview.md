@@ -6,7 +6,7 @@ level: 1
 youtube_id: 1G1yr27qvx0
 membership: public
 short_title: GI 크론병 상급병원
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 크론병은 장벽 전층에 걸쳐 반복적으로 염증이 생기며, 협착·천공·누공 같은 합병증과 복잡한 약물 치료로 인해 상급 병원의 다학제 진료가 필요하다.

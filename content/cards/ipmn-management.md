@@ -6,7 +6,7 @@ level: 1
 youtube_id: 44-2CNZABiA
 membership: public
 short_title: GI BD-IPMN 관리
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 췌관(pancreatic duct) 가지에서 생기는 BD-IPMN은 즉시 수술 대상이 아니다. 어떤 소견이 있느냐에 따라 수술, 자주 관찰, 듬성듬성 관찰로 나뉜다.

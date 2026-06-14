@@ -5,7 +5,7 @@ topic: CKD
 level: 2
 youtube_id: PHv4JdtlNnw
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 short_title: CKD-05 단백뇨의 독성
 ---
 

@@ -5,7 +5,7 @@ topic: METABOLISM
 level: 2
 youtube_id: aT8TAnhOXa0
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, METABOLISM]
 short_title: METABOLISM 단백질→지방 변환
 ---
 

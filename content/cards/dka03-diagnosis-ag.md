@@ -1,19 +1,19 @@
 ---
 id: dka03-diagnosis-ag
-title: DKA 진단에서 high anion gap이 의미하는 것은 무엇인가
-series: DKA
+title: series-DKA 진단에서 high anion gap이 의미하는 것은 무엇인가
+series: series-DKA
 level: 2
 youtube_id: Qx4B_kyzcgk
 membership: nieun
-short_title: DKA-03 anion gap 진단
-tags: [당뇨-대사]
+short_title: series-DKA-03 anion gap 진단
+tags: [당뇨-대사, series-DKA]
 ---
 
-> DKA 진단의 핵심은 고혈당, 케토시스, high anion gap 대사성 산증의 세 가지이며, 그중 anion gap이란 혈액 속 측정되지 않는 음이온의 총량을 간접적으로 반영한다.
+> series-DKA 진단의 핵심은 고혈당, 케토시스, high anion gap 대사성 산증의 세 가지이며, 그중 anion gap이란 혈액 속 측정되지 않는 음이온의 총량을 간접적으로 반영한다.
 
 ## ❶ 생각해 보셨나요?
 
-DKA 진단 기준에 "high anion gap 대사성 산증"이라는 항목이 있다. 고혈당과 케톤뇨는 직관적으로 이해된다. 그런데 anion gap이란 무엇이고, 왜 이것이 DKA 진단의 핵심 기준이 될까?
+series-DKA 진단 기준에 "high anion gap 대사성 산증"이라는 항목이 있다. 고혈당과 케톤뇨는 직관적으로 이해된다. 그런데 anion gap이란 무엇이고, 왜 이것이 series-DKA 진단의 핵심 기준이 될까?
 
 ## ❷ Anion gap이란 무엇을 계산하는 것인가
 
@@ -34,7 +34,7 @@ DKA에서는 케톤체라는 강한 산이 대량 축적되고, 케톤은 혈액
 Anion gap을 올리는 것은 케톤체만이 아니다. 어떤 산성 물질이 측정되지 않는 음이온으로 쌓이든 anion gap은 올라간다. 감별이 필요한 원인은 다음과 같다.
 
 1) **젖산증(lactic acidosis)** — 조직 저산소, 쇼크, 패혈증 등 다양한 원인으로 젖산이 축적
-2) **케토산증(ketoacidosis)** — DKA 외에도 알코올성 케토산증(AKA), 극단적 공복 시 발생 가능
+2) **케토산증(ketoacidosis)** — series-DKA 외에도 알코올성 케토산증(AKA), 극단적 공복 시 발생 가능
 3) **신부전(renal failure)** — 산의 배출이 되지 않아 축적
 4) **독성 물질 섭취** — 에틸렌 글리콜, 메탄올, 살리실산염 등
 
@@ -44,7 +44,7 @@ Anion gap을 올리는 것은 케톤체만이 아니다. 어떤 산성 물질이
 
 ## ❹ 결국
 
-DKA 진단은 고혈당·케톤뇨·산증 세 가지를 확인하는 것이 기본이다. 그중 anion gap은 단순 계산값이지만 "어떤 종류의 산이 쌓였는가"를 간접적으로 가리키는 핵심 지표다. High anion gap을 확인했다면 DKA를 일차적으로 고려하되, 다른 원인을 배제하는 감별 과정이 반드시 필요하다.
+series-DKA 진단은 고혈당·케톤뇨·산증 세 가지를 확인하는 것이 기본이다. 그중 anion gap은 단순 계산값이지만 "어떤 종류의 산이 쌓였는가"를 간접적으로 가리키는 핵심 지표다. High anion gap을 확인했다면 DKA를 일차적으로 고려하되, 다른 원인을 배제하는 감별 과정이 반드시 필요하다.
 
 영상으로 더 깊이 보고 싶다면:
 [▶ 영상으로 보기](https://youtu.be/Qx4B_kyzcgk) *(멤버십)*

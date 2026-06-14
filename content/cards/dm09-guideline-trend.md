@@ -1,11 +1,11 @@
 ---
 id: dm09-guideline-trend
 title: 당뇨병 진료지침은 왜 혈당 중심에서 장기 보호 중심으로 바뀌었는가?
-series: DM
+series: series-DM
 level: 2
 youtube_id: -KjJltm2v5E
 membership: nieun
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-DM]
 short_title: DM09 당뇨병 진료지침 트렌드
 ---
 

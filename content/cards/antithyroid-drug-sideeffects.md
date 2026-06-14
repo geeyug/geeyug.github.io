@@ -6,7 +6,7 @@ level: 2
 youtube_id: 3GINxLf2Uds
 membership: public
 short_title: THYROID 항갑상선제 부작용
-tags: [증상-접근, 약물-기전]
+tags: [증상-접근, 약물-기전, THYROID]
 ---
 
 > 항갑상선제의 부작용은 경미한 것과 심각한 것으로 나뉘며, 경미한 경우는 약제 교체로 대응하고 심각한 경우는 반드시 중단 후 다른 치료로 전환해야 한다.

@@ -1,19 +1,19 @@
 ---
 id: acs08-treatment-concept
-title: ACS 치료 전략은 working diagnosis에 따라 어떻게 달라지는가
-series: ACS
+title: series-ACS 치료 전략은 working diagnosis에 따라 어떻게 달라지는가
+series: series-ACS
 level: 2
 youtube_id: e-FLt-gI2XU
 membership: nieun
 short_title: ACS08 치료 개념
-tags: [심장-혈관]
+tags: [심장-혈관, series-ACS]
 ---
 
-> ACS 치료의 핵심은 working diagnosis와 위험도 분류에 따라 관상동맥 조영술의 시행 시점을 결정하는 것이며, 모든 단계에서 시간 지연을 최소화하는 것이 목표다.
+> series-ACS 치료의 핵심은 working diagnosis와 위험도 분류에 따라 관상동맥 조영술의 시행 시점을 결정하는 것이며, 모든 단계에서 시간 지연을 최소화하는 것이 목표다.
 
 ## ❶ 생각해 보셨나요?
 
-ACS 치료는 관상동맥 조영술을 하면 된다고 단순하게 생각하기 쉽다. 그러나 현장에서는 환자가 어디서 왔는지, 지금 있는 병원이 PCI(percutaneous coronary intervention, 경피적 관상동맥 중재술) 가능 센터인지, 전원까지 얼마나 걸리는지에 따라 전략이 완전히 달라진다.
+series-ACS 치료는 관상동맥 조영술을 하면 된다고 단순하게 생각하기 쉽다. 그러나 현장에서는 환자가 어디서 왔는지, 지금 있는 병원이 PCI(percutaneous coronary intervention, 경피적 관상동맥 중재술) 가능 센터인지, 전원까지 얼마나 걸리는지에 따라 전략이 완전히 달라진다.
 
 심근은 혈류가 차단된 순간부터 분 단위로 죽어 나간다. 그렇기 때문에 이 전략 결정이 치료 그 자체만큼 중요하다.
 

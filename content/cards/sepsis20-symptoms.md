@@ -1,12 +1,12 @@
 ---
 id: sepsis20-symptoms
 title: 패혈증의 증상은 시간 순서에 따라 어떻게 달라지는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: MBFMsEcHdSw
 membership: ssangkiyeok
-short_title: SEPSIS-20 증상 분류
-tags: [응급]
+short_title: series-SEPSIS-20 증상 분류
+tags: [응급, series-SEPSIS]
 ---
 
 > 패혈증의 증상은 감염 국소, 전신 염증 반응, 혈류 변화에 따른 장기 손상으로 층위를 나누어야 전체 그림이 보인다.

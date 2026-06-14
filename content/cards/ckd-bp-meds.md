@@ -6,7 +6,7 @@ level: 1
 youtube_id: 61s7EJB7BZA
 membership: public
 short_title: CKD 혈압약 — 이뇨제
-tags: [신장-전해질, 심장-혈관]
+tags: [신장-전해질, 심장-혈관, CKD]
 ---
 
 > 만성 콩팥병에서 혈압이 오르는 근본 원인은 수분 배출 능력의 저하이며, 치료의 핵심도 이 체액량 조절에 있다.

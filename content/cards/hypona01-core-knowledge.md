@@ -1,12 +1,12 @@
 ---
 id: hypona01-core-knowledge
 title: 저나트륨혈증을 이해하는 핵심 — 나트륨 농도는 왜 수분의 문제인가
-series: HYPONA
+series: series-HYPONA
 level: 2
 youtube_id: NW7ZyQ4sGPg
 membership: nieun
 short_title: HYPONA01 수분조절 코어
-tags: [신장-전해질]
+tags: [신장-전해질, series-HYPONA]
 ---
 
 > 혈중 나트륨 농도는 나트륨의 총량이 아니라 수분과의 비율이므로, 저나트륨혈증은 결국 수분 조절의 문제로 귀결된다.

@@ -1,12 +1,12 @@
 ---
 id: heartsound10-single-s2
 title: S2가 하나로만 들린다면 무엇이 사라진 것인가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: UEnb-xzN76s
 membership: ssangkiyeok
-short_title: HEARTSOUND-10 단일 S2
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-10 단일 S2
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > S2가 하나로 들리는 것은 A2 또는 P2 중 하나가 소실되었거나, 두 성분이 항상 동시에 발생하기 때문이다.

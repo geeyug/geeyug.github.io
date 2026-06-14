@@ -1,12 +1,12 @@
 ---
 id: glycolysis10-products
 title: 해당과정을 거치면 실제로 무엇이 나오는가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 4v0XV8QvWiA
 membership: ssangkiyeok
 short_title: GLYCOLYSIS-10 결과물
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 ---
 
 > 해당과정(glycolysis)의 결과물은 ATP와 NADH에 그치지 않는다. 중간 산물들이 다른 대사 경로로 분기되어 아미노산, 지방, 글리코겐, 핵산의 재료를 공급한다.

@@ -1,12 +1,12 @@
 ---
 id: co12-volume-overload
 title: 혈액량이 갑자기 증가하면 심박출량은 얼마나, 얼마나 오래 오르는가
-series: CO
+series: series-CO
 level: 2
 youtube_id: OFDlh2CDXuk
 membership: ssangkiyeok
-short_title: CO-12 혈액량 증가
-tags: [심장-혈관]
+short_title: series-CO-12 혈액량 증가
+tags: [심장-혈관, series-CO]
 ---
 
 > 수혈 직후 심박출량은 2배 이상 상승하지만, 10~40분 안에 대부분 정상으로 회복된다. 순환계와 신장이 스스로 조정하기 때문이다.

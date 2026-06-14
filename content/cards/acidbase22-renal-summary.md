@@ -1,12 +1,12 @@
 ---
 id: acidbase22-renal-summary
 title: 네 가지 산염기 장애에서 콩팥은 각각 어떻게 반응하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: 5fTwWahg1l4
 membership: ssangkiyeok
-short_title: ACIDBASE-22 산염기 통합
-tags: [신장-전해질]
+short_title: series-ACIDBASE-22 산염기 통합
+tags: [신장-전해질, series-ACIDBASE]
 ---
 
 > 네 가지 산염기 장애 각각에서 콩팥의 보상 방향은 헨더슨-하셀발흐 방정식으로 예측할 수 있다.

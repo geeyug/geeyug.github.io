@@ -5,7 +5,7 @@ topic: HEMATOLOGY
 level: 1
 youtube_id: jl2IF806iA8
 membership: public
-tags: [증상-접근]
+tags: [증상-접근, HEMATOLOGY]
 short_title: HEMATOLOGY 빈혈 운동 금지
 ---
 

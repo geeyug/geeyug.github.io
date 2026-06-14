@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3xirPbLUyWY
 membership: public
 short_title: GI 담석→담낭염 기전
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 담석이 담낭관을 막으면 단순 통증에서 끝나지 않는다. 폐쇄가 지속되면 세 가지 경로가 동시에 작동하면서 급성 담낭염(acute cholecystitis)으로 진행한다.

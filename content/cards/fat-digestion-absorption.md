@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3KoqKTGvEbY
 membership: public
 short_title: GI 지방 소화·흡수
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 지방은 물에 녹지 않기 때문에 담즙에 의한 유화(emulsification)와 췌장 리파제(pancreatic lipase)에 의한 분해, 미셀(micelle) 형태로의 포장을 거쳐야만 장 세포 안으로 흡수될 수 있다.

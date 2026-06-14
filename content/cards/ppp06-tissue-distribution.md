@@ -1,11 +1,11 @@
 ---
 id: ppp06-tissue-distribution
 title: "오탄당인산회로가 활발한 조직은 어디이며 왜인가"
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: 5JNeq9oOyTo
 membership: ssangkiyeok
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 short_title: PPP-06 조직별 분포
 ---
 

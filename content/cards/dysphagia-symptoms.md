@@ -6,7 +6,7 @@ level: 1
 youtube_id: 4gbl-Q7--ek
 membership: public
 short_title: GI 삼킴곤란 증상 접근
-tags: [증상-접근, 간-소화기]
+tags: [증상-접근, 간-소화기, GI]
 ---
 
 > 삼킴곤란(dysphagia)은 노화가 아니라 구조적·기능적 이상을 시사하며, 증상의 시작 위치·발병 양상·삼키는 내용물에 따라 병소를 좁혀나갈 수 있다.

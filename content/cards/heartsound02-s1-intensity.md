@@ -1,12 +1,12 @@
 ---
 id: heartsound02-s1-intensity
 title: S1의 강도는 무엇에 의해 결정되는가?
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: UZnuuCj95Pc
 membership: ssangkiyeok
-tags: [심장-혈관]
-short_title: HEARTSOUND-02 S1 강도 요인
+tags: [심장-혈관, series-HEARTSOUND]
+short_title: series-HEARTSOUND-02 S1 강도 요인
 ---
 
 > S1의 강도는 주로 수축 시작 직전 승모판 첨판(leaflet)의 위치, 즉 판막이 얼마나 열려 있다가 닫히는가에 의해 결정된다. 흉벽 두께, PR 간격, 판막 가동성, 심박수, 심박출량이 이에 영향을 준다.

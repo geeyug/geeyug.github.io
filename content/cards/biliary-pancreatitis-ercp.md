@@ -6,7 +6,7 @@ level: 2
 youtube_id: pH1i1gtVEQ8
 membership: public
 short_title: PANCREATITIS 담석성 췌장염과 ERCP
-tags: [간-소화기]
+tags: [간-소화기, PANCREATITIS]
 ---
 
 > 급성 담석성 췌장염은 담도석이 원인이더라도, 담도 단독 폐쇄가 없는 한 ERCP를 시행하지 않는 것이 원칙이다.

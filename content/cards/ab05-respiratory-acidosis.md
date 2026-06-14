@@ -1,11 +1,11 @@
 ---
 id: ab05-respiratory-acidosis
 title: 호흡성 산증에서 급성과 만성의 보상 정도가 다른 이유는 무엇인가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: F5TkVGlB5vY
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-ACIDBASE]
 short_title: AB05 호흡성 산증
 ---
 

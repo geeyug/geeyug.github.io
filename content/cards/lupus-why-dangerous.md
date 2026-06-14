@@ -5,7 +5,7 @@ topic: LUPUS
 level: 1
 youtube_id: dPDilemYf54
 membership: nieun
-tags: [증상-접근]
+tags: [증상-접근, LUPUS]
 short_title: Lupus-02 위험한 이유
 ---
 

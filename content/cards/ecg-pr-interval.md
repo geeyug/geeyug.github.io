@@ -5,7 +5,7 @@ topic: ECG
 level: 2
 youtube_id: 53LGQJ1LXSI
 membership: public
-tags: [심장-혈관]
+tags: [심장-혈관, ECG]
 short_title: ECG-07 PR interval 의미
 ---
 

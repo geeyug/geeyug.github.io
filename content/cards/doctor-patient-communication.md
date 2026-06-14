@@ -6,7 +6,7 @@ level: 1
 youtube_id: 1g_S1tO3zfA
 membership: ssangkiyeok
 short_title: CLINIC 진단 추정 프로세스
-tags: [증상-접근]
+tags: [증상-접근, GENERAL]
 ---
 
 > 진료 현장에서는 증상과 검사 결과가 주어져도 확진이 즉시 나오는 경우가 드물다. 대부분은 추정 진단(impression)에서 방침으로, 방침에서 다시 검사로 이어지는 순환 과정을 거친다.

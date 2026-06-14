@@ -1,12 +1,12 @@
 ---
 id: syncope25-clinical-questions
 title: 실신 환자에게 꼭 확인해야 할 세 가지는 무엇인가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: Jg0QbpzNZ4A
 membership: ssangkiyeok
-short_title: SYNCOPE-25 핵심 문진
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-25 핵심 문진
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 실신 환자의 병력 청취는 공감보다 객관적 사실 확인이 우선이며, 진짜 실신인지, 위험한 실신인지, 원인이 무엇인지를 순서대로 짚어야 한다.

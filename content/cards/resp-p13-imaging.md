@@ -6,7 +6,7 @@ level: 2
 youtube_id: 2oEOZUFrjOs
 membership: ssangkiyeok
 short_title: RESP-P13 이미징과 추가 검사
-tags: [호흡기]
+tags: [호흡기, RESP]
 ---
 
 > 호흡기 환자 평가는 기능(폐기능 검사)과 구조(이미징)라는 두 축을 병력·진찰로 얻은 감각 위에서 단계적으로 확장해 나가는 과정이다.

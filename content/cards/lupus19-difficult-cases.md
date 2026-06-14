@@ -1,12 +1,12 @@
 ---
 id: lupus19-difficult-cases
 title: 루푸스 진단이 어려운 다섯 가지 경우는 무엇인가
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: v5oMhuAXR68
 membership: nieun
 short_title: lupus19 진단 어려운 5경우
-tags: [증상-접근]
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 루푸스 진단이 늦어지는 것은 대부분 질환 특성에 기인한다. 증상이 점진적으로 쌓이고, 하나의 장기만 침범된 것처럼 보이고, 비전형적인 환자군에서 발생하는 다섯 가지 상황이 진단을 어렵게 만든다.

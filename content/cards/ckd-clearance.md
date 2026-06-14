@@ -5,7 +5,7 @@ topic: CKD
 level: 2
 youtube_id: fWorS54T8Oo
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 short_title: CKD03 콩팥청소율 개념
 ---
 

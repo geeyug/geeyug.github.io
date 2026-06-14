@@ -6,7 +6,7 @@ level: 2
 youtube_id: jzTFHQDxcHI
 membership: ssangkiyeok
 short_title: P11 restriction/TLC/DLCO
-tags: [호흡기]
+tags: [호흡기, RESP]
 ---
 
 > 기도가 막히지 않았는데도 숨쉬기 어렵다면, 폐 용량 자체가 줄어든 restrictive physiology를 생각해야 한다. TLC와 DLCO가 그 단서를 제공한다.

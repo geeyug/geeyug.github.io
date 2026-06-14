@@ -1,12 +1,12 @@
 ---
 id: co07-graph-analysis
 title: 흉강 내 압력이 바뀌면 심박출량 곡선은 어떻게 달라지는가
-series: CO
+series: series-CO
 level: 3
 youtube_id: Zvhr-7in-O0
 membership: ssangkiyeok
-short_title: CO-07 심박출량 그래프 분석
-tags: [심장-혈관]
+short_title: series-CO-07 심박출량 그래프 분석
+tags: [심장-혈관, series-CO]
 ---
 
 > 심박출량 곡선은 흉강 내 압력(intrapleural pressure, IPP)에 따라 좌우로 이동하며, IPP 감소는 정맥환류를 증가시키고 IPP 증가는 감소시킨다.

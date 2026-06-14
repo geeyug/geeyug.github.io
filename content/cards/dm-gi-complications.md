@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: xm_eiw0dldI
 membership: public
-tags: [당뇨-대사, 간-소화기]
+tags: [당뇨-대사, 간-소화기, DM]
 short_title: 당뇨 위장관 합병증
 ---
 

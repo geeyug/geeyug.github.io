@@ -1,11 +1,11 @@
 ---
 id: ab10-acid-base-summary
 title: 산염기 장애를 체계적으로 접근하는 순서는 무엇인가?
-series: AB
+series: series-AB
 level: 3
 youtube_id: 0T8ODU3NoAw
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-AB]
 short_title: AB10 산염기장애 접근법 총정리
 ---
 

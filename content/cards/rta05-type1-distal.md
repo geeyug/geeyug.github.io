@@ -1,12 +1,12 @@
 ---
 id: rta05-type1-distal
 title: Type 1 RTA가 Type 2보다 위험한 이유는 무엇인가 — 요석과 신석회화
-series: RTA
+series: series-RTA
 level: 2
 youtube_id: kfHH83CDRTY
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-05 Type 1 원위 결함
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-05 Type 1 원위 결함
 ---
 
 > Type 1 RTA는 원위세뇨관에서 산 배설이 완전히 차단되어 산증이 심하고, 구연산 재흡수 증가로 요석이 잘 생기며, 치료 전에 저칼륨혈증을 먼저 교정해야 한다.

@@ -1,12 +1,12 @@
 ---
 id: co04-dnp-danger
 title: 기초대사량을 올리는 약이 왜 사망으로 이어질 수 있는가
-series: CO
+series: series-CO
 level: 2
 youtube_id: DHJK3fiDe3w
 membership: ssangkiyeok
-short_title: CO-04 DNP 다이어트약
-tags: [심장-혈관, 약물-기전]
+short_title: series-CO-04 DNP 다이어트약
+tags: [심장-혈관, 약물-기전, series-CO]
 ---
 
 > 다이나이트로페놀(DNP)은 전자전달계를 언커플링(uncoupling)시켜 에너지 생산을 차단하고, 이로 인해 모든 조직의 혈관 저항이 떨어지면서 심박출량이 급격히 상승해 심장을 혹사시킨다.

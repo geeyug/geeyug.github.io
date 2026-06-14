@@ -1,12 +1,12 @@
 ---
 id: co13-stress-response
 title: 교감신경이 활성화될 때 심박출량은 어떻게 달라지는가
-series: CO
+series: series-CO
 level: 2
 youtube_id: EsOJofVjeR0
 membership: ssangkiyeok
-short_title: CO-13 교감신경과 심박출량
-tags: [심장-혈관]
+short_title: series-CO-13 교감신경과 심박출량
+tags: [심장-혈관, series-CO]
 ---
 
 > 교감신경이 활성화되면 심박출량은 증가하지만, 우심방압은 거의 변하지 않는다. 심장과 혈관 양쪽에 동시에 작용하기 때문이다.

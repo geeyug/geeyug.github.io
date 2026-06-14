@@ -5,7 +5,7 @@ topic: GASTRITIS
 level: 1
 youtube_id: dM58n6xEIks
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, GASTRITIS]
 short_title: GASTRITIS 위축성 위염 정의
 ---
 

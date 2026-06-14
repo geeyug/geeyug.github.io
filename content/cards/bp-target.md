@@ -5,7 +5,7 @@ topic: BP
 level: 2
 youtube_id: P8Pzg0j_rfs
 membership: public
-tags: [심장-혈관]
+tags: [심장-혈관, BP]
 short_title: BP 목표혈압 결정
 ---
 

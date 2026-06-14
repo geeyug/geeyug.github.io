@@ -1,12 +1,12 @@
 ---
 id: rta04-type2-case
-title: Type 2 RTA 증례에서 무엇을 어떻게 추론하는가
-series: RTA
+title: Type 2 series-RTA 증례에서 무엇을 어떻게 추론하는가
+series: series-RTA
 level: 3
 youtube_id: rxUhCKACeBg
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-04 Type 2 증례 분석
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-04 Type 2 증례 분석
 ---
 
 > 혈액 검사에서 정상 음이온 차이(anion gap) 대사성 산증이 확인되면, 소변 음이온 차이를 계산해 신장 산배설 이상 여부를 판단하고, 이후 중탄산염 부하 검사로 Type 2 RTA를 확진한다.
@@ -26,7 +26,7 @@ short_title: RTA-04 Type 2 증례 분석
 
 > AG = Na⁺ - (Cl⁻ + HCO₃⁻) = 140 - (110 + 18) = 12
 
-정상 AG(12 mEq/L)이므로 **정상 AG 대사성 산증**이다. 감별은 설사 또는 RTA 두 가지다.
+정상 AG(12 mEq/L)이므로 **정상 AG 대사성 산증**이다. 감별은 설사 또는 series-RTA 두 가지다.
 
 이를 구분하기 위해 소변 음이온 차이(urine anion gap, UAG)를 계산한다.
 
@@ -34,7 +34,7 @@ short_title: RTA-04 Type 2 증례 분석
 
 UAG는 소변에서 측정하기 어려운 암모늄(NH₄⁺)의 배설 정도를 간접 반영한다. 신장에서 산 배설이 정상이면 NH₄⁺가 많이 나가 UAG가 음수가 된다. 설사는 신장 기능이 정상이므로 UAG가 음수다. **UAG가 양수라면 신장에서 산 배설이 감소한 것**, 즉 RTA를 시사한다.
 
-이 환자는 UAG 양수 → RTA 의심. 이후 중탄산염 부하 검사에서 중탄산염의 분획 배설량(fractional excretion of bicarbonate)이 18%로 나왔다. 15% 이상이므로 **Type 2 RTA 확진**.
+이 환자는 UAG 양수 → series-RTA 의심. 이후 중탄산염 부하 검사에서 중탄산염의 분획 배설량(fractional excretion of bicarbonate)이 18%로 나왔다. 15% 이상이므로 **Type 2 series-RTA 확진**.
 
 추가로 당뇨(glucosuria)와 인산뇨(phosphaturia)도 확인된다. 이는 근위세뇨관 전반 기능이 저하된 것으로, **판코니 증후군(Fanconi syndrome)**을 동반한 Type 2 RTA임을 알 수 있다.
 
@@ -48,7 +48,7 @@ UAG는 소변에서 측정하기 어려운 암모늄(NH₄⁺)의 배설 정도�
 
 ## ❹ 치료에서 주의할 점
 
-Type 2 RTA 치료의 핵심 세 가지는 다음과 같다.
+Type 2 series-RTA 치료의 핵심 세 가지는 다음과 같다.
 
 1) **중탄산염 보충**: 필요량이 많다(10~15 mEq/kg/day). 재흡수가 안 되므로 줘도 소변으로 계속 빠지기 때문이다. 가능하면 포타슘 구연산(potassium citrate) 형태로 투여한다. 구연산은 체내에서 중탄산염 세 개로 전환되며 포타슘도 함께 보충된다.
 2) **포타슘 보충**: 중탄산염을 투여하면 원위 유량이 더 증가하고 루미널 음전위가 커져 저칼륨혈증이 더 심해질 수 있다. 동시에 보충해야 한다.

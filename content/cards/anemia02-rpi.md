@@ -1,12 +1,12 @@
 ---
 id: anemia02-rpi
 title: 망상적혈구 18%가 나왔는데 왜 실제 값은 2.9%인가
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 2
 youtube_id: IKTka4sZwVI
 membership: nieun
 short_title: 빈혈02 RPI 계산
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > RPI(망상적혈구생산지수)는 단순 퍼센티지로 읽으면 골수 활성도를 크게 오해할 수 있어, 두 단계의 보정을 거쳐야 실제 생산 능력을 반영한다.

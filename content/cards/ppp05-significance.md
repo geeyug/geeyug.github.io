@@ -1,11 +1,11 @@
 ---
 id: ppp05-significance
 title: "오탄당인산회로는 해당과정과 어떻게 연결되어 지방 합성을 지원하는가"
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: -Shd77WqcJQ
 membership: ssangkiyeok
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 short_title: PPP-05 해당과정 연계
 ---
 

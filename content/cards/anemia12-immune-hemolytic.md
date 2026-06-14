@@ -1,12 +1,12 @@
 ---
 id: anemia12-immune-hemolytic
 title: 면역 용혈성 빈혈 — 항체의 종류가 치료 방향을 결정한다
-series: HEMATOLOGY
+series: series-HEMATOLOGY
 level: 3
 youtube_id: LaZxhzqXzDI
 membership: nieun
 short_title: 빈혈12 면역 용혈성빈혈
-tags: [증상-접근]
+tags: [증상-접근, series-HEMATOLOGY]
 ---
 
 > 면역 용혈성 빈혈(immune hemolytic anemia)은 자기 면역계의 항체가 RBC를 파괴하는 질환이며, 항체가 활성화되는 온도에 따라 온항체형(warm type)과 한랭항체형(cold type)으로 나뉘고 치료 전략이 달라진다.

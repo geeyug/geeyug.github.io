@@ -1,12 +1,12 @@
 ---
 id: bf08-collateral
 title: 혈관이 서서히 막힐 때 측부순환은 어떻게 발달하고, 어떤 한계를 갖는가
-series: BF
+series: series-BF
 level: 2
 youtube_id: 8-HhtGJBQ5Q
 membership: ssangkiyeok
 short_title: BF08 측부순환
-tags: [심장-혈관]
+tags: [심장-혈관, series-BF]
 ---
 
 > 혈관이 서서히 좁아질 때 주변 조직은 혈관 생성 인자를 분비해 우회로를 만든다. 이 우회로를 측부순환(collateral circulation)이라 한다.

@@ -1,12 +1,12 @@
 ---
 id: acidbase20-net-acid-excretion
 title: 콩팥이 하루에 배설하는 산의 순량은 어떻게 계산하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: IUrduE3JvlM
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: ACIDBASE-20 산 순배설량
+tags: [신장-전해질, series-ACIDBASE]
+short_title: series-ACIDBASE-20 산 순배설량
 ---
 
 > 콩팥의 산 순배설량은 암모늄 이온 배설량 + 적정 가능 산 − 중탄산염 배설량으로 구하며, 정상에서 하루 약 80 mEq로 체내 비휘발산 생성량과 균형을 이룬다.

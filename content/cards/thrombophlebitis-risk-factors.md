@@ -6,7 +6,7 @@ level: 2
 youtube_id: G0xQtU1WtSg
 membership: ssangkiyeok
 short_title: Thrombo-02 표재정맥혈전증 위험인자
-tags: [심장-혈관]
+tags: [심장-혈관, DVT]
 ---
 
 > 표재정맥혈전증의 위험인자는 심부정맥혈전증(DVT)과 상당 부분 겹치지만, 혈관 직접 손상이 더 두드러진 역할을 한다.

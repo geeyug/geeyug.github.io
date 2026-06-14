@@ -1,11 +1,11 @@
 ---
 id: ab06-metabolic-acidosis
 title: 대사성 산증이 생기는 두 가지 기전은 무엇이며 보상은 어떻게 평가하는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: r7fNTGjvfL4
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, series-ACIDBASE]
 short_title: AB06 대사성 산증과 호흡 보상
 ---
 

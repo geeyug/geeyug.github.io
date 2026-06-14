@@ -6,7 +6,7 @@ level: 3
 youtube_id: y4HD4X-6IP4
 membership: nieun
 short_title: ANAPH05 트립타제의 역할
-tags: [응급]
+tags: [응급, ANAPH]
 ---
 
 > 트립타제(tryptase)는 비만세포(mast cell)에서 분비되는 단백분해효소로, 히스타민처럼 직접 증상을 일으키기보다는 보체계(complement system)와 응고-키닌계(coagulation-kinin system)를 활성화하여 아나필락시스 반응을 증폭시킨다.

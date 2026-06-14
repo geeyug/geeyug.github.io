@@ -5,7 +5,7 @@ topic: KIDNEY
 level: 1
 youtube_id: 52xVCKBTYfo
 membership: public
-tags: [신장-전해질, 증상-접근]
+tags: [신장-전해질, 증상-접근, KIDNEY]
 short_title: 소변검사 항목별 의미
 ---
 

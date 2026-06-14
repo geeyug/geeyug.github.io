@@ -6,7 +6,7 @@ level: 2
 youtube_id: v3llNiwSfFA
 membership: public
 short_title: CKD ACEi+ARB 병합 금지
-tags: [신장-전해질, 약물-기전]
+tags: [신장-전해질, 약물-기전, CKD]
 ---
 
 > 만성콩팥병에서 ACEi와 ARB를 함께 사용하면 이론적으로는 신장 보호 효과가 극대화될 것처럼 보이지만, 실제로는 급성신손상과 고칼륨혈증의 위험이 커져 병합하지 않는 것이 원칙이다.

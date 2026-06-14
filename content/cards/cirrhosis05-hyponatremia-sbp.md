@@ -1,12 +1,12 @@
 ---
 id: cirrhosis05-hyponatremia-sbp
 title: 간경변에서 저나트륨혈증과 자발성 세균성 복막염은 왜 위험한가
-series: CIRRHOSIS
+series: series-CIRRHOSIS
 level: 3
 youtube_id: ZKpnDlAPbts
 membership: nieun
-short_title: CIRRHOSIS-05 저나트륨·SBP
-tags: [간-소화기, 신장-전해질]
+short_title: series-CIRRHOSIS-05 저나트륨·SBP
+tags: [간-소화기, 신장-전해질, series-CIRRHOSIS]
 ---
 
 > 간경변성 저나트륨혈증(hyponatremia)은 ADH 과다 분비로 인한 희석성 저나트륨혈증이고, 자발성 세균성 복막염(spontaneous bacterial peritonitis, SBP)은 사망률 20%의 감염 합병증으로 PMN ≥ 250개/mm³이면 즉시 항생제를 시작한다.

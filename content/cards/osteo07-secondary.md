@@ -1,12 +1,12 @@
 ---
 id: osteo07-secondary
 title: 골다공증이 다른 병 때문에 생기는 경우를 왜 따로 확인해야 하는가
-series: OSTEO
+series: series-OSTEO
 level: 2
 youtube_id: zZK6n8_ysO4
 membership: nieun
-short_title: OSTEO-07 이차성 골다공증
-tags: [증상-접근, 약물-기전]
+short_title: series-OSTEO-07 이차성 골다공증
+tags: [증상-접근, 약물-기전, series-OSTEO]
 ---
 
 > 이차성 골다공증은 드물지만, 치료 시작 전에 배제하지 않으면 베이스라인을 잃는다. 치료가 시작되면 이전 상태로 돌아갈 수 없기 때문이다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: B4i5MGqqRSE
 membership: public
 short_title: DM 당뇨·고혈압 치료 이유
-tags: [당뇨-대사, 심장-혈관]
+tags: [당뇨-대사, 심장-혈관, DM]
 ---
 
 > 당뇨와 고혈압은 진단 기준이 명확하고, 치료법이 있으며, 선택지가 많다. 이 세 가지가 동시에 성립하는 병은 생각보다 드물다.

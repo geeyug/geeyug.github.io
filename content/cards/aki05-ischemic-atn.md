@@ -1,19 +1,19 @@
 ---
 id: aki05-ischemic-atn
 title: 혈압이 정상인데 콩팥이 허혈성 손상을 받는 이유는 무엇인가
-series: AKI
+series: series-AKI
 level: 3
 youtube_id: q4mIoku2vrA
 membership: nieun
-tags: [신장-전해질]
-short_title: AKI-05 허혈성 ATN
+tags: [신장-전해질, series-AKI]
+short_title: series-AKI-05 허혈성 ATN
 ---
 
 > 콩팥의 자동조절(autoregulation)이 손상된 환자는 정상 혈압 범위에서도 허혈성 급성 세뇨관 괴사(ischemic ATN)로 이행할 수 있다.
 
 ## ❶ 생각해 보셨나요?
 
-허혈성 AKI라고 하면 저혈압이 필수 조건이라고 생각하기 쉽다. 그러나 혈압이 100~120 mmHg로 정상을 유지하고 있음에도 콩팥이 허혈 손상을 받는 환자가 있다. 이것이 **정상혈압성 허혈성 AKI(normotensive ischemic AKI)**다.
+허혈성 AKI라고 하면 저혈압이 필수 조건이라고 생각하기 쉽다. 그러나 혈압이 100~120 mmHg로 정상을 유지하고 있음에도 콩팥이 허혈 손상을 받는 환자가 있다. 이것이 **정상혈압성 허혈성 series-AKI(normotensive ischemic series-AKI)**다.
 
 ## ❷ Prerenal AKI가 ATN으로 넘어가는 과정은 어떠한가
 

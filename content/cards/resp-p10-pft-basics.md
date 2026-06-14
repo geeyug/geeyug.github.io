@@ -6,7 +6,7 @@ level: 2
 youtube_id: j7UCdhXrvGE
 membership: ssangkiyeok
 short_title: P10 PFT 기초/FEV1/FVC
-tags: [호흡기]
+tags: [호흡기, RESP]
 ---
 
 > 폐기능 검사(PFT)는 공기가 얼마나 빠르게 빠져나오는지를 측정해 기도 폐쇄 여부를 판단하는 기능적 평가다.

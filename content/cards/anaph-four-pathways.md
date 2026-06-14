@@ -5,7 +5,7 @@ topic: ANAPH
 level: 2
 youtube_id: 0F2AyrZFAjc
 membership: nieun
-tags: [응급]
+tags: [응급, ANAPH]
 short_title: ANAPH-12 아나필락시스 4경로
 ---
 

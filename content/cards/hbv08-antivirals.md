@@ -1,12 +1,12 @@
 ---
 id: hbv08-antivirals
 title: 만성 B형간염 치료제 — 왜 특정 약만 쓰고, 둘은 왜 다른가
-series: HBV
+series: series-HBV
 level: 2
 youtube_id: QRFZPsf_GbI
 membership: nieun
-short_title: HBV-08 항바이러스제 선택
-tags: [간-소화기, 약물-기전]
+short_title: series-HBV-08 항바이러스제 선택
+tags: [간-소화기, 약물-기전, series-HBV]
 ---
 
 > 만성 B형간염의 경구용 항바이러스제는 내성 장벽이 높은 것 중에서 선택하며, TDF와 TAF는 같은 성분이지만 용량과 안전성 프로필이 다르다.

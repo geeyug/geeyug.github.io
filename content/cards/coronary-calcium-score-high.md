@@ -5,7 +5,7 @@ topic: ACS
 level: 1
 youtube_id: 54w55xIMi1A
 membership: public
-tags: [심장-혈관]
+tags: [심장-혈관, ACS]
 short_title: ACS 칼슘점수 높을 때
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: syncope20-differential
 title: 실신처럼 보이지만 실신이 아닌 것들 — 어떻게 구별하는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: ez-K2slbdq4
 membership: ssangkiyeok
-short_title: SYNCOPE-20 감별 진단
-tags: [심장-혈관, 증상-접근]
+short_title: series-SYNCOPE-20 감별 진단
+tags: [심장-혈관, 증상-접근, series-SYNCOPE]
 ---
 
 > 실신처럼 보이는 의식 소실이나 쓰러짐에는 발작, 저혈당, 탈력 발작, 정신과적 원인이 포함되며, 각각의 기전과 특징으로 감별할 수 있다.

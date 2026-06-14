@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3fGXKGOiEpU
 membership: ssangkiyeok
 short_title: 건강검진 추가검사 선택
-tags: [증상-접근]
+tags: [증상-접근, GENERAL]
 ---
 
 > 건강검진 추가 검사는 국가 기본검진을 바탕으로 본인의 나이, 증상, 위험인자에 맞게 선택해야 하며, 모든 검사가 모든 사람에게 필요한 것은 아니다.

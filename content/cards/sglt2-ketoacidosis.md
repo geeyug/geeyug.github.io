@@ -1,11 +1,11 @@
 ---
 id: sglt2-ketoacidosis
 title: SGLT2 저해제를 먹는데 혈당이 정상에 가깝다면 케톤산증을 의심하지 않아도 되는가
-series: DM
+series: series-DM
 level: 1
 youtube_id: lh6XFho7grg
 membership: public
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 short_title: SGLT2 케톤산증
 ---
 

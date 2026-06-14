@@ -6,7 +6,7 @@ level: 1
 youtube_id: SRYKfpnjh_M
 membership: public
 short_title: GI 로페라마이드 금기
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, GI]
 ---
 
 > 로페라마이드(loperamide)는 장의 움직임을 직접 억제하는 지사제다. 효과가 강력한 만큼, 써서는 안 되는 상황에서 쓰면 증상이 악화되거나 중증 합병증이 생길 수 있다.

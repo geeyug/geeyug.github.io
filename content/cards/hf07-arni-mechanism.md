@@ -1,12 +1,12 @@
 ---
 id: hf07-arni-mechanism
 title: ARNI는 왜 심부전 치료의 전환점이 되었는가
-series: HF
+series: series-HF
 level: 3
 youtube_id: BOyYzq-tgAE
 membership: nieun
-short_title: HF-07 ARNI 등장 배경
-tags: [심장-혈관, 약물-기전]
+short_title: series-HF-07 ARNI 등장 배경
+tags: [심장-혈관, 약물-기전, series-HF]
 ---
 
 > 심부전의 표준 약물 치료는 보상 기전을 차단하는 방향으로 발전해 왔으며, ARNI는 그 흐름 위에서 natriuretic peptide(나트륨이뇨펩타이드)를 적극적으로 활용하는 새로운 전략으로 등장하였다.

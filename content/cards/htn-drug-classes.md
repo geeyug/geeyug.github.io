@@ -6,7 +6,7 @@ level: 1
 youtube_id: 0hYmrysix-M
 membership: public
 short_title: HTN 혈압약 분류
-tags: [심장-혈관, 약물-기전]
+tags: [심장-혈관, 약물-기전, HTN]
 ---
 
 > 혈압약은 작용 기전에 따라 계열이 구분되며, 성분명 어미(語尾)로 계열을 식별할 수 있다.

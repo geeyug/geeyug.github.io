@@ -6,7 +6,7 @@ level: 1
 youtube_id: 0pEXF9sS8UU
 membership: public
 short_title: CKD 단계별 관리 포인트
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 ---
 
 > 만성콩팥병(CKD)은 1기부터 5기까지 단계가 있으며, 단계마다 해야 할 일이 달라진다. 초기에는 위험 인자 관리, 중기에는 약물 추가, 후기에는 합병증 예방과 투석 준비가 핵심이다.

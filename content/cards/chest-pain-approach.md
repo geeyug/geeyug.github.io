@@ -6,7 +6,7 @@ level: 1
 youtube_id: 7lXS_0QlO8g
 membership: public
 short_title: SYMPTOM 흉통 접근
-tags: [증상-접근, 심장-혈관]
+tags: [증상-접근, 심장-혈관, GENERAL]
 ---
 
 > 흉통은 원인이 50가지가 넘지만, 그 중 즉각적 처치가 필요한 치명적 원인을 먼저 감별하는 것이 핵심이며, 자세한 문진이 이 과정에서 가장 중요한 도구다.

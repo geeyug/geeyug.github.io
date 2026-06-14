@@ -6,7 +6,7 @@ level: 1
 youtube_id: 4yVTwYmfV1w
 membership: public
 short_title: GI 신경성소화불량 신경안정제
-tags: [간-소화기]
+tags: [간-소화기, GI]
 ---
 
 > 신경성 소화불량에 벤조디아제핀계 신경안정제를 처방하는 경우가 있으나, 위장 증상보다 뇌에 먼저 작용하는 약이므로 적응증을 신중히 따져야 한다. 특히 노인에게는 낙상 위험이 있어 주의가 필요하다.

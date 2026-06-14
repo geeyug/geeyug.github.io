@@ -6,7 +6,7 @@ level: 2
 youtube_id: 4OR4BWfUreo
 membership: ssangkiyeok
 short_title: MURMUR 비후성심근병증
-tags: [심장-혈관]
+tags: [심장-혈관, MURMUR]
 ---
 
 > 비후성 심근병증(HCM, hypertrophic cardiomyopathy)은 고혈압이나 판막 질환 없이 심실 근육이 두꺼워지는 유전 질환으로, 젊은 사람에서도 급사를 일으킬 수 있다.

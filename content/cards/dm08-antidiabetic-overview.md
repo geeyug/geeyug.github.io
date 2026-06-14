@@ -1,12 +1,12 @@
 ---
 id: dm08-antidiabetic-overview
 title: 당뇨약은 어떤 원리로 혈당을 낮추는가 — 계열별 기전과 선택
-series: DM
+series: series-DM
 level: 2
 youtube_id: f7dOYlwTJjY
 membership: nieun
 short_title: DM08 당뇨약 계열 기전
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 ---
 
 > 당뇨 치료제는 공복 혈당을 낮추는 계열과 식후 혈당을 낮추는 계열로 나뉘며, 심장·신장 보호 효과까지 고려해 선택한다.

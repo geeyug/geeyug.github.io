@@ -6,7 +6,7 @@ level: 2
 youtube_id: 0MMw9EHM2fg
 membership: ssangkiyeok
 short_title: PPI 위산 생성 기전
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, PHARM]
 ---
 
 > 위산은 위 벽세포(parietal cell)가 H⁺/K⁺-ATPase 펌프를 이용해 수소 이온(H⁺)을 위 내강으로 분비함으로써 만들어진다.

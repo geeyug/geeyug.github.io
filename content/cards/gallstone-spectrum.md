@@ -6,7 +6,7 @@ level: 1
 youtube_id: 0HA7QwXO_5o
 membership: public
 short_title: GI 담석 질환 스펙트럼
-tags: [간-소화기, 증상-접근]
+tags: [간-소화기, 증상-접근, GI]
 ---
 
 > 담석 자체보다 담석이 어디에 위치하느냐가 임상 양상을 결정한다. 위치에 따라 무증상, 산통, 담낭염, 담도석, 담도염으로 나뉜다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: xInhGeUr65E
 membership: public
 short_title: ANEMIA 만성질환 빈혈 기전
-tags: [증상-접근]
+tags: [증상-접근, HEMATOLOGY]
 ---
 
 > 만성질환에 의한 빈혈은 단일 기전이 아니라, 염증이 철 이동을 차단하고 적혈구 생산을 억제하며 수명까지 단축시키는 복합적인 결과다.

@@ -1,12 +1,12 @@
 ---
 id: kf09-diabetes-insipidus
 title: 소변이 농축되지 않는 질환에는 어떤 종류가 있는가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: KrVWWJTmOMg
 membership: ssangkiyeok
 short_title: KF-09 요붕증
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 소변 농축 실패는 ADH 생산 문제(중추성)와 콩팥 반응 문제(신원성) 두 갈래로 나뉘며, 치료 방향이 다르다.

@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: 2PWCITqpdOc
 membership: public
-tags: [당뇨-대사, 신장-전해질]
+tags: [당뇨-대사, 신장-전해질, DM]
 short_title: 당뇨 신증과 혈뇨
 ---
 

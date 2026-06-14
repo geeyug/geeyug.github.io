@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3NaoximPsq4
 membership: public
 short_title: DM 당뇨 의심과 진단 기준
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 집에서 측정한 혈당 수치가 높게 나왔다고 해서 당뇨를 의심하기 전에, 그 수치가 왜 높게 나왔는지부터 살펴볼 필요가 있다.

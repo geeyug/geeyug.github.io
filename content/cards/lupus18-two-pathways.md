@@ -1,12 +1,12 @@
 ---
 id: lupus18-two-pathways
 title: 루푸스 진단에는 왜 두 가지 경로가 있는가
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: sbchsESU5-8
 membership: nieun
 short_title: lupus18 진단 두 경로
-tags: [증상-접근]
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 루푸스(SLE, systemic lupus erythematosus)는 증상의 조합으로 의심하는 경로와 검사 이상으로 발견되는 경로, 두 가지로 진단에 이른다. 실제 임상에서는 두 경로가 섞여 퍼즐처럼 맞춰진다.

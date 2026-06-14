@@ -5,7 +5,7 @@ topic: TUBULE
 level: 1
 youtube_id: Jjn3pdxVFdw
 membership: ssangkiyeok
-tags: [신장-전해질]
+tags: [신장-전해질, TUBULE]
 short_title: TUBULE-04 소변 당 = 당뇨
 ---
 

@@ -6,7 +6,7 @@ level: 2
 youtube_id: 1qqgahE_ixg
 membership: ssangkiyeok
 short_title: 미다졸람 역설반응
-tags: [약물-기전]
+tags: [약물-기전, PHARM]
 ---
 
 > 미다졸람(midazolam) 같은 진정제를 투여한 후 오히려 흥분, 초조, 안절부절 못하는 반응이 나타나는 것을 역설적 반응(paradoxical reaction)이라 하며, 기전은 아직 명확하지 않다.

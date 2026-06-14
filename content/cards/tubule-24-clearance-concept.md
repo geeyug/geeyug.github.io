@@ -1,12 +1,12 @@
 ---
 id: tubule-24-clearance-concept
 title: 청소율(clearance)이란 무엇을 측정하는 지표인가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: gKtM1kff-Bc
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-24 청소율의 개념
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-24 청소율의 개념
 ---
 
 > 청소율(clearance)은 단위 시간당 콩팥이 특정 물질을 완전히 제거한 혈장의 부피로 정의된다.
@@ -36,7 +36,7 @@ short_title: TUBULE-24 청소율의 개념
 
 ## ❹ 결국
 
-청소율 공식 자체는 간단하지만, 이것이 강력한 이유는 어떤 물질의 청소율을 재느냐에 따라 콩팥의 서로 다른 기능을 측정할 수 있기 때문이다. 다음 카드(TUBULE-25)에서 이 공식을 사구체 여과율(GFR) 측정에 어떻게 적용하는지 살펴본다.
+청소율 공식 자체는 간단하지만, 이것이 강력한 이유는 어떤 물질의 청소율을 재느냐에 따라 콩팥의 서로 다른 기능을 측정할 수 있기 때문이다. 다음 카드(series-TUBULE-25)에서 이 공식을 사구체 여과율(GFR) 측정에 어떻게 적용하는지 살펴본다.
 
 영상으로 더 깊이 보고 싶다면:
 [▶ 영상으로 보기](https://youtu.be/gKtM1kff-Bc) *(멤버십)*

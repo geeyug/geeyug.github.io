@@ -5,7 +5,7 @@ topic: TUBULE
 level: 2
 youtube_id: 83enmJXeUqY
 membership: ssangkiyeok
-tags: [신장-전해질]
+tags: [신장-전해질, TUBULE]
 short_title: TUBULE-08 근위세뇨관 재흡수와 분비
 ---
 

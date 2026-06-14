@@ -6,7 +6,7 @@ level: 1
 youtube_id: 98qviGdNFds
 membership: public
 short_title: 췌장암 신호로서의 당뇨
-tags: [당뇨-대사]
+tags: [당뇨-대사, ONCO]
 ---
 
 > 새로 발생한 당뇨는 췌장암에 의한 부종양증후군의 결과일 수 있으며, 당뇨와 췌장암 사이에는 역학적으로 유의한 연관관계가 확인된다.

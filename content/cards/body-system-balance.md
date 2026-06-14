@@ -6,7 +6,7 @@ level: 1
 youtube_id: 8SZ1r_dPl0w
 membership: public
 short_title: GENERAL 신체 시스템
-tags: [증상-접근]
+tags: [증상-접근, GENERAL]
 ---
 
 > 우리 몸은 체온·혈압·혈당·혈색소 등 여러 내부 시스템을 일정하게 유지하며, 이 균형이 무너질 때 질병이 된다. 감염·외상·암 모두 이 시스템을 교란하는 요인이다.

@@ -5,7 +5,7 @@ topic: LUPUS
 level: 2
 youtube_id: PDa2bvyQGlw
 membership: nieun
-tags: [증상-접근]
+tags: [증상-접근, LUPUS]
 short_title: lupus-05 면역 복합체 침착 질환
 ---
 

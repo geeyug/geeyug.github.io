@@ -5,7 +5,7 @@ topic: TUBULE
 level: 2
 youtube_id: CmNQIyMN6jw
 membership: ssangkiyeok
-tags: [신장-전해질]
+tags: [신장-전해질, TUBULE]
 short_title: TUBULE-09 헨리고리 개요
 ---
 

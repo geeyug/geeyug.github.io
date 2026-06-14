@@ -5,7 +5,7 @@ topic: ANAPH
 level: 2
 youtube_id: nXeBQzVYzok
 membership: nieun
-tags: [응급]
+tags: [응급, ANAPH]
 short_title: ANAPH17 스콤브로이드 중독
 ---
 

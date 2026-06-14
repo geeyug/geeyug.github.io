@@ -6,7 +6,7 @@ level: 1
 youtube_id: 4yrxsebdqkw
 membership: public
 short_title: DM 금연과 대혈관 합병증
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨 환자에서 흡연은 대혈관 합병증 위험을 압도적으로 높이는 조절 가능한 위험 인자로, 혈당 조절과 함께 반드시 병행해야 한다.

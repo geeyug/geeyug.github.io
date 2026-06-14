@@ -6,7 +6,7 @@ level: 1
 youtube_id: -GQb_hvLm08
 membership: public
 short_title: GI 진경제 작용 원리
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, GI]
 ---
 
 > 장 근육의 경련을 억제하는 진경제(antispasmodic)는 크게 항콜린 계열과 직접 근육 이완 계열로 나뉘며, 두 계열은 작용 방식과 부작용 양상이 다르다.

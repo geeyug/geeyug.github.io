@@ -1,11 +1,11 @@
 ---
 id: dm17-obesity-drugs
 title: 지금 뜨는 비만치료제와 앞으로 나올 비만치료제는 어떻게 다른가
-series: DM
+series: series-DM
 level: 2
 youtube_id: QIt37tiuo-8
 membership: nieun
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 short_title: DM17 비만치료제
 ---
 

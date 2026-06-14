@@ -1,11 +1,11 @@
 ---
 id: sglt2-kidney-protection
 title: 당뇨병 환자에서 콩팥을 보호하기 위해 승인된 약제는 무엇인가
-series: DM
+series: series-DM
 level: 1
 youtube_id: D92TqVWAmI0
 membership: public
-tags: [당뇨-대사, 신장-전해질, 약물-기전]
+tags: [당뇨-대사, 신장-전해질, 약물-기전, series-DM]
 short_title: SGLT2 콩팥 보호
 ---
 

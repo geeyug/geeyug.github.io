@@ -1,12 +1,12 @@
 ---
 id: pain01-overview
 title: 통증은 왜 단순한 증상이 아닌가
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: PAUUTI5S5EI
 membership: ssangkiyeok
-short_title: PAIN-01 통증의 세 의미
-tags: [증상-접근]
+short_title: series-PAIN-01 통증의 세 의미
+tags: [증상-접근, series-PAIN]
 ---
 
 > 통증은 생리적 방어 기전이면서 진단의 단서이고, 동시에 반드시 완화되어야 할 윤리적 대상이다.

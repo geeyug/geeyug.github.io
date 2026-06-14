@@ -1,12 +1,12 @@
 ---
 id: sepsis17-six-signs
 title: 패혈증을 조기에 알아채려면 어떤 신호를 봐야 하는가
-series: SEPSIS
+series: series-SEPSIS
 level: 2
 youtube_id: XoYFaBIAh64
 membership: ssangkiyeok
-short_title: SEPSIS-17 6가지 신호
-tags: [응급]
+short_title: series-SEPSIS-17 6가지 신호
+tags: [응급, series-SEPSIS]
 ---
 
 > 패혈증의 6가지 조기 신호는 감염이 있는 상황에서만 의미를 갖는다. 정황 없이 신호만 보면 놓친다.

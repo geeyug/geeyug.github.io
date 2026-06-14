@@ -1,11 +1,11 @@
 ---
 id: dm16-glp1-deep
 title: GLP-1 수용체 작용제는 췌장 밖에서 어떻게 작용하는가
-series: DM
+series: series-DM
 level: 2
 youtube_id: aseEG_kgzdc
 membership: nieun
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 short_title: DM16 GLP1 기전·임상
 ---
 

@@ -6,7 +6,7 @@ level: 1
 youtube_id: Nid8uF8ggBc
 membership: public
 short_title: MI 방사통·골든타임
-tags: [심장-혈관]
+tags: [심장-혈관, ACS]
 ---
 
 > 심근경색의 통증은 흉부에만 머물지 않고 왼팔, 목, 어깨, 턱으로 퍼지며, 위험 인자를 가진 사람에게 평소와 다른 통증이 나타났다면 자가진단보다 빠른 의료 접근이 생명을 지키는 첫 단계다.

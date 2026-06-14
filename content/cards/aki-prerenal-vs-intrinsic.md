@@ -5,7 +5,7 @@ topic: KIDNEY
 level: 2
 youtube_id: F3jP5qxRGg0
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, KIDNEY]
 short_title: AKI-03 prerenal vs intrinsic
 ---
 

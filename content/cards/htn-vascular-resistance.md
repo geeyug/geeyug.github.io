@@ -6,7 +6,7 @@ level: 1
 youtube_id: 8-16jpMWA9Q
 membership: public
 short_title: HTN 혈관저항 손상
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 고혈압은 혈관 저항을 지속적으로 높이고, 이 만성 압력이 혈관 벽을 손상시켜 뇌졸중·심부전·만성 콩팥병 등 주요 장기 손상으로 이어진다.

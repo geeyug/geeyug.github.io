@@ -1,12 +1,12 @@
 ---
 id: hf08-drug-mechanisms
 title: HFrEF 치료 흐름에서 2차 약제와 기기 치료는 언제 등장하는가
-series: HF
+series: series-HF
 level: 3
 youtube_id: BJKdRuX9bGE
 membership: nieun
-short_title: HF-08 2차약제·기기치료
-tags: [심장-혈관, 약물-기전]
+short_title: series-HF-08 2차약제·기기치료
+tags: [심장-혈관, 약물-기전, series-HF]
 ---
 
 > HFrEF 치료는 표준 약물을 최대한 쓴 뒤에도 증상이 지속되면 기기 치료 적응증을 먼저 검토하고, 그래도 안 될 때 2차 약제를 추가하는 순서로 진행된다.

@@ -5,7 +5,7 @@ topic: ECFVOLCON
 level: 2
 youtube_id: 1QE39wVxD0g
 membership: ssangkiyeok
-tags: [신장-전해질]
+tags: [신장-전해질, ECFVOLCON]
 short_title: ECFVOLCON-01 세포외액 조절 핵심
 ---
 

@@ -5,7 +5,7 @@ topic: SEPSIS
 level: 2
 youtube_id: -RVBW3ckSCI
 membership: ssangkiyeok
-tags: [응급, 감염-항생제]
+tags: [응급, 감염-항생제, SEPSIS]
 short_title: SEPSIS-01 패혈증이 위험한 이유
 ---
 

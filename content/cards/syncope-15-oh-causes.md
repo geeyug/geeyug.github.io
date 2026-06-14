@@ -1,12 +1,12 @@
 ---
 id: syncope-15-oh-causes
 title: 기립성 저혈압은 어떤 원인으로 생기는가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: dnTqZXK36gA
 membership: ssangkiyeok
-tags: [증상-접근]
-short_title: SYNCOPE-15 기립성저혈압 원인
+tags: [증상-접근, series-SYNCOPE]
+short_title: series-SYNCOPE-15 기립성저혈압 원인
 ---
 
 > 기립성 저혈압의 원인은 자율신경계 이상 하나로 귀결되지만, 그 이상이 중추에서 오는지 말초에서 오는지, 아니면 약물이나 식사에 의한 것인지에 따라 접근이 달라진다.

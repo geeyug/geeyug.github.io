@@ -5,7 +5,7 @@ topic: DM
 level: 2
 youtube_id: vDmvM42axmk
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 세포 ATP 생산 2가지 방법
 ---
 

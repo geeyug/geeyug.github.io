@@ -6,7 +6,7 @@ level: 2
 youtube_id: 1wGpTL2fPr8
 membership: ssangkiyeok
 short_title: GI-PHYS21 위액 성분
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 위액은 두 종류의 샘에서 서로 다른 세포가 분업하여 분비한 성분들이 섞인 결과물이다. 핵심은 위산(HCl)이며, 벽세포(parietal cell)가 H⁺/K⁺-ATPase를 이용해 혈액보다 300만 배 농축된 수소이온을 분비한다.

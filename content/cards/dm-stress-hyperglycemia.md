@@ -6,7 +6,7 @@ level: 2
 youtube_id: GI3-PZA0730
 membership: public
 short_title: DM 스트레스와 혈당
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 스트레스는 여러 경로를 통해 혈당을 실제로 올리며, 이미 당뇨가 있는 경우 혈당 조절 실패로 이어진다.

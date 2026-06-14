@@ -1,12 +1,12 @@
 ---
 id: heartsound09-reverse-split
 title: S2가 숨을 내쉴 때 갈라진다면 무슨 뜻인가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: K1kRhmCYhug
 membership: ssangkiyeok
-short_title: HEARTSOUND-09 역설적 분열
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-09 역설적 분열
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > S2의 역설적 분열(reverse splitting)은 A2가 뒤로 밀려 정상 분열 순서가 뒤바뀐 현상으로, LBBB 또는 좌심실 유출로 폐쇄가 원인이다.

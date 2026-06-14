@@ -1,12 +1,12 @@
 ---
 id: murmur09-asd
 title: 심방중격결손에서 들리는 심잡음은 구멍에서 나는 것이 아니다
-series: MURMUR
+series: series-MURMUR
 level: 2
 youtube_id: 7lr4cExhVV8
 membership: ssangkiyeok
-short_title: MURMUR-09 ASD 심잡음
-tags: [심장-혈관]
+short_title: series-MURMUR-09 ASD 심잡음
+tags: [심장-혈관, series-MURMUR]
 ---
 
 > 심방중격결손(ASD)에서 들리는 심잡음은 좌우 단락(shunt)에서 직접 나는 것이 아니라, 우심실로 과부하된 혈액이 폐동맥판막과 삼첨판막을 통과할 때 나는 상대적 협착음이다.

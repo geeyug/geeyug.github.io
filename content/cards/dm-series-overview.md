@@ -6,7 +6,7 @@ level: 1
 youtube_id: gf5oqD1GuBs
 membership: nieun
 short_title: DM01 강의 개요
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨병은 단일 질환으로는 파급 효과가 가장 큰 만성 질환이며, 진단·분류·치료 재료·가이드라인·급여 기준까지 하나의 흐름으로 이해해야 실제 임상에서 쓸 수 있다.

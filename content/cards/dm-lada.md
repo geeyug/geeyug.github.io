@@ -5,7 +5,7 @@ topic: DM
 level: 3
 youtube_id: TCouCwOCleQ
 membership: nieun
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: DM06 LADA 잠재성 자가면역 당뇨
 ---
 

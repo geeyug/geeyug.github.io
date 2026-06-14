@@ -1,12 +1,12 @@
 ---
 id: pain04-stimuli-types
 title: 통증 수용기는 어떤 자극에 반응하는가
-series: PAIN
+series: series-PAIN
 level: 2
 youtube_id: NV8pKQU28Vo
 membership: ssangkiyeok
-short_title: PAIN-04 통증 수용기 자극 종류
-tags: [증상-접근]
+short_title: series-PAIN-04 통증 수용기 자극 종류
+tags: [증상-접근, series-PAIN]
 ---
 
 > 통증 수용기는 온도, 기계적 압박, 화학물질, 산성 환경 등 여러 자극에 반응한다. 이 자극들은 종류가 달라 보여도 결국 한 가지를 알리기 위한 신호다 — 조직이 손상되고 있다.

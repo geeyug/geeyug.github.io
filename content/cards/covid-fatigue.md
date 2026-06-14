@@ -6,7 +6,7 @@ level: 2
 youtube_id: 1iE1dCby2_E
 membership: ssangkiyeok
 short_title: COVID 후유증 피로감
-tags: [증상-접근, 감염-항생제]
+tags: [증상-접근, 감염-항생제, COVID]
 ---
 
 > 코로나 후 피로감은 실재하지만, 그것이 코로나에 특이적인지 다른 감염 후유증과 다른지는 아직 근거가 충분하지 않다.

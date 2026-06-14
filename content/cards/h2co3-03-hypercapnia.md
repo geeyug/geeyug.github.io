@@ -1,12 +1,12 @@
 ---
 id: h2co3-03-hypercapnia
 title: 숨을 못 쉬면 이산화탄소만 쌓이는가, 산소도 함께 부족해지는가
-series: H2CO3
+series: series-H2CO3
 level: 2
 youtube_id: jQusA-ca1i0
 membership: public
-short_title: H2CO3-03 고탄산혈증과 저산소혈증
-tags: [호흡기, 신장-전해질]
+short_title: series-H2CO3-03 고탄산혈증과 저산소혈증
+tags: [호흡기, 신장-전해질, series-H2CO3]
 ---
 
 > 환기가 줄면 고탄산혈증(hypercapnia)과 저산소혈증(hypoxia)은 함께 발생하지만, 초기에는 이산화탄소 확산 속도가 빠르기 때문에 저산소혈증이 더 먼저 두드러진다.

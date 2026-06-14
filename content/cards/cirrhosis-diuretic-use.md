@@ -6,7 +6,7 @@ level: 2
 youtube_id: D1LsQ1WWgZo
 membership: public
 short_title: CIRRHOSIS-복수 이뇨제
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, CIRRHOSIS]
 ---
 
 > 간경변성 복수에서는 알도스테론 길항제인 스피로노락톤(spironolactone)을 경구로, 먼저 단독으로 사용하는 것이 원칙이다.

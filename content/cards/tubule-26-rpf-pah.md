@@ -1,12 +1,12 @@
 ---
 id: tubule-26-rpf-pah
 title: 청소율만으로 콩팥 혈류량을 어떻게 측정할 수 있는가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: GoKPU3aYcwM
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-26 콩팥혈류량 측정
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-26 콩팥혈류량 측정
 ---
 
 > 콩팥을 지나면서 거의 완전히 제거되는 물질의 청소율을 이용하면, 혈관에 직접 접근하지 않고도 콩팥 혈장 유량(renal plasma flow)과 콩팥 혈류량(renal blood flow)을 계산할 수 있다.

@@ -1,12 +1,12 @@
 ---
 id: asthma07-treatment-elements
 title: 천식 치료는 왜 두 트랙, 다섯 단계로 나뉘는가
-series: ASTHMA
+series: series-ASTHMA
 level: 2
 youtube_id: GwPYWSVbNEw
 membership: nieun
-short_title: ASTHMA-07 치료 구조
-tags: [호흡기, 약물-기전]
+short_title: series-ASTHMA-07 치료 구조
+tags: [호흡기, 약물-기전, series-ASTHMA]
 ---
 
 > 천식 치료는 평소 염증을 억제하는 컨트롤러와 급성 증상을 완화하는 릴리버가 모든 단계에서 함께 운영된다.

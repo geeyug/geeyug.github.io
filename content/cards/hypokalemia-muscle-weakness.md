@@ -6,7 +6,7 @@ level: 1
 youtube_id: pbEUdjxH4jc
 membership: public
 short_title: 저칼륨-근력저하 기전
-tags: [신장-전해질]
+tags: [신장-전해질, GI]
 ---
 
 > 칼륨 부족은 세포막 전위를 지나치게 음성으로 만들어 근육이 자극에 반응하지 못하게 한다.

@@ -5,7 +5,7 @@ topic: ANAPH
 level: 3
 youtube_id: vcGdX0NKka4
 membership: nieun
-tags: [응급, 약물-기전]
+tags: [응급, 약물-기전, ANAPH]
 short_title: ANAPH15 조영제·NSAIDs 기전
 ---
 

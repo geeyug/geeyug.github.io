@@ -6,7 +6,7 @@ level: 2
 youtube_id: BGVvcv-yfhk
 membership: public
 short_title: HPYLORI 제균치료와 PPI
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, HPYLORI]
 ---
 
 > 헬리코박터 제균치료에 항생제만이 아니라 양성자펌프억제제(PPI)를 함께 쓰는 이유는, 위 산성 환경에서 항생제 효능이 크게 떨어지기 때문이다.

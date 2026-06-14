@@ -5,7 +5,7 @@ topic: LIVER
 level: 2
 youtube_id: -CLdtRw84Vw
 membership: public
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 short_title: LIVER 간경변 B형간염 치료
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: kidney03-ramen-effect
 title: 라면을 먹으면 우리 몸의 물과 소금은 어떻게 처리되는가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: B5k0RkK8mg0
 membership: ssangkiyeok
-short_title: KIDNEY-03 라면과 체액량
-tags: [신장-전해질]
+short_title: series-KIDNEY-03 라면과 체액량
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 소금을 과도하게 섭취하면 삼투압 센서와 체액량 센서가 순서대로 작동해 소금만 선택적으로 배출된다. 콩팥 기능이 손상되면 이 과정이 성립하지 않는다.

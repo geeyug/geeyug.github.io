@@ -1,12 +1,12 @@
 ---
 id: kf07-tubule-flow
 title: 소변이 세뇨관을 따라 흐르며 농도는 어떻게 변하는가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: PAg6hHwARUg
 membership: ssangkiyeok
 short_title: KF-07 세뇨관 구간별 농도 변화
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 소변의 삼투 농도는 세뇨관을 따라 300→1,200→100으로 변했다가, ADH 수준에 따라 50(희석) 또는 1,200(농축)으로 최종 결정된다.

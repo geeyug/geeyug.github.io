@@ -6,7 +6,7 @@ level: 2
 youtube_id: S2TwREIBIRI
 membership: public
 short_title: LFT-05 이상 패턴 해석
-tags: [간-소화기]
+tags: [간-소화기, LFT]
 ---
 
 > 간 기능 검사 이상은 간세포 손상형·담즙정체형·침윤형의 세 가지 패턴으로 나뉘며, 어떤 수치가 주로 오르는지에 따라 원인을 좁혀 나간다.

@@ -1,12 +1,12 @@
 ---
 id: heart02-action-potential
 title: 심장근육의 활동전위는 골격근과 무엇이 다른가
-series: HEART
+series: series-HEART
 level: 2
 youtube_id: PqxxOPCqvwE
 membership: ssangkiyeok
-short_title: HEART-02 활동전위
-tags: [심장-혈관]
+short_title: series-HEART-02 활동전위
+tags: [심장-혈관, series-HEART]
 ---
 
 > 심장근육의 활동전위는 오랫동안 유지되는 고원기(plateau)를 가지며, 이로 인해 절대 불응기가 길어져 심장이 지속적으로 수축하는 것을 막는다.

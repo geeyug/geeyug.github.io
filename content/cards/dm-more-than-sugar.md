@@ -6,7 +6,7 @@ level: 1
 youtube_id: 7J0rAO8UHTw
 membership: public
 short_title: DM 당대사 조절 고장
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨는 혈당 수치 하나의 문제가 아니라, 혈당을 조절하는 전체 시스템이 무너진 상태이다.

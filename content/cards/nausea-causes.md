@@ -6,7 +6,7 @@ level: 1
 youtube_id: 0A3jn-2EaIQ
 membership: public
 short_title: GI 구역·구토 원인
-tags: [간-소화기, 증상-접근]
+tags: [간-소화기, 증상-접근, GI]
 ---
 
 > 구역(nausea)과 구토(vomiting)는 소화관 문제만이 아니라 뇌 질환·심장 질환·대사 이상·약물 등 전신 원인에 의해서도 생길 수 있다.

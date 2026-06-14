@@ -5,7 +5,7 @@ topic: BETA
 level: 2
 youtube_id: -Hdzmi8Ynno
 membership: ssangkiyeok
-tags: [약물-기전, 호흡기]
+tags: [약물-기전, 호흡기, BETA]
 short_title: BETA-09 폐질환과 베타차단제
 ---
 

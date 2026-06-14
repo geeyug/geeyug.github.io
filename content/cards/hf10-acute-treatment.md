@@ -1,12 +1,12 @@
 ---
 id: hf10-acute-treatment
 title: 급성 심부전 네 가지 표현형에서 치료 선택은 어떻게 달라지는가
-series: HF
+series: series-HF
 level: 3
 youtube_id: 1VfzXz0OAcA
 membership: nieun
-short_title: HF-10 급성심부전 치료결정
-tags: [심장-혈관]
+short_title: series-HF-10 급성심부전 치료결정
+tags: [심장-혈관, series-HF]
 ---
 
 > 급성 심부전에서 관류 상태와 울혈 여부를 조합한 네 가지 표현형은 치료의 방향을 결정하는 실질적인 틀이다.

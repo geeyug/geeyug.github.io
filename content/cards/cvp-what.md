@@ -5,7 +5,7 @@ topic: HEART
 level: 2
 youtube_id: 2aXDWTf_NAo
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, HEART]
 short_title: CVP-01 중심정맥압
 ---
 

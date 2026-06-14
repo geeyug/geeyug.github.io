@@ -1,12 +1,12 @@
 ---
 id: rta07-type1-voltage
 title: Voltage defect형 Type 1 RTA는 왜 고칼륨혈증을 동반하는가?
-series: RTA
+series: series-RTA
 level: 3
 youtube_id: mbhcpHv9YYM
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-07 Type1 전압결함형
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-07 Type1 전압결함형
 ---
 
 > Voltage defect형 Type 1 RTA는 집합관 내강의 음전위 형성이 불충분해 수소 이온과 칼륨 이온이 함께 배설되지 못하므로 산증과 고칼륨혈증이 동시에 나타난다.
@@ -35,7 +35,7 @@ Voltage defect형 Type 1 RTA에서는 ENaC 기능 이상으로 Na⁺가 내강�
 - Type 1: distal nephron에서의 산 배설 장애가 기본 결함
 - Type 4: 알도스테론 결핍 또는 저항성이 기본 결함
 
-Voltage defect형은 알도스테론이 문제가 아니라 ENaC 채널 기능 이상으로 내강 전위가 낮아진 것이 핵심이다. 어쨌든 distal tubule에서의 산 배설 장애이므로 Type 1의 아형으로 분류한다. 그래서 **"voltage defect type Type 1 RTA"**라는 명칭이 붙은 것이다.
+Voltage defect형은 알도스테론이 문제가 아니라 ENaC 채널 기능 이상으로 내강 전위가 낮아진 것이 핵심이다. 어쨌든 distal tubule에서의 산 배설 장애이므로 Type 1의 아형으로 분류한다. 그래서 **"voltage defect type Type 1 series-RTA"**라는 명칭이 붙은 것이다.
 
 고칼륨혈증이 있다고 무조건 Type 4로 볼 수 없다. 기전을 확인해야 한다.
 

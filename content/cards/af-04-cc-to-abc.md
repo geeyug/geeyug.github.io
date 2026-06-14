@@ -1,12 +1,12 @@
 ---
 id: af-04-cc-to-abc
 title: "심방세동 치료는 어떤 순서로 접근하는가"
-series: AF
+series: series-AF
 level: 2
 youtube_id: eRHKWcPBo34
 membership: nieun
-tags: [심장-혈관]
-short_title: AF-04 치료 CC to ABC
+tags: [심장-혈관, series-AF]
+short_title: series-AF-04 치료 CC to ABC
 ---
 
 > 심방세동 치료는 CC-to-ABC 체계로 정리된다. 먼저 진단을 확정(Confirm)하고 특성을 파악(Characterise)한 뒤, 항응고 치료(A)·증상 조절(B)·동반질환 관리(C) 순으로 접근한다.
@@ -19,12 +19,12 @@ short_title: AF-04 치료 CC to ABC
 
 치료에 들어가기 전에 두 단계 준비가 필요합니다.
 
-**첫 번째 C — 진단 확정(Confirm AF)**: 12유도 심전도나 30초 이상의 단일 유도 기록으로 심방세동을 반드시 문서화합니다. 확정되지 않은 상태에서 항응고제를 시작할 수는 없습니다.
+**첫 번째 C — 진단 확정(Confirm series-AF)**: 12유도 심전도나 30초 이상의 단일 유도 기록으로 심방세동을 반드시 문서화합니다. 확정되지 않은 상태에서 항응고제를 시작할 수는 없습니다.
 
 **두 번째 C — 특성 파악(Characterise)**: 확정된 후 4S 평가를 진행합니다.
 1) **뇌졸중 위험도(Stroke risk)** — CHA₂DS₂-VASc 점수로 평가합니다. 가장 중요한 항목입니다. 병력 청취만으로 계산 가능합니다.
 2) **증상 부담(Symptom severity)** — EHRA 점수로 평가합니다. 앞서 설명한 6대 증상이 일상 활동을 얼마나 제한하는지 묻는 것으로 파악합니다.
-3) **심방세동 부담(AF burden)** — 발작성인지 지속성인지, 한 번 생기면 얼마나 지속되는지, 홀터 소견이 어떠한지로 평가합니다.
+3) **심방세동 부담(series-AF burden)** — 발작성인지 지속성인지, 한 번 생기면 얼마나 지속되는지, 홀터 소견이 어떠한지로 평가합니다.
 4) **기질적 변화(Substrate severity)** — 심장초음파(echocardiography)로 좌심방(LA) 크기를 확인합니다. LA가 45mm 미만인지 55mm를 넘는지에 따라 리듬 조절 시도의 가능성이 달라집니다.
 
 4S를 차트 한 줄에 기록해 두면 추적 진료와 다른 의사와의 소통 모두에 유용합니다.
@@ -41,9 +41,9 @@ short_title: AF-04 치료 CC to ABC
 
 **C — 동반질환 관리(Comorbidity and risk factor management)**: 고혈압, 당뇨, 신부전, 판막질환 등 심방세동과 함께 있는 질환을 종합적으로 관리합니다. 가이드라인에서 이 항목의 비중이 2024년에 더 강조되었습니다.
 
-### 2024년 AF CARE 업데이트
+### 2024년 series-AF CARE 업데이트
 
-2024년 ESC 가이드라인은 CC-to-ABC에서 'AF CARE'로 표현을 바꾸었습니다. 동반질환 관리가 앞으로 배치되고, 다학제 접근(multidisciplinary approach)이 추가되었습니다. 항응고·레이트·율동 조절의 본질은 그대로입니다.
+2024년 ESC 가이드라인은 CC-to-ABC에서 'series-AF CARE'로 표현을 바꾸었습니다. 동반질환 관리가 앞으로 배치되고, 다학제 접근(multidisciplinary approach)이 추가되었습니다. 항응고·레이트·율동 조절의 본질은 그대로입니다.
 
 ## ❹ 결론적으로
 

@@ -6,7 +6,7 @@ level: 2
 youtube_id: jTR6wiN-sv0
 membership: nieun
 short_title: ANAPH07 진단 기준 두 가지
-tags: [응급]
+tags: [응급, ANAPH]
 ---
 
 > WAO(World Allergy Organization) 2020 진단 기준은 두 가지 경로로 아나필락시스를 진단한다. 피부 증상이 없어도, 알레르겐(allergen) 노출력이 있고 심각한 단일 증상이 있으면 아나필락시스로 진단해야 한다.

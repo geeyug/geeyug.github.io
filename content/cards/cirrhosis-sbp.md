@@ -6,7 +6,7 @@ level: 2
 youtube_id: drieRbMtMjA
 membership: public
 short_title: LIVER 자발성세균성복막염
-tags: [간-소화기, 감염-항생제]
+tags: [간-소화기, 감염-항생제, LIVER]
 ---
 
 > 간경변 복수 환자에서 외부 원인 없이 복수가 감염되는 자발성 세균성 복막염(SBP)은 적절한 항생제 치료와 알부민 투여가 필수이며, 재발률이 높아 예방이 치료만큼 중요하다.

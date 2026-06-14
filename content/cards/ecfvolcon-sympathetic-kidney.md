@@ -5,7 +5,7 @@ topic: ECFVOLCON
 level: 2
 youtube_id: DkiQAKglwE4
 membership: ssangkiyeok
-tags: [신장-전해질, 심장-혈관]
+tags: [신장-전해질, 심장-혈관, ECFVOLCON]
 short_title: ECFVOLCON-07 교감신경과 콩팥
 ---
 

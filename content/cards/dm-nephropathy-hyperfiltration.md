@@ -5,7 +5,7 @@ topic: DM
 level: 2
 youtube_id: 3mHYJzNmLS4
 membership: public
-tags: [당뇨-대사, 신장-전해질]
+tags: [당뇨-대사, 신장-전해질, DM]
 short_title: 당뇨 콩팥 과여과
 ---
 

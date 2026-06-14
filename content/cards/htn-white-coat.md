@@ -6,7 +6,7 @@ level: 2
 youtube_id: -7_bPJXdFZA
 membership: ssangkiyeok
 short_title: HTN 백의효과 고혈압
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 고혈압이 확인된 환자라도 백의 효과(white coat effect)가 함께 있으면, 병원 혈압만으로 약을 조절하면 과잉 치료로 이어질 수 있다.

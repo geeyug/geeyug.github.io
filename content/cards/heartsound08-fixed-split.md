@@ -1,12 +1,12 @@
 ---
 id: heartsound08-fixed-split
 title: S2 분열이 호흡과 무관하게 고정되어 있다면 무엇을 의심하는가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: aR_9gkqzwC0
 membership: ssangkiyeok
-short_title: HEARTSOUND-08 S2 고정 분열
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-08 S2 고정 분열
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > S2가 넓게 분열되어 있으면서 호흡에 따른 간격 변화가 없다면, 심방중격결손(ASD)을 가장 먼저 의심한다.

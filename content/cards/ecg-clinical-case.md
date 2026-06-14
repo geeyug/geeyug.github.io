@@ -6,7 +6,7 @@ level: 3
 youtube_id: 0Cb79KsOihM
 membership: ssangkiyeok
 short_title: ECG 실전 케이스 P파
-tags: [심장-혈관]
+tags: [심장-혈관, ECG]
 ---
 
 > 관상동맥 허혈이 심장 근육뿐 아니라 전도계에도 영향을 미치면, P파 소실과 접합부 리듬(junctional rhythm) 등 전도 이상이 심전도에 나타난다.

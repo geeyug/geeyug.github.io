@@ -1,12 +1,12 @@
 ---
 id: syncope-14-supine-hypertension
 title: 기립성 저혈압인데 누우면 오히려 고혈압이 되는 이유는 무엇인가
-series: SYNCOPE
+series: series-SYNCOPE
 level: 2
 youtube_id: mSMktL1AHy8
 membership: ssangkiyeok
-tags: [증상-접근]
-short_title: SYNCOPE-14 기립저혈압+누울때고혈압
+tags: [증상-접근, series-SYNCOPE]
+short_title: series-SYNCOPE-14 기립저혈압+누울때고혈압
 ---
 
 > 자율신경 기능 장애는 혈압을 올려야 할 때 못 올리고, 낮춰야 할 때 계속 올라가 있는 상태를 동시에 만들어낸다.

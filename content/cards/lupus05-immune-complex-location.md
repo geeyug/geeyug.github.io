@@ -1,12 +1,12 @@
 ---
 id: lupus05-immune-complex-location
 title: 면역복합체는 어디에 쌓이는가 — 제3형 과민 반응 질환들
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: PDa2bvyQGlw
 membership: nieun
 short_title: LUPUS05 면역복합체 침착 부위
-tags: [증상-접근]
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 항원과 항체가 결합해 형성된 면역복합체(immune complex)가 혈액을 타고 돌다가 특정 조직의 미세 혈관에 침착하면 염증과 조직 손상을 일으키는데, 이를 제3형 과민 반응(type 3 hypersensitivity reaction)이라 하며 루푸스를 포함한 다양한 질환이 이 기전으로 발생한다.

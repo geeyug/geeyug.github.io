@@ -6,7 +6,7 @@ level: 1
 youtube_id: 8z3XBIOeVgo
 membership: public
 short_title: HTN 8가지 위험인자
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 본태성 고혈압의 주요 위험인자는 혈관 탄력 저하, 나트륨 배출 저하, 교감신경 및 레닌-안지오텐신 시스템 활성화라는 공통 경로로 수렴된다.

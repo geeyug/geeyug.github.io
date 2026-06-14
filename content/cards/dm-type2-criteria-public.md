@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3jZoFLS0YBs
 membership: public
 short_title: DM 진단 기준 공개
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 ---
 
 > 당뇨병은 공복 혈당 126 이상, 당부하 검사 후 혈당 200 이상, 당화혈색소(HbA1c) 6.5% 이상 중 하나만 충족해도 진단된다.

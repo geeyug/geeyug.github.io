@@ -5,7 +5,7 @@ topic: SHOCK
 level: 2
 youtube_id: VIFknRDRphU
 membership: ssangkiyeok
-tags: [응급]
+tags: [응급, SHOCK]
 short_title: SHOCK-17 쇼크의 단계
 ---
 

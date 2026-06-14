@@ -6,7 +6,7 @@ level: 1
 youtube_id: 6EGzT3syqSg
 membership: public
 short_title: THYROID 결절 암 감별
-tags: [증상-접근]
+tags: [증상-접근, THYROID]
 ---
 
 > 갑상선 결절이 발견되면 조직검사보다 TSH·Free T4 혈액검사가 먼저다. 결절이 호르몬을 과잉 생산하는 열결절(hot nodule)인 경우, 치료 방향이 완전히 달라지기 때문이다.

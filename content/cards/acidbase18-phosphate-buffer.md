@@ -1,12 +1,12 @@
 ---
 id: acidbase18-phosphate-buffer
 title: 인산염 완충계는 어떻게 새로운 중탄산염을 만드는가
-series: ACIDBASE
+series: series-ACIDBASE
 level: 2
 youtube_id: F_VHf5vgw4Q
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: ACIDBASE-18 인산염 완충계
+tags: [신장-전해질, series-ACIDBASE]
+short_title: series-ACIDBASE-18 인산염 완충계
 ---
 
 > 세관 내강에서 인산염이 과잉 수소 이온과 결합해 소변으로 배설되면, 그 대가로 혈액에 새로운 중탄산염 이온이 추가된다.

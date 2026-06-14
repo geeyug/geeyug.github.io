@@ -1,11 +1,11 @@
 ---
 id: bf05-endothelium-function
 title: "내피세포는 혈관 안쪽을 감싸는 것 이상으로 무엇을 하는가"
-series: BF
+series: series-BF
 level: 2
 youtube_id: oyI4AgfwxC4
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-BF]
 short_title: BF05 내피세포 기능
 ---
 

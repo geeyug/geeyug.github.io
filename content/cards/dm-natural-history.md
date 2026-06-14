@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: 4JaANWG1dIQ
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: DM 자연경과
 ---
 

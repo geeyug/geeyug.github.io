@@ -6,7 +6,7 @@ level: 2
 youtube_id: o7fb8pba1wk
 membership: nieun
 short_title: ANAPH04 미세혈관 투과성 증가
-tags: [응급]
+tags: [응급, ANAPH]
 ---
 
 > 아나필락시스에서 미세혈관(microvessel) 내피세포 사이의 결합이 느슨해지면, 혈장 성분이 조직으로 빠져나가 부종이 생기고 혈액량이 줄어들어 쇼크로 이어질 수 있다.

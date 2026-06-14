@@ -5,7 +5,7 @@ topic: LIVER
 level: 2
 youtube_id: 4aJMfZHyrQ0
 membership: public
-tags: [간-소화기, 약물-기전]
+tags: [간-소화기, 약물-기전, LIVER]
 short_title: LIVER 정맥류 출혈 약물
 ---
 

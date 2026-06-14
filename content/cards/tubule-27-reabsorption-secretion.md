@@ -1,12 +1,12 @@
 ---
 id: tubule-27-reabsorption-secretion
 title: 어떤 물질이 콩팥에서 재흡수되고 어떤 물질이 분비되는가
-series: TUBULE
+series: series-TUBULE
 level: 2
 youtube_id: GBI1YekSRM4
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: TUBULE-27 재흡수 vs 분비
+tags: [신장-전해질, series-TUBULE]
+short_title: series-TUBULE-27 재흡수 vs 분비
 ---
 
 > 청소율(clearance)을 여과량과 비교하면, 각 물질이 세뇨관에서 재흡수되는지 분비되는지를 계산으로 판별할 수 있다.

@@ -6,7 +6,7 @@ level: 2
 youtube_id: f38nwznOZQE
 membership: ssangkiyeok
 short_title: RESP-P03 호흡곤란 평가
-tags: [호흡기, 증상-접근]
+tags: [호흡기, 증상-접근, RESP]
 ---
 
 > 호흡곤란은 표현 방식, 발생 양상, 정도, 유발·완화 인자를 체계적으로 파악해야 그 원인 질환을 좁힐 수 있다.

@@ -1,12 +1,12 @@
 ---
 id: af16-subclinical-af
 title: 기기에서만 잡히는 심방세동, 어떻게 다루어야 하는가
-series: AF
+series: series-AF
 level: 3
 youtube_id: b42nx6I6HTY
 membership: nieun
-tags: [심장-혈관]
-short_title: AF16 subclinical AF
+tags: [심장-혈관, series-AF]
+short_title: AF16 subclinical series-AF
 ---
 
 > 이식형 기기나 웨어러블 장치에서 포착되지만 표준 심전도 기준을 충족하지 못하는 심방세동을 subclinical AF라 하며, 뇌졸중 위험과 항응고 치료 결정이 아직 정립 중인 임상적 회색지대다.
@@ -17,17 +17,17 @@ short_title: AF16 subclinical AF
 
 ## ❷ AHRE와 subclinical AF는 어떻게 정의되는가
 
-임상적 심방세동(clinical AF)의 진단 기준은 명확합니다. 12유도 심전도에서 또는 단일 유도에서 30초 이상 심방세동 파형이 기록되어야 합니다.
+임상적 심방세동(clinical series-AF)의 진단 기준은 명확합니다. 12유도 심전도에서 또는 단일 유도에서 30초 이상 심방세동 파형이 기록되어야 합니다.
 
 그런데 이식형 기기(페이스메이커, ICD, CRT, 이식형 루프 기록기)는 심장 바로 근처에서 지속적으로 신호를 기록합니다. 이 기록에서 매우 빠른 심방 신호가 포착되지만, 표준 심전도의 P파·f파 형태로 확인되지 않는 경우가 있습니다. 이를 **심방 고속 에피소드(atrial high rate episode, AHRE)**라고 합니다.
 
-AHRE가 있는데 표준 기준의 심방세동은 확인되지 않을 때, 이를 **기기 감지 subclinical AF(device-detected subclinical AF)**라 부릅니다. 웨어러블 기기(스마트워치 등)에서 잡히는 애매한 신호도 이 범주에 포함됩니다. Subclinical AF는 향후 임상적 심방세동으로의 진행 예측인자로 알려져 있습니다.
+AHRE가 있는데 표준 기준의 심방세동은 확인되지 않을 때, 이를 **기기 감지 subclinical series-AF(device-detected subclinical series-AF)**라 부릅니다. 웨어러블 기기(스마트워치 등)에서 잡히는 애매한 신호도 이 범주에 포함됩니다. Subclinical AF는 향후 임상적 심방세동으로의 진행 예측인자로 알려져 있습니다.
 
 ## ❸ AHRE가 발견되면 실제로 어떻게 접근하는가
 
 AHRE가 포착되면 먼저 표준 방법으로 임상적 심방세동 여부를 확인합니다. 12유도 심전도나 홀터 모니터링에서 심방세동이 확인되면 일반적인 심방세동 관리를 적용합니다.
 
-표준 기준의 심방세동이 확인되지 않으면 subclinical AF 상태로 분류하고, 항응고 치료 여부를 결정해야 합니다. 이에 관한 대규모 임상시험(RCT) 결과가 2024년에 공개되었습니다.
+표준 기준의 심방세동이 확인되지 않으면 subclinical series-AF 상태로 분류하고, 항응고 치료 여부를 결정해야 합니다. 이에 관한 대규모 임상시험(RCT) 결과가 2024년에 공개되었습니다.
 
 결과는 다음과 같습니다. 항응고 치료는 뇌졸중 위험을 낮추지만, **주요 출혈(major bleeding) 위험을 높입니다.** 따라서 뇌졸중 위험이 높고 출혈 위험이 낮은 선택적 환자에서만 고려하도록 권고되었으며(Class IIb), 보편적인 적용은 아직 권장되지 않습니다.
 

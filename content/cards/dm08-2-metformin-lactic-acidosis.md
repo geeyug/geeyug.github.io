@@ -1,12 +1,12 @@
 ---
 id: dm08-2-metformin-lactic-acidosis
 title: "메트포민은 어떻게 젖산산증을 일으키는가"
-series: DM
+series: series-DM
 level: 3
 youtube_id: EdL0TGAHbrs
 membership: nieun
 short_title: DM08-2 메트포민 젖산산증
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-DM]
 ---
 
 > 메트포민은 당신생(gluconeogenesis)의 첫 단계 효소를 억제해 피루브산(pyruvate)을 축적시키고, 동시에 전자전달계를 억제해 NADH를 쌓아 젖산(lactate) 생성을 촉진한다.

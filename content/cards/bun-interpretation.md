@@ -6,7 +6,7 @@ level: 1
 youtube_id: -PPPHn527s0
 membership: public
 short_title: KIDNEY BUN 해석
-tags: [신장-전해질]
+tags: [신장-전해질, KIDNEY]
 ---
 
 > BUN(혈액 요소 질소)은 콩팥 기능의 지표이기도 하지만, 탈수와 단백질 과잉 섭취로도 상승하기 때문에 단독으로 해석해서는 안 된다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: oNFzbdkL22s
 membership: public
 short_title: BP 혈압 단계별 분류
-tags: [심장-혈관]
+tags: [심장-혈관, BP]
 ---
 
 > 혈압은 정상과 고혈압 사이에 경계 구간이 존재하며, 같은 수치라도 반복 여부에 따라 임상적 의미가 달라진다.

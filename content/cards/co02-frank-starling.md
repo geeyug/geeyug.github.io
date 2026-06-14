@@ -1,12 +1,12 @@
 ---
 id: co02-frank-starling
 title: 심장은 왜 들어온 만큼 내보낼 수 있는가
-series: CO
+series: series-CO
 level: 2
 youtube_id: DNNKB-YIqRI
 membership: ssangkiyeok
-short_title: CO-02 Frank-Starling 법칙
-tags: [심장-혈관]
+short_title: series-CO-02 Frank-Starling 법칙
+tags: [심장-혈관, series-CO]
 ---
 
 > 심장은 정맥환류가 늘어나면 그에 맞게 박출량을 늘리도록 설계되어 있으며, 이를 가능하게 하는 두 가지 기전이 Frank-Starling 법칙과 심방 반사이다.

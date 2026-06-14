@@ -1,11 +1,11 @@
 ---
 id: hypona13-tolvaptan
 title: tolvaptan은 어떻게 작용하며, 언제 쓸 수 있는가
-series: HYPONA
+series: series-HYPONA
 level: 3
 youtube_id: h4Uv_Z-r4JE
 membership: nieun
-tags: [신장-전해질, 약물-기전]
+tags: [신장-전해질, 약물-기전, series-HYPONA]
 short_title: HYPONA13 tolvaptan 마무리
 ---
 

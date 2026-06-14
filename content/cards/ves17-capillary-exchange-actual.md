@@ -1,11 +1,11 @@
 ---
 id: ves17-capillary-exchange-actual
 title: 모세혈관 동맥 쪽과 정맥 쪽에서 교환이 어떻게 다르게 이루어지는가
-series: VES
+series: series-VES
 level: 2
 youtube_id: 3nKMVPmxvsc
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES17 동맥-정맥 단 교환 균형
 ---
 

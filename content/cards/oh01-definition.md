@@ -1,12 +1,12 @@
 ---
 id: oh01-definition
 title: 기립성 저혈압이란 무엇이고, 왜 생기는가
-series: OH
+series: series-OH
 level: 2
 youtube_id: uCr5mTdzGtw
 membership: ssangkiyeok
-short_title: OH-01 기립성 저혈압
-tags: [심장-혈관]
+short_title: series-OH-01 기립성 저혈압
+tags: [심장-혈관, series-OH]
 ---
 
 > 기립성 저혈압(orthostatic hypotension)은 누웠다가 일어설 때 혈압이 일정 수준 이상 떨어지는 현상으로, 체액 부족, 자율신경 이상, 약물이 주요 원인이다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: 9tIuZ2bL0UQ
 membership: public
 short_title: 소화의 4가지 큰 그림
-tags: [간-소화기]
+tags: [간-소화기, GI-PHYS]
 ---
 
 > 소화기관의 핵심 사명은 영양분을 흡수 가능한 형태로 만들어 체내로 들이는 것이며, 이를 위해 이동·분비·흡수·조절이라는 네 가지 기능이 순서에 따라 작동해야 한다.

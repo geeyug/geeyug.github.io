@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: 2bG1b4s4jLo
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 인슐린의 역할
 ---
 

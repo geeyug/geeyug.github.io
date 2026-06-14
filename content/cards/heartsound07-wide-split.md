@@ -1,12 +1,12 @@
 ---
 id: heartsound07-wide-split
 title: S2가 넓게 분열된다면 어떤 원인을 생각해야 하는가
-series: HEARTSOUND
+series: series-HEARTSOUND
 level: 2
 youtube_id: kHMi5cem41o
 membership: ssangkiyeok
-short_title: HEARTSOUND-07 S2 넓은 분열
-tags: [심장-혈관]
+short_title: series-HEARTSOUND-07 S2 넓은 분열
+tags: [심장-혈관, series-HEARTSOUND]
 ---
 
 > S2의 넓은 분열(wide splitting)은 P2가 비정상적으로 딜레이되거나 A2가 비정상적으로 일찍 닫힐 때 나타난다.

@@ -6,7 +6,7 @@ level: 1
 youtube_id: 1E-bIPkktl0
 membership: public
 short_title: HBV B형간염 완치 가능성
-tags: [간-소화기]
+tags: [간-소화기, HBV]
 ---
 
 > C형간염이 완치 가능한 병이 된 지금, B형간염이 아직 완치되지 않는 이유는 바이러스가 간세포 핵 안에 cccDNA라는 형태로 자리 잡기 때문이다.

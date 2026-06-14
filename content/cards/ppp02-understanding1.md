@@ -1,11 +1,11 @@
 ---
 id: ppp02-understanding1
 title: "산화 단계에서 글루코스 6-인산은 어떻게 오탄당으로 전환되는가"
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: i4CxJVmPp10
 membership: ssangkiyeok
-tags: [당뇨-대사]
+tags: [당뇨-대사, series-METABOLISM]
 short_title: PPP-02 산화·비산화 단계
 ---
 

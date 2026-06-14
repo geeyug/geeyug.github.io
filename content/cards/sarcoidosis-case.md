@@ -6,7 +6,7 @@ level: 1
 youtube_id: 3g-6h8Y5C8s
 membership: public
 short_title: GI 사르코이드증
-tags: [증상-접근]
+tags: [증상-접근, GI]
 ---
 
 > 사르코이드증(sarcoidosis)은 원인 불명의 전신 염증질환으로, 2/3에서는 자연 호전되지만 일부는 만성으로 진행한다. 어떤 환자가 어느 경로를 걸을지 예측하기 어렵다는 점이 이 병을 까다롭게 만든다.

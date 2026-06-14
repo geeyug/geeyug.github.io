@@ -1,12 +1,12 @@
 ---
 id: cirrhosis07-hepatic-encephalopathy
 title: 간성뇌증 — 왜 임상 진단이고, 어떻게 구별하는가
-series: CIRRHOSIS
+series: series-CIRRHOSIS
 level: 3
 youtube_id: eNYDjqnZN_E
 membership: nieun
-short_title: CIRRHOSIS-07 간성뇌증 진단·치료
-tags: [간-소화기]
+short_title: series-CIRRHOSIS-07 간성뇌증 진단·치료
+tags: [간-소화기, series-CIRRHOSIS]
 ---
 
 > 간성뇌증(hepatic encephalopathy)은 특정 검사로 확진하는 질환이 아니라 임상 양상으로 판단하는 질환이며, 의식 변화가 있다고 모두 간성뇌증인 것은 아니다.

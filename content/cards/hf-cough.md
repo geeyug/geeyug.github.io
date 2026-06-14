@@ -6,7 +6,7 @@ level: 1
 youtube_id: QifQyS06UYM
 membership: public
 short_title: HF 기침·폐부종
-tags: [심장-혈관, 증상-접근]
+tags: [심장-혈관, 증상-접근, HF]
 ---
 
 > 심장이 피를 제대로 짜내지 못하면 폐혈관에 압력이 높아지고 물이 폐에 차면서 기침, 분홍색 가래, 누우면 숨찬 증상이 나타난다.

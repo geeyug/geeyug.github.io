@@ -1,11 +1,11 @@
 ---
 id: ves18-lymph-entry
 title: 간질액은 어떻게 림프관으로 들어가며 림프의 조성은 무엇인가
-series: VES
+series: series-VES
 level: 2
 youtube_id: NkOaEY8HGlc
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, series-VES]
 short_title: VES18 림프관 진입 기전
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: ppp07-regulation
 title: 오탄당인산회로는 무엇이 조절하는가
-series: METABOLISM
+series: series-METABOLISM
 level: 3
 youtube_id: eP4TBCOuehU
 membership: ssangkiyeok
 short_title: PPP-07 오탄당인산회로 조절
-tags: [당뇨-대사, 약물-기전]
+tags: [당뇨-대사, 약물-기전, series-METABOLISM]
 ---
 
 > 오탄당인산회로(pentose phosphate pathway)는 최종 산물인 NADPH 자체에 의한 피드백 억제와 인슐린에 의한 효소 합성 유도라는 두 층위의 조절을 받는다.

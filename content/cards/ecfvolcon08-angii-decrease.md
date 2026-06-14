@@ -1,12 +1,12 @@
 ---
 id: ecfvolcon08-angii-decrease
 title: 짜게 먹으면 Ang II가 감소하는 것이 왜 중요한가
-series: ECFVOLCON
+series: series-ECFVOLCON
 level: 2
 youtube_id: 9Mk6N4Lmrg4
 membership: ssangkiyeok
-tags: [신장-전해질]
-short_title: ECFVOLCON-08 Ang II 감소
+tags: [신장-전해질, series-ECFVOLCON]
+short_title: series-ECFVOLCON-08 Ang II 감소
 ---
 
 > 짜게 먹으면 안지오텐신 II(Ang II)가 감소하고, 이로 인해 세관 재흡수가 줄어 체액이 배설된다. Ang II는 이 혈압-이뇨 기전을 증폭하는 핵심 조절자이다.

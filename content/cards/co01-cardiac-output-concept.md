@@ -1,12 +1,12 @@
 ---
 id: co01-cardiac-output-concept
 title: 심박출량은 왜 신체 대사 수준을 반영하는 지표인가
-series: CO
+series: series-CO
 level: 2
 youtube_id: 8eCAmIMILpo
 membership: ssangkiyeok
-short_title: CO-01 심박출량과 정맥환류
-tags: [심장-혈관]
+short_title: series-CO-01 심박출량과 정맥환류
+tags: [심장-혈관, series-CO]
 ---
 
 > 심박출량(cardiac output)과 정맥환류(venous return)는 크기가 항상 같으며, 이 값은 신체 모든 조직으로 흐르는 혈류의 합을 나타낸다.
@@ -17,9 +17,9 @@ tags: [심장-혈관]
 
 ## ❷ 심박출량과 정맥환류는 왜 항상 같은가
 
-심박출량(cardiac output, CO)은 1분 동안 좌심실에서 대동맥으로 박출되는 혈액량이다. 정맥환류(venous return, VR)는 1분 동안 정맥에서 우심방으로 유입되는 혈액량이다.
+심박출량(cardiac output, series-CO)은 1분 동안 좌심실에서 대동맥으로 박출되는 혈액량이다. 정맥환류(venous return, VR)는 1분 동안 정맥에서 우심방으로 유입되는 혈액량이다.
 
-폐쇄 순환계에서 혈액이 새거나 증발하지 않는 한, 나가는 양과 들어오는 양은 같을 수밖에 없다. 즉 CO = VR이다.
+폐쇄 순환계에서 혈액이 새거나 증발하지 않는 한, 나가는 양과 들어오는 양은 같을 수밖에 없다. 즉 series-CO = VR이다.
 
 이 등식의 핵심은 심박출량이 결국 신체 모든 조직으로 흐르는 혈류의 합임을 뜻한다는 점이다. 조직이 많이 요구하면 그만큼 심장이 내보내야 하고, 조직이 적게 필요하면 심박출량도 줄어든다.
 

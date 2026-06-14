@@ -1,12 +1,12 @@
 ---
 id: rta06-type1-case
 title: Type 1 RTA는 증례에서 어떻게 확인하는가?
-series: RTA
+series: series-RTA
 level: 3
 youtube_id: iYfPjoBYwT4
 membership: nieun
-tags: [신장-전해질]
-short_title: RTA-06 Type1 증례분석
+tags: [신장-전해질, series-RTA]
+short_title: series-RTA-06 Type1 증례분석
 ---
 
 > Type 1 RTA는 정상 음이온 간격 대사성 산증, 양성 요 음이온 간격, 저뇨 citrate, 신석회화라는 단서들이 조합될 때 진단 가능성이 높아진다.
@@ -25,9 +25,9 @@ ABG 결과: HCO₃⁻ 저하, pH 저하 → **대사성 산증(metabolic acidosi
 2) 혈청 음이온 간격(serum anion gap) 계산: Na⁺ − (Cl⁻ + HCO₃⁻) = 138 − 112 − 14 = **12 → 정상 음이온 간격** 대사성 산증이다.
 3) 요 음이온 간격(urine anion gap) 계산: 요 Na⁺ + 요 K⁺ − 요 Cl⁻ = 30 + 20 − 40 = **+10 → 양성**. 신장에서 산(NH₄⁺) 배설이 충분히 이루어지지 않고 있다는 뜻이다.
 
-즉, 이 환자는 신장이 산을 제대로 배설하지 못해 생긴 산증, 곧 RTA(renal tubular acidosis, 신세뇨관 산증)를 의심할 단계다.
+즉, 이 환자는 신장이 산을 제대로 배설하지 못해 생긴 산증, 곧 series-RTA(renal tubular acidosis, 신세뇨관 산증)를 의심할 단계다.
 
-## ❸ RTA 중에서 어떤 유형인지 어떻게 가려내는가?
+## ❸ series-RTA 중에서 어떤 유형인지 어떻게 가려내는가?
 
 요 음이온 간격이 양성이라고 해서 모두 Type 1 RTA인 것은 아니다. 다음 추가 단서들이 Type 1 방향을 가리킨다.
 
@@ -41,10 +41,10 @@ ABG 결과: HCO₃⁻ 저하, pH 저하 → **대사성 산증(metabolic acidosi
 
 ## ❹ 이 증례에서 무엇을 기억해야 하는가?
 
-RTA 증례 해석은 단계가 있다.
+series-RTA 증례 해석은 단계가 있다.
 
 1) 대사성 산증 확인
-2) 음이온 간격 → 정상이면 RTA 포함 고려
+2) 음이온 간격 → 정상이면 series-RTA 포함 고려
 3) 요 음이온 간격 → 양성이면 신장이 원인
 4) 요 citrate, 요석, 혈청 K⁺, 임상 맥락으로 유형 구분
 

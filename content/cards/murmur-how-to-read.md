@@ -5,7 +5,7 @@ topic: MURMUR
 level: 2
 youtube_id: ehj1aSFw_e8
 membership: ssangkiyeok
-tags: [심장-혈관]
+tags: [심장-혈관, MURMUR]
 short_title: MURMUR-02 심잡음 기술 용어
 ---
 

@@ -5,7 +5,7 @@ topic: DM
 level: 1
 youtube_id: 7J0rAO8UHTw
 membership: public
-tags: [당뇨-대사]
+tags: [당뇨-대사, DM]
 short_title: 당뇨병 큰 그림
 ---
 

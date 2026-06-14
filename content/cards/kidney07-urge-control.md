@@ -1,12 +1,12 @@
 ---
 id: kidney07-urge-control
 title: 소변을 참는다는 것은 생리학적으로 어떤 과정인가
-series: KIDNEY
+series: series-KIDNEY
 level: 2
 youtube_id: TV53RED7NEM
 membership: ssangkiyeok
-short_title: KIDNEY-07 배뇨 억제 기전
-tags: [신장-전해질]
+short_title: series-KIDNEY-07 배뇨 억제 기전
+tags: [신장-전해질, series-KIDNEY]
 ---
 
 > 소변을 참는 것은 방광에서 시작되는 배뇨 반사와 이를 억제하려는 의지적 신호 사이의 경쟁이다.

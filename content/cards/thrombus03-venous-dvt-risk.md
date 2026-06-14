@@ -1,12 +1,12 @@
 ---
 id: thrombus03-venous-dvt-risk
 title: 정맥혈전이 잘 생기는 상황들은 어떤 것들인가
-series: DVT
+series: series-DVT
 level: 2
 youtube_id: 8SKrenzIH-c
 membership: ssangkiyeok
 short_title: THROMBUS-03 정맥혈전 위험인자
-tags: [심장-혈관]
+tags: [심장-혈관, series-DVT]
 ---
 
 > 정맥은 혈액 저장소로 혈류가 느리고 정체되기 쉽다. 이 기저 특성 위에 Virchow's triad의 세 인자가 더해질 때 정맥혈전이 생긴다. 위험인자들은 대부분 이 세 범주로 분류된다.

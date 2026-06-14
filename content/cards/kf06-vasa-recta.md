@@ -1,12 +1,12 @@
 ---
 id: kf06-vasa-recta
 title: 속질의 높은 농도를 애써 만들었는데 혈관이 씻어 내려가지 않는 이유는 무엇인가
-series: KIDNEY-FUNCTION
+series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: sd3Kq_UzyQ0
 membership: ssangkiyeok
 short_title: KF-06 직혈관 반류 교환계
-tags: [신장-전해질]
+tags: [신장-전해질, series-KIDNEY-FUNCTION]
 ---
 
 > 속질의 고농도 환경은 직혈관(vasa recta)의 반류 교환(countercurrent exchange) 구조 덕분에 씻겨 내려가지 않고 유지된다.

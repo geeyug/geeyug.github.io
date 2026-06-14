@@ -1,12 +1,12 @@
 ---
 id: ihd06-angina-drugs
 title: 협심증 증상을 완화하는 약들은 어떤 원리로 작동하는가
-series: IHD
+series: series-IHD
 level: 2
 youtube_id: R99CDnNI_rw
 membership: nieun
-short_title: IHD-06 협심증 증상 완화 약
-tags: [심장-혈관, 약물-기전]
+short_title: series-IHD-06 협심증 증상 완화 약
+tags: [심장-혈관, 약물-기전, series-IHD]
 ---
 
 > 협심증의 증상 완화 약물은 심장의 산소 수요를 낮추거나 공급을 늘리는 방향으로 작동하며, 나이트레이트·베타차단제·칼슘통로차단제가 1차 선택지이다.

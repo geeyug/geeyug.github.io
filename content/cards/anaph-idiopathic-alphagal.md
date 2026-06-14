@@ -5,7 +5,7 @@ topic: ANAPH
 level: 2
 youtube_id: pRp3FC3Xs2I
 membership: nieun
-tags: [응급]
+tags: [응급, ANAPH]
 short_title: ANAPH18 알파갈 증후군
 ---
 

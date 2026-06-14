@@ -1,12 +1,12 @@
 ---
 id: dka06-hhs
 title: HHS는 DKA와 무엇이 다르고 왜 더 위험한가
-series: DKA
+series: series-DKA
 level: 2
 youtube_id: XVezkMFfPp0
 membership: nieun
-short_title: DKA-06 HHS 진단과 치료
-tags: [당뇨-대사]
+short_title: series-DKA-06 HHS 진단과 치료
+tags: [당뇨-대사, series-DKA]
 ---
 
 > HHS(고삼투압 고혈당 상태)는 주로 제2형 당뇨 고령 환자에서 수주에 걸쳐 진행되며, 케톤 산증 없이 극심한 탈수와 초고혈당이 특징이다. 사망률이 DKA보다 훨씬 높다.
@@ -17,7 +17,7 @@ DKA와 HHS는 둘 다 당뇨의 급성 합병증이다. 그런데 HHS는 산증�
 
 ## ❷ HHS의 병태생리 — DKA와 무엇이 다른가
 
-HHS와 DKA 모두 인슐린 부족에서 시작한다. 차이는 인슐린 부족의 정도와 속도다.
+HHS와 series-DKA 모두 인슐린 부족에서 시작한다. 차이는 인슐린 부족의 정도와 속도다.
 
 DKA는 인슐린이 절대적으로 없어져야 생기므로 주로 제1형 당뇨에서 발생하고, 수시간~하루 안에 급격히 진행한다. 인슐린이 완전히 없으면 케톤체 생성이 폭발적으로 일어나 산증이 온다.
 

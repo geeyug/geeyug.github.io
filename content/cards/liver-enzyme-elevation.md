@@ -6,7 +6,7 @@ level: 1
 youtube_id: BOx_lnkZjwA
 membership: public
 short_title: LIVER 간수치 상승 접근
-tags: [간-소화기]
+tags: [간-소화기, LIVER]
 ---
 
 > 간수치(AST/ALT) 상승의 원인은 크게 다섯 가지로 좁혀진다. 바이러스, 알코올, 약물, 비만(지방간), 건강기능식품이며, 문진을 통해 하나씩 배제하는 것이 접근의 핵심이다.

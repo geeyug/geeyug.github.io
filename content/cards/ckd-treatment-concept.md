@@ -5,7 +5,7 @@ topic: CKD
 level: 2
 youtube_id: 496m-PATplk
 membership: nieun
-tags: [신장-전해질]
+tags: [신장-전해질, CKD]
 short_title: CKD-06 치료의 의미
 ---
 

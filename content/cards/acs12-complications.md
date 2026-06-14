@@ -1,12 +1,12 @@
 ---
 id: acs12-complications
 title: 심근경색 후 어떤 기계적 합병증이 생길 수 있는가
-series: ACS
+series: series-ACS
 level: 2
 youtube_id: mC0yEjYz9sE
 membership: nieun
 short_title: ACS12 합병증·스텐트 혈전
-tags: [심장-혈관]
+tags: [심장-혈관, series-ACS]
 ---
 
 > 심근경색 후 심장 근육의 구조 지지 기능이 소실되면 심실 중격 결손, 자유벽 파열, 유두근 기능 부전 등의 기계적 합병증이 발생할 수 있으며, 스텐트 혈전증은 항혈소판 치료 중단이 주된 원인이다.

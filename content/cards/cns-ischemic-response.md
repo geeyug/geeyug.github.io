@@ -6,7 +6,7 @@ level: 1
 youtube_id: Jbf-VSGkcCs
 membership: public
 short_title: HTN 중추신경계 허혈 반응
-tags: [심장-혈관]
+tags: [심장-혈관, HTN]
 ---
 
 > 중추신경계 허혈 반응(CNS ischemic response)은 뇌 혈류가 위험 수준으로 감소할 때 혈관운동중추가 교감신경을 극도로 활성화하여 혈압을 250 mmHg까지 끌어올리는 응급 기전이다.

@@ -1,12 +1,12 @@
 ---
 id: lupus20-six-reasons
 title: 루푸스 진단이 어려운 여섯 가지 이유는 무엇인가
-series: LUPUS
+series: series-LUPUS
 level: 2
 youtube_id: QOT2dt8G61g
 membership: nieun
 short_title: lupus20 진단 어려운 6이유
-tags: [증상-접근]
+tags: [증상-접근, series-LUPUS]
 ---
 
 > 루푸스 진단을 어렵게 만드는 여섯 가지 이유는 질환 자체의 특성(증상 다양성, 재발·관해 반복, 초기 위장, 단일 장기 침범)과 진단 도구의 한계, 그리고 의료 현실(담당 의사의 낮은 사전 확률 인식)이 겹쳐 있다.
