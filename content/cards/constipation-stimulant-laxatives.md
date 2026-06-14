@@ -1,7 +1,7 @@
 ---
 id: constipation-stimulant-laxatives
 title: 자극성 하제는 왜 오래 써서는 안 되는가?
-series: CONSTIPATION
+topic: CONSTIPATION
 level: 2
 youtube_id: DLvHe77CzdM
 membership: ssangkiyeok

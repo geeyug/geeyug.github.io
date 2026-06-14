@@ -1,7 +1,7 @@
 ---
 id: nsaid-peptic-ulcer
 title: NSAIDs는 어떻게 소화성 궤양을 일으키는가
-series: NSAID
+topic: PHARM
 level: 2
 youtube_id: lb6Ji1trsPw
 membership: public

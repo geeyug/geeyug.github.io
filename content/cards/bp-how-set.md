@@ -1,7 +1,7 @@
 ---
 id: bp-how-set
 title: "혈압은 장기적으로 무엇에 의해 결정되는가"
-series: BP
+topic: BP
 level: 2
 youtube_id: 23kCj5vXyYU
 membership: ssangkiyeok

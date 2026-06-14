@@ -1,7 +1,7 @@
 ---
 id: flatulence-mechanism
 title: 방귀는 어디서 만들어지는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 6jTlbb7MzgY
 membership: public

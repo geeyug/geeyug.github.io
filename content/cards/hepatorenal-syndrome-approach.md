@@ -1,7 +1,7 @@
 ---
 id: hepatorenal-syndrome-approach
 title: 간경화 환자에서 크레아티닌이 올랐을 때 어떻게 접근하는가
-series: GI
+topic: GI
 level: 3
 youtube_id: 5C0IK28CefI
 membership: public

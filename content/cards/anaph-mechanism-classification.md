@@ -1,7 +1,7 @@
 ---
 id: anaph-mechanism-classification
 title: 아나필락시스 기전 분류에서 IgE 비의존성과 비면역학적 기전은 왜 따로 구분하는가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: -MyWLVm0rlg
 membership: nieun

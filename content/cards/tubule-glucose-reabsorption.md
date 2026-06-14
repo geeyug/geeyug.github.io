@@ -1,7 +1,7 @@
 ---
 id: tubule-glucose-reabsorption
 title: 신장은 여과된 포도당을 어떻게 100% 재흡수하는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: ktB5EwqLmqE
 membership: ssangkiyeok

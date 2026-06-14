@@ -1,7 +1,7 @@
 ---
 id: tips-procedure
 title: TIPS 시술은 식도정맥류를 어떻게 치료하며 왜 양날의 검인가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: qnN3IaFSe04
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: abdominal-pain-part3
 title: 복통은 어떻게 아픈지로 무엇을 알 수 있는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 0KmqF8irW_8
 membership: public

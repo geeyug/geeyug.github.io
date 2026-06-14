@@ -1,7 +1,7 @@
 ---
 id: lupus-diagnosis-difficult
 title: 루푸스 진단이 왜 이렇게 오래 걸리는가
-series: LUPUS
+topic: LUPUS
 level: 2
 youtube_id: v5oMhuAXR68
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: asthma-three-concepts
 title: 천식을 이해하는 3가지 핵심 개념은 무엇인가?
-series: ASTHMA
+topic: ASTHMA
 level: 1
 youtube_id: 1bmOAqtIjWY
 membership: ssangkiyeok

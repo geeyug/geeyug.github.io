@@ -1,7 +1,7 @@
 ---
 id: shock-hemorrhage-causes
 title: 사망에 이를 정도로 출혈이 생기는 상황은 어떤 경우인가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: 409Cvyygqvs
 membership: ssangkiyeok

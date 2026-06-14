@@ -1,7 +1,7 @@
 ---
 id: toxic-hepatitis-mechanism
 title: 독성 간염은 어떻게 발생하는가 — 내인성 독성과 특이 반응의 차이
-series: GI
+topic: GI
 level: 2
 youtube_id: 0F2YdyDHlMg
 membership: public

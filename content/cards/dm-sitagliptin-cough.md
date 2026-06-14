@@ -1,7 +1,7 @@
 ---
 id: dm-sitagliptin-cough
 title: 당뇨약 시타글립틴이 기침을 일으킬 수 있는가
-series: DM
+topic: DM
 level: 1
 youtube_id: Clkd8JAlCNQ
 membership: public

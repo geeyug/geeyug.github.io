@@ -1,7 +1,7 @@
 ---
 id: dm-prediabetes-suspicion
 title: 당뇨가 아닌데 당뇨일까 계속 의심하는 상태 — 어디서 불안이 시작되는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3NaoximPsq4
 membership: public

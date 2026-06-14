@@ -1,7 +1,7 @@
 ---
 id: functional-dyspepsia-anxiolytic
 title: 신경성 소화불량에 신경안정제를 써야 하는가?
-series: GI
+topic: GI
 level: 1
 youtube_id: 4yVTwYmfV1w
 membership: public

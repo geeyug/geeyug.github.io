@@ -1,7 +1,7 @@
 ---
 id: af-rate-control
 title: 심방세동에서 박동수를 얼마나, 무엇으로 낮춰야 하는가
-series: AF
+topic: AF
 level: 3
 youtube_id: yZ6wwllx4J8
 membership: nieun

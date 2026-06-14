@@ -1,7 +1,7 @@
 ---
 id: fever-unknown-origin-approach
 title: 열과 관절통이 함께 있을 때 어떻게 접근하는가?
-series: CLINIC
+topic: GENERAL
 level: 2
 youtube_id: 0kVfZsEx_oY
 membership: ssangkiyeok

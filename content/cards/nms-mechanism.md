@@ -1,7 +1,7 @@
 ---
 id: nms-mechanism
 title: 신경매개성 실신은 왜 자율신경계가 정상일 때만 생기는가?
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: RgFizUVC3HE
 membership: ssangkiyeok

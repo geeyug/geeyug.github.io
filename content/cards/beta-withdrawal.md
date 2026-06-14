@@ -1,7 +1,7 @@
 ---
 id: beta-withdrawal
 title: 베타차단제를 갑자기 끊으면 왜 위험한가?
-series: BETA
+topic: BETA
 level: 2
 youtube_id: Uuaf_jyWXxE
 membership: ssangkiyeok

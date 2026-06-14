@@ -1,7 +1,7 @@
 ---
 id: fluid-compartments
 title: 우리 몸의 물은 어디에 어떻게 나뉘어 있는가
-series: FLUID
+topic: ECFVOLCON
 level: 1
 youtube_id: 8HVlytFBQwY
 membership: public

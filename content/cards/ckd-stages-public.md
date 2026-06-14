@@ -1,7 +1,7 @@
 ---
 id: ckd-stages-public
 title: 만성콩팥병 단계마다 무엇이 달라지는가
-series: CKD
+topic: CKD
 level: 1
 youtube_id: 0pEXF9sS8UU
 membership: public

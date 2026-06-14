@@ -1,7 +1,7 @@
 ---
 id: dm-lada
 title: "2형 당뇨로 치료하던 환자가 점점 조절이 안 될 때, 무엇을 의심해야 하는가"
-series: DM
+topic: DM
 level: 3
 youtube_id: TCouCwOCleQ
 membership: nieun

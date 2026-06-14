@@ -1,7 +1,7 @@
 ---
 id: constipation-evaluation
 title: 변비가 있을 때 어떤 경우에 검사가 필요한가
-series: GI-CLINIC
+topic: GI
 level: 2
 youtube_id: GwDuB9ZYmM8
 membership: ssangkiyeok

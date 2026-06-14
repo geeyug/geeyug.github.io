@@ -1,7 +1,7 @@
 ---
 id: dm-natural-history
 title: 제2형 당뇨는 어떤 경로를 거쳐 진행하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 4JaANWG1dIQ
 membership: public

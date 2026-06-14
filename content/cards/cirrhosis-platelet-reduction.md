@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-platelet-reduction
 title: 간경변에서 혈소판이 줄어드는 기전은 하나인가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: HMzu9cC0SUY
 membership: public

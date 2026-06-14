@@ -1,7 +1,7 @@
 ---
 id: hypona-euvolemic
 title: euvolemic·hypervolemic hyponatremia에서 소변 소듐은 왜 기대와 다르게 나오는가
-series: HYPONA
+topic: HYPONA
 level: 3
 youtube_id: eN1CPzDseaI
 membership: nieun

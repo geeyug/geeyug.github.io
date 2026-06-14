@@ -1,7 +1,7 @@
 ---
 id: hp-infection-steps
 title: H. pylori는 어떤 과정을 거쳐 위 점막에 자리를 잡는가
-series: HPYLORI
+topic: HPYLORI
 level: 2
 youtube_id: 2AQ7zr_URjA
 membership: public

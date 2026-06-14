@@ -1,7 +1,7 @@
 ---
 id: beta-not-first-choice
 title: 베타차단제는 왜 고혈압의 첫 번째 치료제가 되지 못하는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: vFPxzpEid4k
 membership: ssangkiyeok

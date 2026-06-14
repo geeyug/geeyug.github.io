@@ -1,7 +1,7 @@
 ---
 id: pancreatic-cancer-dm-signal
 title: 새로 생긴 당뇨가 췌장암의 신호일 수 있는가?
-series: ONCO
+topic: ONCO
 level: 1
 youtube_id: 98qviGdNFds
 membership: public

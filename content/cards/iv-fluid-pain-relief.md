@@ -1,7 +1,7 @@
 ---
 id: iv-fluid-pain-relief
 title: 수액을 맞으면 왜 배 아픈 것이 좋아질까?
-series: GI
+topic: GI
 level: 1
 youtube_id: 5L0gFJKZVG0
 membership: public

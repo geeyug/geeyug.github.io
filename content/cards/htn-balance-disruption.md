@@ -1,7 +1,7 @@
 ---
 id: htn-balance-disruption
 title: 고혈압은 왜 단순히 "압력이 높아진 것"이 아닌가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: J_DgAANkhLg
 membership: public

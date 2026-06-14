@@ -1,7 +1,7 @@
 ---
 id: diuretic-hypokalemia
 title: 이뇨제는 왜 칼륨을 빼앗아 가는가
-series: GI
+topic: GI
 level: 1
 youtube_id: l_LpskVH4jA
 membership: public

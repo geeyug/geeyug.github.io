@@ -1,7 +1,7 @@
 ---
 id: thrombus02-virchow-triad
 title: 혈전이 잘 생기는 3가지 조건은 무엇인가 — Virchow's triad
-series: THROMBUS
+series: DVT
 level: 2
 youtube_id: OYoxMHCTREk
 membership: ssangkiyeok

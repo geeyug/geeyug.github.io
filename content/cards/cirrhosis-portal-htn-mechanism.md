@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-portal-htn-mechanism
 title: 간경변증에서 문맥압 항진이 생기는 기전은 무엇인가
-series: CIRRHOSIS
+topic: CIRRHOSIS
 level: 1
 youtube_id: 6-9uzMmpYDk
 membership: public

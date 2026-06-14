@@ -1,7 +1,7 @@
 ---
 id: anemia-of-inflammation
 title: 중환자실에서 빈혈이 생기는데 원인을 찾을 수 없다면?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: NWl4TLhCERI
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: bp-130-management
 title: 혈압이 130/85라면 지금 치료를 시작해야 하는가?
-series: HTN
+topic: HTN
 level: 1
 youtube_id: oNFzbdkL22s
 membership: public

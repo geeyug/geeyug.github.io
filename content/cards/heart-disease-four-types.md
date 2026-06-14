@@ -1,7 +1,7 @@
 ---
 id: heart-disease-four-types
 title: 심장병은 어떤 원리로 증상을 만들어내는가
-series: CARDIOLOGY
+topic: HEART
 level: 1
 youtube_id: GOUwDzE632E
 membership: public

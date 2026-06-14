@@ -1,7 +1,7 @@
 ---
 id: beta-bp-mechanism
 title: 베타차단제는 심장에 어떻게 작용해 혈압을 낮추는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: GDeTdN9HhY0
 membership: ssangkiyeok

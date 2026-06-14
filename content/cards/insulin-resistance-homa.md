@@ -1,7 +1,7 @@
 ---
 id: insulin-resistance-homa
 title: "인슐린 저항성을 혈액검사로 측정할 수 있는가"
-series: DM
+topic: DM
 level: 2
 youtube_id: o4NjmObDvVU
 membership: public

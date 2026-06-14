@@ -1,7 +1,7 @@
 ---
 id: digestion-carbohydrate
 title: 탄수화물은 어떤 과정을 거쳐 흡수 가능한 형태로 분해되는가?
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: DcsKUtR50gM
 membership: ssangkiyeok

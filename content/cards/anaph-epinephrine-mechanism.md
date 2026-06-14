@@ -1,7 +1,7 @@
 ---
 id: anaph-epinephrine-mechanism
 title: 에피네프린이 아나필락시스를 한 번에 해결하는 기전은 무엇인가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: oqDt4_ukqCY
 membership: nieun

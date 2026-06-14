@@ -1,7 +1,7 @@
 ---
 id: dm-control-statistics
 title: 당뇨병을 완벽하게 조절하는 사람은 몇 명이나 될까
-series: DM
+topic: DM
 level: 1
 youtube_id: jmsLItgDgig
 membership: public

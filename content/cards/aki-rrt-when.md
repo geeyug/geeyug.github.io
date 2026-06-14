@@ -1,7 +1,7 @@
 ---
 id: aki-rrt-when
 title: 급성 신손상에서 신대체요법은 언제 시작하고 언제 중단하는가
-series: AKI
+topic: AKI
 level: 3
 youtube_id: O3_ChQ-vu1E
 membership: nieun

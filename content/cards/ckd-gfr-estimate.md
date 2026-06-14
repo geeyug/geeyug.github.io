@@ -1,7 +1,7 @@
 ---
 id: ckd-gfr-estimate
 title: 사구체여과율(GFR)을 추정할 때 왜 크레아티닌만으로는 부족한가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: jI8qWtt1bmw
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: anaph-obesity-risk
 title: 비만인 사람에서 왜 아나필락시스가 더 위험한가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: -Rps66qNUy4
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: af-anticoagulation-who
 title: 심방세동 환자 중 누구에게 항응고치료를 해야 하는가
-series: AF
+topic: AF
 level: 3
 youtube_id: _ZqQZGEdisA
 membership: nieun

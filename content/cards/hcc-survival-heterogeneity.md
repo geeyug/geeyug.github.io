@@ -1,7 +1,7 @@
 ---
 id: hcc-survival-heterogeneity
 title: 간암의 5년 생존율이 낮은 이유는 무엇인가
-series: HCC
+topic: HCC
 level: 1
 youtube_id: BQnt058_mt0
 membership: public

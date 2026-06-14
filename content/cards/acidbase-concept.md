@@ -1,7 +1,7 @@
 ---
 id: acidbase-concept
 title: 산과 염기는 어떻게 정의되고 우리 몸에서 어떻게 작동하는가
-series: ACIDBASE
+topic: ACIDBASE
 level: 2
 youtube_id: k1D0_IK_y0s
 membership: nieun

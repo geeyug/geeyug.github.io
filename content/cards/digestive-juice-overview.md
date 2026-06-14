@@ -1,7 +1,7 @@
 ---
 id: digestive-juice-overview
 title: 소화액은 어디에서 나오고 각각 무슨 역할을 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 1XBY3AAsfG0
 membership: public

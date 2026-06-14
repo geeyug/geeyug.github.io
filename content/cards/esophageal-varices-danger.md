@@ -1,7 +1,7 @@
 ---
 id: esophageal-varices-danger
 title: 간경변에서 식도정맥류 출혈이 왜 특별히 위험한가
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: FhIvwZAxt6U
 membership: public

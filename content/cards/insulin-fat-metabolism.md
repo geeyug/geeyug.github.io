@@ -1,7 +1,7 @@
 ---
 id: insulin-fat-metabolism
 title: "인슐린은 지방조직에서 무슨 일을 하는가"
-series: DM
+topic: DM
 level: 1
 youtube_id: YmShGUCKVMM
 membership: public

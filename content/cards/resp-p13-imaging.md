@@ -1,7 +1,7 @@
 ---
 id: resp-p13-imaging
 title: 호흡기 환자에게 어떤 검사를, 어떤 순서로 시행하는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: 2oEOZUFrjOs
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: aki-prerenal-vs-intrinsic
 title: 급성 신손상에서 콩팥 자체 문제와 혈류 문제를 어떻게 구분하는가?
-series: KIDNEY
+topic: KIDNEY
 level: 2
 youtube_id: F3jP5qxRGg0
 membership: nieun

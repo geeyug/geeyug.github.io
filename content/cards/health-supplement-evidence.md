@@ -1,7 +1,7 @@
 ---
 id: health-supplement-evidence
 title: 건강기능식품은 왜 증거가 부족한가
-series: PREVENTIVE
+topic: GENERAL
 level: 1
 youtube_id: 5KMiwih4q60
 membership: ssangkiyeok

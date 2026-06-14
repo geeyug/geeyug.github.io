@@ -1,7 +1,7 @@
 ---
 id: hypona-treatment
 title: 저나트륨혈증을 교정할 때 무엇을 기준으로 속도와 방법을 결정하는가
-series: HYPONA
+topic: HYPONA
 level: 2
 youtube_id: SZQubhlr-3o
 membership: nieun

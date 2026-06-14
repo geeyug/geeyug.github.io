@@ -1,7 +1,7 @@
 ---
 id: beta-diabetes-caution
 title: 당뇨 환자가 베타차단제를 복용할 때 왜 저혈당에 더 주의해야 하는가?
-series: BETA
+topic: BETA
 level: 2
 youtube_id: 0oPus3PUaP4
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: gastric-ulcer-followup
 title: 위궤양 추적 내시경 — 왜 처음 치료한 병원에서 계속 해야 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 5kdS76Wm07s
 membership: public

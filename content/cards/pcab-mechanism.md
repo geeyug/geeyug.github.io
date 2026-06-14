@@ -1,7 +1,7 @@
 ---
 id: pcab-mechanism
 title: PPI보다 빠르고 안정적으로 위산을 억제하는 P-CAB은 어떻게 작용하는가
-series: GI
+topic: GI
 level: 2
 youtube_id: 13165aGgaV8
 membership: public

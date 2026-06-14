@@ -1,7 +1,7 @@
 ---
 id: hbv-treatment-target
 title: 만성 B형간염 환자 중 누구를 언제 치료해야 하는가
-series: HBV
+topic: HBV
 level: 2
 youtube_id: KDR_Uw7HUDE
 membership: nieun

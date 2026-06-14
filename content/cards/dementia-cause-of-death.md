@@ -1,7 +1,7 @@
 ---
 id: dementia-cause-of-death
 title: 치매 환자는 무엇 때문에 사망하는가?
-series: DEMENTIA
+topic: DEMENTIA
 level: 1
 youtube_id: 0UT046mXhPE
 membership: ssangkiyeok

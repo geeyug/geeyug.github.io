@@ -1,7 +1,7 @@
 ---
 id: syncope-cardiac
 title: 심장에 문제가 생기면 왜 실신이 오는가
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: nqYtKNTM4h4
 membership: ssangkiyeok

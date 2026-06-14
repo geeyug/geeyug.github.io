@@ -1,7 +1,7 @@
 ---
 id: anaph-paf
 title: PAF는 이름이 혈소판 활성화 인자인데 왜 아나필락시스에서 중요한가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: dHnuqhHGVxo
 membership: nieun

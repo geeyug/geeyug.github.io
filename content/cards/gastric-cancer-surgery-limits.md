@@ -1,7 +1,7 @@
 ---
 id: gastric-cancer-surgery-limits
 title: 위암이라고 항상 수술이 답인가
-series: GI-ONCOLOGY
+topic: ONCO
 level: 1
 youtube_id: AS5abmcr0_M
 membership: public

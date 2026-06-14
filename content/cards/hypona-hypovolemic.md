@@ -1,7 +1,7 @@
 ---
 id: hypona-hypovolemic
 title: 저용적성 저나트륨혈증에서 왜 수분보다 소듐이 더 많이 빠지는가
-series: HYPONA
+topic: HYPONA
 level: 3
 youtube_id: 8pkgN8oh_9s
 membership: nieun

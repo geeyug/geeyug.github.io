@@ -1,7 +1,7 @@
 ---
 id: lupus-classic-case
 title: 등산 후 뺨이 빨개진 젊은 여성, 루푸스일 수 있는가
-series: LUPUS
+topic: LUPUS
 level: 1
 youtube_id: 2tZAEelKoYY
 membership: nieun

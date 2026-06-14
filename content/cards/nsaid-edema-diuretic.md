@@ -1,7 +1,7 @@
 ---
 id: nsaid-edema-diuretic
 title: 약 부작용으로 생긴 부종에 이뇨제를 더 추가하는 것이 옳은가
-series: PHARMACOLOGY
+topic: PHARM
 level: 1
 youtube_id: HFxo-czZG04
 membership: public

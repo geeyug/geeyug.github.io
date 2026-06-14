@@ -1,7 +1,7 @@
 ---
 id: colon-cancer-risk-factors
 title: 대장암을 유발하는 생활 습관 위험 인자는 무엇인가
-series: GI
+topic: GI
 level: 1
 youtube_id: K4hU5nsH09U
 membership: public

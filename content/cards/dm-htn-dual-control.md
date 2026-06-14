@@ -4,6 +4,7 @@ title: 혈압과 당뇨 중 하나만 조절하면 안 되는가
 level: 1
 youtube_id: vh2xGDn8X5U
 membership: public
+topic: DM
 short_title: 혈압+당뇨 동시 조절
 tags: [당뇨-대사, 심장-혈관]
 ---

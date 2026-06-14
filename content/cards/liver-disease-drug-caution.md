@@ -1,7 +1,7 @@
 ---
 id: liver-disease-drug-caution
 title: 간 기능이 떨어져 있을 때 조심해야 하는 약물은 무엇인가
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: WecyhkW1cKs
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: htn-medication-stop
 title: 혈압약을 먹다 안 먹다 하면 왜 문제가 되는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: Kl4rdMoi36Y
 membership: public

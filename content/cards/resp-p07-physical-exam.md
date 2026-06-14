@@ -1,7 +1,7 @@
 ---
 id: resp-p07-physical-exam
 title: 호흡기 진찰에서 시진·타진·촉진은 무엇을 알려주는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: Hj-8gtfB44Q
 membership: ssangkiyeok

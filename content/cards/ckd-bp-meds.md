@@ -1,7 +1,7 @@
 ---
 id: ckd-bp-meds
 title: 만성 콩팥병 환자에게는 왜 이뇨제가 혈압약이 되는가
-series: CKD
+topic: CKD
 level: 1
 youtube_id: 61s7EJB7BZA
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: anaph-four-mechanisms
 title: 아나필락시스를 일으키는 네 가지 기전은 어떻게 다른가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: 0F2AyrZFAjc
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: anemia-chronic-disease
 title: 만성질환은 어떻게 빈혈을 만들어내는가?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 2
 youtube_id: xInhGeUr65E
 membership: public

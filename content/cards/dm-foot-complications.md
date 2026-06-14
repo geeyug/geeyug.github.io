@@ -1,7 +1,7 @@
 ---
 id: dm-foot-complications
 title: 당뇨병 환자의 발에는 어떤 문제가 생기고 왜 위험해지는가
-series: DM
+topic: DM
 level: 1
 youtube_id: xFHFfcDm4Cc
 membership: public

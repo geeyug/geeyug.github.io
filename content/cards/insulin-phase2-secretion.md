@@ -1,7 +1,7 @@
 ---
 id: insulin-phase2-secretion
 title: "인슐린 분비는 왜 두 단계로 나뉘는가"
-series: DM
+topic: DM
 level: 2
 youtube_id: Pqps_GPj1vY
 membership: public

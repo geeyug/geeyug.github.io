@@ -1,7 +1,7 @@
 ---
 id: health-checkup-additional-tests
 title: 건강검진에서 어떤 추가 검사를 하면 좋은가?
-series: CHECKUP
+topic: GENERAL
 level: 1
 youtube_id: 3fGXKGOiEpU
 membership: ssangkiyeok

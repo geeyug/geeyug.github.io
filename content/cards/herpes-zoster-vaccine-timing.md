@@ -1,7 +1,7 @@
 ---
 id: herpes-zoster-vaccine-timing
 title: 대상포진을 앓은 직후에 백신을 맞으면 왜 효과가 없는가?
-series: VACCINE
+topic: VACCINE
 level: 2
 youtube_id: 4WTBIxa2ylY
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: tubule-angiotensin
 title: 안지오텐신 2는 어떻게 소듐을 세뇨관 안에 붙잡아 두는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: Q0zUAScYETA
 membership: ssangkiyeok

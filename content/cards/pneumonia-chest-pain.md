@@ -1,7 +1,7 @@
 ---
 id: pneumonia-chest-pain
 title: 폐렴에서 흉통이 나타나는 이유는 무엇인가?
-series: PNEUMONIA
+topic: PNEUMONIA
 level: 2
 youtube_id: 1RApMMsYxGk
 membership: ssangkiyeok

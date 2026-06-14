@@ -1,7 +1,7 @@
 ---
 id: ckd-what-is
 title: 만성콩팥병이란 무엇이며 왜 반드시 검사로만 알 수 있는가?
-series: CKD
+topic: CKD
 level: 1
 youtube_id: 8zNa0HSIG-c
 membership: public

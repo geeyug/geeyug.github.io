@@ -1,7 +1,7 @@
 ---
 id: autoimmune-pancreatitis
 title: 자가면역 췌장염은 왜 "환자가 너무 잘 아는 병"이 되는가
-series: GI
+topic: GI
 level: 1
 youtube_id: WPk1y9nw4eE
 membership: public

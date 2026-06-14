@@ -1,7 +1,7 @@
 ---
 id: dm-diagnosis
 title: 당뇨는 어떻게 진단하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: CI35kE_m734
 membership: nieun

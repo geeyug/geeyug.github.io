@@ -1,7 +1,7 @@
 ---
 id: anaph-idiopathic-alphagal
 title: "소고기를 먹고 몇 시간 후에 아나필락시스가 오는 이유는 무엇인가"
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: pRp3FC3Xs2I
 membership: nieun

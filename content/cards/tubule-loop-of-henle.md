@@ -1,7 +1,7 @@
 ---
 id: tubule-loop-of-henle
 title: 헨리고리의 세 구간은 각각 무슨 역할을 하는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: CmNQIyMN6jw
 membership: ssangkiyeok

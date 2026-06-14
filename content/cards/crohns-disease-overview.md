@@ -1,7 +1,7 @@
 ---
 id: crohns-disease-overview
 title: 크론병은 왜 동네 병원이 아닌 상급 병원에서 봐야 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 1G1yr27qvx0
 membership: public

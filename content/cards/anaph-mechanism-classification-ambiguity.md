@@ -1,7 +1,7 @@
 ---
 id: anaph-mechanism-classification-ambiguity
 title: "아나필락시스 기전을 왜 IgE vs non-IgE로 단순하게 나누지 않는가"
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: -MyWLVm0rlg
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: syncope-definition
 title: 실신의 정의에는 어떤 임상적 의미가 담겨 있는가
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: JEFgsm4OGz4
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: af-anticoagulation-practice
 title: 심방세동 항응고치료에서 어떤 약을 어떻게 쓰는가
-series: AF
+topic: AF
 level: 3
 youtube_id: GaOWnS6vc_o
 membership: nieun

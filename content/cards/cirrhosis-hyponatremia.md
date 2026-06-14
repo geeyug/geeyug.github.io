@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-hyponatremia
 title: 간경변에서 저나트륨혈증이 생기는 근본적인 이유는 무엇인가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: h22LBy0Y2c0
 membership: public

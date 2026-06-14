@@ -1,7 +1,7 @@
 ---
 id: early-colon-cancer-endoscopy
 title: 조기 대장암을 내시경으로 제거할 때 어떤 방법을 쓰는가
-series: COLON
+topic: COLON
 level: 2
 youtube_id: 6q37h_-5C1A
 membership: public

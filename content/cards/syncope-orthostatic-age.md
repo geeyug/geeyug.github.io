@@ -1,7 +1,7 @@
 ---
 id: syncope-orthostatic-age
 title: 왜 나이가 들수록 기립성 저혈압이 늘어나는가?
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: kz92fcwpwoM
 membership: ssangkiyeok

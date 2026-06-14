@@ -1,7 +1,7 @@
 ---
 id: dvt-why-dangerous
 title: 정맥혈전증은 왜 생명을 위협하는가?
-series: DVT
+topic: DVT
 level: 1
 youtube_id: -JjU3iN_Lm8
 membership: ssangkiyeok

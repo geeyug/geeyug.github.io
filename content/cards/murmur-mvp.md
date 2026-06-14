@@ -1,7 +1,7 @@
 ---
 id: murmur-mvp
 title: 승모판 탈출증(MVP)에서 심잡음이 커지고 작아지는 조건은 일반적인 역류와 왜 반대인가
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: wAZOWmFXj-E
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: hypona-definition
 title: 저나트륨혈증은 몸에 소듐이 부족한 상태인가
-series: HYPONA
+topic: HYPONA
 level: 1
 youtube_id: -khzRUbz154
 membership: nieun

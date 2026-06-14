@@ -1,7 +1,7 @@
 ---
 id: ecg-pqrst-meaning
 title: 심전도의 P, QRS, T는 각각 무엇을 뜻하는가?
-series: ECG
+topic: ECG
 level: 1
 youtube_id: 3DlGbnvhxIU
 membership: ssangkiyeok

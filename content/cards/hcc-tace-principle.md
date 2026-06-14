@@ -1,7 +1,7 @@
 ---
 id: hcc-tace-principle
 title: 간암에서 경동맥 화학색전술(TACE)은 어떤 원리로 치료하는가
-series: HCC
+topic: HCC
 level: 2
 youtube_id: KwizW8kVRAQ
 membership: public

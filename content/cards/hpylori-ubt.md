@@ -1,7 +1,7 @@
 ---
 id: hpylori-ubt
 title: 헬리코박터 감염을 확인하는 요소호기검사는 어떻게 작동하는가
-series: HPYLORI
+topic: HPYLORI
 level: 1
 youtube_id: A7yHx1PZ26w
 membership: public

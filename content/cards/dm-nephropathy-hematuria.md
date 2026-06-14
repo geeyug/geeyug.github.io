@@ -1,7 +1,7 @@
 ---
 id: dm-nephropathy-hematuria
 title: 당뇨병성 신증 환자에서 혈뇨가 보이면 무엇을 먼저 생각해야 하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 2PWCITqpdOc
 membership: public

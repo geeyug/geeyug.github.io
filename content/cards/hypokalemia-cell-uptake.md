@@ -1,7 +1,7 @@
 ---
 id: hypokalemia-cell-uptake
 title: 빈혈 치료를 시작했는데 왜 칼륨이 떨어지는가?
-series: GI
+topic: GI
 level: 1
 youtube_id: PDn4lgdOKAs
 membership: public

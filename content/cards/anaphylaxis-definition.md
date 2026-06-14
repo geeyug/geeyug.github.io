@@ -1,7 +1,7 @@
 ---
 id: anaphylaxis-definition
 title: 아나필락시스의 정의에는 어떤 의미가 담겨 있는가?
-series: ANAPH
+topic: ANAPH
 level: 1
 youtube_id: 01WjWMnIikA
 membership: nieun

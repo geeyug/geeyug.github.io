@@ -1,7 +1,7 @@
 ---
 id: colon-cancer-alarm
 title: 혈변과 빈혈이 대장암의 신호가 되는 이유는 무엇인가
-series: GI-CLINIC
+topic: GI
 level: 1
 youtube_id: 5bXTw7OpxvI
 membership: ssangkiyeok

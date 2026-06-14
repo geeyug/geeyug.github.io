@@ -1,7 +1,7 @@
 ---
 id: lung-why-exist
 title: 폐는 왜 심장 바로 옆에 붙어 있는가
-series: LUNG
+topic: LUNG
 level: 1
 youtube_id: OPwVV4h0yQc
 membership: public

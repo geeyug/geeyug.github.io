@@ -1,7 +1,7 @@
 ---
 id: htn-basic-workup
 title: 고혈압 진단 후 혈압만 재면 충분한가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: gzmsS1GhZDE
 membership: public

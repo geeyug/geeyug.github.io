@@ -1,7 +1,7 @@
 ---
 id: af-rhythm-control
 title: 심방세동에서 리듬 조절은 언제, 왜 해야 하는가
-series: AF
+topic: AF
 level: 3
 youtube_id: IF7DFUdBvLc
 membership: nieun

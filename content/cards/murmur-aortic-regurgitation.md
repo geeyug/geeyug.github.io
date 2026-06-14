@@ -1,7 +1,7 @@
 ---
 id: murmur-aortic-regurgitation
 title: 대동맥판막 역류(aortic regurgitation)는 왜 이완기 잡음만 들리지 않고, 수축기 잡음도 함께 들릴 수 있는가
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: t4m8opKv0YY
 membership: ssangkiyeok

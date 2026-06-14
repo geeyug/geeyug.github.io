@@ -1,7 +1,7 @@
 ---
 id: mi-muscle-pain-warning
 title: 단순 근육통이라 여겼던 그 통증이 심근경색의 신호일 수 있는 이유는 무엇인가
-series: ACS
+topic: ACS
 level: 1
 youtube_id: Nid8uF8ggBc
 membership: public

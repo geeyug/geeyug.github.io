@@ -1,7 +1,7 @@
 ---
 id: syncope-age-gender
 title: 실신은 왜 젊은이와 노인에서 각각 다른 이유로 생기는가
-series: SYNCOPE
+topic: SYNCOPE
 level: 1
 youtube_id: 04FQW95j6Wo
 membership: ssangkiyeok

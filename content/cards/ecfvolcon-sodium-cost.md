@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-sodium-cost
 title: 소듐 균형을 유지하기 위해 우리 몸이 치러야 하는 대가는 무엇인가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: Ll0j9oAzRvQ
 membership: ssangkiyeok

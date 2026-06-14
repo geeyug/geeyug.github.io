@@ -1,7 +1,7 @@
 ---
 id: gi-phys21-gastric-juice
 title: 위액에는 무엇이 들어 있고, 위산은 어떻게 만들어지는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 1wGpTL2fPr8
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-internal-control
 title: 사구체와 세관은 어떻게 서로 균형을 맞추는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: VxzBm8IQiVc
 membership: ssangkiyeok

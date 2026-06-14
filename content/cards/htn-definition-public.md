@@ -1,7 +1,7 @@
 ---
 id: htn-definition-public
 title: 혈압 얼마부터 고혈압인가 — 기준은 어떻게 정해졌는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 6BM1HQeC_YQ
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: pain-why-complex
 title: "통증은 왜 단순한 증상이 아닌가"
-series: PAIN
+topic: PAIN
 level: 1
 youtube_id: PAUUTI5S5EI
 membership: ssangkiyeok

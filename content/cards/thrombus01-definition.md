@@ -1,7 +1,7 @@
 ---
 id: thrombus01-definition
 title: 혈전이란 무엇이며, 어떻게 만들어지는가
-series: THROMBUS
+series: DVT
 level: 2
 youtube_id: CDDbKcvv5EU
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: cough-mechanism
 title: 기침은 어떻게 일어나고, 만성 기침의 원인은 무엇인가
-series: RESP
+topic: RESP
 level: 1
 youtube_id: BZxsUESjgqg
 membership: public

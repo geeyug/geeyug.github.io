@@ -1,7 +1,7 @@
 ---
 id: copd-acute-exacerbation
 title: COPD 급성 악화는 왜 생기고 어떻게 치료하는가?
-series: COPD
+topic: COPD
 level: 2
 youtube_id: -a5vOGgZ_Jg
 membership: ssangkiyeok

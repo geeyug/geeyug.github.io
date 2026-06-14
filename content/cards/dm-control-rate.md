@@ -1,7 +1,7 @@
 ---
 id: dm-control-rate
 title: 고혈압, 고지혈증과 달리 당뇨는 왜 치료해도 조절이 잘 안 되는가
-series: DM
+topic: DM
 level: 1
 youtube_id: gnyH_ebIIFQ
 membership: public

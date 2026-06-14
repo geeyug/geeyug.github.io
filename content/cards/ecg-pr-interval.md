@@ -1,7 +1,7 @@
 ---
 id: ecg-pr-interval
 title: PR interval은 무엇을 반영하며 길어지거나 짧아지면 무슨 의미인가?
-series: ECG
+topic: ECG
 level: 2
 youtube_id: 53LGQJ1LXSI
 membership: public

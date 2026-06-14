@@ -1,7 +1,7 @@
 ---
 id: resp-p04-cough
 title: 기침의 어떤 속성이 원인을 가리키는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: OnwRuGHMpSE
 membership: ssangkiyeok

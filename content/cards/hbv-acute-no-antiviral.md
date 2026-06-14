@@ -1,7 +1,7 @@
 ---
 id: hbv-acute-no-antiviral
 title: 급성 B형간염에서 항바이러스제를 쓰지 않는 이유는 무엇인가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: QAHytE6Ugz8
 membership: public

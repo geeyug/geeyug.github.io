@@ -1,7 +1,7 @@
 ---
 id: gi-phys15-large-intestine
 title: 대장은 어떻게 물을 흡수하고 변을 밀어내는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 4ABPjXDiBKI
 membership: ssangkiyeok

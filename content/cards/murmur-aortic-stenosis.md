@@ -1,7 +1,7 @@
 ---
 id: murmur-aortic-stenosis
 title: 대동맥판막협착증에서 심잡음은 왜 특정 위치에서만 잘 들리는가
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: -RitgsfHvCI
 membership: ssangkiyeok

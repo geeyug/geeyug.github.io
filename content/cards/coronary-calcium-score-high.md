@@ -1,7 +1,7 @@
 ---
 id: coronary-calcium-score-high
 title: 칼슘점수가 높게 나왔는데 증상이 없다면 어떻게 봐야 하는가?
-series: ACS
+topic: ACS
 level: 1
 youtube_id: 54w55xIMi1A
 membership: public

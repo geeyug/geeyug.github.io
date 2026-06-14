@@ -1,7 +1,7 @@
 ---
 id: covid-fatigue
 title: 코로나 후 피로감은 코로나만의 특이한 후유증인가?
-series: COVID
+topic: COVID
 level: 2
 youtube_id: 1iE1dCby2_E
 membership: ssangkiyeok

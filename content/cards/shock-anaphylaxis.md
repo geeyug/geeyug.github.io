@@ -1,7 +1,7 @@
 ---
 id: shock-anaphylaxis
 title: 아나필락시스는 왜 즉각적으로 치료해야 하는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: HlqMn3XsLXY
 membership: ssangkiyeok

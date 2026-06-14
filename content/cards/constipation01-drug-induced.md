@@ -1,7 +1,7 @@
 ---
 id: constipation01-drug-induced
 title: 내가 먹는 약이 변비를 일으키고 있는 것은 아닐까
-series: GI
+series: CONSTIPATION
 level: 2
 youtube_id: 82vmA3jNXME
 membership: ssangkiyeok

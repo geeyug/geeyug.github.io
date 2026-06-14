@@ -1,7 +1,7 @@
 ---
 id: gi-absorption-surface
 title: 장은 하루 8.5리터를 어떻게 모두 흡수하는가?
-series: GI
+topic: GI
 level: 2
 youtube_id: EB5dEwMkYPc
 membership: ssangkiyeok

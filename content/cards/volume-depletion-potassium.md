@@ -1,7 +1,7 @@
 ---
 id: volume-depletion-potassium
 title: 체액량이 부족할 때 포타슘이 꼭 부족해지지 않는 이유는 무엇인가
-series: FLUID
+topic: ECFVOLCON
 level: 2
 youtube_id: Yi7_5Al-8aU
 membership: public

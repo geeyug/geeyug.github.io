@@ -1,7 +1,7 @@
 ---
 id: colon-diverticulum-mechanism
 title: 대장 게실은 왜 생기는가?
-series: GI
+topic: GI
 level: 2
 youtube_id: 4bIAuI1z6XM
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: shock-definition
 title: 쇼크란 무엇이며 왜 즉각적인 처치가 필요한가
-series: SHOCK
+topic: SHOCK
 level: 1
 youtube_id: _v7wiDLE_ic
 membership: ssangkiyeok

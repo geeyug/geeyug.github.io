@@ -1,7 +1,7 @@
 ---
 id: insulin-resistance
 title: "인슐린 저항성은 왜 생기는가"
-series: DM
+topic: DM
 level: 1
 youtube_id: 2t1U9bo_zJ8
 membership: public

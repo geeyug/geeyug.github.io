@@ -1,7 +1,7 @@
 ---
 id: ckd-cystatin-c
 title: 크레아티닌보다 cystatin C가 GFR을 더 정확하게 반영하는 이유는 무엇인가?
-series: KIDNEY
+topic: KIDNEY
 level: 2
 youtube_id: 4vGfzz3ImSM
 membership: public

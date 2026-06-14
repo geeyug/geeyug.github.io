@@ -1,7 +1,7 @@
 ---
 id: tubule-water-reabsorption
 title: 물은 세뇨관에서 어떻게 재흡수되는가 — 구간마다 다른 투과성과 ADH의 역할
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: O8gEJcaSvco
 membership: ssangkiyeok

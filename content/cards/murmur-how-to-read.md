@@ -1,7 +1,7 @@
 ---
 id: murmur-how-to-read
 title: 심잡음을 어떻게 기술하고 이해하는가
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: ehj1aSFw_e8
 membership: ssangkiyeok

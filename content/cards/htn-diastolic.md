@@ -1,7 +1,7 @@
 ---
 id: htn-diastolic
 title: 이완기 고혈압은 수축기 고혈압과 무엇이 다른가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: SkIzfyac7wo
 membership: public

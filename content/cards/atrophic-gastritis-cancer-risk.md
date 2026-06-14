@@ -1,7 +1,7 @@
 ---
 id: atrophic-gastritis-cancer-risk
 title: 위축성 위염이나 장상피 화생이 있으면 위암이 생기는가
-series: GASTRITIS
+topic: GASTRITIS
 level: 1
 youtube_id: xcinwlIEynI
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: abdominal-pain-part4
 title: 복통 평가에서 동반 증상·과거력·약물을 왜 반드시 확인해야 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 6xNvSwMUAG8
 membership: public

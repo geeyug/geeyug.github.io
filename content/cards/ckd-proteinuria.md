@@ -1,7 +1,7 @@
 ---
 id: ckd-proteinuria
 title: 단백뇨가 왜 콩팥을 스스로 망가뜨리는가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: PHv4JdtlNnw
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: dm-treatment-overview-public
 title: 당뇨 치료에 특별한 방법은 없는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 7bVIDTatULA
 membership: public

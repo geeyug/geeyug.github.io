@@ -1,7 +1,7 @@
 ---
 id: shock-bp-danger
 title: 혈압이 떨어지면 왜 세포가 죽는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: a1zUf76jEKI
 membership: ssangkiyeok

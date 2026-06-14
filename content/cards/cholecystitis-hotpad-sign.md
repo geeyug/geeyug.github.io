@@ -1,7 +1,7 @@
 ---
 id: cholecystitis-hotpad-sign
 title: 오른쪽 윗배가 반복적으로 아플 때 담낭을 왜 의심해야 하는가
-series: ABDOMEN
+topic: ABDOMEN
 level: 1
 youtube_id: 8exzsFLCpfI
 membership: public

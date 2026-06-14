@@ -1,7 +1,7 @@
 ---
 id: aldosterone-escape
 title: 알도스테론을 계속 주입하면 체액량은 한없이 늘어나는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: bqNN3LvUsoA
 membership: ssangkiyeok

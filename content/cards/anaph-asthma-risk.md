@@ -1,7 +1,7 @@
 ---
 id: anaph-asthma-risk
 title: 천식과 알레르기 비염이 있으면 왜 아나필락시스 위험이 더 높은가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: UqF7WY5eu9E
 membership: nieun

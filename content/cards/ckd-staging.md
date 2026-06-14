@@ -1,7 +1,7 @@
 ---
 id: ckd-staging
 title: 만성 콩팥병의 중증도는 어떻게 분류하는가
-series: KIDNEY
+topic: KIDNEY
 level: 2
 youtube_id: hnmzYu5_Fq4
 membership: nieun

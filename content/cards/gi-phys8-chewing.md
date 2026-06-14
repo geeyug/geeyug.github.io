@@ -1,7 +1,7 @@
 ---
 id: gi-phys8-chewing
 title: 씹는다는 것이 소화관에서 어떤 의미를 갖는가
-series: GIPHYS
+topic: GI-PHYS
 level: 2
 youtube_id: EjzOTDuca8g
 membership: ssangkiyeok

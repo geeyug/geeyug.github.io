@@ -1,7 +1,7 @@
 ---
 id: dm-sexual-misconception
 title: 당뇨약이 성기능을 떨어뜨린다는 오해는 왜 생겼는가
-series: DM
+topic: DM
 level: 1
 youtube_id: ap_xP5PLm8Q
 membership: public

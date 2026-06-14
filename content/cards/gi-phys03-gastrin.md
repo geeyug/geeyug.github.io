@@ -1,7 +1,7 @@
 ---
 id: gi-phys03-gastrin
 title: 가스트린은 왜 위산을 분비시키고, 너무 많아지면 무슨 일이 생기는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: AUr5WPOjPOU
 membership: ssangkiyeok

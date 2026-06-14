@@ -1,7 +1,7 @@
 ---
 id: anaph-differential-diagnosis
 title: 아나필락시스의 진단 기준을 충족하는 다른 질환들을 어떻게 구별하는가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: Cp3G4gxk_nw
 membership: nieun

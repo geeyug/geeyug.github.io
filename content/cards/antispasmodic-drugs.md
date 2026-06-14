@@ -1,7 +1,7 @@
 ---
 id: antispasmodic-drugs
 title: 복통을 줄이는 진경제는 어떻게 작동하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: -GQb_hvLm08
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: gallstone-drug-treatment
 title: 담석을 약으로 녹일 수 있는가
-series: BILIARY
+topic: GI
 level: 1
 youtube_id: JWHRD_x48Ow
 membership: public

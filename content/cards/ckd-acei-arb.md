@@ -1,7 +1,7 @@
 ---
 id: ckd-acei-arb
 title: 만성콩팥병에서 ACEi와 ARB를 함께 써도 되는가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: v3llNiwSfFA
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: hep-a-epidemiology
 title: 저개발국가에서 A형간염이 오히려 적은 이유는 무엇인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 5JV1_MFdCGM
 membership: public

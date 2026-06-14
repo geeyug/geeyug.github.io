@@ -1,7 +1,7 @@
 ---
 id: tca-cycle-regulation-nad
 title: 시트르산 회로는 무엇에 의해 속도가 조절되는가?
-series: METABOLISM
+topic: METABOLISM
 level: 2
 youtube_id: CmWO9zEyxZg
 membership: ssangkiyeok

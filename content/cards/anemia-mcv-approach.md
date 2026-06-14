@@ -1,7 +1,7 @@
 ---
 id: anemia-mcv-approach
 title: 빈혈은 어떻게 분류하고 접근하는가?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: 3P-HTCP5IYE
 membership: nieun

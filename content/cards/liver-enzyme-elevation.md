@@ -1,7 +1,7 @@
 ---
 id: liver-enzyme-elevation
 title: 간수치가 올랐을 때 무엇을 먼저 확인하는가
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: BOx_lnkZjwA
 membership: public

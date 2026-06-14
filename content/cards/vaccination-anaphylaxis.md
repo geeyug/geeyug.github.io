@@ -1,7 +1,7 @@
 ---
 id: vaccination-anaphylaxis
 title: 예방접종 후 15분을 앉아 있어야 하는 이유는 무엇인가
-series: ANAPH
+topic: ANAPH
 level: 1
 youtube_id: d05CVWRr0FQ
 membership: public

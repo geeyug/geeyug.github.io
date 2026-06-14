@@ -1,7 +1,7 @@
 ---
 id: gi-phys09-swallowing
 title: 삼킨다는 것은 어떻게 일어나는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 6ZNi6U0_SDA
 membership: ssangkiyeok

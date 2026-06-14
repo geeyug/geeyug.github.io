@@ -1,7 +1,7 @@
 ---
 id: dm-hba1c
 title: 당화혈색소는 왜 장기 혈당 조절의 지표가 되는가
-series: DM
+topic: DM
 level: 2
 youtube_id: d5IdSSfuIPI
 membership: nieun

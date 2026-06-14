@@ -1,7 +1,7 @@
 ---
 id: dm-type2-criteria-public
 title: 당뇨병은 어떤 수치가 나왔을 때 진단하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3jZoFLS0YBs
 membership: public

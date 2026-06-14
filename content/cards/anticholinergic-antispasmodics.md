@@ -1,7 +1,7 @@
 ---
 id: anticholinergic-antispasmodics
 title: 복통을 줄이는 항콜린약제는 어떻게 뇌 부작용을 줄였는가
-series: GI-PHARM
+topic: PHARM
 level: 2
 youtube_id: AWs3wklkKuM
 membership: public

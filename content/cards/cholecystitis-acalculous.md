@@ -1,7 +1,7 @@
 ---
 id: cholecystitis-acalculous
 title: 담석 없이도 담낭염이 생기는 경우는 언제인가
-series: BILIARY
+topic: GI
 level: 1
 youtube_id: jlEbytkd0yw
 membership: public

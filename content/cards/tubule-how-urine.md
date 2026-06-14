@@ -1,7 +1,7 @@
 ---
 id: tubule-how-urine
 title: 소변은 어떻게 만들어지는가
-series: TUBULE
+topic: TUBULE
 level: 1
 youtube_id: 0P3Xv0lz54I
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: hp-survival-mechanism
 title: H. pylori는 어떻게 강산인 위 속에서 살아남는가
-series: HPYLORI
+topic: HPYLORI
 level: 1
 youtube_id: YQoaGm-nFIQ
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: lft-ggt
 title: GGT는 단독으로 의미가 있는가, ALP와 함께 볼 때 의미가 있는가
-series: LFT
+topic: LFT
 level: 2
 youtube_id: qBFHGrlPVjk
 membership: public

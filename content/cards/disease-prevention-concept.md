@@ -1,7 +1,7 @@
 ---
 id: disease-prevention-concept
 title: 예방이라는 말은 모든 병에서 같은 의미인가?
-series: GI
+topic: GI
 level: 1
 youtube_id: zRXxD5Tfj40
 membership: public

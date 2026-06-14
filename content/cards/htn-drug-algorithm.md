@@ -1,7 +1,7 @@
 ---
 id: htn-drug-algorithm
 title: 고혈압약을 처방할 때 의사는 어떤 순서로 약을 고르는가
-series: BP
+topic: BP
 level: 2
 youtube_id: 9nqqtMwgVUo
 membership: public

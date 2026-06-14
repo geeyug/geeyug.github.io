@@ -1,7 +1,7 @@
 ---
 id: shock-neurogenic
 title: 신경 손상이 왜 혈압을 떨어뜨리는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: q-UjQHtI4f4
 membership: ssangkiyeok

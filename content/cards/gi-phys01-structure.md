@@ -1,7 +1,7 @@
 ---
 id: gi-phys01-structure
 title: 소화관은 어떤 구조로 이루어져 있고, 어떻게 음식물을 이동시키는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: oatY3uR0eck
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: urinalysis-what-to-see
 title: 소변검사에서 무엇을 보고 무엇을 걱정해야 하는가?
-series: KIDNEY
+topic: KIDNEY
 level: 1
 youtube_id: 52xVCKBTYfo
 membership: public

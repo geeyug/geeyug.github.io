@@ -1,7 +1,7 @@
 ---
 id: ab-delta-delta
 title: 델타-델타 비교로 무엇을 알 수 있는가
-series: AB
+topic: AB
 level: 3
 youtube_id: VE83YVkORkQ
 membership: nieun

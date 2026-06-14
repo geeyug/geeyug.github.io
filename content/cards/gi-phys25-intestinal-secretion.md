@@ -1,7 +1,7 @@
 ---
 id: gi-phys25-intestinal-secretion
 title: 소장과 대장은 무엇을 분비하고, 그것이 왜 필요한가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: adL-6wZENV0
 membership: ssangkiyeok

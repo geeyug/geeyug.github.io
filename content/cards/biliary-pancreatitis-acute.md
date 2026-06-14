@@ -1,7 +1,7 @@
 ---
 id: biliary-pancreatitis-acute
 title: 급성 담석성 췌장염에서 돌을 빼지 않는 이유는 무엇인가
-series: BILIARY
+topic: GI
 level: 1
 youtube_id: pH1i1gtVEQ8
 membership: public

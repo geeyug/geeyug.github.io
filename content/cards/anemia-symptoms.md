@@ -1,7 +1,7 @@
 ---
 id: anemia-symptoms
 title: 빈혈의 증상들은 어떻게 나타나는가?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: siMDJhJmkUw
 membership: public

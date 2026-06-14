@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-infection-risk
 title: 간 기능이 저하되면 왜 세균 감염에 더 취약해지는가
-series: CIRRHOSIS
+topic: CIRRHOSIS
 level: 1
 youtube_id: jW3T4DmvLtk
 membership: public

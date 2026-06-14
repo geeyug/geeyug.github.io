@@ -1,7 +1,7 @@
 ---
 id: metformin-ndma-recall
 title: 메트포르민 31개 품목이 판매 중지됐는데, 내가 먹던 약은 괜찮은가?
-series: DM
+topic: DM
 level: 1
 youtube_id: _bUSf8yc-yU
 membership: public

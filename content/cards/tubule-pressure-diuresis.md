@@ -1,7 +1,7 @@
 ---
 id: tubule-pressure-diuresis
 title: 혈압이 오르면 왜 소변이 많아지는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: UEJK0S9zrew
 membership: ssangkiyeok

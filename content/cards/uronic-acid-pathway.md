@@ -1,7 +1,7 @@
 ---
 id: uronic-acid-pathway
 title: 포도당은 세포외기질과 약물 해독에 어떻게 관여하는가
-series: METABOLISM
+topic: METABOLISM
 level: 3
 youtube_id: GjGRlU2j_vk
 membership: ssangkiyeok

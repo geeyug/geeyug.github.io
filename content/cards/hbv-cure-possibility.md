@@ -1,7 +1,7 @@
 ---
 id: hbv-cure-possibility
 title: B형간염은 앞으로 완치가 될 수 있는가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: 1E-bIPkktl0
 membership: public

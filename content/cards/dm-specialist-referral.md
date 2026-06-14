@@ -1,7 +1,7 @@
 ---
 id: dm-specialist-referral
 title: 당뇨 환자는 언제 내분비내과에 가야 하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 7KDjYExlr48
 membership: public

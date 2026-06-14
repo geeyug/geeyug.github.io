@@ -1,7 +1,7 @@
 ---
 id: early-colon-cancer
 title: 조기 대장암의 기준은 무엇이고, 왜 일본과 서구가 다르게 정의하는가?
-series: GI-CANCER
+topic: ONCO
 level: 1
 youtube_id: X8rwu5dtYmU
 membership: public

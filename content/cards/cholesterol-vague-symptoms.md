@@ -1,7 +1,7 @@
 ---
 id: cholesterol-vague-symptoms
 title: 콜레스테롤이 높으면 몸이 안 좋은 느낌이 생기는가
-series: LIPID
+topic: LIPID
 level: 1
 youtube_id: B9o5QERNGtM
 membership: public

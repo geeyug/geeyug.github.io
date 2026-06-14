@@ -1,7 +1,7 @@
 ---
 id: fat-digestion-absorption
 title: 지방은 왜 소화와 흡수에 특별한 과정이 필요한가
-series: GI
+topic: GI
 level: 1
 youtube_id: 3KoqKTGvEbY
 membership: public

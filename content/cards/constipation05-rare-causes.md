@@ -1,7 +1,7 @@
 ---
 id: constipation05-rare-causes
 title: 변비의 원인이 될 수 있는 생소한 질환들에는 어떤 것이 있는가
-series: GI
+series: CONSTIPATION
 level: 2
 youtube_id: 8uLTqufgpZw
 membership: ssangkiyeok

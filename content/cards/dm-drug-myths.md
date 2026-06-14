@@ -1,7 +1,7 @@
 ---
 id: dm-drug-myths
 title: 당뇨약이 남성에게 해롭다는 말은 왜 사실이 아닌가
-series: DM
+topic: DM
 level: 1
 youtube_id: 7Uq28v1WoIs
 membership: public

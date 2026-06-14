@@ -1,7 +1,7 @@
 ---
 id: lupus-immune-complex
 title: 면역 복합체는 혈액 속에서 어디로 흘러가 무엇을 망가뜨리는가
-series: LUPUS
+topic: LUPUS
 level: 2
 youtube_id: PDa2bvyQGlw
 membership: nieun

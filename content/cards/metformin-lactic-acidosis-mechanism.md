@@ -1,7 +1,7 @@
 ---
 id: metformin-lactic-acidosis-mechanism
 title: 메트포르민은 어떻게 젖산산증을 일으키는가?
-series: DM
+topic: DM
 level: 1
 youtube_id: wZgJcMJN6rM
 membership: public

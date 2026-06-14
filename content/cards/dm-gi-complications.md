@@ -1,7 +1,7 @@
 ---
 id: dm-gi-complications
 title: 당뇨병은 왜 위장관 증상을 일으키는가
-series: DM
+topic: DM
 level: 1
 youtube_id: xm_eiw0dldI
 membership: public

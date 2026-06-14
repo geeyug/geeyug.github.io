@@ -1,7 +1,7 @@
 ---
 id: midazolam-paradoxical-reaction
 title: 진정제를 맞았는데 왜 더 흥분하는가?
-series: DRUG
+topic: PHARM
 level: 2
 youtube_id: 1qqgahE_ixg
 membership: ssangkiyeok

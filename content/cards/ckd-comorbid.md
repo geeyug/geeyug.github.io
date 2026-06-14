@@ -1,7 +1,7 @@
 ---
 id: ckd-comorbid
 title: CKD 환자에서 혈압·당뇨·고지혈증을 어떻게 다루어야 하는가
-series: CKD
+topic: CKD
 level: 3
 youtube_id: 2huc88evepU
 membership: nieun

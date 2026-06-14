@@ -1,7 +1,7 @@
 ---
 id: dm-lifespan
 title: 당뇨병이 있으면 기대 수명이 실제로 얼마나 짧아지는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 28fbCtRgL3k
 membership: public

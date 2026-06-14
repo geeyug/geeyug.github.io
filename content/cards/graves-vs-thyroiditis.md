@@ -1,7 +1,7 @@
 ---
 id: graves-vs-thyroiditis
 title: 갑상선 기능 항진증이 있을 때 모두 그레이브스병인가
-series: THYROID
+topic: THYROID
 level: 2
 youtube_id: 2IfIvvmbM-A
 membership: public

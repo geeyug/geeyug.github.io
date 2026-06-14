@@ -1,7 +1,7 @@
 ---
 id: bp-elevation-vs-hypertension
 title: 혈압이 높은 것과 고혈압은 어떻게 다른가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: B2ySZgh_-g4
 membership: public

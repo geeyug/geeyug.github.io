@@ -1,7 +1,7 @@
 ---
 id: drug-se-vs-allergy
 title: 약을 먹고 이상한 증상이 생겼을 때 — 부작용인가 알레르기인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 6Xhz63ilgpI
 membership: public

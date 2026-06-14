@@ -1,7 +1,7 @@
 ---
 id: resp-p08-auscultation-sounds
 title: 청진기로 무엇을 듣는가 — wheezing, rhonchi, stridor의 원리
-series: RESP
+topic: RESP
 level: 2
 youtube_id: v4B1DCVKXuM
 membership: ssangkiyeok

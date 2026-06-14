@@ -1,7 +1,7 @@
 ---
 id: dka-vs-hhs
 title: 당뇨의 급성 위기 DKA와 HHS는 어떻게 다른가
-series: DM
+topic: DM
 level: 2
 youtube_id: xbYTZzlq_rA
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: chemo-nausea-drugs
 title: 항암제로 인한 구토에는 왜 일반 구토약이 듣지 않는가?
-series: ONCO
+topic: ONCO
 level: 1
 youtube_id: 8n3UGax_CxI
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: hcc-rfa-principle
 title: 간암에서 고주파 열치료술(RFA)은 어떤 원리로 암 세포를 죽이는가
-series: HCC
+topic: HCC
 level: 2
 youtube_id: NMfGiUXyyZQ
 membership: public

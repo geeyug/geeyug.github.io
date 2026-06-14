@@ -1,7 +1,7 @@
 ---
 id: sarcoidosis-case
 title: 사르코이드증은 왜 진단하기도, 예측하기도 어려운가
-series: GI
+topic: GI
 level: 1
 youtube_id: 3g-6h8Y5C8s
 membership: public

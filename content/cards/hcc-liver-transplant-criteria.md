@@ -1,7 +1,7 @@
 ---
 id: hcc-liver-transplant-criteria
 title: 간이식을 받을 수 있는 사람은 누구인가
-series: HCC
+topic: HCC
 level: 2
 youtube_id: vBA4Q-YAfAo
 membership: public

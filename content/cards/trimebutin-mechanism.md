@@ -1,7 +1,7 @@
 ---
 id: trimebutin-mechanism
 title: 트리메부틴은 어떻게 위장 운동을 양방향으로 조절하는가?
-series: GI
+topic: GI
 level: 1
 youtube_id: 6IGkO-80JTg
 membership: public

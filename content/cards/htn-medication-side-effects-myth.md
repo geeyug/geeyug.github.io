@@ -1,7 +1,7 @@
 ---
 id: htn-medication-side-effects-myth
 title: 혈압약이 몸에 안 좋다는 말은 어디서 왔는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: iu7HPD0r1DM
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: htn-atherosclerosis
 title: 고혈압을 치료해야 하는 가장 근본적인 이유는 무엇인가?
-series: HTN
+topic: HTN
 level: 1
 youtube_id: JL8L8Bzitd8
 membership: public

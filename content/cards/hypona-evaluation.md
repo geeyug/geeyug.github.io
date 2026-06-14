@@ -1,7 +1,7 @@
 ---
 id: hypona-evaluation
 title: hyponatremia 평가에서 volume status로 넘어가기 전에 먼저 확인해야 할 것은 무엇인가
-series: HYPONA
+topic: HYPONA
 level: 3
 youtube_id: -Khu28g4vp4
 membership: nieun

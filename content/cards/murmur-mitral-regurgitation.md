@@ -1,7 +1,7 @@
 ---
 id: murmur-mitral-regurgitation
 title: 승모판 역류(mitral regurgitation)는 왜 다양하게 들리고, 청진에서 무엇을 확인할 수 있는가
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: l6keDbpIFf0
 membership: ssangkiyeok

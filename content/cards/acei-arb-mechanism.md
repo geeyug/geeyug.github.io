@@ -1,7 +1,7 @@
 ---
 id: acei-arb-mechanism
 title: ACEi와 ARB는 혈압 이외에 어떤 장기를 보호하는가
-series: HTN
+topic: HTN
 level: 2
 youtube_id: 59GaxFHy0lo
 membership: ssangkiyeok

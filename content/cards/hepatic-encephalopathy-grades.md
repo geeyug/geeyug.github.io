@@ -1,7 +1,7 @@
 ---
 id: hepatic-encephalopathy-grades
 title: 간성 뇌증은 어떤 단계로 나뉘며 각 단계는 어떻게 구분하는가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: -jjtPfnvHQI
 membership: public

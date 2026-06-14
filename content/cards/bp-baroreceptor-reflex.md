@@ -1,7 +1,7 @@
 ---
 id: bp-baroreceptor-reflex
 title: 혈압을 가장 빨리 조절하는 것은 무엇인가
-series: BP
+topic: BP
 level: 1
 youtube_id: FAxzDUnATEQ
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: thyroid-cardiac-effects
 title: 갑상선호르몬은 심장에 어떤 영향을 미치는가
-series: THYROID
+topic: THYROID
 level: 1
 youtube_id: 74fxdl3_14M
 membership: public

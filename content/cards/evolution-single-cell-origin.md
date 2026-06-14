@@ -1,7 +1,7 @@
 ---
 id: evolution-single-cell-origin
 title: 단세포 생물과 우리는 어떤 의미에서 같은 단백질을 쓰는가?
-series: BASICS
+topic: GENERAL
 level: 1
 youtube_id: 4kWI0XtxKcs
 membership: public

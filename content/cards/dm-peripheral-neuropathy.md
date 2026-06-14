@@ -1,7 +1,7 @@
 ---
 id: dm-peripheral-neuropathy
 title: 당뇨병성 말초신경병증은 어떻게 진단하고 치료하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 7J7MgPZtS4I
 membership: public

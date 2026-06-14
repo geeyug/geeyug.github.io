@@ -1,7 +1,7 @@
 ---
 id: htn-renal-mechanism
 title: 신기능이 떨어지면 왜 고혈압이 생기는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: UnMdtQdJvpQ
 membership: public

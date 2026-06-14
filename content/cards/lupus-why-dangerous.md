@@ -1,7 +1,7 @@
 ---
 id: lupus-why-dangerous
 title: 루푸스는 왜 위험한 병인가
-series: LUPUS
+topic: LUPUS
 level: 1
 youtube_id: dPDilemYf54
 membership: nieun

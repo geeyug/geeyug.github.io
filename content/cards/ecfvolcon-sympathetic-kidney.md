@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-sympathetic-kidney
 title: 교감신경계는 콩팥에 어떻게 작용해서 체액량을 조절하는가?
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: DkiQAKglwE4
 membership: ssangkiyeok

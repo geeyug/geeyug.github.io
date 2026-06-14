@@ -1,7 +1,7 @@
 ---
 id: gastric-cancer-biopsy-negative
 title: 내시경에서 위암이 강력히 의심되는데 조직검사에서 암이 나오지 않는다면?
-series: GI-CANCER
+topic: ONCO
 level: 2
 youtube_id: 2wvXjlWq53o
 membership: public

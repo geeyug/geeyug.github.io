@@ -1,7 +1,7 @@
 ---
 id: dm-uncontrolled-why
 title: 치료를 받는데도 혈당이 안 잡히는 이유는 무엇인가
-series: DM
+topic: DM
 level: 1
 youtube_id: AKbHXovU80s
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: rvi-right-heart-mi
 title: 우심실 심근경색은 왜 치료 방식이 다른가?
-series: MI
+topic: MI
 level: 2
 youtube_id: 0B3WYEOgOfA
 membership: ssangkiyeok

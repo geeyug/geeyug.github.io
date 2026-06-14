@@ -1,7 +1,7 @@
 ---
 id: ecg-clinical-case
 title: 심전도에서 P파가 사라지면 무슨 일이 벌어지는가?
-series: ECG
+topic: ECG
 level: 3
 youtube_id: 0Cb79KsOihM
 membership: ssangkiyeok

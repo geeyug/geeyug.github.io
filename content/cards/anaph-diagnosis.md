@@ -1,7 +1,7 @@
 ---
 id: anaph-diagnosis
 title: 아나필락시스 진단 기준에서 놓쳐서는 안 되는 경우는 무엇인가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: jTR6wiN-sv0
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: lft-alp
 title: ALP는 왜 담즙정체의 지표가 되는가
-series: LFT
+topic: LFT
 level: 1
 youtube_id: 0zmAjvv_LsQ
 membership: public

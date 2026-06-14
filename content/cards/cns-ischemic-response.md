@@ -1,7 +1,7 @@
 ---
 id: cns-ischemic-response
 title: 뇌로 혈액이 차단될 때 혈압이 250까지 오르는 이유는 무엇인가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: Jbf-VSGkcCs
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: tubule-sodium-reabsorption
 title: 콩팥은 나트륨을 왜 그렇게 열심히 되돌려 보내는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: 5e_UR5yjRzw
 membership: ssangkiyeok

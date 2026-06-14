@@ -1,7 +1,7 @@
 ---
 id: anaph-scombroid
 title: "스콤브로이드 중독은 왜 아나필락시스가 아닌가"
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: nXeBQzVYzok
 membership: nieun

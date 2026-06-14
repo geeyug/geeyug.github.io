@@ -1,7 +1,7 @@
 ---
 id: mi-referred-pain
 title: 심근경색의 통증이 왜 어깨와 팔에서 느껴지는가
-series: ACS
+topic: ACS
 level: 1
 youtube_id: Nid8uF8ggBc
 membership: public

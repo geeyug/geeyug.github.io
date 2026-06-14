@@ -1,7 +1,7 @@
 ---
 id: shock-mixed
 title: 쇼크는 왜 하나의 원인으로만 설명되지 않는 경우가 많은가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: Konr79HchZc
 membership: ssangkiyeok

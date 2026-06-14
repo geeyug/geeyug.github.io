@@ -1,7 +1,7 @@
 ---
 id: vasovagal-syncope-mechanism
 title: 혈관미주신경성 실신은 어떤 기전으로 의식을 잃게 만드는가
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: pLd83ZfaxiY
 membership: public

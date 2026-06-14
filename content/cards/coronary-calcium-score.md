@@ -1,7 +1,7 @@
 ---
 id: coronary-calcium-score
 title: 관상동맥 칼슘 점수, 누가 검사해야 하는가?
-series: ACS
+topic: ACS
 level: 1
 youtube_id: 11EHuqEwoSM
 membership: ssangkiyeok

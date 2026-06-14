@@ -1,7 +1,7 @@
 ---
 id: fatty-acid-synthesis-from-acetyl-coa
 title: 아세틸 CoA는 어떤 경로로 지방산이 되는가?
-series: METABOLISM
+topic: METABOLISM
 level: 2
 youtube_id: CbvUAqvZIbY
 membership: ssangkiyeok

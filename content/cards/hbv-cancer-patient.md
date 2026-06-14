@@ -1,7 +1,7 @@
 ---
 id: hbv-cancer-patient
 title: 항암치료를 받는 B형간염 환자, 어떻게 관리해야 하는가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: PBrE-KLZ2VA
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: gi-blood-flow-regulation
 title: 밥을 먹으면 위장으로 혈류가 어떻게 조절되는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: GkfFA0GrI0U
 membership: ssangkiyeok

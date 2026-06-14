@@ -1,7 +1,7 @@
 ---
 id: resp-p05-other-symptoms
 title: 호흡기 질환에서 흉통과 복부 팽만은 왜 생기는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: QC_mCejWFeY
 membership: ssangkiyeok

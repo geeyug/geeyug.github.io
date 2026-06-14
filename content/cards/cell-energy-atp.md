@@ -1,7 +1,7 @@
 ---
 id: cell-energy-atp
 title: "세포는 어떻게 에너지(ATP)를 만드는가"
-series: DM
+topic: DM
 level: 2
 youtube_id: vDmvM42axmk
 membership: public

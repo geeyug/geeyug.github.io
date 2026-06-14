@@ -1,7 +1,7 @@
 ---
 id: insulin-role
 title: "인슐린은 혈당을 낮추기 위해 만들어진 호르몬인가"
-series: DM
+topic: DM
 level: 1
 youtube_id: 2bG1b4s4jLo
 membership: public

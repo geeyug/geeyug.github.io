@@ -1,7 +1,7 @@
 ---
 id: colonoscopy-metal-removal
 title: 대장내시경 전에 금속류를 제거하는 이유는 무엇인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 3fwEWqJjVg4
 membership: public

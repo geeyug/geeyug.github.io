@@ -1,7 +1,7 @@
 ---
 id: syncope-three-types
 title: 실신의 세 가지 원인 범주는 어떻게 구분되는가
-series: SYNCOPE
+topic: SYNCOPE
 level: 1
 youtube_id: HUBrGyJPteE
 membership: ssangkiyeok

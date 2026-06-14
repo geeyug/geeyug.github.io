@@ -1,7 +1,7 @@
 ---
 id: dm-nephropathy-retinopathy
 title: 당뇨병성 신증이 있으면 망막병증도 같이 있을까
-series: DM
+topic: DM
 level: 2
 youtube_id: a8_7-ltU9Dk
 membership: public

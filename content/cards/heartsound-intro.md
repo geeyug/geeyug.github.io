@@ -1,7 +1,7 @@
 ---
 id: heartsound-intro
 title: 청진기로 심음을 들어도 진단이 어려운 이유는 무엇인가?
-series: HEARTSOUND
+topic: HEARTSOUND
 level: 2
 youtube_id: nFn494RmG6M
 membership: ssangkiyeok

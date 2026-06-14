@@ -1,7 +1,7 @@
 ---
 id: tubule-proximal-secretion
 title: 근위세뇨관은 무엇을 재흡수하고 무엇을 분비하는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: 83enmJXeUqY
 membership: ssangkiyeok

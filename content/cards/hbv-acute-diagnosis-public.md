@@ -1,7 +1,7 @@
 ---
 id: hbv-acute-diagnosis-public
 title: 급성 B형간염을 혈액 검사로 어떻게 진단하는가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: 1EbxaXXl5Pw
 membership: public

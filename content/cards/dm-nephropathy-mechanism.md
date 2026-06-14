@@ -1,7 +1,7 @@
 ---
 id: dm-nephropathy-mechanism
 title: 당뇨는 어떤 경로로 콩팥을 손상시키는가
-series: DM
+topic: DM
 level: 2
 youtube_id: LHx4h0fhF7Y
 membership: public

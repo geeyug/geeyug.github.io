@@ -1,7 +1,7 @@
 ---
 id: thiazolidinediones
 title: 티아졸리딘디온은 왜 기전상 좋은 약인데 잘 쓰이지 않는가
-series: DM
+topic: DM
 level: 2
 youtube_id: YqBIORA5xPI
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: rheumatoid-factor-elevated
 title: 류마티스 인자(RF)가 양성으로 나왔을 때 어떻게 해석해야 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 2w6n-jo1HlA
 membership: public

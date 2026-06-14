@@ -1,7 +1,7 @@
 ---
 id: tace-liver-abscess
 title: TACE 후 간농양이 생기면 왜 위험하고 어떻게 치료하는가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: 9GB5dfiVcaw
 membership: public

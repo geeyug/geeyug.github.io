@@ -1,7 +1,7 @@
 ---
 id: anaph-ige-independent-mechanism
 title: IgE 없이도 면역학적 기전으로 아나필락시스가 일어나는가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: L0T2DoPlDZY
 membership: nieun

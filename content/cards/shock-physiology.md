@@ -1,7 +1,7 @@
 ---
 id: shock-physiology
 title: 쇼크를 혈압 공식 하나로 설명할 수 있는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: sn2q5F6ksbQ
 membership: ssangkiyeok

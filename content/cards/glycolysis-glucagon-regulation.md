@@ -1,7 +1,7 @@
 ---
 id: glycolysis-glucagon-regulation
 title: 글루카곤은 해당과정을 어떻게 두 지점에서 동시에 막는가?
-series: GLYCOLYSIS
+topic: GLYCOLYSIS
 level: 3
 youtube_id: DmOcdNr8bI0
 membership: ssangkiyeok

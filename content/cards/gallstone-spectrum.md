@@ -1,7 +1,7 @@
 ---
 id: gallstone-spectrum
 title: 담석은 어디에 걸리느냐에 따라 어떻게 달라지는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 0HA7QwXO_5o
 membership: public

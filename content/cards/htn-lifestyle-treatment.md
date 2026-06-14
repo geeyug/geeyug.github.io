@@ -1,7 +1,7 @@
 ---
 id: htn-lifestyle-treatment
 title: 생활요법만으로 혈압이 실제로 떨어지는가?
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 42Jr6KzJAaU
 membership: public

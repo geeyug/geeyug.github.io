@@ -1,7 +1,7 @@
 ---
 id: resp-p11-restriction-tlc
 title: Restrictive 패턴은 어떻게 평가하는가 — TLC와 DLCO의 의미
-series: RESP
+topic: RESP
 level: 2
 youtube_id: jzTFHQDxcHI
 membership: ssangkiyeok

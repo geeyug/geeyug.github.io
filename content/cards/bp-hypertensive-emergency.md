@@ -1,7 +1,7 @@
 ---
 id: bp-hypertensive-emergency
 title: 혈압이 200 이상으로 올랐을 때 어떻게 해야 하는가
-series: BP
+topic: BP
 level: 1
 youtube_id: 3UUg1Pe_SAk
 membership: public

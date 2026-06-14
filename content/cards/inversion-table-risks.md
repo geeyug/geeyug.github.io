@@ -1,7 +1,7 @@
 ---
 id: inversion-table-risks
 title: 거꾸리 운동에는 어떤 위험성이 있는가?
-series: LIFESTYLE
+topic: GENERAL
 level: 1
 youtube_id: 3p59vEyAFEo
 membership: ssangkiyeok

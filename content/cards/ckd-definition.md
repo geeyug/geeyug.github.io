@@ -1,7 +1,7 @@
 ---
 id: ckd-definition
 title: 만성콩팥병은 어떻게 정의하는가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: XIHzUfFboLw
 membership: nieun

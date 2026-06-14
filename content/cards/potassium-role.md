@@ -1,7 +1,7 @@
 ---
 id: potassium-role
 title: 포타슘은 우리 몸에서 어떤 역할을 하는가
-series: FLUID
+topic: ECFVOLCON
 level: 1
 youtube_id: SCvdKKiacnE
 membership: public

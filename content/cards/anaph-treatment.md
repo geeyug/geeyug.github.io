@@ -1,7 +1,7 @@
 ---
 id: anaph-treatment
 title: 아나필락시스 치료는 어떤 순서로 무엇을 해야 하는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: xziNNGcLXrE
 membership: nieun

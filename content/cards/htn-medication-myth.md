@@ -1,7 +1,7 @@
 ---
 id: htn-medication-myth
 title: 혈압약을 한 번 먹으면 계속 먹어야 한다는 말은 사실인가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 2b2ynZneAVU
 membership: public

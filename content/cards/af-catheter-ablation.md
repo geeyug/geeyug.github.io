@@ -1,7 +1,7 @@
 ---
 id: af-catheter-ablation
 title: 심방세동 카테터 절제술은 어떤 원리로 작동하고 누구에게 적합한가
-series: AF
+topic: AF
 level: 3
 youtube_id: _aXBcEQEj0g
 membership: nieun

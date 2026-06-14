@@ -1,7 +1,7 @@
 ---
 id: resp-p12-aado2
 title: AaDO2란 무엇인가 — 폐포와 동맥 사이 산소 차이가 알려주는 것
-series: RESP
+topic: RESP
 level: 3
 youtube_id: _ZMGlw6ntlA
 membership: ssangkiyeok

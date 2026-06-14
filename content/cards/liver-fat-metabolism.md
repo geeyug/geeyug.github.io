@@ -1,7 +1,7 @@
 ---
 id: liver-fat-metabolism
 title: 간은 지방을 어떻게 처리하는가?
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: CH7FG9Z1Ksg
 membership: public

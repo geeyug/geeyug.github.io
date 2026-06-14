@@ -1,7 +1,7 @@
 ---
 id: anaph-tryptase
 title: 트립타제는 아나필락시스에서 어떤 역할을 하는가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: y4HD4X-6IP4
 membership: nieun

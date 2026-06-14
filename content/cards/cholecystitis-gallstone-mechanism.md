@@ -1,7 +1,7 @@
 ---
 id: cholecystitis-gallstone-mechanism
 title: 담석이 있다고 모두 담낭염이 되는 건 아니다 — 염증까지 이어지는 이유는 무엇인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 3xirPbLUyWY
 membership: public

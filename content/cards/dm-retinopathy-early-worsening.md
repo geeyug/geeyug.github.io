@@ -1,7 +1,7 @@
 ---
 id: dm-retinopathy-early-worsening
 title: 혈당을 열심히 잡았는데 왜 시력이 떨어지는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 2gjSwrLtxao
 membership: public

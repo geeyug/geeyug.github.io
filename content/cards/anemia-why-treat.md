@@ -1,7 +1,7 @@
 ---
 id: anemia-why-treat
 title: 빈혈을 왜 검사하고 치료해야 하는가?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: DddiZxHXRo8
 membership: public

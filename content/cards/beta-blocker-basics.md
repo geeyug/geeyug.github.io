@@ -1,7 +1,7 @@
 ---
 id: beta-blocker-basics
 title: 베타차단제는 혈압약인가, 심장약인가?
-series: BETA
+topic: BETA
 level: 1
 youtube_id: 0VPdSadI4ME
 membership: ssangkiyeok

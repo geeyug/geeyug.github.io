@@ -1,7 +1,7 @@
 ---
 id: dm-medications
 title: 당뇨약은 각각 어디서 무엇을 하는가
-series: DM
+topic: DM
 level: 2
 youtube_id: 7fGd8z0aVY8
 membership: nieun

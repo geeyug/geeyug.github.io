@@ -1,7 +1,7 @@
 ---
 id: hypona-volume-status
 title: hyponatremia 평가에서 volume status를 어떻게 판단하는가
-series: HYPONA
+topic: HYPONA
 level: 2
 youtube_id: KbmP_BZ3sD8
 membership: nieun

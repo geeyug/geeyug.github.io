@@ -1,7 +1,7 @@
 ---
 id: dysphagia-symptoms
 title: 삼킴곤란 — 어디서, 언제부터, 무엇을 삼킬 때 힘든가
-series: GI
+topic: GI
 level: 1
 youtube_id: 4gbl-Q7--ek
 membership: public

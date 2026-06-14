@@ -1,7 +1,7 @@
 ---
 id: hbv-alcohol-risk
 title: B형간염이 있을 때 술을 마시면 왜 더 위험한가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: P7U-MnuHM8U
 membership: public

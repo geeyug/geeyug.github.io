@@ -1,7 +1,7 @@
 ---
 id: af-antiarrhythmic-class-ic-iii
 title: Class Ic와 Class III 항부정맥제는 어떻게 작용하고 무엇이 위험한가
-series: AF
+topic: AF
 level: 3
 youtube_id: IudI_1KFSyw
 membership: nieun

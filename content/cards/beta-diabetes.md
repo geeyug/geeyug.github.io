@@ -1,7 +1,7 @@
 ---
 id: beta-diabetes
 title: 당뇨 환자에서 베타차단제를 쓸 때 왜 저혈당이 문제가 되는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: 0oPus3PUaP4
 membership: ssangkiyeok

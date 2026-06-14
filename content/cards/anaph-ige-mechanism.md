@@ -1,7 +1,7 @@
 ---
 id: anaph-ige-mechanism
 title: IgE 의존성 면역학적 기전은 어떻게 아나필락시스를 일으키는가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: FC3T9LIoZ7Y
 membership: nieun

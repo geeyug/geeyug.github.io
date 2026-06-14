@@ -1,7 +1,7 @@
 ---
 id: afp-liver-cancer-marker
 title: AFP(알파태아단백)가 급격히 떨어졌다 — 간암이 다 나은 걸까
-series: HCC
+topic: HCC
 level: 1
 youtube_id: 46s2xNFPIAc
 membership: public

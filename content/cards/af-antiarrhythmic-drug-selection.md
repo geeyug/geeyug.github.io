@@ -1,7 +1,7 @@
 ---
 id: af-antiarrhythmic-drug-selection
 title: 심방세동 리듬 조절에서 어떤 항부정맥제를 어떻게 선택하는가
-series: AF
+topic: AF
 level: 3
 youtube_id: z8FzF0ELFR4
 membership: nieun

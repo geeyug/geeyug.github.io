@@ -1,7 +1,7 @@
 ---
 id: ppi-mechanism
 title: PPI는 어떻게 위산을 억제하며 왜 식전 30분에 먹어야 하는가
-series: GI
+topic: GI
 level: 2
 youtube_id: cOGPduVpZXA
 membership: public

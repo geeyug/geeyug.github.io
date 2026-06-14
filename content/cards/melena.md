@@ -1,7 +1,7 @@
 ---
 id: melena
 title: 검은 변(melena)은 어디에서 출혈이 생겼다는 신호인가
-series: GI
+topic: GI
 level: 1
 youtube_id: YyS67WcYxfM
 membership: public

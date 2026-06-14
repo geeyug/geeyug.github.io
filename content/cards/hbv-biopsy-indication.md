@@ -1,7 +1,7 @@
 ---
 id: hbv-biopsy-indication
 title: 만성 B형간염에서 간생검이 필요한 경우는 언제인가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: fyQMJvlzI_w
 membership: public

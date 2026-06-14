@@ -1,7 +1,7 @@
 ---
 id: chest-pain-approach
 title: 가슴이 아플 때 무엇을 먼저 확인해야 하는가
-series: SYMPTOM
+topic: GENERAL
 level: 1
 youtube_id: 7lXS_0QlO8g
 membership: public

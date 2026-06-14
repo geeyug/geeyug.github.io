@@ -1,7 +1,7 @@
 ---
 id: dvt-anticoagulants
 title: 항응고제는 혈전을 직접 녹이지 않는다 — DVT 치료의 원리
-series: DVT
+topic: DVT
 level: 2
 youtube_id: 7vCZVpadOnk
 membership: ssangkiyeok

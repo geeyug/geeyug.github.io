@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-hbv-treatment
 title: 간경변증으로 진행했어도 B형간염 치료를 계속해야 하는가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: -CLdtRw84Vw
 membership: public

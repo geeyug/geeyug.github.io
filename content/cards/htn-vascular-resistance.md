@@ -1,7 +1,7 @@
 ---
 id: htn-vascular-resistance
 title: 고혈압을 방치하면 왜 혈관이 망가지는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 8-16jpMWA9Q
 membership: public

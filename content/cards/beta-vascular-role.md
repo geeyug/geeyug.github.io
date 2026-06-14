@@ -1,7 +1,7 @@
 ---
 id: beta-vascular-role
 title: 베타차단제는 혈관을 확장시키는가 수축시키는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: 793QP0owFlY
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: intermittent-fasting-insulin
 title: "간헐적 단식은 인슐린 저항성을 호전시키는가"
-series: DM
+topic: DM
 level: 1
 youtube_id: ZH0nIsWDjOM
 membership: public

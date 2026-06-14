@@ -1,7 +1,7 @@
 ---
 id: liver-carb-metabolism
 title: 간은 혈당을 어떻게 유지하는가?
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: p-S39jcBvGg
 membership: public

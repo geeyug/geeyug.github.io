@@ -1,7 +1,7 @@
 ---
 id: shock-sirs
 title: 전신 염증 반응은 왜 감염 없이도 일어나는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: o_QL4-9uYNE
 membership: ssangkiyeok

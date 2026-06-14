@@ -1,7 +1,7 @@
 ---
 id: beta-antihypertensive-mechanism
 title: 베타차단제는 어떻게 혈압을 낮추는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: Vs0L4kBi7MQ
 membership: ssangkiyeok

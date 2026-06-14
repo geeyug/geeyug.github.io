@@ -1,7 +1,7 @@
 ---
 id: htn-salt-mechanism
 title: 짠 음식을 먹으면 왜 혈압이 오르는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: XefRWuP6xE4
 membership: public

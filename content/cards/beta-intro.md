@@ -1,7 +1,7 @@
 ---
 id: beta-intro
 title: 베타차단제를 단순히 혈압약으로 이해하면 왜 부족한가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: 9qc7PdIRTgE
 membership: ssangkiyeok

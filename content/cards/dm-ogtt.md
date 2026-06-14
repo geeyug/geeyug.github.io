@@ -1,7 +1,7 @@
 ---
 id: dm-ogtt
 title: 경구 포도당 부하 검사는 무엇을 확인하는 검사인가
-series: DM
+topic: DM
 level: 2
 youtube_id: m-5huPaGAjk
 membership: nieun

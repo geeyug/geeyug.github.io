@@ -1,7 +1,7 @@
 ---
 id: mtx-lung-toxicity
 title: 류마티스 관절염 치료제가 폐를 손상시킬 수 있는가
-series: DRUG
+topic: PHARM
 level: 2
 youtube_id: 7gbtSnOGzg0
 membership: public

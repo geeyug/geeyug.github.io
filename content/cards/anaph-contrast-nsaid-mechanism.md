@@ -1,7 +1,7 @@
 ---
 id: anaph-contrast-nsaid-mechanism
 title: "조영제와 NSAIDs는 어떻게 아나필락시스를 일으키는가"
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: vcGdX0NKka4
 membership: nieun

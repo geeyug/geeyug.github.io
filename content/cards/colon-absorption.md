@@ -1,7 +1,7 @@
 ---
 id: colon-absorption
 title: 대장은 어떻게 수분을 흡수하고 대변을 만드는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: GB2EbwVd_XA
 membership: ssangkiyeok

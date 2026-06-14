@@ -1,7 +1,7 @@
 ---
 id: stress-diabetes
 title: 스트레스가 당뇨를 일으킬 수 있는가
-series: DM
+topic: DM
 level: 1
 youtube_id: GI3-PZA0730
 membership: public

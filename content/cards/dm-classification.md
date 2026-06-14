@@ -1,7 +1,7 @@
 ---
 id: dm-classification
 title: 1형과 2형 당뇨병은 어떻게 구분하는가
-series: DM
+topic: DM
 level: 2
 youtube_id: i42GtEBVhxA
 membership: nieun

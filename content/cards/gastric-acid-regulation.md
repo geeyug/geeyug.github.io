@@ -1,7 +1,7 @@
 ---
 id: gastric-acid-regulation
 title: 위산은 어떻게 조절되는가 — 벽세포를 둘러싼 신호 체계
-series: GI
+topic: GI
 level: 2
 youtube_id: rNOWW7flpDI
 membership: public

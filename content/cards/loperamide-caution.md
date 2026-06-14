@@ -1,7 +1,7 @@
 ---
 id: loperamide-caution
 title: 지사제 로페라마이드, 효과가 좋을수록 써서는 안 되는 상황이 있다
-series: GI
+topic: GI
 level: 1
 youtube_id: SRYKfpnjh_M
 membership: public

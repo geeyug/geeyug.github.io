@@ -1,7 +1,7 @@
 ---
 id: dm-stress-hyperglycemia
 title: 스트레스는 실제로 혈당을 올리는가?
-series: DM
+topic: DM
 level: 2
 youtube_id: GI3-PZA0730
 membership: public

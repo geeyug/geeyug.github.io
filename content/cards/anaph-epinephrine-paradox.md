@@ -1,7 +1,7 @@
 ---
 id: anaph-epinephrine-paradox
 title: 1차 치료제임을 알면서도 왜 에피네프린 투여는 늦어지는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: iOBZJJoWr50
 membership: nieun

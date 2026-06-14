@@ -1,7 +1,7 @@
 ---
 id: hbv-hcc-mechanism
 title: B형간염 바이러스는 어떻게 간암을 일으키는가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: kJiD4SFdY_8
 membership: public

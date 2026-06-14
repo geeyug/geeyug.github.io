@@ -1,7 +1,7 @@
 ---
 id: hypona-classification
 title: 저나트륨혈증은 어떻게 분류하는가
-series: HYPONA
+topic: HYPONA
 level: 2
 youtube_id: Fbm3xNhU0Qo
 membership: nieun

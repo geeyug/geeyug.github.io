@@ -1,7 +1,7 @@
 ---
 id: dm-htn-why-treat
 title: 당뇨와 고혈압을 치료해야 하는 이유는 무엇인가
-series: DM
+topic: DM
 level: 1
 youtube_id: B4i5MGqqRSE
 membership: public

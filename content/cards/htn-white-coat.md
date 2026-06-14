@@ -1,7 +1,7 @@
 ---
 id: htn-white-coat
 title: 병원에서만 혈압이 높다면, 고혈압 치료를 믿어도 되는가?
-series: HTN
+topic: HTN
 level: 2
 youtube_id: -7_bPJXdFZA
 membership: ssangkiyeok

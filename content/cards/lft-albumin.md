@@ -1,7 +1,7 @@
 ---
 id: lft-albumin
 title: 알부민 수치는 간의 어떤 기능을 반영하는가
-series: LFT
+topic: LFT
 level: 1
 youtube_id: pkdVAmKEf-s
 membership: public

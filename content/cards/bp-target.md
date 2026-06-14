@@ -1,7 +1,7 @@
 ---
 id: bp-target
 title: 고혈압 환자에서 혈압을 어디까지 낮추어야 하는가
-series: BP
+topic: BP
 level: 2
 youtube_id: P8Pzg0j_rfs
 membership: public

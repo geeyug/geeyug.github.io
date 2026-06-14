@@ -1,7 +1,7 @@
 ---
 id: anemia-workup
 title: 빈혈이 있을 때 어떤 검사를 어떤 순서로 해야 하는가?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: sFEpis7psKE
 membership: public

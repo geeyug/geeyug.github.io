@@ -1,7 +1,7 @@
 ---
 id: bp-mid-range
 title: 혈압이 150/95에서 170/105 사이라면 어떻게 해야 하는가?
-series: BP
+topic: BP
 level: 1
 youtube_id: FO4wiftGBFk
 membership: public

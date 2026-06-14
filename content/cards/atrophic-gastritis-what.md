@@ -1,7 +1,7 @@
 ---
 id: atrophic-gastritis-what
 title: 위축성 위염이란 무엇인가
-series: GASTRITIS
+topic: GASTRITIS
 level: 1
 youtube_id: dM58n6xEIks
 membership: public

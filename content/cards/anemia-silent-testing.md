@@ -1,7 +1,7 @@
 ---
 id: anemia-silent-testing
 title: 증상이 없어도 빈혈 검사를 받아야 하는가?
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: C1jVRngiOuA
 membership: public

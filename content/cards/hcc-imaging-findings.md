@@ -1,7 +1,7 @@
 ---
 id: hcc-imaging-findings
 title: 간암의 전형적 영상 소견은 무엇인가
-series: HCC
+topic: HCC
 level: 2
 youtube_id: yOLcE3m6sE0
 membership: public

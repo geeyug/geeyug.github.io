@@ -1,7 +1,7 @@
 ---
 id: body-system-balance
 title: 우리 몸 내부 시스템은 어떻게 유지되고 무너지는가
-series: GENERAL
+topic: GENERAL
 level: 1
 youtube_id: 8SZ1r_dPl0w
 membership: public

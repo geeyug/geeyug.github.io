@@ -1,7 +1,7 @@
 ---
 id: murmur-mitral-stenosis
 title: 승모판 협착증에서 어떤 심잡음이 들리는가
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: kbKURSMTpjo
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: thrombus03-venous-dvt-risk
 title: 정맥혈전이 잘 생기는 상황들은 어떤 것들인가
-series: THROMBUS
+series: DVT
 level: 2
 youtube_id: 8SKrenzIH-c
 membership: ssangkiyeok

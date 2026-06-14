@@ -1,7 +1,7 @@
 ---
 id: shock-stages
 title: 쇼크는 어떤 단계를 거쳐 돌이킬 수 없어지는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: VIFknRDRphU
 membership: ssangkiyeok

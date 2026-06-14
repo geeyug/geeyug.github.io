@@ -1,7 +1,7 @@
 ---
 id: ccb-side-effects
 title: 칼슘채널차단제의 부작용은 왜 계열마다 다른가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: nDFbU7YmKJQ
 membership: public

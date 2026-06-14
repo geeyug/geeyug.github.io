@@ -1,7 +1,7 @@
 ---
 id: portal-hypertension-types
 title: 문맥압 항진증은 어디가 막혔느냐에 따라 왜 세 가지로 나뉘는가
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: P_jn2HmM7U4
 membership: public

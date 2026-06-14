@@ -1,7 +1,7 @@
 ---
 id: blind-treatment-problem
 title: 이전 병원 기록 없이 치료하는 것이 왜 문제인가?
-series: CLINIC
+topic: GENERAL
 level: 1
 youtube_id: 2Totz0c-jRo
 membership: ssangkiyeok

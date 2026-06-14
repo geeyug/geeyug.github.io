@@ -1,7 +1,7 @@
 ---
 id: anaph-epinephrine-hesitation
 title: 아나필락시스가 의심되지만 애매할 때 에피네프린을 주저해야 하는가
-series: ANAPH
+topic: ANAPH
 level: 3
 youtube_id: KoUs96XeRHw
 membership: nieun

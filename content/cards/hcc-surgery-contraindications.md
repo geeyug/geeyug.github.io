@@ -1,7 +1,7 @@
 ---
 id: hcc-surgery-contraindications
 title: 간암이 있어도 수술을 못 하는 이유는 무엇인가
-series: HCC
+topic: HCC
 level: 1
 youtube_id: NvrTmsxNGk0
 membership: public

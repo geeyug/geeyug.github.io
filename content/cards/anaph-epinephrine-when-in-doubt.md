@@ -1,7 +1,7 @@
 ---
 id: anaph-epinephrine-when-in-doubt
 title: "아나필락시스가 아닐 수도 있는데 에피네프린을 이미 투여했다면 어떻게 되는가"
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: Wki1_hz8vcM
 membership: nieun

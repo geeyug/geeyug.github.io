@@ -1,7 +1,7 @@
 ---
 id: thyroid-nodule-cancer
 title: 갑상선 결절 — 바로 조직검사를 해야 할까
-series: THYROID
+topic: THYROID
 level: 1
 youtube_id: 6EGzT3syqSg
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: dangerous-abdominal-pain
 title: 위험한 복통을 구별하는 3가지 특징은 무엇인가?
-series: ABDOMEN
+topic: ABDOMEN
 level: 1
 youtube_id: 2zzhPZT77Hw
 membership: ssangkiyeok

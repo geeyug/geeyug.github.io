@@ -1,7 +1,7 @@
 ---
 id: anp-ecf-volume
 title: ANP를 대량으로 주입하면 체액량이 위험하게 줄어드는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: 0cwos3GsSac
 membership: ssangkiyeok

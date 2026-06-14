@@ -1,7 +1,7 @@
 ---
 id: sepsis-lung
 title: "패혈증은 왜 폐까지 망가뜨리는가"
-series: SEPSIS
+topic: SEPSIS
 level: 2
 youtube_id: -0mBXVXNagU
 membership: ssangkiyeok

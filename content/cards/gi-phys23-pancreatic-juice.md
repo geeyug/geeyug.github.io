@@ -1,7 +1,7 @@
 ---
 id: gi-phys23-pancreatic-juice
 title: 췌장액에는 무엇이 들어 있고, 왜 췌장 자신은 소화되지 않는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 8q6C9IGVuvg
 membership: ssangkiyeok

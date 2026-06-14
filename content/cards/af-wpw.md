@@ -1,7 +1,7 @@
 ---
 id: af-wpw
 title: 심방세동에 WPW 증후군이 동반되면 왜 돌연사 위험이 생기는가
-series: AF
+topic: AF
 level: 3
 youtube_id: w4yXpuff1m4
 membership: nieun

@@ -4,6 +4,7 @@ title: 고령 환자가 자꾸 넘어진다 — 전해질을 먼저 확인해야
 level: 1
 youtube_id: iNAsOQbDAvc
 membership: public
+topic: KIDNEY
 short_title: 노인 낙상과 저나트륨혈증
 tags: [신장-전해질, 증상-접근]
 ---

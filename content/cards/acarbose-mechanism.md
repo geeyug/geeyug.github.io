@@ -1,7 +1,7 @@
 ---
 id: acarbose-mechanism
 title: 아카르보스(글루코베이)는 어떤 원리로 혈당을 낮추고 왜 부작용이 생기는가?
-series: DM
+topic: DM
 level: 2
 youtube_id: 5-mTvNXftQI
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: acidbase-diagnosis-basic
 title: 산증과 알칼리증의 기본 진단 — pH·PaCO₂·HCO₃⁻를 어떻게 읽는가
-series: ACIDBASE
+topic: ACIDBASE
 level: 2
 youtube_id: bsVBfRBfI6E
 membership: nieun

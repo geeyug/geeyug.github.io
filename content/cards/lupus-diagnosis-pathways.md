@@ -1,7 +1,7 @@
 ---
 id: lupus-diagnosis-pathways
 title: 루푸스는 어떤 경로로 진단에 이르는가
-series: LUPUS
+topic: LUPUS
 level: 2
 youtube_id: sbchsESU5-8
 membership: nieun

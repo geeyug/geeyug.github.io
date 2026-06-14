@@ -1,7 +1,7 @@
 ---
 id: pneumonia-treatment-failure
 title: 폐렴 치료가 실패하는 이유는 무엇인가?
-series: PNEUMONIA
+topic: PNEUMONIA
 level: 2
 youtube_id: 0MAUKoeu1ZU
 membership: ssangkiyeok

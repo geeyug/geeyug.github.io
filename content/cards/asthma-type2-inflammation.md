@@ -1,7 +1,7 @@
 ---
 id: asthma-type2-inflammation
 title: "천식을 일으키는 염증은 어떻게 작동하는가"
-series: ASTHMA
+topic: ASTHMA
 level: 2
 youtube_id: 4NFg5Dtp220
 membership: nieun

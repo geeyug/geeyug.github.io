@@ -1,7 +1,7 @@
 ---
 id: red-eye-internal-medicine
 title: 눈 충혈로 내과에 오게 되는 경우는 어떤 상황인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 3gnLn0HWzes
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: pancreas-function
 title: 췌장은 우리 몸에서 어떤 일을 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: jX3u6x8QdMs
 membership: public

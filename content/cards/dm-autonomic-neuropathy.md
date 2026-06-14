@@ -1,7 +1,7 @@
 ---
 id: dm-autonomic-neuropathy
 title: 당뇨병성 자율신경병증은 왜 다른 합병증보다 더 위험한가?
-series: DM
+topic: DM
 level: 2
 youtube_id: -X0GKTSRQUI
 membership: public

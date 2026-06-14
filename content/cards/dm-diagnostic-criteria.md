@@ -1,7 +1,7 @@
 ---
 id: dm-diagnostic-criteria
 title: 당뇨병은 어떤 기준으로 진단하는가
-series: DM
+topic: DM
 level: 2
 youtube_id: CI35kE_m734
 membership: nieun

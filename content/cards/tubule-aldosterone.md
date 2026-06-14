@@ -1,7 +1,7 @@
 ---
 id: tubule-aldosterone
 title: 알도스테론은 세뇨관에서 어떻게 소듐을 붙잡고 포타슘을 내보내는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: ztp_phnnnf0
 membership: ssangkiyeok

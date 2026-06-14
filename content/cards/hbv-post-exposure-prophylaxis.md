@@ -1,7 +1,7 @@
 ---
 id: hbv-post-exposure-prophylaxis
 title: B형간염 바이러스에 노출됐을 때 무엇을 해야 하는가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: ilIONGgjXJs
 membership: public

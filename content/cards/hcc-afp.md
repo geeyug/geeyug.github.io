@@ -1,7 +1,7 @@
 ---
 id: hcc-afp
 title: AFP는 간암에서 어떻게 활용되는가?
-series: HCC
+topic: HCC
 level: 2
 youtube_id: 00TcBlor714
 membership: ssangkiyeok

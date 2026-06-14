@@ -1,7 +1,7 @@
 ---
 id: palpitation-self-check
 title: 가슴이 두근거릴 때 심장 박동이 정말 빠른지 어떻게 확인하는가
-series: ARRHYTHMIA
+topic: HEART
 level: 1
 youtube_id: CETSikbemTQ
 membership: public

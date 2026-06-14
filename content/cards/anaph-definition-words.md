@@ -1,7 +1,7 @@
 ---
 id: anaph-definition-words
 title: 아나필락시스(anaphylaxis)의 정의에 담긴 다섯 단어는 무엇을 뜻하는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: 01WjWMnIikA
 membership: nieun

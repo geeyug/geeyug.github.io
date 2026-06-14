@@ -1,7 +1,7 @@
 ---
 id: glycolysis-two-roles
 title: 해당과정은 에너지 공급 외에 어떤 역할을 더 하는가?
-series: METABOLISM
+topic: METABOLISM
 level: 2
 youtube_id: CmtWxao-gFY
 membership: ssangkiyeok

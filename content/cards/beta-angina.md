@@ -1,7 +1,7 @@
 ---
 id: beta-angina
 title: 베타차단제는 왜 협심증에 사용되는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: viqA_8mAWQA
 membership: ssangkiyeok

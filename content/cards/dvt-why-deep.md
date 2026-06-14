@@ -1,7 +1,7 @@
 ---
 id: dvt-why-deep
 title: 왜 표면 정맥 혈전은 괜찮고 심부 정맥 혈전은 위험한가?
-series: DVT
+topic: DVT
 level: 1
 youtube_id: 0y7i4gZzbzE
 membership: ssangkiyeok

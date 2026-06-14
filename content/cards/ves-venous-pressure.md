@@ -1,7 +1,7 @@
 ---
 id: ves-venous-pressure
 title: 동맥압이 120/80이라면 정맥압은 얼마인가
-series: VES
+topic: VES
 level: 2
 youtube_id: --yzV_-IeBc
 membership: ssangkiyeok

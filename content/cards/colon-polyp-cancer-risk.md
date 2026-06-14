@@ -1,7 +1,7 @@
 ---
 id: colon-polyp-cancer-risk
 title: 용종을 제거했는데 암이라는 말을 들었다 — 용종 안의 암세포는 어떻게 판단하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: -PnCGzXFwXs
 membership: public

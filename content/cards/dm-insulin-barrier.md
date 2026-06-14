@@ -1,7 +1,7 @@
 ---
 id: dm-insulin-barrier
 title: 인슐린을 써야 한다는 말 앞에서 환자는 왜 멈추는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3NX-EhfYF94
 membership: public

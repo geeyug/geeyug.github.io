@@ -1,7 +1,7 @@
 ---
 id: adult-vaccination
 title: 어른도 예방접종이 필요한가?
-series: VACCINE
+topic: VACCINE
 level: 1
 youtube_id: 0-6aNI2RnJU
 membership: ssangkiyeok

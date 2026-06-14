@@ -1,7 +1,7 @@
 ---
 id: colicky-pain-smooth-muscle
 title: 배가 쥐어짜듯 아플 때 무엇이 일어나고 있는 것인가
-series: ABDOMEN
+topic: ABDOMEN
 level: 1
 youtube_id: 8AXDxwJcygw
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: syncope-workup-cost
 title: 실신으로 병원에 가면 왜 이렇게 비용이 많이 드는가?
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: TFZOMvoPfHw
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: digestion-four-functions
 title: 소화기관이 영양분을 흡수하려면 어떤 네 가지 기능이 필요한가?
-series: GI-PHYS
+topic: GI-PHYS
 level: 1
 youtube_id: 9tIuZ2bL0UQ
 membership: public

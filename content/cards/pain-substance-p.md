@@ -1,7 +1,7 @@
 ---
 id: pain-substance-p
 title: Substance P에서 P는 무슨 뜻인가
-series: PAIN
+topic: PAIN
 level: 1
 youtube_id: 0bCBliSqCCo
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: ckd-management
 title: 만성콩팥병 치료는 왜 콩팥을 직접 고치는 것이 아닌가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: 496m-PATplk
 membership: nieun

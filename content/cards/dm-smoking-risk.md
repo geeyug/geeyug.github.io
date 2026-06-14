@@ -1,7 +1,7 @@
 ---
 id: dm-smoking-risk
 title: 당뇨 환자에게 금연이 필수인 이유는 무엇인가
-series: DM
+topic: DM
 level: 1
 youtube_id: 4yrxsebdqkw
 membership: public

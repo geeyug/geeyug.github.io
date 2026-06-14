@@ -1,7 +1,7 @@
 ---
 id: anaph-vascular-permeability
 title: 아나필락시스에서 미세혈관 투과성이 증가하면 무슨 일이 생기는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: o7fb8pba1wk
 membership: nieun

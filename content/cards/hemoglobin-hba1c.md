@@ -1,7 +1,7 @@
 ---
 id: hemoglobin-hba1c
 title: 혈색소와 당화혈색소는 어떻게 다른가
-series: DM
+topic: DM
 level: 1
 youtube_id: AjsPmovfvYg
 membership: public

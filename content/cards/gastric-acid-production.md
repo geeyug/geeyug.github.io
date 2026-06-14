@@ -1,7 +1,7 @@
 ---
 id: gastric-acid-production
 title: 위산은 어떻게 만들어지는가?
-series: PPI
+topic: PHARM
 level: 2
 youtube_id: 0MMw9EHM2fg
 membership: ssangkiyeok

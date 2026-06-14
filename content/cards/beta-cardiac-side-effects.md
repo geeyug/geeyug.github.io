@@ -1,7 +1,7 @@
 ---
 id: beta-cardiac-side-effects
 title: 베타차단제의 심장 부작용은 어떻게 생기는가?
-series: BETA
+topic: BETA
 level: 2
 youtube_id: 5MhhsEPYmNs
 membership: ssangkiyeok

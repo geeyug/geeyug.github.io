@@ -1,7 +1,7 @@
 ---
 id: nutritional-iv-myth
 title: 영양제 주사는 누구에게나 좋은가?
-series: GI
+topic: GI
 level: 1
 youtube_id: Bgk5Zbq07bs
 membership: public

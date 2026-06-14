@@ -1,7 +1,7 @@
 ---
 id: biliary-pancreatitis-ercp
 title: 급성 담석성 췌장염에서 왜 ERCP를 하지 않는 것이 원칙인가?
-series: PANCREATITIS
+topic: PANCREATITIS
 level: 2
 youtube_id: pH1i1gtVEQ8
 membership: public

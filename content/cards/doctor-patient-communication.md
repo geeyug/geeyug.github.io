@@ -1,7 +1,7 @@
 ---
 id: doctor-patient-communication
 title: 의사가 명확하게 답하지 않는 가장 근본적인 이유는 무엇인가?
-series: CLINIC
+topic: GENERAL
 level: 1
 youtube_id: 1g_S1tO3zfA
 membership: ssangkiyeok

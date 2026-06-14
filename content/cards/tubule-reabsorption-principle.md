@@ -1,7 +1,7 @@
 ---
 id: tubule-reabsorption-principle
 title: 재흡수 방식은 물질마다 왜 다른가 — 운반최고치와 경사시간운반의 원리
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: Sux7_rwme7M
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: beta-pad
 title: 말초혈관질환이 있을 때 베타차단제를 써도 되는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: aDwrtBmQpYQ
 membership: ssangkiyeok

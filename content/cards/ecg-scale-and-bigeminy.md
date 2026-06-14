@@ -1,7 +1,7 @@
 ---
 id: ecg-scale-and-bigeminy
 title: 맥박이 36회인데 두근거린다면 — 맥박과 심박수는 왜 다를 수 있는가
-series: ECG
+topic: ECG
 level: 2
 youtube_id: 5k25voDImDk
 membership: ssangkiyeok

@@ -1,7 +1,7 @@
 ---
 id: gi-phys02-enteric-ns
 title: 장신경계는 어떤 신경전달물질로 소화 운동을 조절하는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: oAKBg5ui4x8
 membership: ssangkiyeok

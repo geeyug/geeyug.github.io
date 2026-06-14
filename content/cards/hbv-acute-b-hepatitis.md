@@ -1,7 +1,7 @@
 ---
 id: hbv-acute-b-hepatitis
 title: 급성 B형간염과 만성 B형간염의 급성 악화를 어떻게 구별하는가
-series: HBV
+topic: HBV
 level: 2
 youtube_id: gZaQM-8alEQ
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: ckd-anemia
 title: 만성콩팥병에서 빈혈은 왜 생기고 어떻게 치료하는가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: AoekK19Wezk
 membership: nieun

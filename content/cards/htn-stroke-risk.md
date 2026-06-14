@@ -1,7 +1,7 @@
 ---
 id: htn-stroke-risk
 title: 고혈압을 왜 치료해야 하는가 — 뇌졸중은 어떻게 생기는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: WCYBpJv3pgU
 membership: public

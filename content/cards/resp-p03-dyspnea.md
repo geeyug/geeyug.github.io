@@ -1,7 +1,7 @@
 ---
 id: resp-p03-dyspnea
 title: 호흡곤란은 어떻게 평가하는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: f38nwznOZQE
 membership: ssangkiyeok

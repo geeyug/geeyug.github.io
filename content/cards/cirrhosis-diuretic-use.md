@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-diuretic-use
 title: 간경변성 복수에서 이뇨제를 어떻게 사용하는가
-series: CIRRHOSIS
+topic: CIRRHOSIS
 level: 2
 youtube_id: D1LsQ1WWgZo
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-sodium-key
 title: 세포외액량은 무엇이 결정하는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: 1QE39wVxD0g
 membership: ssangkiyeok

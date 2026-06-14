@@ -1,7 +1,7 @@
 ---
 id: cvp-what
 title: "중심정맥압은 왜 몸의 가장 중심이 되는 압력인가"
-series: CIRCULATION
+topic: HEART
 level: 2
 youtube_id: 2aXDWTf_NAo
 membership: ssangkiyeok

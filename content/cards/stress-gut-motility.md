@@ -1,7 +1,7 @@
 ---
 id: stress-gut-motility
 title: 긴장하면 왜 음식이 잘 내려가지 않는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 2kt9uj23GWA
 membership: public

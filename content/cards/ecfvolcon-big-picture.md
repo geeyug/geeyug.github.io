@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-big-picture
 title: 체액량, 심박출량, 혈압은 어떻게 하나의 시스템으로 연결되어 일정하게 유지되는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: aNqhAd_jpLg
 membership: ssangkiyeok

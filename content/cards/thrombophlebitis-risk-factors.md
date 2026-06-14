@@ -1,7 +1,7 @@
 ---
 id: thrombophlebitis-risk-factors
 title: 표재정맥혈전증은 누구에게 잘 생기는가
-series: DVT
+topic: DVT
 level: 2
 youtube_id: G0xQtU1WtSg
 membership: ssangkiyeok

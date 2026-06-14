@@ -1,7 +1,7 @@
 ---
 id: lupus-diagnosis-criteria
 title: 루프스 진단 기준 점수를 합산할 때 반드시 지켜야 하는 세 가지 규칙은 무엇인가
-series: LUPUS
+topic: LUPUS
 level: 2
 youtube_id: 3TdZ9Yb3nGA
 membership: nieun

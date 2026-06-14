@@ -1,7 +1,7 @@
 ---
 id: lft-pattern-interpretation
 title: 간 기능 검사 수치가 이상할 때 어떤 패턴으로 읽어야 하는가
-series: LFT
+topic: LFT
 level: 2
 youtube_id: S2TwREIBIRI
 membership: public

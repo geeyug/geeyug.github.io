@@ -1,7 +1,7 @@
 ---
 id: htn-white-coat-trap
 title: 긴장해서 혈압이 오른 것이 고혈압이 아니라는 말은 맞는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: s925lJhLafU
 membership: public

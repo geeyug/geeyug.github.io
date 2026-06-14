@@ -1,7 +1,7 @@
 ---
 id: dka-why-dangerous
 title: 당뇨병성케톤산증은 왜 단순한 고혈당이 아닌가
-series: DM
+topic: DM
 level: 1
 youtube_id: VNZdzB0P0qo
 membership: public

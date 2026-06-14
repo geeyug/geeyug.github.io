@@ -1,7 +1,7 @@
 ---
 id: dm-retinopathy-glucose-drop
 title: 혈당을 열심히 조절했는데 왜 시력이 더 떨어지는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 2gjSwrLtxao
 membership: public

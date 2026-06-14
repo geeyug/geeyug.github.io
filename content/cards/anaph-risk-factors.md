@@ -1,7 +1,7 @@
 ---
 id: anaph-risk-factors
 title: 아나필락시스가 더 잘 생기는 사람은 누구인가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: JzXlc3d4RWY
 membership: nieun

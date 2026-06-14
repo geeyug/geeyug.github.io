@@ -1,7 +1,7 @@
 ---
 id: anemia-exercise-risk
 title: 빈혈이 있을 때 운동이 왜 위험한가
-series: HEMATOLOGY
+topic: HEMATOLOGY
 level: 1
 youtube_id: jl2IF806iA8
 membership: public

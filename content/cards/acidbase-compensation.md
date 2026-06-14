@@ -1,7 +1,7 @@
 ---
 id: acidbase-compensation
 title: 산염기장애에서 보상은 원인을 얼마나 되돌릴 수 있는가
-series: ACIDBASE
+topic: ACIDBASE
 level: 2
 youtube_id: 9V6URGIVItQ
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: digestive-juice-complete
 title: 우리 몸에서 나오는 소화액은 종류별로 어떤 역할을 하는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 1XBY3AAsfG0
 membership: public

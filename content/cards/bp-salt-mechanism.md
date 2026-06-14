@@ -1,7 +1,7 @@
 ---
 id: bp-salt-mechanism
 title: 소금은 어떻게 혈압을 올리는가
-series: BP
+topic: BP
 level: 2
 youtube_id: C46AqualGTQ
 membership: public

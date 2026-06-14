@@ -1,7 +1,7 @@
 ---
 id: resp-p09-crackle-egophony
 title: crackle이 들리면 무엇을 의심하는가 — 폐포에 물이 찼을 때의 소리
-series: RESP
+topic: RESP
 level: 2
 youtube_id: iRig7CNYYcg
 membership: ssangkiyeok

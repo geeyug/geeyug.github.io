@@ -1,7 +1,7 @@
 ---
 id: resp-p02-approach
 title: 호흡기 환자를 처음 만났을 때 무엇부터 시작하는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: d0UDb_I9qUE
 membership: ssangkiyeok

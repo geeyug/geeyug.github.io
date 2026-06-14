@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-ascites-diet
 title: 간경변증 복수가 생겼을 때 식이요법은 어떻게 해야 하는가
-series: CIRRHOSIS
+topic: CIRRHOSIS
 level: 1
 youtube_id: -w0hSvBL6FU
 membership: public

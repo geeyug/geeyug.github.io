@@ -1,7 +1,7 @@
 ---
 id: hf-gi-impairment
 title: 심장이 약해지면 왜 소화가 잘 안 되는가
-series: HF
+topic: HF
 level: 1
 youtube_id: qSY1IDXkAhA
 membership: public

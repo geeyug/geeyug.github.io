@@ -1,7 +1,7 @@
 ---
 id: thyroid-iodine
 title: 요오드를 많이 먹으면 갑상선 호르몬도 많아지는가?
-series: THYROID
+topic: THYROID
 level: 1
 youtube_id: wtMP0ogi-mQ
 membership: public

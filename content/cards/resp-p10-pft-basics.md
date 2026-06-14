@@ -1,7 +1,7 @@
 ---
 id: resp-p10-pft-basics
 title: 폐기능 검사(PFT)로 무엇을 알 수 있는가 — FEV1/FVC와 obstructive 패턴
-series: RESP
+topic: RESP
 level: 2
 youtube_id: j7UCdhXrvGE
 membership: ssangkiyeok

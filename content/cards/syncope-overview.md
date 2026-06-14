@@ -1,7 +1,7 @@
 ---
 id: syncope-overview
 title: 실신은 얼마나 위험한 증상인가
-series: SYNCOPE
+topic: SYNCOPE
 level: 1
 youtube_id: CBQUXHsjKEI
 membership: ssangkiyeok

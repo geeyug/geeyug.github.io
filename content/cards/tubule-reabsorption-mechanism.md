@@ -1,7 +1,7 @@
 ---
 id: tubule-reabsorption-mechanism
 title: 세뇨관에서 재흡수가 일어나는 근본적인 힘은 무엇인가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: HRji7tpvBO8
 membership: ssangkiyeok

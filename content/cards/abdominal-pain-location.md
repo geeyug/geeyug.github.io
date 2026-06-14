@@ -1,7 +1,7 @@
 ---
 id: abdominal-pain-location
 title: 배가 아픈 위치를 보면 어느 장기 문제인지 알 수 있는가?
-series: ABDOMEN
+topic: ABDOMEN
 level: 1
 youtube_id: 1FCtweJi3l4
 membership: public

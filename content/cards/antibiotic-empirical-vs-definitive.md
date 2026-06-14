@@ -1,7 +1,7 @@
 ---
 id: antibiotic-empirical-vs-definitive
 title: 항생제는 균을 확인하고 써야 하는가?
-series: ANTIBIOTIC
+topic: ANTIBIOTIC
 level: 1
 youtube_id: 0fR0SKKpgmY
 membership: ssangkiyeok

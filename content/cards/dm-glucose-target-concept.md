@@ -1,7 +1,7 @@
 ---
 id: dm-glucose-target-concept
 title: 혈당이 날마다 다른 것을 어떻게 받아들여야 하는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3j4-hVR4pQQ
 membership: public

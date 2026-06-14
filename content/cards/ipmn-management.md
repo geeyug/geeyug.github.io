@@ -1,7 +1,7 @@
 ---
 id: ipmn-management
 title: BD-IPMN은 수술인가 관찰인가 — 결정을 가르는 기준은 무엇인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 44-2CNZABiA
 membership: public

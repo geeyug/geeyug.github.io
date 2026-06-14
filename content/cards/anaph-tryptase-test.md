@@ -1,7 +1,7 @@
 ---
 id: anaph-tryptase-test
 title: 아나필락시스 진단에서 트립테이스 혈액 검사를 어떻게 활용하는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: gfmVenIu20M
 membership: nieun

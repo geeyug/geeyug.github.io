@@ -1,7 +1,7 @@
 ---
 id: tubule-glucosuria
 title: 소변에 당이 보이면 왜 당뇨를 의심해야 하는가
-series: TUBULE
+topic: TUBULE
 level: 1
 youtube_id: Jjn3pdxVFdw
 membership: ssangkiyeok

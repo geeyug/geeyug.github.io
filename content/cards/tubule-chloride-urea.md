@@ -1,7 +1,7 @@
 ---
 id: tubule-chloride-urea
 title: 염소와 요소는 각각 어떻게 세뇨관에서 처리되는가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: SXYwkF6h9hU
 membership: ssangkiyeok

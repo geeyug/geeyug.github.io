@@ -1,7 +1,7 @@
 ---
 id: aging-homeostenosis
 title: 늙는다는 것은 무엇인가 — 항상성의 여유 공간이 줄어드는 것이다
-series: AGING
+topic: AGING
 level: 1
 youtube_id: w6bpb9v9svk
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: protein-to-fat
 title: 단백질은 어떻게 지방으로 변환될 수 있는가
-series: METABOLISM
+topic: METABOLISM
 level: 2
 youtube_id: aT8TAnhOXa0
 membership: public

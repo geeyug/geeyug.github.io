@@ -1,7 +1,7 @@
 ---
 id: pregnancy-abdominal-pain
 title: 임신 중 급성 복통, 무엇을 먼저 의심해야 하는가?
-series: GI
+topic: GI
 level: 1
 youtube_id: 5NCdYR2U4N0
 membership: public

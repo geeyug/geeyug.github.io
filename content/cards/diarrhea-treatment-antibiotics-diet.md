@@ -1,7 +1,7 @@
 ---
 id: diarrhea-treatment-antibiotics-diet
 title: 설사에 항생제는 언제 쓰고, 음식은 어떻게 조절하는가?
-series: DIARRHEA
+topic: DIARRHEA
 level: 2
 youtube_id: EbxjzAcBi-k
 membership: ssangkiyeok

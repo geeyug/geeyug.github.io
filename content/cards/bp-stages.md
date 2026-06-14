@@ -1,7 +1,7 @@
 ---
 id: bp-stages
 title: 혈압 수치가 정상, 경계, 고혈압으로 나뉘는 기준은 무엇인가?
-series: BP
+topic: BP
 level: 1
 youtube_id: oNFzbdkL22s
 membership: public

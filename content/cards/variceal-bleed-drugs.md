@@ -1,7 +1,7 @@
 ---
 id: variceal-bleed-drugs
 title: 급성 식도정맥류 출혈에 어떤 약을 쓰며 왜 항생제가 필수인가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: 4aJMfZHyrQ0
 membership: public

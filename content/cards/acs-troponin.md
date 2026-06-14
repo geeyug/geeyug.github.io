@@ -1,7 +1,7 @@
 ---
 id: acs-troponin
 title: "흉통이 왔을 때 심근효소는 왜 시간을 두고 재는가"
-series: ACS
+topic: ACS
 level: 2
 youtube_id: 4AMrUqYFL7U
 membership: nieun

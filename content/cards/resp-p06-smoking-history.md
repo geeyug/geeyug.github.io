@@ -1,7 +1,7 @@
 ---
 id: resp-p06-smoking-history
 title: 호흡기 평가에서 흡연력과 직업력을 왜 빠짐없이 확인해야 하는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: ZRVCthpshlI
 membership: ssangkiyeok

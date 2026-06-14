@@ -1,7 +1,7 @@
 ---
 id: sports-drink-sleep
 title: 자다가 속이 쓰릴 때 윌을 마시면 괜찮은가
-series: GI
+topic: GI
 level: 1
 youtube_id: vXJQQR96OKU
 membership: public

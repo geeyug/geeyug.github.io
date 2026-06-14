@@ -1,7 +1,7 @@
 ---
 id: cardiac-output
 title: 1분에 심장에서 나가는 혈액의 양은 어떻게 측정하는가?
-series: HF
+topic: HF
 level: 2
 youtube_id: 0uJ6BHZtDjw
 membership: ssangkiyeok

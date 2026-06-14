@@ -1,7 +1,7 @@
 ---
 id: dm-type15-lada-public
 title: 1형도 2형도 아닌 당뇨병이 있을 수 있는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3h6y2JnKd3A
 membership: public

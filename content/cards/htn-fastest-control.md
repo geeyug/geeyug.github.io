@@ -1,7 +1,7 @@
 ---
 id: htn-fastest-control
 title: 혈압을 가장 빠르게 조절하는 것은 무엇인가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: FAxzDUnATEQ
 membership: public

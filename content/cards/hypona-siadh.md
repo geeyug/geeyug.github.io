@@ -1,7 +1,7 @@
 ---
 id: hypona-siadh
 title: SIADH에서 생리식염수를 줘도 소듐이 왜 오르지 않는가
-series: HYPONA
+topic: HYPONA
 level: 2
 youtube_id: 8sOps1yshj0
 membership: nieun

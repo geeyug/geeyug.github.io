@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-thrombocytopenia
 title: 간경변증에서 혈소판이 감소하면 어떻게 해야 하는가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: xx_7m0ewSlg
 membership: public

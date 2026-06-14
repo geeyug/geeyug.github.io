@@ -1,7 +1,7 @@
 ---
 id: low-carb-diet-risks
 title: 극단적인 저탄수화물 식사는 왜 권장하지 않는가
-series: DM
+topic: DM
 level: 1
 youtube_id: egJ2XhJO5Qk
 membership: public

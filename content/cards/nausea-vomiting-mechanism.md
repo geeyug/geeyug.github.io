@@ -1,7 +1,7 @@
 ---
 id: nausea-vomiting-mechanism
 title: 구역과 구토는 어떤 과정을 거쳐 일어나는가
-series: SYMPTOM
+topic: GENERAL
 level: 1
 youtube_id: 7rkT447IWOI
 membership: public

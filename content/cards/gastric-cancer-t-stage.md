@@ -1,7 +1,7 @@
 ---
 id: gastric-cancer-t-stage
 title: 위암 T병기는 어떻게 결정되고, 어떻게 알 수 있는가?
-series: GI-CANCER
+topic: ONCO
 level: 1
 youtube_id: KzTaKo6LAIo
 membership: public

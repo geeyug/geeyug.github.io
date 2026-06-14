@@ -1,7 +1,7 @@
 ---
 id: hypoglycemia-response
 title: 저혈당에 대한 정상인과 당뇨인의 반응은 왜 다른가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3evcWgY1rKI
 membership: public

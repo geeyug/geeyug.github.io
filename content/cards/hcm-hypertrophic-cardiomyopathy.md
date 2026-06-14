@@ -1,7 +1,7 @@
 ---
 id: hcm-hypertrophic-cardiomyopathy
 title: 비후성 심근병증은 왜 급사를 일으킬 수 있는가?
-series: MURMUR
+topic: MURMUR
 level: 2
 youtube_id: 4OR4BWfUreo
 membership: ssangkiyeok

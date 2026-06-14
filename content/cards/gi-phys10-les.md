@@ -1,7 +1,7 @@
 ---
 id: gi-phys10-les
 title: 하부식도괄약근은 어떤 역할을 하며, 이것이 망가지면 무슨 일이 생기는가
-series: GIPHYS
+topic: GI-PHYS
 level: 2
 youtube_id: FFhLus79mD0
 membership: ssangkiyeok

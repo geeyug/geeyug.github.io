@@ -1,7 +1,7 @@
 ---
 id: ischemia-blood-flow-demand
 title: 염증이 생긴 조직은 왜 혈관을 확장시키는가
-series: IHD
+topic: IHD
 level: 1
 youtube_id: cECG6sEH95g
 membership: public

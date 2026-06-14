@@ -1,7 +1,7 @@
 ---
 id: ecg-wide-qrs
 title: Wide QRS를 보면 VT인가 SVT인가 — 원리로 감별하는 방법
-series: ECG
+topic: ECG
 level: 3
 youtube_id: 1LK1TTa2Uzo
 membership: ssangkiyeok

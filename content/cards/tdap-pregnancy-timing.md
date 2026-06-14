@@ -1,7 +1,7 @@
 ---
 id: tdap-pregnancy-timing
 title: 임산부는 왜 27~36주 사이에 Tdap 접종을 맞아야 하는가
-series: PREVENTIVE
+topic: GENERAL
 level: 1
 youtube_id: 5glQadr9TB0
 membership: ssangkiyeok

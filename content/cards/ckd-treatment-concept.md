@@ -1,7 +1,7 @@
 ---
 id: ckd-treatment-concept
 title: 만성 콩팥병 치료가 왜 콩팥 약이 아닌 것처럼 보이는가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: 496m-PATplk
 membership: nieun

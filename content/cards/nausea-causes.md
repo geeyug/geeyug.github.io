@@ -1,7 +1,7 @@
 ---
 id: nausea-causes
 title: 구역과 구토는 어떤 경우에 생기는가
-series: GI
+topic: GI
 level: 1
 youtube_id: 0A3jn-2EaIQ
 membership: public

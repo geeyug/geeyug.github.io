@@ -1,7 +1,7 @@
 ---
 id: hf-cough
 title: 기침이 심장 때문일 수 있다 — 폐부종과 호흡기 증상의 연결
-series: HF
+topic: HF
 level: 1
 youtube_id: QifQyS06UYM
 membership: public

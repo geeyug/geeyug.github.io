@@ -1,7 +1,7 @@
 ---
 id: thyroid-autoantibodies
 title: 갑상선 자가항체 세 가지는 각각 무엇을 공격하고, 어떤 의미를 갖는가?
-series: THYROID
+topic: THYROID
 level: 2
 youtube_id: -w4J6UykKXo
 membership: public

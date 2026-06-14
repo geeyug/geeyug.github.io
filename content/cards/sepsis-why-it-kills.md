@@ -1,7 +1,7 @@
 ---
 id: sepsis-why-it-kills
 title: 패혈증은 왜 단순한 감염과 다른가?
-series: SEPSIS
+topic: SEPSIS
 level: 2
 youtube_id: -RVBW3ckSCI
 membership: ssangkiyeok

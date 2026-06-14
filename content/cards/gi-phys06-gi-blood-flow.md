@@ -1,7 +1,7 @@
 ---
 id: gi-phys06-gi-blood-flow
 title: 위장관으로 들어간 혈액은 왜 반드시 간을 거쳐 심장으로 돌아오는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 0qfHquGrLLY
 membership: ssangkiyeok

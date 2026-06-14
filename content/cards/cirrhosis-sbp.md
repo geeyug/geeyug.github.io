@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-sbp
 title: 자발성 세균성 복막염은 왜 생기고 어떻게 치료하는가
-series: LIVER
+topic: LIVER
 level: 2
 youtube_id: drieRbMtMjA
 membership: public

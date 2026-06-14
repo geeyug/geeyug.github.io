@@ -1,7 +1,7 @@
 ---
 id: dm-nephropathy-hyperfiltration
 title: 당뇨병은 왜 콩팥에 과부하를 주는가 — 과여과의 기전
-series: DM
+topic: DM
 level: 2
 youtube_id: 3mHYJzNmLS4
 membership: public

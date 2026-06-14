@@ -1,7 +1,7 @@
 ---
 id: murmur-overview
 title: 심잡음(heart murmur)은 왜 생기고, 어디서 들리면 무엇을 의심해야 하는가
-series: MURMUR
+topic: MURMUR
 level: 1
 youtube_id: Ius0hh_5NhE
 membership: ssangkiyeok

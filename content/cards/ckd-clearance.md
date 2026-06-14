@@ -1,7 +1,7 @@
 ---
 id: ckd-clearance
 title: 콩팥청소율(renal clearance)이란 무엇을 측정하는 개념인가
-series: CKD
+topic: CKD
 level: 2
 youtube_id: fWorS54T8Oo
 membership: nieun

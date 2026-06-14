@@ -1,7 +1,7 @@
 ---
 id: dm-elderly-control
 title: 노인 당뇨 환자에서 혈당을 얼마나 엄격하게 조절해야 하는가
-series: DM
+topic: DM
 level: 2
 youtube_id: 8rw-ucVDStE
 membership: public

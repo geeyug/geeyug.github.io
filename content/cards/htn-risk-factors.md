@@ -1,7 +1,7 @@
 ---
 id: htn-risk-factors
 title: 고혈압은 어떤 사람에게 더 잘 생기는가?
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 8z3XBIOeVgo
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: metformin-how-it-works
 title: 메트포르민은 왜 당뇨 1차 약제로 불리는가
-series: DM
+topic: DM
 level: 1
 youtube_id: XbW7sm2Zaf4
 membership: public

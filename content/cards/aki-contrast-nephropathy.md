@@ -1,7 +1,7 @@
 ---
 id: aki-contrast-nephropathy
 title: 조영제는 왜 콩팥을 망가뜨리는가
-series: AKI
+topic: AKI
 level: 2
 youtube_id: 8ecjljeGyBY
 membership: nieun

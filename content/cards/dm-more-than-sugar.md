@@ -1,7 +1,7 @@
 ---
 id: dm-more-than-sugar
 title: 당뇨는 왜 "혈당이 조금 오르는 병"이 아닌가?
-series: DM
+topic: DM
 level: 1
 youtube_id: 7J0rAO8UHTw
 membership: public

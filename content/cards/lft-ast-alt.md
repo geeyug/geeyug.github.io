@@ -1,7 +1,7 @@
 ---
 id: lft-ast-alt
 title: AST와 ALT는 간세포 손상을 어떻게 반영하는가
-series: LFT
+topic: LFT
 level: 1
 youtube_id: Y5ISRe22zAU
 membership: public

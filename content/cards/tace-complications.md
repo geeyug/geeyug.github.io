@@ -1,7 +1,7 @@
 ---
 id: tace-complications
 title: 경동맥화학색전술(TACE) 후 어떤 합병증이 생길 수 있는가
-series: HCC
+topic: HCC
 level: 1
 youtube_id: 11Ar_-TSaX8
 membership: public

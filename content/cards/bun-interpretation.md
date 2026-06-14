@@ -1,7 +1,7 @@
 ---
 id: bun-interpretation
 title: BUN(혈액 요소 질소)이 올라가면 항상 콩팥이 나쁜 것인가?
-series: KIDNEY
+topic: KIDNEY
 level: 1
 youtube_id: -PPPHn527s0
 membership: public

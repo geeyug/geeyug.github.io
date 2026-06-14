@@ -1,7 +1,7 @@
 ---
 id: hbv-chronic-course
 title: 만성 B형간염에 걸리면 몸 안에서 무슨 일이 벌어지는가
-series: HBV
+topic: HBV
 level: 2
 youtube_id: n_tClbJzdCg
 membership: nieun

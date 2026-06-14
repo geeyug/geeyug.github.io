@@ -1,7 +1,7 @@
 ---
 id: aki-akd-concept
 title: AKI도 CKD도 아닌 중간 구역 — AKD란 무엇인가
-series: AKI
+topic: AKI
 level: 2
 youtube_id: kwqIPcliu8c
 membership: nieun

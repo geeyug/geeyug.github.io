@@ -1,7 +1,7 @@
 ---
 id: hyperglycemia-potassium
 title: 혈당이 매우 높을 때 칼륨은 어떻게 변하는가
-series: DM
+topic: DM
 level: 2
 youtube_id: wVIZlCcB5KM
 membership: public

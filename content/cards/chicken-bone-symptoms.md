@@ -1,7 +1,7 @@
 ---
 id: chicken-bone-symptoms
 title: 닭뼈를 삼켰을 때 병원에 가야 하는 증상은 무엇인가?
-series: GI
+topic: GI
 level: 1
 youtube_id: -nITz4_SmVg
 membership: public

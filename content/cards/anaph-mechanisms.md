@@ -1,7 +1,7 @@
 ---
 id: anaph-mechanisms
 title: "아나필락시스가 생기는 경로는 모두 같은가"
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: 0F2AyrZFAjc
 membership: nieun

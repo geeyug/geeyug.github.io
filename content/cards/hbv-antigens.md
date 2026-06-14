@@ -1,7 +1,7 @@
 ---
 id: hbv-antigens
 title: B형 간염의 항원·항체 결과는 어떻게 읽어야 하는가
-series: HBV
+topic: HBV
 level: 2
 youtube_id: _zO427rARuI
 membership: nieun

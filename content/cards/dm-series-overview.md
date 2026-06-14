@@ -1,7 +1,7 @@
 ---
 id: dm-series-overview
 title: 당뇨병 강의는 어떤 순서로 무엇을 다루는가
-series: DM
+topic: DM
 level: 1
 youtube_id: gf5oqD1GuBs
 membership: nieun

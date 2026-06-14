@@ -1,7 +1,7 @@
 ---
 id: glycolysis-lactate-white-muscle
 title: 백근은 왜 산소가 있어도 젖산을 만드는가?
-series: GLYCOLYSIS
+topic: GLYCOLYSIS
 level: 2
 youtube_id: EAMj1_xE_Z8
 membership: ssangkiyeok

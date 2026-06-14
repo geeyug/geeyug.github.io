@@ -1,7 +1,7 @@
 ---
 id: shock-fluid-loss
 title: 출혈 없이도 몸에서 수분이 빠져나가는 경우는 어떤 상황인가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: YzB7S8tNIME
 membership: ssangkiyeok

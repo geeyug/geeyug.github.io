@@ -1,7 +1,7 @@
 ---
 id: tubule-reabsorption-factors
 title: 세뇨관 재흡수량을 결정하는 요소들은 무엇인가
-series: TUBULE
+topic: TUBULE
 level: 2
 youtube_id: 0PNNN9Cu_-c
 membership: ssangkiyeok

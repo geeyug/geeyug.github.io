@@ -1,7 +1,7 @@
 ---
 id: gi-phys27-protein-fat-digestion
 title: 단백질과 지방은 어떤 순서로 소화되어 흡수되는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 8wZGM8vZT9Y
 membership: ssangkiyeok

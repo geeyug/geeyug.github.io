@@ -1,7 +1,7 @@
 ---
 id: htn-drug-classes
 title: 혈압약의 종류는 어떻게 나뉘고, 왜 ACE억제제보다 ARB를 더 많이 쓰는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 0hYmrysix-M
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: htn-bp-target-level
 title: 혈압은 낮을수록 좋은가 — 혈압 조절 목표의 하한선
-series: HTN
+topic: HTN
 level: 1
 youtube_id: 046ZyGqLQDM
 membership: public

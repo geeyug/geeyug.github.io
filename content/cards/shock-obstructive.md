@@ -1,7 +1,7 @@
 ---
 id: shock-obstructive
 title: 폐쇄성 쇼크라는 개념은 왜 어색하고, 그럼에도 왜 쓰이는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: r2YgasJy5CQ
 membership: ssangkiyeok

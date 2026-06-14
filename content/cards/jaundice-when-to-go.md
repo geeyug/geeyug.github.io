@@ -1,7 +1,7 @@
 ---
 id: jaundice-when-to-go
 title: 황달이 생기면 반드시 병원에 가야 하는 이유는 무엇인가
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: xamgjo4E-gw
 membership: public

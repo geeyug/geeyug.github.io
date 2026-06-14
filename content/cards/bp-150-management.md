@@ -1,7 +1,7 @@
 ---
 id: bp-150-management
 title: 혈압이 150/95라면 지금 당장 약을 먹어야 하는가?
-series: HTN
+topic: HTN
 level: 1
 youtube_id: FO4wiftGBFk
 membership: public

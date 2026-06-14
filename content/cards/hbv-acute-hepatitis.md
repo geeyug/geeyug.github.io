@@ -1,7 +1,7 @@
 ---
 id: hbv-acute-hepatitis
 title: 급성 바이러스 간염은 왜 항바이러스제로 치료하지 않는가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: 1AJGh_iUzzc
 membership: nieun

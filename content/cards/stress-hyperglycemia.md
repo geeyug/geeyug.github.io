@@ -1,7 +1,7 @@
 ---
 id: stress-hyperglycemia
 title: 극심한 스트레스는 왜 당뇨가 없는 사람의 혈당도 올리는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 7565fV10aWw
 membership: public

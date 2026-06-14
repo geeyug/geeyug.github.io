@@ -1,7 +1,7 @@
 ---
 id: ppi-hpylori-eradication
 title: 헬리코박터 제균치료에 왜 양성자펌프억제제(PPI)를 함께 쓰는가
-series: HPYLORI
+topic: HPYLORI
 level: 2
 youtube_id: BGVvcv-yfhk
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: gi-phys16-defecation
 title: 배변은 어떤 과정으로 일어나고, 왜 힘을 줘서는 안 되는가
-series: GI-PHYS
+topic: GI-PHYS
 level: 2
 youtube_id: 4ekr3VU88go
 membership: ssangkiyeok

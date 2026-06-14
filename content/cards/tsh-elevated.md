@@ -1,7 +1,7 @@
 ---
 id: tsh-elevated
 title: TSH가 높게 나왔을 때 갑상선 기능 저하증이 아닌 경우는 무엇인가
-series: THYROID
+topic: THYROID
 level: 2
 youtube_id: 5_RlSVkFA1E
 membership: public

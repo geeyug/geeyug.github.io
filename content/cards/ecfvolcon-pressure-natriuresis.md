@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-pressure-natriuresis
 title: 혈압이 올라가면 왜 소듐이 더 빠져나가는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: oWLHbKvchvU
 membership: ssangkiyeok

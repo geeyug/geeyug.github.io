@@ -1,7 +1,7 @@
 ---
 id: hcc-imaging-prerequisite
 title: 영상만으로 간암을 진단할 수 있는 전제 조건은 무엇인가
-series: HCC
+topic: HCC
 level: 1
 youtube_id: 2e5fHKt5ic8
 membership: public

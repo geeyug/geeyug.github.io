@@ -1,7 +1,7 @@
 ---
 id: ckd-progression-5
 title: 만성콩팥병의 진행을 늦추는 방법은 무엇인가?
-series: CKD
+topic: CKD
 level: 2
 youtube_id: lp_f8eLJRwM
 membership: public

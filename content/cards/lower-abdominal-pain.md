@@ -1,7 +1,7 @@
 ---
 id: lower-abdominal-pain
 title: 아랫배가 아프다 — 방광, 장, 부인과 중 어느 쪽인가
-series: GI
+topic: GI
 level: 1
 youtube_id: 5IPMEbFauQM
 membership: public

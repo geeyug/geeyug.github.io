@@ -1,7 +1,7 @@
 ---
 id: anaph-increasing
 title: 아나필락시스는 왜 증가하는데 사망률은 낮게 유지되는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: DWiDOoXrwFY
 membership: nieun

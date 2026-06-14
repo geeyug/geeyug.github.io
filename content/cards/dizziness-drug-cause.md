@@ -1,7 +1,7 @@
 ---
 id: dizziness-drug-cause
 title: 노인의 어지럼증과 부종, 약물이 원인일 수 있는가
-series: GERI
+topic: GERI
 level: 1
 youtube_id: CBO1e9cWga4
 membership: public

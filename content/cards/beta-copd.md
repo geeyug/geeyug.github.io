@@ -1,7 +1,7 @@
 ---
 id: beta-copd
 title: 폐질환이 있을 때 베타차단제를 써도 되는가
-series: BETA
+topic: BETA
 level: 2
 youtube_id: -Hdzmi8Ynno
 membership: ssangkiyeok

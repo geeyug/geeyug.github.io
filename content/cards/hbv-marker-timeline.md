@@ -1,7 +1,7 @@
 ---
 id: hbv-marker-timeline
 title: 급성 B형간염에서 어떤 항원과 항체가 언제 나타나는가
-series: HBV
+topic: HBV
 level: 2
 youtube_id: SU972St2KU0
 membership: public

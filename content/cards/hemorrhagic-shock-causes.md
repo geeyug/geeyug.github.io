@@ -1,7 +1,7 @@
 ---
 id: hemorrhagic-shock-causes
 title: 피가 나서 쇼크가 오려면 어떤 상황이어야 하는가?
-series: SHOCK
+topic: SHOCK
 level: 1
 youtube_id: 409Cvyygqvs
 membership: ssangkiyeok

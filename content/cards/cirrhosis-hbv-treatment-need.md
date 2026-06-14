@@ -1,7 +1,7 @@
 ---
 id: cirrhosis-hbv-treatment-need
 title: 간경변으로 이미 진행했어도 B형간염 치료가 필요한가
-series: LIVER
+topic: LIVER
 level: 1
 youtube_id: -CLdtRw84Vw
 membership: public

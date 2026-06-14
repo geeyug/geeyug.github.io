@@ -1,7 +1,7 @@
 ---
 id: hypoglycemia-vs-hyperglycemia
 title: 저혈당과 고혈당 중 어느 쪽이 더 위험한가
-series: DM
+topic: DM
 level: 1
 youtube_id: u2mfnn8Af7c
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: proteinuria-basics
 title: 소변에서 단백질이 나오면 무조건 신장 문제인가?
-series: CKD
+topic: CKD
 level: 1
 youtube_id: JGWlEL6NERk
 membership: public

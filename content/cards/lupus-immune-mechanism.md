@@ -1,7 +1,7 @@
 ---
 id: lupus-immune-mechanism
 title: 루푸스는 왜 온몸을 공격하는가
-series: LUPUS
+topic: LUPUS
 level: 2
 youtube_id: uPFmkPujxVY
 membership: nieun

@@ -1,7 +1,7 @@
 ---
 id: dm-legacy-effect
 title: 혈당관리를 지금 열심히 하면 나중에 설렁설렁해도 되는가
-series: DM
+topic: DM
 level: 1
 youtube_id: 3vcj2wpprwY
 membership: public

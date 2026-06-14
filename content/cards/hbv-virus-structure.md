@@ -1,7 +1,7 @@
 ---
 id: hbv-virus-structure
 title: B형 간염 바이러스는 어떻게 생겼고 어떻게 증식하는가
-series: HBV
+topic: HBV
 level: 2
 youtube_id: DMDQyx60_N0
 membership: nieun

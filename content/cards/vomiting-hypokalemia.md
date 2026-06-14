@@ -1,7 +1,7 @@
 ---
 id: vomiting-hypokalemia
 title: 지속적인 구토는 왜 칼륨 부족으로 이어지는가
-series: GI
+topic: GI
 level: 2
 youtube_id: 42IrnhH7m-8
 membership: public

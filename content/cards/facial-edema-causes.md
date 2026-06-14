@@ -1,7 +1,7 @@
 ---
 id: facial-edema-causes
 title: 얼굴이 부었다 — 이뇨제를 바로 써도 될까
-series: GI
+topic: GI
 level: 1
 youtube_id: 680fgJQdrVA
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: pain-triad
 title: "통증은 왜 뇌에서 감각과 감정으로 나뉘는가"
-series: PAIN
+topic: PAIN
 level: 2
 youtube_id: 056WbEBJQNs
 membership: ssangkiyeok

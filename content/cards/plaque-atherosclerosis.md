@@ -1,7 +1,7 @@
 ---
 id: plaque-atherosclerosis
 title: 혈관 안의 플라크는 어떻게 심장을 무너뜨리는가?
-series: ACS
+topic: ACS
 level: 1
 youtube_id: 0sC2T0hfS64
 membership: ssangkiyeok

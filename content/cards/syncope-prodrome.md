@@ -1,7 +1,7 @@
 ---
 id: syncope-prodrome
 title: 실신 전 나타나는 전조 증상은 어떤 의미를 갖는가
-series: SYNCOPE
+topic: SYNCOPE
 level: 2
 youtube_id: x_ZPOUOWIRE
 membership: ssangkiyeok

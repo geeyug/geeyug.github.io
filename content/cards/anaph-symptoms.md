@@ -1,7 +1,7 @@
 ---
 id: anaph-symptoms
 title: 아나필락시스는 왜 이렇게 다양한 증상이 동시에 나타나는가
-series: ANAPH
+topic: ANAPH
 level: 2
 youtube_id: buQNSUnB7iQ
 membership: nieun

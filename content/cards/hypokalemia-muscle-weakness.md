@@ -1,7 +1,7 @@
 ---
 id: hypokalemia-muscle-weakness
 title: 칼륨이 부족하면 왜 근육에 힘이 빠지는가
-series: GI
+topic: GI
 level: 1
 youtube_id: pbEUdjxH4jc
 membership: public

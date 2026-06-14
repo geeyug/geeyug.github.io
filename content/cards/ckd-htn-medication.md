@@ -1,7 +1,7 @@
 ---
 id: ckd-htn-medication
 title: 만성콩팥병 환자에게 ACE억제제·ARB를 반드시 써야 하는 이유는 무엇인가
-series: CKD
+topic: CKD
 level: 1
 youtube_id: 5QTHn1xMuhU
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: dm-bigger-picture
 title: 당뇨병은 단순히 혈당이 조금 오르는 병인가
-series: DM
+topic: DM
 level: 1
 youtube_id: 7J0rAO8UHTw
 membership: public

@@ -1,7 +1,7 @@
 ---
 id: hf-classification
 title: 심부전은 왜 하나의 병이 아닌가?
-series: HF
+topic: HF
 level: 2
 youtube_id: ukeOShpIr_w
 membership: nieun

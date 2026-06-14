@@ -1,7 +1,7 @@
 ---
 id: resp-p01-overview
 title: 호흡기 질환은 어떤 원리로 분류하는가
-series: RESP
+topic: RESP
 level: 2
 youtube_id: 3ksufGPX6Ec
 membership: ssangkiyeok

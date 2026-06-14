@@ -1,7 +1,7 @@
 ---
 id: shock-thyrotoxicosis
 title: 갑상선 호르몬이 너무 많으면 왜 쇼크까지 가는가
-series: SHOCK
+topic: SHOCK
 level: 2
 youtube_id: 1jdrB-mpb0U
 membership: ssangkiyeok

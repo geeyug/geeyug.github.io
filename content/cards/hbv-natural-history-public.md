@@ -1,7 +1,7 @@
 ---
 id: hbv-natural-history-public
 title: 만성 B형간염은 몸 안에서 어떤 순서로 진행되는가
-series: HBV
+topic: HBV
 level: 1
 youtube_id: 1cuIh2yzL4M
 membership: public

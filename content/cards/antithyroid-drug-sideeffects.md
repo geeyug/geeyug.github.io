@@ -1,7 +1,7 @@
 ---
 id: antithyroid-drug-sideeffects
 title: 항갑상선제의 부작용에는 어떤 것들이 있고 각각 어떻게 대응하는가?
-series: THYROID
+topic: THYROID
 level: 2
 youtube_id: 3GINxLf2Uds
 membership: public

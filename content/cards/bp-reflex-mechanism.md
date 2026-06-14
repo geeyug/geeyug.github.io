@@ -1,7 +1,7 @@
 ---
 id: bp-reflex-mechanism
 title: 혈압은 어떻게 좁은 범위 안에서 유지되는가
-series: HTN
+topic: HTN
 level: 1
 youtube_id: AulkAFuz4qY
 membership: public

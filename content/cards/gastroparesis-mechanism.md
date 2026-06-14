@@ -1,7 +1,7 @@
 ---
 id: gastroparesis-mechanism
 title: 먹어도 포만감이 없고 더부룩한 이유는 무엇인가 — 위마비
-series: GI
+topic: GI
 level: 1
 youtube_id: -omzGRCsL8w
 membership: public

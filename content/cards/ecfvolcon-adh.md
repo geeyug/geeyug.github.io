@@ -1,7 +1,7 @@
 ---
 id: ecfvolcon-adh
 title: ADH가 과다하면 체액량과 나트륨 농도는 어떻게 달라지는가
-series: ECFVOLCON
+topic: ECFVOLCON
 level: 2
 youtube_id: jVNj94cm0-8
 membership: ssangkiyeok

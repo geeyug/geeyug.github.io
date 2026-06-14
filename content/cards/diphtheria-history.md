@@ -1,7 +1,7 @@
 ---
 id: diphtheria-history
 title: 디프테리아는 어떤 병이며 왜 예방접종이 필요한가?
-series: VACCINE
+topic: VACCINE
 level: 1
 youtube_id: 1hn5XQxozzc
 membership: ssangkiyeok
