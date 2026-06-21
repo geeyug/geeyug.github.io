@@ -405,38 +405,41 @@ var PageList = ({
   }
   const fileSlug = fileData?.slug;
   return /* @__PURE__ */ u2("ul", { class: "section-ul", children: list.map((page) => {
-    const title = page.frontmatter?.title;
-    const tags = page.frontmatter?.tags ?? [];
-    return /* @__PURE__ */ u2("li", { class: "section-li", children: /* @__PURE__ */ u2("div", { class: "section", children: [
-      /* @__PURE__ */ u2("div", { class: "desc", children: /* @__PURE__ */ u2("h3", { children: /* @__PURE__ */ u2(
-        "a",
-        {
-          href: resolveRelative(fileSlug ?? "", page.slug),
-          class: "internal",
-          children: title
-        }
-      ) }) }),
-      /* @__PURE__ */ u2("ul", { class: "tags", children: tags.map((tag) => /* @__PURE__ */ u2("li", { children: /* @__PURE__ */ u2(
-        "a",
-        {
-          class: "internal tag-link",
-          href: resolveRelative(
-            fileSlug ?? "",
-            `tags/${tag}`
-          ),
-          children: tag
-        }
-      ) })) })
-    ] }) });
+    const title = page.frontmatter?.short_title ?? page.frontmatter?.title;
+    return /* @__PURE__ */ u2("li", { class: "section-li", children: /* @__PURE__ */ u2(
+      "a",
+      {
+        href: resolveRelative(fileSlug ?? "", page.slug),
+        class: "internal section-link",
+        children: title
+      }
+    ) });
   }) });
 };
 PageList.css = `
-.section h3 {
+.section-ul {
+  list-style: none;
+  padding: 0;
   margin: 0;
 }
-
-.section > .tags {
-  margin: 0;
+.section-li {
+  padding: 0.25rem 0;
+  border-bottom: 1px solid var(--lightgray);
+  line-height: 1.4;
+}
+.section-li:last-child {
+  border-bottom: none;
+}
+.section-link {
+  display: block;
+  color: var(--secondary);
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.section-link:hover {
+  color: var(--tertiary);
 }
 `;
 
