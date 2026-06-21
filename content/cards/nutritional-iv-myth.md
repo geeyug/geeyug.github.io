@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: Bgk5Zbq07bs
 membership: public
+playlist: public-patient
 short_title: GI 영양제주사
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-patient]
 ---
 
 > 영양제 주사는 포도당 수액과 생리식염수 계열로 나뉘며, 환자의 기저 질환에 따라 오히려 해가 될 수 있어 무조건적인 보충이 아닌 임상 판단이 필요하다.

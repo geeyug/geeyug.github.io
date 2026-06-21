@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 2
 youtube_id: aNqhAd_jpLg
 membership: ssangkiyeok
-tags: [신장-전해질, ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: ECFVOLCON-05 체액균형 큰 그림
 ---
 

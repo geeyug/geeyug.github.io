@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 3
 youtube_id: 5XAyjYrf97k
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-14 심장과 콩팥 GFR
-tags: [응급, 신장-전해질, series-SEPSIS]
+tags: [응급, 신장-전해질, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 비대상성 심부전이 동반된 패혈증에서는 정맥압 상승 → 콩팥 간질 부종 → 세뇨관 압력 증가의 경로로 GFR이 추가로 감소한다.

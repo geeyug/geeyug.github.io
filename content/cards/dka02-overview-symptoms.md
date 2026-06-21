@@ -5,8 +5,9 @@ series: series-DKA
 level: 2
 youtube_id: BscrA4bQMP8
 membership: nieun
+playlist: nieun-dka
 short_title: DKA02 개요·증상
-tags: [당뇨-대사, series-DKA]
+tags: [당뇨-대사, series-DKA, nieun-dka]
 ---
 
 > DKA는 절대적 인슐린 결핍과 길항 호르몬 증가가 맞물릴 때 발생하며, 위장관 증상·탈수 증상·산증에 대한 호흡 보상이 함께 나타나는 복합적인 임상 상태다.

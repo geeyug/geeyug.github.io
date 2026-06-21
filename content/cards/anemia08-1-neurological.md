@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: cTpGqOIkrYw
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈08-1 신경학적 증상
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > cobalamin(비타민 B12) 결핍에서 신경학적 증상이 주로 나타나고 folate 결핍에서 드문 이유는, cobalamin이 수초(myelin sheath) 생성에 관여하는 경로 중 folate와 공유하지 않는 독자적 경로를 가지고 있기 때문으로 생각된다. 단, 이 구분이 절대적이지는 않다.

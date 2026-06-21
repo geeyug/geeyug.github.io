@@ -5,7 +5,8 @@ series: series-METABOLISM
 level: 3
 youtube_id: d4VZWArr4y8
 membership: ssangkiyeok
-tags: [당뇨-대사, series-METABOLISM]
+playlist: ssangkiyeok-metabolism
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 short_title: PPP-03 비산화 단계 탄소 재조합
 ---
 

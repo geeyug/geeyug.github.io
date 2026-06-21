@@ -4,9 +4,10 @@ title: 혈압과 당뇨 중 하나만 조절하면 안 되는가
 level: 1
 youtube_id: vh2xGDn8X5U
 membership: public
+playlist: public-htn
 topic: DM
 short_title: 혈압+당뇨 동시 조절
-tags: [당뇨-대사, 심장-혈관, DM]
+tags: [당뇨-대사, 심장-혈관, DM, public-htn]
 ---
 
 > 당뇨 환자의 절반 이상이 고혈압을 동반하지만, 두 질환은 합병증의 경로가 상당 부분 겹치기 때문에 어느 하나를 포기하는 것은 성립하지 않는다.

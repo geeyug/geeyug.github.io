@@ -5,7 +5,8 @@ series: series-SEPSIS
 level: 2
 youtube_id: QfHzGFh3GXc
 membership: ssangkiyeok
-tags: [응급, 감염-항생제, series-SEPSIS]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, 감염-항생제, series-SEPSIS, ssangkiyeok-sepsis-shock]
 short_title: series-SEPSIS-02 정상 면역 반응
 ---
 

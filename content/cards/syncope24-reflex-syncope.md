@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: Yi7WOgFuq74
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-SYNCOPE-24 반사성 실신
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-cardiology]
 ---
 
 > 반사성 실신(reflex syncope)은 혈관 확장과 서맥이라는 두 경로가 동시에 작동해 혈압을 급격히 낮추는 기전으로 발생한다.

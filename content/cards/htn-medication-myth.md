@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: 2b2ynZneAVU
 membership: public
+playlist: public-htn
 short_title: HTN 혈압약 오해
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 혈압약을 계속 먹는 것은 약의 특성 때문이 아니라, 혈압을 낮춰야 하는 이유가 지속되기 때문이다.

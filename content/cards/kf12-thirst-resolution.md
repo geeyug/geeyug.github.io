@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: AgtuPwmT45s
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-12 갈증 해소 기전
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 물이 흡수되기 훨씬 전에 갈증이 가라앉는 것은, 구강·인두·식도·위장 점막의 습윤 상태가 갈증 중추를 억제하기 때문이다.

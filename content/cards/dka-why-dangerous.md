@@ -5,7 +5,8 @@ topic: DM
 level: 1
 youtube_id: VNZdzB0P0qo
 membership: public
-tags: [당뇨-대사, DM]
+playlist: public-dm
+tags: [당뇨-대사, DM, public-dm]
 short_title: DM 당뇨병성케톤산증
 ---
 

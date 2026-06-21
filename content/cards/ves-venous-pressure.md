@@ -5,7 +5,8 @@ topic: VES
 level: 2
 youtube_id: --yzV_-IeBc
 membership: ssangkiyeok
-tags: [심장-혈관, VES]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, VES, ssangkiyeok-circulation]
 short_title: VES-06 정맥압의 기준
 ---
 

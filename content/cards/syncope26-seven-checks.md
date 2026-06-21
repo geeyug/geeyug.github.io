@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: 2dbvm6tb7OU
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-SYNCOPE-26 병력 청취 7항목
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-cardiology]
 ---
 
 > 실신 환자의 병력 청취는 단순한 경청이 아니라, 원인을 감별하기 위한 7가지 항목을 체계적으로 추출하는 과정이다.

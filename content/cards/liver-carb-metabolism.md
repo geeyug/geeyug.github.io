@@ -5,7 +5,8 @@ topic: LIVER
 level: 1
 youtube_id: p-S39jcBvGg
 membership: public
-tags: [간-소화기, 당뇨-대사, LIVER]
+playlist: public-liver-enzyme
+tags: [간-소화기, 당뇨-대사, LIVER, public-liver-enzyme]
 short_title: LIVER 탄수화물대사
 ---
 

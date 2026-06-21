@@ -5,7 +5,8 @@ series: series-RTA
 level: 2
 youtube_id: j9QNQxer1MA
 membership: nieun
-tags: [신장-전해질, series-RTA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-RTA, nieun-electrolyte]
 short_title: series-RTA-02 세 유형 비교 정리
 ---
 

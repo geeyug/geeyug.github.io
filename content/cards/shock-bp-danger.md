@@ -5,7 +5,8 @@ topic: SHOCK
 level: 2
 youtube_id: a1zUf76jEKI
 membership: ssangkiyeok
-tags: [응급, SHOCK]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, SHOCK, ssangkiyeok-sepsis-shock]
 short_title: SHOCK-02 혈압 저하와 세포사
 ---
 

@@ -5,8 +5,9 @@ topic: HCC
 level: 1
 youtube_id: 11Ar_-TSaX8
 membership: public
+playlist: public-liver
 short_title: HCC TACE 합병증
-tags: [간-소화기, HCC]
+tags: [간-소화기, HCC, public-liver]
 ---
 
 > 경동맥화학색전술(TACE) 후 합병증은 암 조직뿐 아니라 주변 정상 조직도 함께 손상받기 때문에 발생한다.

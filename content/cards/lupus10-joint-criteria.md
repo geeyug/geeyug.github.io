@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: wsB4YxM8cY4
 membership: nieun
+playlist: nieun-lupus
 short_title: series-LUPUS-10 관절 기준
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 루푸스 진단 기준의 관절 항목(6점)은 단순 관절통이 아니라 활막염(synovitis)의 증거, 즉 부기·삼출·30분 이상 조조강직을 요구한다. 염증 없는 통증과 염증성 통증을 구분하기 위함이다.

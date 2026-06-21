@@ -5,8 +5,9 @@ series: series-ACIDBASE
 level: 2
 youtube_id: NuDJGvm5auo
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-ACIDBASE-01 수소이온 개론
-tags: [신장-전해질, series-ACIDBASE]
+tags: [신장-전해질, series-ACIDBASE, ssangkiyeok-kidney-phys]
 ---
 
 > 수소 이온(H⁺)은 농도가 극히 미량임에도 불구하고, 거의 모든 효소 활동에 영향을 미쳐 생명 유지의 핵심 변수로 작동한다.

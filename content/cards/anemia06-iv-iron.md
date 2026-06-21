@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: 9BL2ceZ0Dnk
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈06 정맥 철분제 치료
-tags: [증상-접근, 약물-기전, series-HEMATOLOGY]
+tags: [증상-접근, 약물-기전, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 경구 철분제가 표준 치료이며, 정맥 철분제(parenteral iron therapy)는 경구 치료 실패, 흡수 불가, 빠른 교정이 필요한 경우로 적응증이 한정된다.

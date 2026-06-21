@@ -5,7 +5,8 @@ topic: ANAPH
 level: 2
 youtube_id: oqDt4_ukqCY
 membership: nieun
-tags: [응급, 약물-기전, ANAPH]
+playlist: nieun-anaph
+tags: [응급, 약물-기전, ANAPH, nieun-anaph]
 short_title: ANAPH24 에피네프린 수용체 기전
 ---
 

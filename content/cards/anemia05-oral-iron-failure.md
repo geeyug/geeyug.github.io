@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: MGAjzwu9kLA
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈05 경구철분제 불내성
-tags: [증상-접근, 약물-기전, series-HEMATOLOGY]
+tags: [증상-접근, 약물-기전, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 철결핍성 빈혈(iron deficiency anemia)의 표준 치료는 경구 철분제지만, 위장관 부작용으로 복용을 중단하는 환자가 많다. 복용 방법 조정으로 해결이 안 되면 정맥 철분제로 전환한다.

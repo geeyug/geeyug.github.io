@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: 7565fV10aWw
 membership: public
+playlist: public-dm
 short_title: DM 스트레스 고혈당
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 극심한 신체적 스트레스 상황에서는 당뇨가 없는 사람도 혈당이 상승할 수 있으며, 이를 스트레스 고혈당증(stress hyperglycemia)이라 한다.

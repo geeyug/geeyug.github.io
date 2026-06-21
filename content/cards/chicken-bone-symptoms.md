@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: -nITz4_SmVg
 membership: public
+playlist: public-gi
 short_title: GI 닭뼈 삼킴 증상
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-gi]
 ---
 
 > 닭뼈를 삼킨 뒤 대부분은 문제가 없지만, 소화관에 걸려 천공·출혈·폐색·감염을 일으킬 수 있다. 아래 7가지 증상 중 하나라도 나타나면 병원을 방문해야 한다.

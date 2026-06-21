@@ -5,7 +5,8 @@ series: series-ACIDBASE
 level: 2
 youtube_id: XG-CxIp-0iw
 membership: ssangkiyeok
-tags: [신장-전해질, 호흡기, series-ACIDBASE]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, 호흡기, series-ACIDBASE, ssangkiyeok-kidney-phys]
 short_title: series-ACIDBASE-12 호흡조절
 ---
 

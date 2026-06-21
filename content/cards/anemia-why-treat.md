@@ -5,8 +5,9 @@ topic: HEMATOLOGY
 level: 1
 youtube_id: DddiZxHXRo8
 membership: public
+playlist: public-anemia
 short_title: ANEMIA 치료 이유
-tags: [증상-접근, HEMATOLOGY]
+tags: [증상-접근, HEMATOLOGY, public-anemia]
 ---
 
 > 빈혈은 증상을 일으키기 때문에 치료하는 것이기도 하지만, 더 중요하게는 빈혈 뒤에 숨어 있는 원인 질환을 찾아 치료해야 하기 때문이다.

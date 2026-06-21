@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: LHbBk-yrdbM
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-DVT-07 감별진단
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > DVT가 아니라고 확인됐다고 해서 진단이 끝난 것이 아니다. 다리 부종과 통증을 일으키는 다른 원인들을 함께 살펴야 한다.

@@ -5,7 +5,8 @@ topic: DM
 level: 2
 youtube_id: o4NjmObDvVU
 membership: public
-tags: [당뇨-대사, DM]
+playlist: public-dm
+tags: [당뇨-대사, DM, public-dm]
 short_title: HOMA 인슐린저항성 측정
 ---
 

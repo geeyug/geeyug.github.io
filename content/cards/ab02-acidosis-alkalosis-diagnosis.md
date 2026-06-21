@@ -5,8 +5,9 @@ series: series-AB
 level: 1
 youtube_id: bsVBfRBfI6E
 membership: nieun
+playlist: nieun-electrolyte
 short_title: AB02 산증·알칼리증 진단
-tags: [신장-전해질, series-AB]
+tags: [신장-전해질, series-AB, nieun-electrolyte]
 ---
 
 > 산염기 장애 진단의 핵심은 pH와 같은 방향으로 움직인 변수를 primary cause로 정하고, 반대 방향으로 움직인 변수를 보상 반응(compensatory response)으로 해석하는 것이다.

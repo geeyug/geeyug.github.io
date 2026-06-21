@@ -5,8 +5,9 @@ series: series-HF
 level: 2
 youtube_id: wBmHpkPXE-Q
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-09 HFpEF·급성심부전
-tags: [심장-혈관, 약물-기전, series-HF]
+tags: [심장-혈관, 약물-기전, series-HF, nieun-hf]
 ---
 
 > HFpEF는 병리 기전이 확립되지 않아 동반질환 조절과 울혈 감소 외에 뚜렷한 표준 약물이 없으며, 급성 심부전은 혈역학 상태를 네 가지로 분류하여 그에 맞는 치료를 선택한다.

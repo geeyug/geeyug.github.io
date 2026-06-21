@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 0KmqF8irW_8
 membership: public
+playlist: public-symptom
 short_title: GI 복통 성질 접근
-tags: [간-소화기, 증상-접근, GI]
+tags: [간-소화기, 증상-접근, GI, public-symptom]
 ---
 
 > 복통의 통증 성질(쓰린지, 쥐어짜는지, 얼마나 심한지, 식사와의 관계)은 원인 장기를 좁히는 단서가 되지만, 절대적 기준은 아니어서 항상 전체 맥락과 함께 해석해야 한다.

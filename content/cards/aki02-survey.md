@@ -5,7 +5,8 @@ series: series-AKI
 level: 2
 youtube_id: iFsRI63Qq1Y
 membership: nieun
-tags: [신장-전해질, series-AKI]
+playlist: nieun-aki
+tags: [신장-전해질, series-AKI, nieun-aki]
 short_title: series-AKI-02 원인 분류 훑기
 ---
 

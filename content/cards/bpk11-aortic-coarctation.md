@@ -5,7 +5,8 @@ series: series-BPK
 level: 2
 youtube_id: 9P0E5cfJyAU
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질, series-BPK]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 short_title: BPK11 대동맥협착 고혈압
 ---
 

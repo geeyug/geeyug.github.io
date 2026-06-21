@@ -5,8 +5,9 @@ series: series-CO
 level: 3
 youtube_id: 7etBVvsdvNA
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-09 평균체순환충만압 MSFP
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 평균체순환충만압(mean systemic filling pressure, MSFP)은 혈액 흐름이 완전히 멈췄을 때 순환계에 남아 있는 정적 압력이며, 혈액량과 혈관 긴장도(교감신경 활성도)에 의해 결정된다.

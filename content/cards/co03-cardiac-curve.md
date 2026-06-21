@@ -5,8 +5,9 @@ series: series-CO
 level: 2
 youtube_id: al0hTXFEgMo
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-03 심박출량 곡선
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 심박출량 곡선은 우심방 압력(일의 양)과 심박출량의 관계를 나타내며, 곡선의 위치가 심장 펌프 기능 상태를 직접 반영한다.

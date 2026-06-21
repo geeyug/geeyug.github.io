@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 3
 youtube_id: VQQXEOSFdIk
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-12 테리파라타이드
-tags: [약물-기전, 증상-접근, series-OSTEO]
+tags: [약물-기전, 증상-접근, series-OSTEO, nieun-osteo]
 ---
 
 > 테리파라타이드(teriparatide)는 부갑상선호르몬(PTH)의 1~34번 아미노산 절편으로, 지속 투여가 아닌 간헐적 고용량 투여 시 골 형성을 촉진하는 유일한 기전 차이를 이용한 골형성 촉진제이다.

@@ -5,8 +5,9 @@ series: series-HBV
 level: 3
 youtube_id: voWWXMzX79Y
 membership: nieun
+playlist: nieun-hbv
 short_title: HBV09 내성·특수 상황
-tags: [간-소화기, series-HBV]
+tags: [간-소화기, series-HBV, nieun-hbv]
 ---
 
 > 약제 내성이 생기면 유전자 장벽(genetic barrier)이 높은 테노포비어(tenofovir)로 전환하는 것이 원칙이며, 면역 억제 치료 전에는 series-HBV 활성화(reactivation) 위험을 반드시 선제적으로 평가하고 항바이러스제를 예방적으로 투여해야 한다.

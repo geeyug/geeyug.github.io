@@ -5,8 +5,9 @@ series: series-CO
 level: 3
 youtube_id: F7VqtkPXSao
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-14 동정맥루와 심박출량
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 동정맥루(arteriovenous fistula)가 생기면 말초혈관 저항이 급감하고 심박출량이 단계적으로 증가하며, 만성화되면 심장에 돌이킬 수 없는 부담이 쌓일 수 있다.

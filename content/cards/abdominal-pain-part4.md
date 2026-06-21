@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 6xNvSwMUAG8
 membership: public
+playlist: public-symptom
 short_title: GI 복통 병력청취 보완
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-symptom]
 ---
 
 > 복통의 원인은 위치와 성격만으로 다 드러나지 않는다. 동반 증상, 과거력, 복용 약물이 진단의 방향을 완전히 바꿀 수 있다.

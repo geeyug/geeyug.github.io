@@ -5,7 +5,8 @@ series: series-HYPONA
 level: 2
 youtube_id: eQLoRClTgwo
 membership: nieun
-tags: [신장-전해질, series-HYPONA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-HYPONA, nieun-electrolyte]
 short_title: HYPONA02 RAAS·ADH 리뷰
 ---
 

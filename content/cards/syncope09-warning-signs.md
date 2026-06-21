@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: 023_aOOQvw8
 membership: ssangkiyeok
+playlist: ssangkiyeok-syncope
 short_title: series-SYNCOPE-09 고위험 17가지
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-syncope]
 ---
 
 > 실신 후 고위험군을 결정하는 17가지 소견은 모두 심장성 실신(cardiac syncope)을 시사하는 것들이다.

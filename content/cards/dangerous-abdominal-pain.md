@@ -5,8 +5,9 @@ topic: ABDOMEN
 level: 1
 youtube_id: 2zzhPZT77Hw
 membership: ssangkiyeok
+playlist: 미분류
 short_title: 복통 위험 3가지 특징
-tags: [증상-접근, ABDOMEN]
+tags: [증상-접근, ABDOMEN, 미분류]
 ---
 
 > 벽측 복막(parietal peritoneum)이 자극되면 체성신경계를 통해 정확하고 지속적인 통증이 전달된다. 이 통증의 세 가지 특징은 위험한 복통의 신호다.

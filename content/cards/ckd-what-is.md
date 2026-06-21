@@ -5,8 +5,9 @@ topic: CKD
 level: 1
 youtube_id: 8zNa0HSIG-c
 membership: public
+playlist: public-kidney
 short_title: CKD 입문 — 정의와 진단
-tags: [신장-전해질, CKD]
+tags: [신장-전해질, CKD, public-kidney]
 ---
 
 > 만성콩팥병(chronic kidney disease, CKD)은 GFR 60 미만 또는 신손상의 증거가 3개월 이상 지속되는 상태로, 증상 없이 진행하기 때문에 검사 없이는 발견할 수 없다.

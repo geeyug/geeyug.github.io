@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: yZ6wwllx4J8
 membership: nieun
+playlist: nieun-af
 short_title: AF-07 박동수 조절
-tags: [심장-혈관, 약물-기전, AF]
+tags: [심장-혈관, 약물-기전, AF, nieun-af]
 ---
 
 > 심방세동의 박동수 조절 목표는 일반적으로 분당 110회 미만이며, EF(박출률) 40% 미만이거나 증상이 지속되면 80회 미만을 목표로 한다.

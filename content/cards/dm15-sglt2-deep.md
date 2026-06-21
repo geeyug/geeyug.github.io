@@ -5,7 +5,8 @@ series: series-DM
 level: 2
 youtube_id: Zpk3zhagB3Q
 membership: nieun
-tags: [당뇨-대사, 약물-기전, series-DM]
+playlist: nieun-dm
+tags: [당뇨-대사, 약물-기전, series-DM, nieun-dm]
 short_title: DM15 SGLT2 심장·신장
 ---
 

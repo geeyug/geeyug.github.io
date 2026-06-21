@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: GB2EbwVd_XA
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GI-Phys30 대장 흡수와 대변 형성
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 대장은 소장에서 넘어온 1.4리터의 물을 흡수해 대변을 완성하며, 이 과정의 핵심은 나트륨(Na⁺) 재흡수와 장내세균의 역할이다.

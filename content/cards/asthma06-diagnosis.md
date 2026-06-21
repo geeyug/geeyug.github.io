@@ -5,7 +5,8 @@ series: series-ASTHMA
 level: 2
 youtube_id: oj1brZJSqVs
 membership: nieun
-tags: [호흡기, series-ASTHMA]
+playlist: nieun-asthma
+tags: [호흡기, series-ASTHMA, nieun-asthma]
 short_title: series-ASTHMA-06 진단 검사
 ---
 

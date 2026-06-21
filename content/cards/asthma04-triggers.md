@@ -5,7 +5,8 @@ series: series-ASTHMA
 level: 2
 youtube_id: yXOhxGswjq4
 membership: nieun
-tags: [호흡기, series-ASTHMA]
+playlist: nieun-asthma
+tags: [호흡기, series-ASTHMA, nieun-asthma]
 short_title: series-ASTHMA-04 발작 유발 상황
 ---
 

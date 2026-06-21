@@ -5,8 +5,9 @@ series: series-DM
 level: 3
 youtube_id: c6-JxcLebR0
 membership: nieun
+playlist: nieun-dm
 short_title: DM20 CKD3 당뇨치료
-tags: [당뇨-대사, 신장-전해질, series-DM]
+tags: [당뇨-대사, 신장-전해질, series-DM, nieun-dm]
 ---
 
 > 만성콩팥병(CKD) stage 3에서의 당뇨병 치료는 일반 당뇨 치료의 연장이 아니라, eGFR에 따른 약제별 용량 조절과 심신(cardio-renal) 보호 목적의 약제 선택이 동시에 요구되는 별개의 임상 영역이다.

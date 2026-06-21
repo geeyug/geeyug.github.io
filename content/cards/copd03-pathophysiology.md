@@ -5,8 +5,9 @@ series: series-COPD
 level: 2
 youtube_id: xgoZ5iPdrN8
 membership: nieun
+playlist: nieun-copd
 short_title: COPD03 병태생리
-tags: [호흡기, series-COPD]
+tags: [호흡기, series-COPD, nieun-copd]
 ---
 
 > COPD의 기류 제한은 기도 저항 증가와 탄성 수축력 감소가 겹쳐서 발생하며, 이로 인해 공기가 폐에 갇히는 동적 과팽창(dynamic hyperinflation)이 생겨 호흡 자체가 힘들어진다.

@@ -5,8 +5,9 @@ series: series-ACIDBASE
 level: 2
 youtube_id: IB8t5YqBc9A
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-ACIDBASE-10 단백질 완충계
-tags: [신장-전해질, series-ACIDBASE]
+tags: [신장-전해질, series-ACIDBASE, ssangkiyeok-kidney-phys]
 ---
 
 > 단백질 완충계(protein buffer system)는 주로 세포내액에서 작동하며, 체내 전체 화학적 완충의 10~70%를 담당하는 실질적으로 가장 큰 완충 저장소다.

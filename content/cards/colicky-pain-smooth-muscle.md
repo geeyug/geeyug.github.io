@@ -5,8 +5,9 @@ topic: ABDOMEN
 level: 1
 youtube_id: 8AXDxwJcygw
 membership: public
+playlist: public-symptom
 short_title: ABDOMEN 경련성 복통
-tags: [증상-접근, 간-소화기, ABDOMEN]
+tags: [증상-접근, 간-소화기, ABDOMEN, public-symptom]
 ---
 
 > 쥐어짜는 듯한 경련성 복통(colicky pain)은 장의 평활근(smooth muscle)이 불규칙하게 수축하는 것이 원인이며, 심장이나 담낭 문제를 먼저 감별한 뒤 접근한다.

@@ -5,7 +5,8 @@ series: series-ACIDBASE
 level: 2
 youtube_id: F_VHf5vgw4Q
 membership: ssangkiyeok
-tags: [신장-전해질, series-ACIDBASE]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, series-ACIDBASE, ssangkiyeok-kidney-phys]
 short_title: series-ACIDBASE-18 인산염 완충계
 ---
 

@@ -5,8 +5,9 @@ series: series-BF
 level: 2
 youtube_id: GTzTjDv2o6w
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BF06 내피세포와 NO
-tags: [심장-혈관, 약물-기전, series-BF]
+tags: [심장-혈관, 약물-기전, series-BF, ssangkiyeok-circulation]
 ---
 
 > 내피세포(endothelial cell)가 산화질소(NO)를 만들지 못하면 혈관 수축, 고혈압, 동맥경화가 서로를 악화시키는 연쇄 반응이 시작된다.

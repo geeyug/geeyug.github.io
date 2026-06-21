@@ -5,8 +5,9 @@ topic: CKD
 level: 1
 youtube_id: 5QTHn1xMuhU
 membership: public
+playlist: public-htn
 short_title: CKD ACEi/ARB 필수 이유
-tags: [신장-전해질, 심장-혈관, CKD]
+tags: [신장-전해질, 심장-혈관, CKD, public-htn]
 ---
 
 > 만성콩팥병 환자에서 ACE억제제(ACEi)·ARB는 혈압을 낮추기 위해서만 쓰는 것이 아니라, 콩팥 손상을 악화시키는 악순환을 끊기 위해 반드시 사용해야 하는 약이다.

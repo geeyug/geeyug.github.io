@@ -5,7 +5,8 @@ series: series-AB
 level: 3
 youtube_id: RgbPQtpzFEw
 membership: nieun
-tags: [신장-전해질, series-AB]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-AB, nieun-electrolyte]
 short_title: AB09 소변 음이온 차의 의미
 ---
 

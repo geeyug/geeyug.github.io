@@ -5,8 +5,9 @@ topic: HCC
 level: 2
 youtube_id: 00TcBlor714
 membership: ssangkiyeok
+playlist: 미분류
 short_title: HCC AFP 종양표지자
-tags: [간-소화기, HCC]
+tags: [간-소화기, HCC, 미분류]
 ---
 
 > 알파태아단백(AFP, alpha-fetoprotein)은 간암의 진단·재발 추적에 유용하지만, 단독으로는 신뢰하기 어렵고 반드시 영상 소견과 함께 해석해야 한다.

@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: qBrmDDYdVNo
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-03 안정형 협심증 평가
-tags: [심장-혈관, series-IHD]
+tags: [심장-혈관, series-IHD, nieun-ihd]
 ---
 
 > 안정형 협심증 평가의 핵심은 전형적 흉통 여부와 관상동맥 질환 사전 확률을 먼저 판단한 뒤, 그에 맞는 검사를 선택하는 단계적 접근이다.

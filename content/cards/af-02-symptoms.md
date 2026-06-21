@@ -5,7 +5,8 @@ series: series-AF
 level: 2
 youtube_id: sGQJitGm0DE
 membership: nieun
-tags: [심장-혈관, series-AF]
+playlist: nieun-af
+tags: [심장-혈관, series-AF, nieun-af]
 short_title: series-AF-02 심방세동 증상
 ---
 

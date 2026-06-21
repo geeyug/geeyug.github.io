@@ -5,8 +5,9 @@ series: series-DKA
 level: 2
 youtube_id: jD5i85t47_4
 membership: nieun
+playlist: nieun-dka
 short_title: DKA01 series-DKA·HHS 핵심 개념
-tags: [당뇨-대사, series-DKA]
+tags: [당뇨-대사, series-DKA, nieun-dka]
 ---
 
 > 인슐린이 절대적으로 부족해지면 몸은 당이 없다고 판단하고 지방을 분해하기 시작하며, 이 과정에서 케톤산증(series-DKA) 또는 고삼투압 상태(HHS)라는 두 가지 위기가 발생한다.

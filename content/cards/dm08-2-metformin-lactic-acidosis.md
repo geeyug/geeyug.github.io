@@ -5,8 +5,9 @@ series: series-DM
 level: 3
 youtube_id: EdL0TGAHbrs
 membership: nieun
+playlist: nieun-dm
 short_title: DM08-2 메트포민 젖산산증
-tags: [당뇨-대사, 약물-기전, series-DM]
+tags: [당뇨-대사, 약물-기전, series-DM, nieun-dm]
 ---
 
 > 메트포민은 당신생(gluconeogenesis)의 첫 단계 효소를 억제해 피루브산(pyruvate)을 축적시키고, 동시에 전자전달계를 억제해 NADH를 쌓아 젖산(lactate) 생성을 촉진한다.

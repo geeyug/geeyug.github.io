@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: QegSe1wWZb4
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈09 거대적아구성 임상·치료
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 거대적아구성 빈혈(megaloblastic anemia)은 빈혈 외에 신경 증상과 범혈구 감소증이 동반될 수 있으며, 코발라민(cobalamin, 비타민 B12)은 근육주사로, 엽산(folate)은 경구 투약으로 보충한다.

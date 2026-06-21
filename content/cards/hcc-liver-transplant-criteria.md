@@ -5,7 +5,8 @@ topic: HCC
 level: 2
 youtube_id: vBA4Q-YAfAo
 membership: public
-tags: [간-소화기, HCC]
+playlist: public-liver
+tags: [간-소화기, HCC, public-liver]
 short_title: HCC 간이식 적응증
 ---
 

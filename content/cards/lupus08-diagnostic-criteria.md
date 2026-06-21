@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: Ofx96rqY7vc
 membership: nieun
+playlist: nieun-lupus
 short_title: series-LUPUS-08 진단 기준 구조
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 루푸스는 항핵항체(ANA) ≥1:80을 진입 기준으로 삼은 뒤, 다섯 개 도메인에 걸친 추가 기준 점수를 합산하여 10점 이상이면 진단한다.

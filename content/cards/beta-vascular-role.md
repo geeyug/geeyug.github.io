@@ -5,7 +5,8 @@ topic: BETA
 level: 2
 youtube_id: 793QP0owFlY
 membership: ssangkiyeok
-tags: [약물-기전, 심장-혈관, BETA]
+playlist: ssangkiyeok-cardiology
+tags: [약물-기전, 심장-혈관, BETA, ssangkiyeok-cardiology]
 short_title: BETA-03 혈관 베타 수용체
 ---
 

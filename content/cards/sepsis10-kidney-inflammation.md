@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 2
 youtube_id: CBq3wRm6RaQ
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-10 염증과 콩팥 손상
-tags: [응급, 신장-전해질, series-SEPSIS]
+tags: [응급, 신장-전해질, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 패혈증에서 염증 반응은 세뇨관 상피세포를 앞뒤에서 동시에 공격하며, 부종으로 인한 세뇨관 폐색까지 더해져 콩팥 기능을 다방면으로 저하시킨다.

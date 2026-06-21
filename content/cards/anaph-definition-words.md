@@ -5,7 +5,8 @@ topic: ANAPH
 level: 2
 youtube_id: 01WjWMnIikA
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH02 정의의 다섯 단어
 ---
 

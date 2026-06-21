@@ -5,7 +5,8 @@ topic: PAIN
 level: 1
 youtube_id: 0bCBliSqCCo
 membership: ssangkiyeok
-tags: [증상-접근, PAIN]
+playlist: ssangkiyeok-pain
+tags: [증상-접근, PAIN, ssangkiyeok-pain]
 short_title: PAIN-13 Substance P의 P
 ---
 

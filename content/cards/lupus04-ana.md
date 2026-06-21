@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: ZWNkppvi5eI
 membership: nieun
+playlist: nieun-lupus
 short_title: LUPUS04 항핵항체란
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 항핵항체(antinuclear antibody, ANA)는 단일 항체가 아니라 핵 안의 다양한 구성 성분을 공격하는 자가항체들의 총집합(umbrella term)이며, 루푸스 진단의 진입 조건(entry criterion)이 되는 스크리닝 검사다.

@@ -5,8 +5,9 @@ topic: DM
 level: 2
 youtube_id: CI35kE_m734
 membership: nieun
+playlist: nieun-dm
 short_title: DM02 진단 기준
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, nieun-dm]
 ---
 
 > 당뇨병 진단은 네 가지 기준 중 하나를 충족하면 되지만, 각 기준의 정밀도와 응급도가 달라 어떤 기준이 성립했느냐에 따라 반복 확인 여부가 결정된다.

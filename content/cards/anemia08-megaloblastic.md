@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: RxoFabDFnqc
 membership: nieun
+playlist: nieun-anemia
 short_title: ANEMIA-08 거대적아구성 빈혈
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 거대적아구성 빈혈(megaloblastic anemia)은 엽산(folate) 또는 코발라민(cobalamin, 비타민 B12) 결핍으로 DNA 합성이 차단되면서, 핵은 분열하지 못한 채 세포질만 커진 거대 적아구(megaloblast)가 생성되는 상태다.

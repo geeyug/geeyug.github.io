@@ -5,8 +5,9 @@ topic: ANAPH
 level: 2
 youtube_id: JzXlc3d4RWY
 membership: nieun
+playlist: nieun-anaph
 short_title: ANAPH19 아나필락시스 위험인자
-tags: [응급, ANAPH]
+tags: [응급, ANAPH, nieun-anaph]
 ---
 
 > 아나필락시스의 위험을 높이는 인자는 크게 알레르기 소인, 특정 기저질환, 반응을 증폭시키는 보조 인자(cofactor), 연령으로 나뉘며, 이 중 가장 강력한 단일 위험인자는 과거에 아나필락시스를 경험한 적이 있다는 사실이다.

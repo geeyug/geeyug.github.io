@@ -5,7 +5,8 @@ series: series-METABOLISM
 level: 3
 youtube_id: 5JNeq9oOyTo
 membership: ssangkiyeok
-tags: [당뇨-대사, series-METABOLISM]
+playlist: ssangkiyeok-metabolism
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 short_title: PPP-06 조직별 분포
 ---
 

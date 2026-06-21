@@ -5,8 +5,9 @@ series: series-HF
 level: 3
 youtube_id: zq5nCezRr70
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-03 HFpEF 병태생리·병기
-tags: [심장-혈관, series-HF]
+tags: [심장-혈관, series-HF, nieun-hf]
 ---
 
 > 박출률보존심부전(HFpEF)은 병태생리가 아직 불완전하게 규명되어 있으며, 심부전의 병기는 구조적 이상 여부와 증상 유무를 기준으로 A에서 D까지 나뉜다.

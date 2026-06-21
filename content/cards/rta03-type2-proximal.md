@@ -5,7 +5,8 @@ series: series-RTA
 level: 2
 youtube_id: p_GB7aYAiv8
 membership: nieun
-tags: [신장-전해질, series-RTA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-RTA, nieun-electrolyte]
 short_title: series-RTA-03 Type 2 근위 결함
 ---
 

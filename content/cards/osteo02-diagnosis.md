@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 2
 youtube_id: 6B4-WuOqGu4
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-02 T·Z-score 구분
-tags: [증상-접근, series-OSTEO]
+tags: [증상-접근, series-OSTEO, nieun-osteo]
 ---
 
 > 골다공증 진단은 T-score가 원칙이지만, 폐경 전 여성과 50세 미만 남성에서는 Z-score로 접근하며 진단 기준과 대응 방식이 달라진다.

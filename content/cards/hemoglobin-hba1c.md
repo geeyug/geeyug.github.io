@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: AjsPmovfvYg
 membership: public
+playlist: public-dm
 short_title: DM 혈색소와 당화혈색소
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 혈색소(헤모글로빈)는 적혈구 안에서 산소를 운반하는 단백질이고, 당화혈색소(HbA1c)는 그 단백질에 포도당이 결합한 형태로, 3개월간 평균 혈당을 반영하는 지표다.

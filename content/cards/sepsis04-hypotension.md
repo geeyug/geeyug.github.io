@@ -5,7 +5,8 @@ series: series-SEPSIS
 level: 2
 youtube_id: XcBkpK0eVyY
 membership: ssangkiyeok
-tags: [응급, 감염-항생제, series-SEPSIS]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, 감염-항생제, series-SEPSIS, ssangkiyeok-sepsis-shock]
 short_title: series-SEPSIS-04 패혈증과 혈압 저하
 ---
 

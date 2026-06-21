@@ -5,8 +5,9 @@ topic: HEMATOLOGY
 level: 1
 youtube_id: NWl4TLhCERI
 membership: public
+playlist: public-anemia
 short_title: HEMATOLOGY 염증성 빈혈
-tags: [증상-접근, HEMATOLOGY]
+tags: [증상-접근, HEMATOLOGY, public-anemia]
 ---
 
 > 중환자실에서 헤모글로빈이 서서히 떨어질 때, 출혈도 철결핍도 용혈도 아닌 원인이 있다. 염증 자체가 빈혈을 만든다.

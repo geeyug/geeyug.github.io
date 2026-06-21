@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: IF7DFUdBvLc
 membership: nieun
+playlist: nieun-af
 short_title: AF-09 리듬 조절의 근거
-tags: [심장-혈관, AF]
+tags: [심장-혈관, AF, nieun-af]
 ---
 
 > 심방세동의 리듬 조절(동율동 전환 및 유지)은 약물 단독보다 시술을 포함할 때, 특히 발병 초기에 시행할 때 뇌졸중과 심혈관 사건을 줄인다는 근거가 있다.

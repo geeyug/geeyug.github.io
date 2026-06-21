@@ -5,8 +5,9 @@ series: series-CIRRHOSIS
 level: 2
 youtube_id: s3zX69_Ngsw
 membership: nieun
+playlist: nieun-cirrhosis
 short_title: series-CIRRHOSIS-01 진행 경로와 치료 방향
-tags: [간-소화기, series-CIRRHOSIS]
+tags: [간-소화기, series-CIRRHOSIS, nieun-cirrhosis]
 ---
 
 > 간경변(liver cirrhosis)은 만성 간질환이 진행한 결과이며, 합병증이 나타나기 전의 대상성 단계에서 원인 질환을 치료하는 것이 핵심이다.

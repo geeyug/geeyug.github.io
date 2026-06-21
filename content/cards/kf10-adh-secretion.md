@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: 7NaEj8eiWok
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-10 ADH 분비 기전
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > ADH는 혈장 삼투농도가 올라갈 때 시상하부의 삼투수용체(osmoreceptor)가 감지해 신속하게 분비된다.

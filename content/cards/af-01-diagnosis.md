@@ -5,7 +5,8 @@ series: series-AF
 level: 2
 youtube_id: XfTR4A9pAp8
 membership: nieun
-tags: [심장-혈관, series-AF]
+playlist: nieun-af
+tags: [심장-혈관, series-AF, nieun-af]
 short_title: series-AF-01 심방세동 정의와 진단
 ---
 

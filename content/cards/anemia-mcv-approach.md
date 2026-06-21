@@ -5,7 +5,8 @@ topic: HEMATOLOGY
 level: 1
 youtube_id: 3P-HTCP5IYE
 membership: nieun
-tags: [증상-접근, HEMATOLOGY]
+playlist: nieun-anemia
+tags: [증상-접근, HEMATOLOGY, nieun-anemia]
 short_title: 빈혈-03 MCV 분류
 ---
 

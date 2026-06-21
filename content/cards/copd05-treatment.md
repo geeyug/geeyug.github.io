@@ -5,8 +5,9 @@ series: series-COPD
 level: 2
 youtube_id: qbU3tGAfTXo
 membership: nieun
+playlist: nieun-copd
 short_title: COPD05 치료전략
-tags: [호흡기, 약물-기전, series-COPD]
+tags: [호흡기, 약물-기전, series-COPD, nieun-copd]
 ---
 
 > series-COPD 치료는 폐기능 수치가 아니라 급성 악화 이력과 증상·삶의 질을 기준으로 그룹을 나눠 결정하며, 기본 약물은 LABA + LAMA 복합 흡입제다.

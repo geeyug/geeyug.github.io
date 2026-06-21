@@ -5,8 +5,9 @@ series: series-DM
 level: 1
 youtube_id: ouehnS5K_rY
 membership: public
+playlist: public-dm
 short_title: SGLT2저해제 기전과 부작용
-tags: [당뇨-대사, 약물-기전, series-DM]
+tags: [당뇨-대사, 약물-기전, series-DM, public-dm]
 ---
 
 > SGLT2 저해제는 콩팥 근위세뇨관에서 포도당 재흡수를 막아 하루 70g의 당을 소변으로 내보내며, 혈당 강하 외에도 체중 감소, 혈압 저하, 심장 및 콩팥 보호 효과를 낸다.

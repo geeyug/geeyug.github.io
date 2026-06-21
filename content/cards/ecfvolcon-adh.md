@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 2
 youtube_id: jVNj94cm0-8
 membership: ssangkiyeok
-tags: [신장-전해질, ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: ECFVOLCON-12 ADH와 저나트륨
 ---
 

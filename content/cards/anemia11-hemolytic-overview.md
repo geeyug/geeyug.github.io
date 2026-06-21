@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: E3-VGKUbVoI
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈11 용혈성빈혈 개요
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 용혈성 빈혈(hemolytic anemia)은 적혈구(RBC) 파괴가 생성 속도를 초과할 때 발생하며, 황달·비장비대·망상적혈구(reticulocyte) 증가라는 세 가지 단서로 의심한다.

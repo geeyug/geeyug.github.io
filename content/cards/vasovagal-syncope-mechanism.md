@@ -5,7 +5,8 @@ topic: SYNCOPE
 level: 2
 youtube_id: pLd83ZfaxiY
 membership: public
-tags: [증상-접근, SYNCOPE]
+playlist: public-patient
+tags: [증상-접근, SYNCOPE, public-patient]
 short_title: SYNCOPE 혈관미주신경성 실신 기전
 ---
 

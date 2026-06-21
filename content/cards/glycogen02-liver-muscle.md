@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: 9ll3CxEel38
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 글리코겐02 간 vs 근육
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 간의 글리코겐은 혈당 유지를 위한 공공 저장고이고, 근육의 글리코겐은 자기 자신만 쓸 수 있는 전용 연료다.

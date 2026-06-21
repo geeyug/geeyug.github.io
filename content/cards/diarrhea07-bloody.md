@@ -5,7 +5,8 @@ series: series-DIARRHEA
 level: 2
 youtube_id: 7FK6jk_lGhI
 membership: ssangkiyeok
-tags: [간-소화기, series-DIARRHEA]
+playlist: ssangkiyeok-bowel
+tags: [간-소화기, series-DIARRHEA, ssangkiyeok-bowel]
 short_title: 설사07 혈성설사 병원균
 ---
 

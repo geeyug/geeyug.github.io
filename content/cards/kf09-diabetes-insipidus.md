@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: KrVWWJTmOMg
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-09 요붕증
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 소변 농축 실패는 ADH 생산 문제(중추성)와 콩팥 반응 문제(신원성) 두 갈래로 나뉘며, 치료 방향이 다르다.

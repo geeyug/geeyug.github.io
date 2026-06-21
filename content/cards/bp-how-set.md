@@ -5,7 +5,8 @@ topic: BP
 level: 2
 youtube_id: 23kCj5vXyYU
 membership: ssangkiyeok
-tags: [심장-혈관, BP]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, BP, ssangkiyeok-circulation]
 short_title: BPK-02 혈압 결정 기전
 ---
 

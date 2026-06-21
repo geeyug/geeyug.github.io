@@ -5,7 +5,8 @@ topic: SYNCOPE
 level: 1
 youtube_id: HUBrGyJPteE
 membership: ssangkiyeok
-tags: [증상-접근, SYNCOPE]
+playlist: ssangkiyeok-syncope
+tags: [증상-접근, SYNCOPE, ssangkiyeok-syncope]
 short_title: SYNCOPE-04 실신 3가지 분류
 ---
 

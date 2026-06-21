@@ -5,7 +5,8 @@ series: series-RTA
 level: 3
 youtube_id: rxUhCKACeBg
 membership: nieun
-tags: [신장-전해질, series-RTA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-RTA, nieun-electrolyte]
 short_title: series-RTA-04 Type 2 증례 분석
 ---
 

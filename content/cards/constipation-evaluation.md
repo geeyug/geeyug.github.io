@@ -5,8 +5,9 @@ topic: GI
 level: 2
 youtube_id: GwDuB9ZYmM8
 membership: ssangkiyeok
+playlist: ssangkiyeok-bowel
 short_title: 변비07 변비 평가와 alarm feature
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, ssangkiyeok-bowel]
 ---
 
 > 변비는 대부분 검사 없이 경험적 치료로 시작하지만, alarm feature(경고 징후)가 있으면 대장내시경을 포함한 적극적인 평가가 필요하다.

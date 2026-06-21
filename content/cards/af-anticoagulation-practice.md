@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: GaOWnS6vc_o
 membership: nieun
+playlist: nieun-af
 short_title: AF-06 항응고제 실제 사용
-tags: [심장-혈관, 약물-기전, AF]
+tags: [심장-혈관, 약물-기전, AF, nieun-af]
 ---
 
 > 심방세동의 뇌졸중 예방에는 항혈소판제가 아닌 항응고제를 사용하며, 기계판막·중등도 이상 승모판 협착이 없으면 와파린보다 NOAC을 우선 선택한다.

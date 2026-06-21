@@ -5,7 +5,8 @@ series: series-METABOLISM
 level: 3
 youtube_id: -Shd77WqcJQ
 membership: ssangkiyeok
-tags: [당뇨-대사, series-METABOLISM]
+playlist: ssangkiyeok-metabolism
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 short_title: PPP-05 해당과정 연계
 ---
 

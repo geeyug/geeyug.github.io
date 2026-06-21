@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: XefRWuP6xE4
 membership: public
+playlist: public-htn
 short_title: HTN 염분과 혈압 기전
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 짠 음식은 체내 수분량을 늘려 혈압을 일시적으로 높이지만, 신장의 압력-나트륨 이뇨(pressure natriuresis) 기전이 작동해 혈압 상승폭은 생각보다 작다.

@@ -5,8 +5,9 @@ topic: GENERAL
 level: 1
 youtube_id: 5KMiwih4q60
 membership: ssangkiyeok
+playlist: 미분류
 short_title: PREV 건강기능식품 증거 수준
-tags: [증상-접근, GENERAL]
+tags: [증상-접근, GENERAL, 미분류]
 ---
 
 > 건강기능식품 대부분은 세포·동물 실험이나 소규모 임상 연구에만 근거하며, 실제 임상 효과를 입증한 대규모 무작위 대조군 연구(RCT)는 거의 없다.

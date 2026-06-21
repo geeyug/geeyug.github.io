@@ -5,8 +5,9 @@ series: series-CIRRHOSIS
 level: 3
 youtube_id: kViKN4n6yIY
 membership: nieun
+playlist: nieun-cirrhosis
 short_title: series-CIRRHOSIS-09 정맥류 치료 알고리즘
-tags: [간-소화기, series-CIRRHOSIS]
+tags: [간-소화기, series-CIRRHOSIS, nieun-cirrhosis]
 ---
 
 > 정맥류 치료는 하나의 방법이 아니라 출혈 여부·정맥류 위치·크기에 따라 선택이 달라지며, 지혈 후 예방 치료를 반드시 해야 한다.

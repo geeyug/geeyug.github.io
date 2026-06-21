@@ -5,7 +5,8 @@ topic: LIVER
 level: 1
 youtube_id: CH7FG9Z1Ksg
 membership: public
-tags: [간-소화기, LIVER]
+playlist: public-liver-enzyme
+tags: [간-소화기, LIVER, public-liver-enzyme]
 short_title: LIVER 지방대사
 ---
 

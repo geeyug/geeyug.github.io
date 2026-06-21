@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: FO4wiftGBFk
 membership: public
+playlist: public-htn
 short_title: HTN 혈압150 대응
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 혈압 150/95는 응급 상황은 아니지만 방치할 수 없는 수준이며, 반복 확인 후 약물 치료를 시작해야 하는 기준에 해당한다.

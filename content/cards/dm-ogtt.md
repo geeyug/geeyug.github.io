@@ -5,8 +5,9 @@ topic: DM
 level: 2
 youtube_id: m-5huPaGAjk
 membership: nieun
+playlist: nieun-dm
 short_title: DM03 OGTT
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, nieun-dm]
 ---
 
 > 경구 포도당 부하 검사(OGTT)는 포도당을 투여한 뒤 2시간 후 혈당의 변화를 보는 검사로, 공복 혈당만으로 놓치는 내당능 장애(impaired glucose tolerance)를 발견하는 데 고유한 역할이 있다.

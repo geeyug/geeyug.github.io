@@ -5,7 +5,8 @@ series: series-BPK
 level: 2
 youtube_id: 5_cBD3qke3g
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질, series-BPK]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 short_title: BPK12 비만 고혈압 기전
 ---
 

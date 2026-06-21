@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: KfpehbClDdE
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-DVT-06 CT 조영 검사
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > CT 정맥 조영술은 혈전을 직접 눈으로 확인할 수 있는 가장 확실한 검사이지만, 제대로 시행하려면 장비와 인력이 갖춰진 병원이어야 한다.

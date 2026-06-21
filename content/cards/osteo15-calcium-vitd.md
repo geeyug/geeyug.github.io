@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 2
 youtube_id: uQb4pegbuoU
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-15 칼슘·비타민D
-tags: [약물-기전, 증상-접근, series-OSTEO]
+tags: [약물-기전, 증상-접근, series-OSTEO, nieun-osteo]
 ---
 
 > 칼슘과 비타민 D는 골다공증 치료의 기본이지만, 제형 선택과 복용 방법이 실제 흡수율을 좌우하며, 비타민 D는 주사보다 매일 경구 복용이 권장된다.

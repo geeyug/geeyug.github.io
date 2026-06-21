@@ -5,8 +5,9 @@ topic: VACCINE
 level: 2
 youtube_id: 4WTBIxa2ylY
 membership: ssangkiyeok
+playlist: 미분류
 short_title: VACCINE 대상포진 접종시기
-tags: [감염-항생제, 약물-기전, VACCINE]
+tags: [감염-항생제, 약물-기전, VACCINE, 미분류]
 ---
 
 > 대상포진 급성기에 백신을 접종하면 이미 형성된 항체와 T세포가 백신 성분을 제거해버려 효과가 없고, 부작용 위험도 높아진다. 충분히 회복한 뒤 6개월~1년 후 접종이 권장된다.

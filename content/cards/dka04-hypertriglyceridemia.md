@@ -5,8 +5,9 @@ series: series-DKA
 level: 2
 youtube_id: _T1O-7VnOOM
 membership: nieun
+playlist: nieun-dka
 short_title: series-DKA-04 고중성지방혈증
-tags: [당뇨-대사, series-DKA]
+tags: [당뇨-대사, series-DKA, nieun-dka]
 ---
 
 > 인슐린 절대 결핍이 일어나면 지방 조직에서 유리지방산이 대거 방출되고, 간은 이를 중성지방으로 전환해 VLDL 형태로 내보낸다. 이 과정을 억제하던 인슐린이 없으므로 혈중 중성지방이 급등한다.

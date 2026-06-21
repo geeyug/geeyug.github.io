@@ -5,7 +5,8 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: UZnuuCj95Pc
 membership: ssangkiyeok
-tags: [심장-혈관, series-HEARTSOUND]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 short_title: series-HEARTSOUND-02 S1 강도 요인
 ---
 

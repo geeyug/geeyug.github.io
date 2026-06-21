@@ -5,8 +5,9 @@ topic: DM
 level: 2
 youtube_id: 5-mTvNXftQI
 membership: public
+playlist: public-dm
 short_title: DM 아카르보스 기전
-tags: [당뇨-대사, 약물-기전, DM]
+tags: [당뇨-대사, 약물-기전, DM, public-dm]
 ---
 
 > 아카르보스는 탄수화물 분해 효소를 억제해 포도당 흡수를 늦추지만, 소화되지 않은 탄수화물이 대장으로 내려가 가스와 설사를 유발하는 것이 주된 부작용이다.

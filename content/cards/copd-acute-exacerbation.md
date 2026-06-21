@@ -5,8 +5,9 @@ topic: COPD
 level: 2
 youtube_id: -a5vOGgZ_Jg
 membership: ssangkiyeok
+playlist: 미분류
 short_title: COPD 급성악화 치료
-tags: [호흡기, 약물-기전, COPD]
+tags: [호흡기, 약물-기전, COPD, 미분류]
 ---
 
 > COPD 급성 악화는 세균 감염, 바이러스 감염, 대기 오염으로 인해 만성 염증이 갑자기 심해지면서 전신 염증으로 번지는 상태이며, 이 시점이 사망 위험이 가장 높다.

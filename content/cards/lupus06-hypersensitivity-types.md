@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: X4rCaj9fSDU
 membership: nieun
+playlist: nieun-lupus
 short_title: LUPUS06 2형 vs 3형 과민 반응
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 항체 매개 면역 손상에는 두 경로가 있다. 면역복합체가 여러 조직에 광범위하게 침착하는 제3형(융단 폭격)과 항체가 특정 세포 표면의 고정 항원(fixed antigen)을 직접 공격하는 제2형(정밀 타격)이며, 루푸스는 이 두 기전을 모두 사용한다.

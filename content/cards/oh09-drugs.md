@@ -5,7 +5,8 @@ series: series-OH
 level: 2
 youtube_id: 7ZQeh6__zdE
 membership: ssangkiyeok
-tags: [심장-혈관, 약물-기전, series-OH]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, 약물-기전, series-OH, ssangkiyeok-cardiology]
 short_title: series-OH-09 기립성저혈압 3가지 약물
 ---
 

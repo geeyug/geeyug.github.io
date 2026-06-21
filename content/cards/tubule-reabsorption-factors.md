@@ -5,7 +5,8 @@ topic: TUBULE
 level: 2
 youtube_id: 0PNNN9Cu_-c
 membership: ssangkiyeok
-tags: [신장-전해질, TUBULE]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, TUBULE, ssangkiyeok-kidney-phys]
 short_title: TUBULE-17 재흡수 결정 요소
 ---
 

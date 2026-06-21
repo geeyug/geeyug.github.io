@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: vxnRDakfaNQ
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-SYNCOPE-23 실신의 역학
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-cardiology]
 ---
 
 > 실신은 일생에 약 20% 확률로 경험하는 흔한 증상이며, 남성에서 발생하면 심장성 원인을 더 적극적으로 고려해야 한다.

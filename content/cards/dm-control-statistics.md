@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: jmsLItgDgig
 membership: public
+playlist: public-dm
 short_title: DM 완벽 조절 통계
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 혈당·혈압·콜레스테롤을 동시에 목표 범위 안으로 조절하는 당뇨 환자는 전체의 8.4%에 불과하다. 핵심 걸림돌은 혈압이나 콜레스테롤이 아니라 혈당이다.

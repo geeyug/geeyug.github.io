@@ -5,8 +5,9 @@ topic: DM
 level: 2
 youtube_id: i42GtEBVhxA
 membership: nieun
+playlist: nieun-dm
 short_title: DM05 분류
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, nieun-dm]
 ---
 
 > 1형 당뇨병과 2형 당뇨병은 인슐린 분비능(C-peptide)과 자가항체로 구분하며, 이 구분이 치료 전략 — 특히 인슐린 요법의 강도 — 을 결정한다.

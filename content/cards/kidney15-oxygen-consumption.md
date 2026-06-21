@@ -5,8 +5,9 @@ series: series-KIDNEY
 level: 2
 youtube_id: X86i_Axj4UA
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-KIDNEY-15 콩팥 산소 소비
-tags: [신장-전해질, series-KIDNEY]
+tags: [신장-전해질, series-KIDNEY, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥은 체중의 0.4%에 불과하지만 심박출량의 22%를 받는다. 이 불균형적인 혈류에 포함된 산소의 대부분은 세관(tubule)에서 소듐(Na⁺)을 재흡수하는 데 소비된다.

@@ -5,8 +5,9 @@ series: series-CO
 level: 2
 youtube_id: DNNKB-YIqRI
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-02 Frank-Starling 법칙
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 심장은 정맥환류가 늘어나면 그에 맞게 박출량을 늘리도록 설계되어 있으며, 이를 가능하게 하는 두 가지 기전이 Frank-Starling 법칙과 심방 반사이다.

@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: AzBT12zVMFg
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: TCA08 citrate→isocitrate
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 시트르산 회로에서 시트르산(citrate)을 이소시트르산(isocitrate)으로 바꾸는 것은 단순한 구조 변환이 아니라, 다음 단계인 산화적 탈탄산(oxidative decarboxylation)을 가능하게 만드는 준비 단계이다.

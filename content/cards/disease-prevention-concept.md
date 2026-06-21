@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: zRXxD5Tfj40
 membership: public
+playlist: public-symptom
 short_title: GI 예방개념
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-symptom]
 ---
 
 > 예방이라는 단어는 질병에 따라 의미가 달라지며, 발생 자체를 막는 1차 예방부터 합병증을 억제하는 3차 예방까지 단계별로 목표와 대상이 다르다.

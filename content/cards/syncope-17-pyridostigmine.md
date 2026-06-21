@@ -5,7 +5,8 @@ series: series-SYNCOPE
 level: 3
 youtube_id: Ihdhksh-4M0
 membership: ssangkiyeok
-tags: [약물-기전, 증상-접근, series-SYNCOPE]
+playlist: ssangkiyeok-syncope
+tags: [약물-기전, 증상-접근, series-SYNCOPE, ssangkiyeok-syncope]
 short_title: series-SYNCOPE-17 피리도스티그민
 ---
 

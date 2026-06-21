@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: pH1i1gtVEQ8
 membership: public
+playlist: public-pancreas
 short_title: 급성담석성췌장염 — ERCP
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, public-pancreas]
 ---
 
 > 급성 담석성 췌장염에서 원인 담석을 즉시 제거하는 것은 원칙이 아니며, 오히려 췌장염을 악화시킬 수 있다.

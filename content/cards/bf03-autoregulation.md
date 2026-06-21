@@ -5,8 +5,9 @@ series: series-BF
 level: 2
 youtube_id: V5rPnv1Zns8
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BF03 혈류 자동조절
-tags: [심장-혈관, series-BF]
+tags: [심장-혈관, series-BF, ssangkiyeok-circulation]
 ---
 
 > 혈압이 75~175 mmHg 사이에서 변해도 조직 혈류는 거의 일정하게 유지되는데, 이는 혈관 저항이 혈압 변화에 맞춰 자동으로 오르내리기 때문이다. 이것이 자동조절(autoregulation)이다.

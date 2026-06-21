@@ -5,8 +5,9 @@ series: series-DM
 level: 2
 youtube_id: eLE_meC_Aik
 membership: nieun
+playlist: nieun-dm
 short_title: DM19 관해전략
-tags: [당뇨-대사, series-DM]
+tags: [당뇨-대사, series-DM, nieun-dm]
 ---
 
 > 초기 2형 당뇨병에서 집중 인슐린 치료와 체중 감량을 병행하면 일부 환자는 약물 없이도 정상 혈당을 유지하는 관해(remission) 상태에 도달할 수 있다.

@@ -5,7 +5,8 @@ series: series-ANAPH
 level: 2
 youtube_id: YoQAuJUwfHM
 membership: nieun
-tags: [응급, series-ANAPH]
+playlist: nieun-anaph
+tags: [응급, series-ANAPH, nieun-anaph]
 short_title: ANAPH27 귀가 기준
 ---
 

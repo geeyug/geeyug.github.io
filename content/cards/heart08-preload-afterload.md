@@ -5,8 +5,9 @@ series: series-HEART
 level: 2
 youtube_id: jjZSPl1m6iA
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-HEART-08 전부하·후부하
-tags: [심장-혈관, series-HEART]
+tags: [심장-혈관, series-HEART, ssangkiyeok-circulation]
 ---
 
 > 전부하(preload)는 수축 시작 직전 심실에 채워진 혈액량이 만드는 부하이고, 후부하(afterload)는 수축 중 심실이 혈액을 내보낼 때 맞서야 하는 저항이다. 두 부하의 변화는 압력-용적 곡선에서 각각 다른 방향의 변화로 나타난다.

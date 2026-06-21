@@ -5,8 +5,9 @@ series: series-KIDNEY
 level: 2
 youtube_id: TV53RED7NEM
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-KIDNEY-07 배뇨 억제 기전
-tags: [신장-전해질, series-KIDNEY]
+tags: [신장-전해질, series-KIDNEY, ssangkiyeok-kidney-phys]
 ---
 
 > 소변을 참는 것은 방광에서 시작되는 배뇨 반사와 이를 억제하려는 의지적 신호 사이의 경쟁이다.

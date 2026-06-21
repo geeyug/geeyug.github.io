@@ -5,8 +5,9 @@ series: series-HF
 level: 2
 youtube_id: OFXDzzQ7zAI
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-04 자연경과와 증상
-tags: [심장-혈관, series-HF]
+tags: [심장-혈관, series-HF, nieun-hf]
 ---
 
 > 심부전은 초기 손상 이후 보상기전에 의해 수개월에서 수년간 증상 없이 진행하다가, 급성 악화(acute decompensation) 사건을 계기로 급격히 나빠지거나 심실 부정맥으로 갑자기 사망에 이를 수 있다.

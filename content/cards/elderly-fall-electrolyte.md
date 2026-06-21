@@ -4,9 +4,10 @@ title: 고령 환자가 자꾸 넘어진다 — 전해질을 먼저 확인해야
 level: 1
 youtube_id: iNAsOQbDAvc
 membership: public
+playlist: public-patient
 topic: KIDNEY
 short_title: 노인 낙상과 저나트륨혈증
-tags: [신장-전해질, 증상-접근, KIDNEY]
+tags: [신장-전해질, 증상-접근, KIDNEY, public-patient]
 ---
 
 > 고령 환자의 반복 낙상에서 전해질 이상, 특히 저나트륨혈증은 의식 변화가 없어도 근력 저하와 균형 감각 이상을 일으켜 낙상의 직접 원인이 된다.

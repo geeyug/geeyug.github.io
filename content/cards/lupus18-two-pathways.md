@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: sbchsESU5-8
 membership: nieun
+playlist: nieun-lupus
 short_title: lupus18 진단 두 경로
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 루푸스(SLE, systemic lupus erythematosus)는 증상의 조합으로 의심하는 경로와 검사 이상으로 발견되는 경로, 두 가지로 진단에 이른다. 실제 임상에서는 두 경로가 섞여 퍼즐처럼 맞춰진다.

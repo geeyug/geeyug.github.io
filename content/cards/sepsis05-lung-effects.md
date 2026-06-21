@@ -5,7 +5,8 @@ series: series-SEPSIS
 level: 2
 youtube_id: -0mBXVXNagU
 membership: ssangkiyeok
-tags: [응급, 호흡기, series-SEPSIS]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, 호흡기, series-SEPSIS, ssangkiyeok-sepsis-shock]
 short_title: series-SEPSIS-05 패혈증과 폐 손상
 ---
 

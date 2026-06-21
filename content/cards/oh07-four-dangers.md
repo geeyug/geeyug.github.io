@@ -5,7 +5,8 @@ series: series-OH
 level: 2
 youtube_id: KjTZhWAFoDk
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근, series-OH]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, 증상-접근, series-OH, ssangkiyeok-cardiology]
 short_title: series-OH-07 기립성저혈압 위험한 이유
 ---
 

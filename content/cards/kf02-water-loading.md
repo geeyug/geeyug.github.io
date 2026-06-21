@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: 3Ela9trtcvc
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-02 수분 부하 시 콩팥 반응
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 맹물 1L를 마시면 소변 농도는 6분의 1로 희석되고 소변량은 6배로 늘지만, 용질 배출 속도는 거의 변하지 않는다.

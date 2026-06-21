@@ -5,7 +5,8 @@ series: series-BF
 level: 2
 youtube_id: oyI4AgfwxC4
 membership: ssangkiyeok
-tags: [심장-혈관, series-BF]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, series-BF, ssangkiyeok-circulation]
 short_title: BF05 내피세포 기능
 ---
 

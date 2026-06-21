@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: HA9dDizivrU
 membership: ssangkiyeok
+playlist: ssangkiyeok-syncope
 short_title: series-SYNCOPE-21 실신 평가
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-syncope]
 ---
 
 > 실신 환자의 평가는 진짜 실신인지 확인하는 것에서 시작하며, 가장 중요한 판단은 심장성 여부이다.

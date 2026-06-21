@@ -5,8 +5,9 @@ topic: LFT
 level: 1
 youtube_id: pkdVAmKEf-s
 membership: public
+playlist: public-liver-enzyme
 short_title: LFT-03 알부민
-tags: [간-소화기, LFT]
+tags: [간-소화기, LFT, public-liver-enzyme]
 ---
 
 > 알부민(albumin)은 간에서만 합성되는 단백질로, 혈중 알부민이 감소해 있다면 간의 합성 기능이 오랫동안 저하되어 있었음을 시사한다.

@@ -6,148 +6,40 @@ title: 기역과 함께하는 깊이있는 의학공부
 
 ---
 
-## 📚 시리즈 강의
-
-순서가 있는 번호 강의입니다. 처음부터 따라가면 체계가 잡힙니다.
-
-### 신장·전해질·산염기
+## 니은 멤버십
 
 | | | |
 |---|---|---|
-| [[tags/series-ACIDBASE\|ACIDBASE 산염기 (18)]] | [[tags/series-AB\|AB 산염기장애 (4)]] | [[tags/series-H2CO3\|H2CO3 탄산완충 (5)]] |
-| [[tags/series-RTA\|RTA 신세관산증 (10)]] | [[tags/series-KIDNEY\|KIDNEY 신장구조 (10)]] | [[tags/series-KIDNEY-FUNCTION\|KIDNEY-FUNCTION 신장기능 (12)]] |
-| [[tags/series-TUBULE\|TUBULE 세관 (8)]] | [[tags/series-ECFVOLCON\|ECFVOLCON 세포외액 (5)]] | [[tags/series-HYPONA\|HYPONA 저나트륨 (5)]] |
-| [[tags/series-HYPERNA\|HYPERNA 고나트륨 (2)]] | [[tags/series-AKI\|AKI 급성신손상 (9)]] | [[tags/series-CKD\|CKD 만성콩팥병 (3)]] |
-
-### 심장·혈관
-
-| | | |
-|---|---|---|
-| [[tags/series-VES\|VES 혈관생리 (12)]] | [[tags/series-BPK\|BPK 혈압기전 (13)]] | [[tags/series-BPN\|BPN 혈압신경 (5)]] |
-| [[tags/series-HF\|HF 심부전 (10)]] | [[tags/series-IHD\|IHD 허혈심질환 (9)]] | [[tags/series-ACS\|ACS 급성관동맥 (10)]] |
-| [[tags/series-AF\|AF 심방세동 (8)]] | [[tags/series-MURMUR\|MURMUR 심잡음 (5)]] | [[tags/series-HEARTSOUND\|HEARTSOUND 심음 (13)]] |
-| [[tags/series-HEART\|HEART 심장일반 (7)]] | [[tags/series-DVT\|DVT 심부정맥 (7)]] | |
-
-### 호흡기
-
-| | | |
-|---|---|---|
-| [[tags/series-ASTHMA\|ASTHMA 천식 (10)]] | [[tags/series-COPD\|COPD 폐쇄성폐질환 (6)]] | |
-
-### 당뇨·대사
-
-| | | |
-|---|---|---|
-| [[tags/series-DM\|DM 당뇨병 (24)]] | [[tags/series-DKA\|DKA 케톤산증 (7)]] | [[tags/series-METABOLISM\|METABOLISM 대사기전 (20)]] |
-| [[tags/series-CO\|CO 탄수화물산화 (12)]] | | |
-
-### 소화기·간
-
-| | | |
-|---|---|---|
-| [[tags/series-CIRRHOSIS\|CIRRHOSIS 간경변 (9)]] | [[tags/series-HBV\|HBV B형간염 (3)]] | [[tags/series-CONSTIPATION\|CONSTIPATION 변비 (4)]] |
-| [[tags/series-DIARRHEA\|DIARRHEA 설사 (1)]] | | |
-
-### 응급·중환자
-
-| | | |
-|---|---|---|
-| [[tags/series-SEPSIS\|SEPSIS 패혈증 (15)]] | [[tags/series-SHOCK\|SHOCK 쇼크 (5)]] | [[tags/series-ANAPH\|ANAPH 아나필락시스 (3)]] |
-
-### 혈액·면역·근골격
-
-| | | |
-|---|---|---|
-| [[tags/series-HEMATOLOGY\|HEMATOLOGY 혈액학 (14)]] | [[tags/series-LUPUS\|LUPUS 루푸스 (17)]] | [[tags/series-OSTEO\|OSTEO 골다공증 (15)]] |
-
-### 신경·통증·실신
-
-| | | |
-|---|---|---|
-| [[tags/series-SYNCOPE\|SYNCOPE 실신 (19)]] | [[tags/series-OH\|OH 기립성저혈압 (9)]] | [[tags/series-PAIN\|PAIN 통증 (9)]] |
-| [[tags/series-BF\|BF 바이오피드백 (9)]] | | |
+| [[tags/nieun-electrolyte\|전해질과 산염기 (38)]] | [[tags/nieun-anaph\|아나필락시스 (31)]] | [[tags/nieun-dm\|당뇨 (25)]] |
+| [[tags/nieun-lupus\|루푸스 (24)]] | [[tags/nieun-af\|심방세동 (16)]] | [[tags/nieun-anemia\|빈혈 (15)]] |
+| [[tags/nieun-osteo\|골다공증 (15)]] | [[tags/nieun-aki\|급성 신손상 (13)]] | [[tags/nieun-ckd\|만성 콩팥병 (12)]] |
+| [[tags/nieun-acs\|급성 관상동맥 증후군 (11)]] | [[tags/nieun-asthma\|천식 (11)]] | [[tags/nieun-hf\|심부전 (11)]] |
+| [[tags/nieun-hbv\|B형 간염 (10)]] | [[tags/nieun-cirrhosis\|간경변 (9)]] | [[tags/nieun-ihd\|허혈성 심질환 (9)]] |
+| [[tags/nieun-dka\|당뇨 급성합병증 (7)]] | [[tags/nieun-copd\|만성 폐쇄성 폐질환 (6)]] | |
 
 ---
 
-## 🗂️ 단발 주제 강의
-
-시리즈에 속하지 않는 개별 주제 강의입니다.
-
-### 신장·전해질·산염기
+## 쌍기역 멤버십
 
 | | | |
 |---|---|---|
-| [[tags/CKD\|CKD 만성콩팥병 (15)]] | [[tags/TUBULE\|TUBULE 세관 (14)]] | [[tags/ECFVOLCON\|ECFVOLCON 세포외액 (13)]] |
-| [[tags/HYPONA\|HYPONA 저나트륨 (8)]] | [[tags/KIDNEY\|KIDNEY 신장 (6)]] | [[tags/AKI\|AKI 급성신손상 (3)]] |
-| [[tags/ACIDBASE\|ACIDBASE 산염기 (3)]] | [[tags/AB\|AB 산염기장애 (1)]] | |
+| [[tags/ssangkiyeok-kidney-phys\|신장생리학 (71)]] | [[tags/ssangkiyeok-cardiology\|Cardiology (66)]] | [[tags/ssangkiyeok-circulation\|순환생리학 (60)]] |
+| [[tags/ssangkiyeok-sepsis-shock\|패혈증과 쇼크 (35)]] | [[tags/ssangkiyeok-metabolism\|물질대사 (26)]] | [[tags/ssangkiyeok-syncope\|실신 (21)]] |
+| [[tags/ssangkiyeok-gi-phys\|소화기생리학 (17)]] | [[tags/ssangkiyeok-resp\|호흡기계 진찰 (13)]] | [[tags/ssangkiyeok-pain\|통증 (12)]] |
+| [[tags/ssangkiyeok-bowel\|설사와 변비 (8)]] | | |
 
-### 심장·혈관
+---
 
-| | | |
-|---|---|---|
-| [[tags/HTN\|HTN 고혈압 (26)]] | [[tags/BETA\|BETA 베타차단제 (13)]] | [[tags/BP\|BP 혈압 (8)]] |
-| [[tags/MURMUR\|MURMUR 심잡음 (8)]] | [[tags/AF\|AF 심방세동 (8)]] | [[tags/ACS\|ACS 급성관동맥 (6)]] |
-| [[tags/ECG\|ECG 심전도 (5)]] | [[tags/DVT\|DVT 심부정맥 (4)]] | [[tags/HF\|HF 심부전 (4)]] |
-| [[tags/HEART\|HEART 심장 (3)]] | | |
-
-### 호흡기
+## 공개 영상
 
 | | | |
 |---|---|---|
-| [[tags/RESP\|RESP 호흡기 (14)]] | [[tags/ASTHMA\|ASTHMA 천식 (2)]] | [[tags/PNEUMONIA\|PNEUMONIA 폐렴 (2)]] |
-| [[tags/COPD\|COPD 폐쇄성폐질환 (1)]] | [[tags/LUNG\|LUNG 폐 (1)]] | |
-
-### 당뇨·대사
-
-| | | |
-|---|---|---|
-| [[tags/DM\|DM 당뇨병 (62)]] | [[tags/METABOLISM\|METABOLISM 대사 (5)]] | [[tags/GLYCOLYSIS\|GLYCOLYSIS 해당과정 (2)]] |
-
-### 소화기·간
-
-| | | |
-|---|---|---|
-| [[tags/GI\|GI 소화기 (54)]] | [[tags/LIVER\|LIVER 간 (18)]] | [[tags/GI-PHYS\|GI-PHYS 소화기생리 (17)]] |
-| [[tags/HBV\|HBV B형간염 (16)]] | [[tags/HCC\|HCC 간세포암 (10)]] | [[tags/LFT\|LFT 간기능검사 (5)]] |
-| [[tags/HPYLORI\|HPYLORI H.pylori (4)]] | [[tags/CIRRHOSIS\|CIRRHOSIS 간경변 (4)]] | [[tags/GASTRITIS\|GASTRITIS 위염 (2)]] |
-| [[tags/PANCREATITIS\|PANCREATITIS 췌장염 (1)]] | [[tags/COLON\|COLON 대장 (1)]] | |
-
-### 응급·중환자
-
-| | | |
-|---|---|---|
-| [[tags/ANAPH\|ANAPH 아나필락시스 (29)]] | [[tags/SHOCK\|SHOCK 쇼크 (13)]] | [[tags/SEPSIS\|SEPSIS 패혈증 (2)]] |
-
-### 혈액·종양·면역
-
-| | | |
-|---|---|---|
-| [[tags/HEMATOLOGY\|HEMATOLOGY 혈액학 (8)]] | [[tags/LUPUS\|LUPUS 루푸스 (7)]] | [[tags/ONCO\|ONCO 종양 (6)]] |
-
-### 내분비·대사
-
-| | | |
-|---|---|---|
-| [[tags/THYROID\|THYROID 갑상선 (7)]] | [[tags/LIPID\|LIPID 지질 (1)]] | |
-
-### 신경·통증·실신
-
-| | | |
-|---|---|---|
-| [[tags/SYNCOPE\|SYNCOPE 실신 (10)]] | [[tags/PAIN\|PAIN 통증 (3)]] | [[tags/DEMENTIA\|DEMENTIA 치매 (1)]] |
-
-### 약물·예방
-
-| | | |
-|---|---|---|
-| [[tags/PHARM\|PHARM 약물 (6)]] | [[tags/VACCINE\|VACCINE 백신 (3)]] | [[tags/ANTIBIOTIC\|ANTIBIOTIC 항생제 (1)]] |
-
-### 일반·기타
-
-| | | |
-|---|---|---|
-| [[tags/GENERAL\|GENERAL 일반 (11)]] | [[tags/ABDOMEN\|ABDOMEN 복부 (4)]] | [[tags/GERI\|GERI 노인의학 (1)]] |
-| [[tags/COVID\|COVID 코로나 (1)]] | [[tags/AGING\|AGING 노화 (1)]] | |
+| [[tags/public-dm\|당뇨 (53)]] | [[tags/public-liver\|간질환 (41)]] | [[tags/public-htn\|고혈압 (38)]] |
+| [[tags/public-symptom\|증상 (28)]] | [[tags/public-patient\|오늘만난환자분 (26)]] | [[tags/public-gi\|위장관 (24)]] |
+| [[tags/public-body\|우리몸이야기 (16)]] | [[tags/public-h2co3\|H2CO3와 칼륨 (15)]] | [[tags/public-kidney\|신장 (11)]] |
+| [[tags/public-pancreas\|췌담도 (9)]] | [[tags/public-liver-enzyme\|간수치 (8)]] | [[tags/public-thyroid\|갑상선 (8)]] |
+| [[tags/public-anemia\|빈혈 (7)]] | [[tags/public-ecg-advanced\|김선생의 실전 심전도강의 (3)]] | [[tags/public-ecg-basic\|기역의 기본 심전도강의 (2)]] |
+| [[tags/public-metabolism\|대사이야기 (2)]] | [[tags/미분류\|미분류영상 (38)]] | |
 
 ---
 

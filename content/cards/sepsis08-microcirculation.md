@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 2
 youtube_id: R0qnXW2Mmzs
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-08 미세순환장애
-tags: [응급, 신장-전해질, series-SEPSIS]
+tags: [응급, 신장-전해질, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 패혈증에서 콩팥 기능이 저하되는 핵심 기전은 미세순환 내 혈류 이질성(flow heterogeneity)의 증가에 있다.

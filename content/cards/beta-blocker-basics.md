@@ -5,7 +5,8 @@ topic: BETA
 level: 1
 youtube_id: 0VPdSadI4ME
 membership: ssangkiyeok
-tags: [약물-기전, 심장-혈관, BETA]
+playlist: ssangkiyeok-cardiology
+tags: [약물-기전, 심장-혈관, BETA, ssangkiyeok-cardiology]
 short_title: BETA-01 베타차단제 기초
 ---
 

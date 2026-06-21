@@ -5,8 +5,9 @@ series: series-MURMUR
 level: 2
 youtube_id: F0I1eSboPBA
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-MURMUR-11 PDA 심잡음
-tags: [심장-혈관, series-MURMUR]
+tags: [심장-혈관, series-MURMUR, ssangkiyeok-cardiology]
 ---
 
 > PDA(patent ductus arteriosus, 동맥관개존증)에서는 수축기와 이완기 구분 없이 끊이지 않는 continuous murmur가 들리는데, 이는 대동맥과 폐동맥 사이의 압력 차가 항상 같은 방향을 유지하기 때문이다.

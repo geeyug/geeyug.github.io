@@ -5,7 +5,8 @@ series: series-AKI
 level: 3
 youtube_id: lCSpiYfdJRE
 membership: nieun
-tags: [신장-전해질, series-AKI]
+playlist: nieun-aki
+tags: [신장-전해질, series-AKI, nieun-aki]
 short_title: series-AKI-06 ATN vs AIN
 ---
 

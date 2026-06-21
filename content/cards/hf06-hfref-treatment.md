@@ -5,8 +5,9 @@ series: series-HF
 level: 2
 youtube_id: dDEmwEHq-Sg
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-06 HFrEF 치료 개념
-tags: [심장-혈관, 약물-기전, series-HF]
+tags: [심장-혈관, 약물-기전, series-HF, nieun-hf]
 ---
 
 > HFrEF 치료는 과도하게 활성화된 보상 기전을 차단하는 것을 핵심으로 하며, 4가지 약제를 병용해 최대 용량까지 점진적으로 증량하는 것이 표준이다.

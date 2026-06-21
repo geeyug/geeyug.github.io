@@ -5,8 +5,9 @@ series: series-HEART
 level: 2
 youtube_id: XKUtpeGRFfA
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-HEART-05 판막 작동 원리
-tags: [심장-혈관, series-HEART]
+tags: [심장-혈관, series-HEART, ssangkiyeok-circulation]
 ---
 
 > 심장 판막에는 자유의지가 없다. 판막이 열리고 닫히는 것은 스스로 결정하는 것이 아니라, 양쪽의 압력 차에 의해 수동적으로 결정된다.

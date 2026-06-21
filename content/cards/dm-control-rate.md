@@ -5,7 +5,8 @@ topic: DM
 level: 1
 youtube_id: gnyH_ebIIFQ
 membership: public
-tags: [당뇨-대사, DM]
+playlist: public-htn
+tags: [당뇨-대사, DM, public-htn]
 short_title: DM 당뇨 조절률의 현실
 ---
 

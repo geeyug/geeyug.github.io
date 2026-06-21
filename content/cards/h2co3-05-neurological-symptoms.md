@@ -5,8 +5,9 @@ series: series-H2CO3
 level: 2
 youtube_id: vLnpCx1vlVM
 membership: public
+playlist: public-h2co3
 short_title: series-H2CO3-05 신경학적 증상 기전
-tags: [호흡기, 신장-전해질, series-H2CO3]
+tags: [호흡기, 신장-전해질, series-H2CO3, public-h2co3]
 ---
 
 > 호흡성 산증에서 신경학적 증상이 두드러지는 것은 혈액 산성화 때문이 아니라, 이산화탄소가 혈뇌장벽을 자유롭게 통과해 뇌척수액을 산성으로 만들기 때문이다.

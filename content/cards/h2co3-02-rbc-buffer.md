@@ -5,8 +5,9 @@ series: series-H2CO3
 level: 2
 youtube_id: -UYrPG7_j8E
 membership: public
+playlist: public-h2co3
 short_title: series-H2CO3-02 적혈구 완충 역할
-tags: [호흡기, 신장-전해질, series-H2CO3]
+tags: [호흡기, 신장-전해질, series-H2CO3, public-h2co3]
 ---
 
 > 운동 시 대량 발생하는 이산화탄소가 즉시 산증을 일으키지 않는 것은 헤모글로빈이 수소 이온을 가역적으로 붙잡아 두기 때문이다.

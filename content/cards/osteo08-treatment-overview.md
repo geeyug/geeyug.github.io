@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 2
 youtube_id: 8iSdQ0gYL7o
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-08 치료 약물 전략
-tags: [약물-기전, series-OSTEO]
+tags: [약물-기전, series-OSTEO, nieun-osteo]
 ---
 
 > 골다공증 약물은 골 흡수 억제제와 골 형성 촉진제로 나뉜다. 치료 대상을 고위험군과 초고위험군으로 구분한 뒤 약을 매칭하는 것이 핵심 전략이다.

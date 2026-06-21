@@ -5,8 +5,9 @@ series: series-ACS
 level: 3
 youtube_id: SMqh9kF-cnY
 membership: nieun
+playlist: nieun-acs
 short_title: ACS02-03 위험도 분류
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > ST 상승이 없는 ACS에서 치료 긴박도는 Very High Risk와 High Risk 소견의 유무로 결정되며, 이 둘을 구분하는 기준이 조기 관상동맥 조영술 시행 여부를 좌우한다.

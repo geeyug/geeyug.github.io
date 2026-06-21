@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: AulkAFuz4qY
 membership: public
+playlist: public-htn
 short_title: 혈압 압력수용체 반사
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 혈압은 대동맥과 경동맥에 위치한 압력수용체(baroreceptor)가 뇌로 신호를 보내 교감신경과 부교감신경을 조절함으로써 좁은 범위 안에서 유지된다.

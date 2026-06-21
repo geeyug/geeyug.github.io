@@ -5,8 +5,9 @@ series: series-AKI
 level: 3
 youtube_id: 0umbu85oF14
 membership: nieun
+playlist: nieun-aki
 short_title: AKI11 심장신장·간신증후군
-tags: [신장-전해질, 심장-혈관, series-AKI]
+tags: [신장-전해질, 심장-혈관, series-AKI, nieun-aki]
 ---
 
 > 심장과 간의 기능 저하는 각각 독립적인 경로를 통해 콩팥 혈류를 감소시키며, 이를 심장신장증후군(cardiorenal syndrome)과 간신증후군(hepatorenal syndrome)이라 부른다.

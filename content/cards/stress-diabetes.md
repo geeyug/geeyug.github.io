@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: GI3-PZA0730
 membership: public
+playlist: public-dm
 short_title: DM 스트레스와 당뇨
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 스트레스는 혈당을 올리는 명확한 기전이 있으며, 지속적인 고강도 스트레스가 인슐린 저항성을 유발한다는 것은 어느 정도 알려져 있다. 다만 정상인에서 스트레스만으로 당뇨가 발생한다는 것은 아직 증명되지 않았다.

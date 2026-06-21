@@ -5,8 +5,9 @@ series: series-ACS
 level: 2
 youtube_id: yq77_QnUC2o
 membership: nieun
+playlist: nieun-acs
 short_title: ACS04 흉통 평가
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > 흉통으로 내원한 환자에서는 빈도가 낮더라도 심장·대동맥·폐 질환의 가능성을 항상 염두에 두고, 불안정형 협심증 기준을 충족하는지 확인한 뒤 series-ACS 알고리즘으로 진입 여부를 결정한다.

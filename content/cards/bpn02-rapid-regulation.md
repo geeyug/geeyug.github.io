@@ -5,8 +5,9 @@ series: series-BPN
 level: 2
 youtube_id: 5_xgBTHt9Q0
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPN02 혈압의 신속한 조절
-tags: [심장-혈관, series-BPN]
+tags: [심장-혈관, series-BPN, ssangkiyeok-circulation]
 ---
 
 > 혈압 조절은 신경이 담당한다. 신경은 5~10초 안에 혈압을 두 배로 올릴 수 있어, 호르몬으로는 따라갈 수 없는 속도로 순환계를 즉각 재편한다.

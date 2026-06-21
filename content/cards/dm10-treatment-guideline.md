@@ -5,8 +5,9 @@ series: series-DM
 level: 2
 youtube_id: CWCOHrwKWVc
 membership: nieun
+playlist: nieun-dm
 short_title: DM10 당뇨 치료 진료지침
-tags: [당뇨-대사, series-DM]
+tags: [당뇨-대사, series-DM, nieun-dm]
 ---
 
 > 한국 당뇨병 치료 진료지침은 동반질환 유무를 먼저 확인한 뒤, 그 결과에 따라 약물 선택의 경로를 둘로 나눈다.

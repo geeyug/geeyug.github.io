@@ -5,7 +5,8 @@ series: series-DM
 level: 2
 youtube_id: YJu0cSiOxSw
 membership: public
-tags: [당뇨-대사, 약물-기전, series-DM]
+playlist: public-dm
+tags: [당뇨-대사, 약물-기전, series-DM, public-dm]
 short_title: series-DM DPP-4 저해제 기전
 ---
 

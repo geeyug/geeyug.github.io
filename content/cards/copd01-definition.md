@@ -5,8 +5,9 @@ series: series-COPD
 level: 2
 youtube_id: jR20AjuP1bU
 membership: nieun
+playlist: nieun-copd
 short_title: COPD01 정의와 진단
-tags: [호흡기, series-COPD]
+tags: [호흡기, series-COPD, nieun-copd]
 ---
 
 > 만성 폐쇄성 폐질환(series-COPD)은 기도와 폐 실질의 만성 염증으로 발생하는 지속적이고 진행하는 기류 제한을 특징으로 하며, 기관지 확장제 투여 후에도 FEV₁/FVC가 0.7 미만일 때 진단한다.

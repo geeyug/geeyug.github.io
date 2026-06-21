@@ -5,7 +5,8 @@ topic: SYNCOPE
 level: 2
 youtube_id: x_ZPOUOWIRE
 membership: ssangkiyeok
-tags: [증상-접근, SYNCOPE]
+playlist: ssangkiyeok-syncope
+tags: [증상-접근, SYNCOPE, ssangkiyeok-syncope]
 short_title: SYNCOPE-03 전조 임상 의미
 ---
 

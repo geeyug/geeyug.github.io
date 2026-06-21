@@ -5,7 +5,8 @@ series: series-OH
 level: 2
 youtube_id: TTlV1FL57aE
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근, series-OH]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, 증상-접근, series-OH, ssangkiyeok-cardiology]
 short_title: series-OH-08 기립성저혈압 비약물치료
 ---
 

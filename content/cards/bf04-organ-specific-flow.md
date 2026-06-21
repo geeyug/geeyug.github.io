@@ -5,7 +5,8 @@ series: series-BF
 level: 2
 youtube_id: hbPAAypZrVo
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질, series-BF]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, 신장-전해질, series-BF, ssangkiyeok-circulation]
 short_title: BF04 장기별 혈류 조절
 ---
 

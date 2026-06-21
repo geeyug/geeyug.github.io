@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 5NCdYR2U4N0
 membership: public
+playlist: public-symptom
 short_title: GI 임신 중 급성 복통
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-symptom]
 ---
 
 > 임신 중 급성 복통은 임신 여부와 무관하게 발생하는 기질적 질환이 원인인 경우가 많으며, 진단 방법과 수술 위험도가 일반 상황과 다르므로 신속한 평가가 필요하다.

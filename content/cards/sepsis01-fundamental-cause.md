@@ -5,7 +5,8 @@ series: series-SEPSIS
 level: 2
 youtube_id: -RVBW3ckSCI
 membership: ssangkiyeok
-tags: [응급, 감염-항생제, series-SEPSIS]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, 감염-항생제, series-SEPSIS, ssangkiyeok-sepsis-shock]
 short_title: series-SEPSIS-01 패혈증의 근본 원인
 ---
 

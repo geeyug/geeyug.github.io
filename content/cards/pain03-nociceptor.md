@@ -5,8 +5,9 @@ series: series-PAIN
 level: 2
 youtube_id: sC12i-Hv7bU
 membership: ssangkiyeok
+playlist: ssangkiyeok-pain
 short_title: series-PAIN-03 1차 구심성 통증 수용기
-tags: [증상-접근, series-PAIN]
+tags: [증상-접근, series-PAIN, ssangkiyeok-pain]
 ---
 
 > 통증 신호는 말초신경 안의 감각신경 섬유 말단, 즉 Aδ섬유와 C-fiber(C섬유)의 끝에서 처음 감지된다. 이것이 1차 구심성 통증 수용기(primary afferent nociceptor)다.

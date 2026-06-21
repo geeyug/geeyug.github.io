@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: nDFbU7YmKJQ
 membership: public
+playlist: public-htn
 short_title: CCB-부작용
-tags: [심장-혈관, 약물-기전, HTN]
+tags: [심장-혈관, 약물-기전, HTN, public-htn]
 ---
 
 > 칼슘채널차단제(CCB, calcium channel blocker)는 작용 부위가 달라 두 계열의 부작용 양상이 서로 다르다.

@@ -5,7 +5,8 @@ topic: ANAPH
 level: 2
 youtube_id: Wki1_hz8vcM
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH10 에피네프린 투여 망설임
 ---
 

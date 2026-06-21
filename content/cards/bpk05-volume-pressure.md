@@ -5,8 +5,9 @@ series: series-BPK
 level: 2
 youtube_id: bIByqOMG0xQ
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPK05 체액량과 혈압 상승
-tags: [심장-혈관, 신장-전해질, series-BPK]
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 ---
 
 > 체액량 증가는 정맥 환류량 증가 → 심박출량 증가의 경로로 혈압을 올리며, 심박출량 증가에 뒤따르는 자동 조절 기전으로 혈관저항까지 덩달아 오르기 때문에 실제 혈압 상승폭은 예상보다 크다.

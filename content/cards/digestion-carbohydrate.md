@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: DcsKUtR50gM
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: 소화기생리학26 탄수화물 소화
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 탄수화물은 타액과 췌장의 아밀레이스(amylase)에 의해 이당류까지 분해되고, 소장 장세포 표면의 효소에 의해 단당류로 최종 분해된 직후 바로 흡수된다.

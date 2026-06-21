@@ -5,7 +5,8 @@ series: series-VES
 level: 2
 youtube_id: BAa5XpPkCW8
 membership: ssangkiyeok
-tags: [심장-혈관, series-VES]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 short_title: VES19 림프 순환 촉진 기전
 ---
 

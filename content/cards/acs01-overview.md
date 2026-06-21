@@ -5,8 +5,9 @@ series: series-ACS
 level: 2
 youtube_id: Bk1oDG-k1Mo
 membership: nieun
+playlist: nieun-acs
 short_title: ACS01 전체 흐름
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > 급성 관상동맥 증후군(series-ACS)은 심전도와 심근 효소를 통해 working diagnosis를 먼저 정한 다음, 그 진단에 따라 평가·치료의 방향이 결정되는 구조다.

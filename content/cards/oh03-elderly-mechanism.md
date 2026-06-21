@@ -5,7 +5,8 @@ series: series-OH
 level: 2
 youtube_id: K8UUQK-4JOo
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근, series-OH]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, 증상-접근, series-OH, ssangkiyeok-cardiology]
 short_title: series-OH-03 노인 기립성저혈압 기전
 ---
 

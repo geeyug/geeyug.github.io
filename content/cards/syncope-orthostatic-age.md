@@ -5,7 +5,8 @@ topic: SYNCOPE
 level: 2
 youtube_id: kz92fcwpwoM
 membership: ssangkiyeok
-tags: [증상-접근, SYNCOPE]
+playlist: ssangkiyeok-syncope
+tags: [증상-접근, SYNCOPE, ssangkiyeok-syncope]
 short_title: SYNCOPE-07 기립성저혈압과 노화
 ---
 

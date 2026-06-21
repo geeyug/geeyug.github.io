@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: 6ZNi6U0_SDA
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GI-PHYS09 삼킴
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 삼킴은 의식적 단계(구강기)로 시작하지만, 인두에 도달하는 순간부터 연수의 연하 중추가 전체 과정을 자동으로 조율하는 정밀한 반사다.

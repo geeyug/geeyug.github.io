@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 6Xhz63ilgpI
 membership: public
+playlist: public-patient
 short_title: 부작용 vs 알레르기 구분
-tags: [약물-기전, 증상-접근, GI]
+tags: [약물-기전, 증상-접근, GI, public-patient]
 ---
 
 > 약을 먹고 나타난 이상 반응은 모두 알레르기가 아니다. 기전이 다르면 대처도 달라진다.

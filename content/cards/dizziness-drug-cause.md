@@ -5,8 +5,9 @@ topic: GERI
 level: 1
 youtube_id: CBO1e9cWga4
 membership: public
+playlist: public-symptom
 short_title: GERI 어지럼증과 약물
-tags: [증상-접근, 약물-기전, GERI]
+tags: [증상-접근, 약물-기전, GERI, public-symptom]
 ---
 
 > 노인의 어지럼증과 부종은 나이 탓으로 넘기기 전에 복용 중인 약물을 먼저 확인해야 한다. 두 가지 약이 두 가지 증상을 모두 설명하는 경우가 적지 않다.

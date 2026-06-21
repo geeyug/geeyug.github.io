@@ -5,8 +5,9 @@ series: series-ACS
 level: 3
 youtube_id: 4ezIeZ0FwII
 membership: nieun
+playlist: nieun-acs
 short_title: ACS09 항혈전치료
-tags: [심장-혈관, 약물-기전, series-ACS]
+tags: [심장-혈관, 약물-기전, series-ACS, nieun-acs]
 ---
 
 > ACS에서 항혈전 치료는 항혈소판제와 항응고제를 함께 사용하는 것이 핵심이며, 어떤 약제를 언제 어떻게 조합할지는 시점·위험도·환자 상태에 따라 결정된다.

@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 5L0gFJKZVG0
 membership: public
+playlist: public-body
 short_title: GI 수액과 복통
-tags: [간-소화기, 약물-기전, GI]
+tags: [간-소화기, 약물-기전, GI, public-body]
 ---
 
 > 탈수 상태에서 위장관 혈류가 줄면 소화 기능이 저하되고 평활근이 연축하면서 복통이 나타날 수 있다. 수액으로 혈류를 보충하면 이 과정이 완화된다.

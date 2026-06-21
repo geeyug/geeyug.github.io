@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: K1kRhmCYhug
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-09 역설적 분열
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > S2의 역설적 분열(reverse splitting)은 A2가 뒤로 밀려 정상 분열 순서가 뒤바뀐 현상으로, LBBB 또는 좌심실 유출로 폐쇄가 원인이다.

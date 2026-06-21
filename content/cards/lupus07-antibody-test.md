@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 3
 youtube_id: _dSjz1Fs62Q
 membership: nieun
+playlist: nieun-lupus
 short_title: LUPUS07 항체 검사 역할 분담
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 1차 의료기관에서 루푸스가 의심될 때 항핵항체(ANA)까지는 시행하고, 특이 항체 검사(anti-dsDNA 등)는 비용·해석 문제로 류마티스내과로 미루는 것이 일반적이지만, 임상적 의심이 강하고 전문의 예약이 오래 걸리는 상황에서는 미리 검사를 시행해 대기 시간을 줄이는 것도 합리적이다.

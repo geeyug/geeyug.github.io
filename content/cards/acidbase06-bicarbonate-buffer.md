@@ -5,8 +5,9 @@ series: series-ACIDBASE
 level: 2
 youtube_id: 5QP8GRIy7oA
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-ACIDBASE-06 중탄산염 완충계
-tags: [신장-전해질, series-ACIDBASE]
+tags: [신장-전해질, series-ACIDBASE, ssangkiyeok-kidney-phys]
 ---
 
 > 중탄산염 완충계(bicarbonate buffer system)는 절대적인 완충 용량이 가장 크지 않지만, 폐와 신장이라는 두 조절 장치와 연결되어 지속적으로 재생될 수 있기 때문에 체내에서 가장 중요한 완충계로 작동한다.

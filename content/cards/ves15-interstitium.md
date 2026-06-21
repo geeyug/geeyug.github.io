@@ -5,7 +5,8 @@ series: series-VES
 level: 2
 youtube_id: Ba5jjxTvE7Q
 membership: ssangkiyeok
-tags: [심장-혈관, series-VES]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 short_title: VES15 간질 구조와 부종
 ---
 

@@ -5,7 +5,8 @@ topic: ANAPH
 level: 2
 youtube_id: iOBZJJoWr50
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH25 에피네프린 역설
 ---
 

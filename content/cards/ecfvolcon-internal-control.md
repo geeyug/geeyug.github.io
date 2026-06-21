@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 2
 youtube_id: VxzBm8IQiVc
 membership: ssangkiyeok
-tags: [신장-전해질, ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: ECFVOLCON-03 소듐배설 내부조절
 ---
 

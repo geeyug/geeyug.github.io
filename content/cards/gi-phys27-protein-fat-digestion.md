@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: 8wZGM8vZT9Y
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GI-PHYS27 단백질·지방 소화
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 단백질은 위의 펩신이 결합조직을 먼저 절단한 뒤 소장의 췌장 효소가 아미노산 단위로 분해하고, 지방은 담즙산이 유화시킨 후에야 췌장 라이페이스가 작용할 수 있다.

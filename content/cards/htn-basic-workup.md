@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: gzmsS1GhZDE
 membership: public
+playlist: public-htn
 short_title: HTN 기본 검사
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 고혈압 진단 후에는 혈압 측정 외에 심전도, 소변 검사, 혈액 검사(칼륨, 크레아티닌, 공복 혈당, 지질), 흉부 X선을 시행해 합병증·동반 질환·2차성 고혈압 여부를 확인한다.

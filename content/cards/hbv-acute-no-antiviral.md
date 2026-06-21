@@ -5,8 +5,9 @@ topic: HBV
 level: 1
 youtube_id: QAHytE6Ugz8
 membership: public
+playlist: public-liver
 short_title: HBV 급성기 항바이러스 미사용
-tags: [간-소화기, HBV]
+tags: [간-소화기, HBV, public-liver]
 ---
 
 > 급성 B형간염에서 항바이러스제를 투여해도 자연 경과가 달라지지 않으며, 치료 타이밍을 놓칠 위험과 내성 발생 위험을 감수할 근거가 없다.

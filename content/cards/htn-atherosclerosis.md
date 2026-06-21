@@ -5,7 +5,8 @@ topic: HTN
 level: 1
 youtube_id: JL8L8Bzitd8
 membership: public
-tags: [심장-혈관, HTN]
+playlist: public-htn
+tags: [심장-혈관, HTN, public-htn]
 short_title: HTN 동맥경화 기전
 ---
 

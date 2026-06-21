@@ -5,7 +5,8 @@ topic: HBV
 level: 1
 youtube_id: 1AJGh_iUzzc
 membership: nieun
-tags: [간-소화기, HBV]
+playlist: nieun-hbv
+tags: [간-소화기, HBV, nieun-hbv]
 short_title: HBV-04 급성 바이러스 간염
 ---
 

@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: r91672MhKVI
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-12 제4심음 S4
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > S4는 심방수축 시 좌심실이 충분히 이완되지 못해 혈액이 억지로 밀려 들어올 때 나는 소리로, 청진되면 반드시 원인을 찾아야 한다.

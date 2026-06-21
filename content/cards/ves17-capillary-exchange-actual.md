@@ -5,7 +5,8 @@ series: series-VES
 level: 2
 youtube_id: 3nKMVPmxvsc
 membership: ssangkiyeok
-tags: [심장-혈관, series-VES]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 short_title: VES17 동맥-정맥 단 교환 균형
 ---
 

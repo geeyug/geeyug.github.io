@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: 0EeJ68-xE4I
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 당신생17 allosteric 조절
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 아세틸 CoA(acetyl-CoA)는 대사 산물이자 조절자로, 피루브산 카르복실화효소(pyruvate carboxylase)를 활성화하고 피루브산 탈수소효소(pyruvate dehydrogenase)를 억제함으로써 대사를 당신생 방향으로 전환시킨다.

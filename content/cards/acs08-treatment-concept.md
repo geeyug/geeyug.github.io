@@ -5,8 +5,9 @@ series: series-ACS
 level: 2
 youtube_id: e-FLt-gI2XU
 membership: nieun
+playlist: nieun-acs
 short_title: ACS08 치료 개념
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > series-ACS 치료의 핵심은 working diagnosis와 위험도 분류에 따라 관상동맥 조영술의 시행 시점을 결정하는 것이며, 모든 단계에서 시간 지연을 최소화하는 것이 목표다.

@@ -5,7 +5,8 @@ topic: LIVER
 level: 2
 youtube_id: qnN3IaFSe04
 membership: public
-tags: [간-소화기, LIVER]
+playlist: public-liver
+tags: [간-소화기, LIVER, public-liver]
 short_title: LIVER TIPS 시술
 ---
 

@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: IudI_1KFSyw
 membership: nieun
+playlist: nieun-af
 short_title: AF10 항부정맥제 Ic·III 기전
-tags: [심장-혈관, 약물-기전, AF]
+tags: [심장-혈관, 약물-기전, AF, nieun-af]
 ---
 
 > Class Ic는 심근세포의 활동전위 상승 속도를 늦춰 전도를 억제하고, Class III는 활동전위 지속 시간을 연장해 불응기를 늘리는 방식으로 심방세동의 생성과 유지를 방해한다. 두 기전 모두 부정맥을 억제하면서 동시에 새로운 부정맥을 유발할 수 있다는 역설을 안고 있다.

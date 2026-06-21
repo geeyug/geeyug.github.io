@@ -5,8 +5,9 @@ series: series-HBV
 level: 2
 youtube_id: HCP05qSUckM
 membership: nieun
+playlist: nieun-hbv
 short_title: HBV01 B형간염 개요
-tags: [간-소화기, series-HBV]
+tags: [간-소화기, series-HBV, nieun-hbv]
 ---
 
 > B형간염 바이러스(hepatitis B virus, series-HBV)는 DNA 바이러스로, 간세포 핵 안에 cccDNA(covalently closed circular DNA) 형태로 잠복하거나 숙주 유전체에 통합되기 때문에 현재 기술로는 완전한 박멸이 불가능하다.

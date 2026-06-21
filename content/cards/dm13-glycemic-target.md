@@ -5,8 +5,9 @@ series: series-DM
 level: 2
 youtube_id: ybKQvPtslQM
 membership: nieun
+playlist: nieun-dm
 short_title: DM13 혈당조절 목표
-tags: [당뇨-대사, series-DM]
+tags: [당뇨-대사, series-DM, nieun-dm]
 ---
 
 > 당뇨병 혈당 조절 목표는 HbA1c 7.0%라는 단일 기준이 아니라, 환자의 기대 수명·동반질환·저혈당 위험도·치료 의지에 따라 6.5%에서 8.5% 사이에서 개별화된다.

@@ -5,7 +5,8 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: WAxqwYyZC8k
 membership: ssangkiyeok
-tags: [심장-혈관, series-HEARTSOUND]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 short_title: series-HEARTSOUND-01 S1 개요·분열
 ---
 

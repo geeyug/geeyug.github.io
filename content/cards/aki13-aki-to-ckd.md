@@ -5,8 +5,9 @@ series: series-AKI
 level: 2
 youtube_id: CnKm0h61tV8
 membership: nieun
+playlist: nieun-aki
 short_title: AKI13 series-AKI→CKD 이행
-tags: [신장-전해질, series-AKI]
+tags: [신장-전해질, series-AKI, nieun-aki]
 ---
 
 > 급성 신손상 후 세뇨관 상피세포의 회복이 실패하면 섬유화가 진행되어 만성 콩팥병(CKD)으로 이행한다.

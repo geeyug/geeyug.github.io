@@ -5,8 +5,9 @@ series: series-BF
 level: 2
 youtube_id: 9STtGPkjXsU
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BF01 혈류의 중요성
-tags: [심장-혈관, series-BF]
+tags: [심장-혈관, series-BF, ssangkiyeok-circulation]
 ---
 
 > 혈류는 각 조직이 산소와 영양분을 받고, 노폐물을 내보내고, 이온 균형을 유지하고, 호르몬 신호를 전달받는 유일한 수단이다.

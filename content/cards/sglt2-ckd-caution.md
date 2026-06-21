@@ -5,7 +5,8 @@ series: series-DM
 level: 1
 youtube_id: uYUv0b4iA_Q
 membership: public
-tags: [당뇨-대사, 신장-전해질, 약물-기전, series-DM]
+playlist: public-dm
+tags: [당뇨-대사, 신장-전해질, 약물-기전, series-DM, public-dm]
 short_title: SGLT2 CKD 사용 제한
 ---
 

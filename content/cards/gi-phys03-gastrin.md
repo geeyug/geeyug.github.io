@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: AUr5WPOjPOU
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GI-PHYS03 가스트린·가스트린종
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 가스트린은 위 전정부의 G세포에서 분비되어 위산 분비를 자극하는 위장관 호르몬이며, 이를 과잉 분비하는 종양(가스트린종)은 다발성 궤양과 설사를 유발한다.

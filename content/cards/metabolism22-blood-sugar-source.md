@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 2
 youtube_id: BHTnPBTjHNM
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: series-METABOLISM-22 혈당의 세 가지 원천
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 혈중 포도당(glucose)의 원천은 정확히 세 가지다 — 식이 섭취, 당신생(gluconeogenesis), 글리코겐 분해(glycogenolysis). 이 세 경로 이외의 원천은 없다.

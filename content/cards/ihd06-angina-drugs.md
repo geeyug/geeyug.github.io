@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: R99CDnNI_rw
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-06 협심증 증상 완화 약
-tags: [심장-혈관, 약물-기전, series-IHD]
+tags: [심장-혈관, 약물-기전, series-IHD, nieun-ihd]
 ---
 
 > 협심증의 증상 완화 약물은 심장의 산소 수요를 낮추거나 공급을 늘리는 방향으로 작동하며, 나이트레이트·베타차단제·칼슘통로차단제가 1차 선택지이다.

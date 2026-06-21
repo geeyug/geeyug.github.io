@@ -5,8 +5,9 @@ topic: RESP
 level: 2
 youtube_id: 3ksufGPX6Ec
 membership: ssangkiyeok
+playlist: ssangkiyeok-resp
 short_title: P01 호흡기 질환 큰 그림
-tags: [호흡기, RESP]
+tags: [호흡기, RESP, ssangkiyeok-resp]
 ---
 
 > 호흡기 질환은 폐쇄성(obstructive), 제한성(restrictive), 혈관성(vascular) 세 가지 병태생리 원리로 나뉘며, 감염과 악성 종양은 이 분류 밖에서 별도로 다룬다.

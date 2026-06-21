@@ -5,8 +5,9 @@ series: series-CIRRHOSIS
 level: 2
 youtube_id: dhiKjexCfzw
 membership: nieun
+playlist: nieun-cirrhosis
 short_title: Cirrhosis03 복수 감별
-tags: [간-소화기, series-CIRRHOSIS]
+tags: [간-소화기, series-CIRRHOSIS, nieun-cirrhosis]
 ---
 
 > 복수는 약 60%가 간경변증(liver cirrhosis, LC)에 의해 발생하지만, 나머지 원인을 구별하기 위해 혈청-복수 알부민 차이(serum-ascites albumin gradient, SAAG)와 복수 단백질 농도를 함께 해석한다.

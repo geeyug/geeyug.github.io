@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 2
 youtube_id: oWLHbKvchvU
 membership: ssangkiyeok
-tags: [신장-전해질, ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: ECFVOLCON-04 혈압-이뇨 곡선
 ---
 

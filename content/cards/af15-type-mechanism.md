@@ -5,7 +5,8 @@ series: series-AF
 level: 3
 youtube_id: IU_sHErNbHU
 membership: nieun
-tags: [심장-혈관, series-AF]
+playlist: nieun-af
+tags: [심장-혈관, series-AF, nieun-af]
 short_title: AF15 유형-기전 연결
 ---
 

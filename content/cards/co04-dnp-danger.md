@@ -5,8 +5,9 @@ series: series-CO
 level: 2
 youtube_id: DHJK3fiDe3w
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-04 DNP 다이어트약
-tags: [심장-혈관, 약물-기전, series-CO]
+tags: [심장-혈관, 약물-기전, series-CO, ssangkiyeok-circulation]
 ---
 
 > 다이나이트로페놀(DNP)은 전자전달계를 언커플링(uncoupling)시켜 에너지 생산을 차단하고, 이로 인해 모든 조직의 혈관 저항이 떨어지면서 심박출량이 급격히 상승해 심장을 혹사시킨다.

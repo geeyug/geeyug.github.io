@@ -5,7 +5,8 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: pAyZorQ7KFU
 membership: ssangkiyeok
-tags: [심장-혈관, series-HEARTSOUND]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 short_title: series-HEARTSOUND-03 S1 감소 상황
 ---
 

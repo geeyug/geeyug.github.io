@@ -5,7 +5,8 @@ topic: KIDNEY
 level: 2
 youtube_id: 4vGfzz3ImSM
 membership: public
-tags: [신장-전해질, KIDNEY]
+playlist: 미분류
+tags: [신장-전해질, KIDNEY, 미분류]
 short_title: 콩팥기능 cystatin C 검사
 ---
 

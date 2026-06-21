@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: _ZqQZGEdisA
 membership: nieun
+playlist: nieun-af
 short_title: AF-05 항응고치료 대상 선택
-tags: [심장-혈관, 약물-기전, AF]
+tags: [심장-혈관, 약물-기전, AF, nieun-af]
 ---
 
 > 심방세동의 항응고치료 대상은 기계판막·중등도 이상 승모판 협착 여부를 먼저 확인한 뒤, 해당하지 않으면 CHA₂DS₂-VASc 점수로 결정한다.

@@ -5,7 +5,8 @@ series: series-ACIDBASE
 level: 2
 youtube_id: nBqE70yauJM
 membership: nieun
-tags: [신장-전해질, series-ACIDBASE]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-ACIDBASE, nieun-electrolyte]
 short_title: AB07 이온차와 대사성 산증 분류
 ---
 

@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 3
 youtube_id: QkrImdNp-_k
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-13 GFR 감소 기전
-tags: [응급, 신장-전해질, series-SEPSIS]
+tags: [응급, 신장-전해질, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 패혈증에서 GFR이 감소하는 핵심 기전은 세뇨관사구체 되먹임(tubuloglomerular feedback)의 오작동이다. 세뇨관이 손상되어 소금 흡수가 안 되면, 콩팥은 "과여과 중"으로 착각하고 수입세동맥(afferent arteriole)을 수축시킨다.

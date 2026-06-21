@@ -5,7 +5,8 @@ topic: HYPONA
 level: 3
 youtube_id: -Khu28g4vp4
 membership: nieun
-tags: [신장-전해질, HYPONA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, HYPONA, nieun-electrolyte]
 short_title: HYPONA08 평가 앞단
 ---
 

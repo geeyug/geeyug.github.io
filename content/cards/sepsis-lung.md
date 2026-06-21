@@ -5,7 +5,8 @@ topic: SEPSIS
 level: 2
 youtube_id: -0mBXVXNagU
 membership: ssangkiyeok
-tags: [호흡기, 감염-항생제, SEPSIS]
+playlist: ssangkiyeok-sepsis-shock
+tags: [호흡기, 감염-항생제, SEPSIS, ssangkiyeok-sepsis-shock]
 short_title: SEPSIS-05 패혈증과 폐
 ---
 

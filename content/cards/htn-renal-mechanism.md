@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: UnMdtQdJvpQ
 membership: public
+playlist: public-kidney
 short_title: HTN 신기능 연관 기전
-tags: [심장-혈관, 신장-전해질, HTN]
+tags: [심장-혈관, 신장-전해질, HTN, public-kidney]
 ---
 
 > 신기능 손상은 염분 저류, 레닌-안지오텐신계 활성화, 교감신경 항진, 이차성 부갑상선 기능항진증, 조혈호르몬 치료, 요독증 등 여러 경로를 통해 고혈압을 유발한다.

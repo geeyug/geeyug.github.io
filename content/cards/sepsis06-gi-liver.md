@@ -5,7 +5,8 @@ series: series-SEPSIS
 level: 2
 youtube_id: 6nJBmuxABhs
 membership: ssangkiyeok
-tags: [응급, 간-소화기, series-SEPSIS]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, 간-소화기, series-SEPSIS, ssangkiyeok-sepsis-shock]
 short_title: series-SEPSIS-06 패혈증과 위장관·간
 ---
 

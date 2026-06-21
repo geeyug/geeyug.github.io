@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: s925lJhLafU
 membership: public
+playlist: public-htn
 short_title: HTN 긴장혈압 면제 함정
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > "긴장해서 혈압이 올랐을 뿐"이라는 말 자체는 틀리지 않지만, 그것이 높은 혈압 상태를 외면하는 면제부가 되어서는 안 된다.

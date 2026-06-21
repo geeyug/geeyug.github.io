@@ -5,8 +5,9 @@ series: series-MURMUR
 level: 2
 youtube_id: u6-OkSHsUdo
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-MURMUR-10 VSD 심잡음
-tags: [심장-혈관, series-MURMUR]
+tags: [심장-혈관, series-MURMUR, ssangkiyeok-cardiology]
 ---
 
 > VSD(ventricular septal defect, 심실중격결손)에서는 수축기 내내 들리는 holosystolic murmur가 기본이지만, 동반 상황에 따라 그 성격이 달라진다.

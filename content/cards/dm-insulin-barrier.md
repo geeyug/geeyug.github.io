@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: 3NX-EhfYF94
 membership: public
+playlist: public-patient
 short_title: DM 인슐린 거부의 현실
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-patient]
 ---
 
 > 인슐린 치료 거부는 의지의 문제가 아니라, 환자의 현실적 조건이 치료 권고와 충돌할 때 생기는 구조적 문제다.

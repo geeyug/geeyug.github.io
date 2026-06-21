@@ -5,7 +5,8 @@ topic: BETA
 level: 2
 youtube_id: Uuaf_jyWXxE
 membership: ssangkiyeok
-tags: [약물-기전, 심장-혈관, BETA]
+playlist: ssangkiyeok-cardiology
+tags: [약물-기전, 심장-혈관, BETA, ssangkiyeok-cardiology]
 short_title: BETA-07 베타차단제 중단
 ---
 

@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: PRpAv0O98Xk
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-04 반류 기전과 속질 농도
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 소변 농축에는 ADH와 높은 속질 삼투 농도 두 가지가 모두 필요하며, 속질의 고삼투 환경은 헨레 고리의 반류 증배 기전(countercurrent multiplier system)으로 형성된다.

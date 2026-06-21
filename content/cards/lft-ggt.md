@@ -5,8 +5,9 @@ topic: LFT
 level: 2
 youtube_id: qBFHGrlPVjk
 membership: public
+playlist: public-liver-enzyme
 short_title: LFT-04 GGT
-tags: [간-소화기, LFT]
+tags: [간-소화기, LFT, public-liver-enzyme]
 ---
 
 > GGT(감마글루타밀전달효소)는 단독으로는 비특이적이지만, ALP와 함께 확인했을 때 ALP 상승의 원인이 간·담도인지 뼈·태반인지를 감별하는 핵심 단서가 된다.

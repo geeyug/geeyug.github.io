@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: 7J7MgPZtS4I
 membership: public
+playlist: public-dm
 short_title: DM 말초신경병증
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 당뇨병성 말초신경병증(diabetic peripheral neuropathy)은 신경 자체가 통증을 생성하는 병으로, 일반 진통제로는 효과가 없으며 발 관리와 혈당 조절이 치료의 핵심이다.

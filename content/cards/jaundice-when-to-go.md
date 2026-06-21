@@ -5,7 +5,8 @@ topic: LIVER
 level: 1
 youtube_id: xamgjo4E-gw
 membership: public
-tags: [증상-접근, LIVER]
+playlist: public-symptom
+tags: [증상-접근, LIVER, public-symptom]
 short_title: LIVER 황달 — 병원에 가야 할 때
 ---
 

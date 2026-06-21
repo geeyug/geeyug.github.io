@@ -5,7 +5,8 @@ series: series-AKI
 level: 3
 youtube_id: Q46t9cQ70UU
 membership: nieun
-tags: [신장-전해질, 약물-기전, series-AKI]
+playlist: nieun-aki
+tags: [신장-전해질, 약물-기전, series-AKI, nieun-aki]
 short_title: series-AKI-04 Hemodynamic series-AKI
 ---
 

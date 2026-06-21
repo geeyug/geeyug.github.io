@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: egJ2XhJO5Qk
 membership: public
+playlist: public-metabolism
 short_title: DM 저탄수화물 식사
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-metabolism]
 ---
 
 > 극단적인 저탄수화물 식사는 단기적으로 체중이 줄어 보이지만, 실제 지방 연소 증가보다는 글리코겐 감소에 따른 수분 손실이 주된 이유다. 칼로리 섭취 총량이 변하지 않으면 장기적인 체중 감량 효과는 제한적이다.

@@ -5,8 +5,9 @@ series: series-H2CO3
 level: 2
 youtube_id: rVQ53tMpRxI
 membership: public
+playlist: public-h2co3
 short_title: series-H2CO3-01 호흡성 산증 개요
-tags: [호흡기, 신장-전해질, series-H2CO3]
+tags: [호흡기, 신장-전해질, series-H2CO3, public-h2co3]
 ---
 
 > 폐에서 이산화탄소가 충분히 배출되지 못하면 탄산(H₂CO3)이 쌓이고 혈액은 산성으로 기울며, 신장이 수일에 걸쳐 이를 보상한다.

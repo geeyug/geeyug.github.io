@@ -5,7 +5,8 @@ series: series-DM
 level: 1
 youtube_id: jFZJ-cCG578
 membership: public
-tags: [당뇨-대사, 약물-기전, series-DM]
+playlist: public-dm
+tags: [당뇨-대사, 약물-기전, series-DM, public-dm]
 short_title: SGLT2 저해제 개요
 ---
 

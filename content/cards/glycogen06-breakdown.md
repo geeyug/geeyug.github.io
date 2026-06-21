@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: 8LNoKGcpPeE
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 글리코겐06 분해 효소
-tags: [당뇨-대사, 약물-기전, series-METABOLISM]
+tags: [당뇨-대사, 약물-기전, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 글리코겐 분해에는 가지 없는 직선 구간을 자르는 효소와 가지 구간을 정리하는 효소, 두 가지가 모두 필요하며, 그 보조인자로 비타민 B6가 필수적으로 요구된다.

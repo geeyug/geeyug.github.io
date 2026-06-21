@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: louozo4yMiY
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-DVT-08 series-DVT 치료
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > DVT의 치료 원칙은 항응고 치료(anticoagulation)이며, 위치에 따라 전략이 다르고 최소 3개월에서 1년 이상 유지한다.

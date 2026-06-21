@@ -5,8 +5,9 @@ topic: RESP
 level: 3
 youtube_id: _ZMGlw6ntlA
 membership: ssangkiyeok
+playlist: ssangkiyeok-resp
 short_title: P12 AaDO2 개념
-tags: [호흡기, RESP]
+tags: [호흡기, RESP, ssangkiyeok-resp]
 ---
 
 > 폐포에 산소가 도달했는데도 동맥혈 산소가 낮다면, 그 차이(AaDO2)가 폐질환의 증거다.

@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: PDn4lgdOKAs
 membership: public
+playlist: public-h2co3
 short_title: GI 세포증식 저칼륨
-tags: [신장-전해질, 증상-접근, GI]
+tags: [신장-전해질, 증상-접근, GI, public-h2co3]
 ---
 
 > 세포가 급격히 증식할 때, 혈중 칼륨이 세포 안으로 빠르게 유입되어 저칼륨혈증이 생길 수 있다.

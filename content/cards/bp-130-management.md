@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: oNFzbdkL22s
 membership: public
+playlist: public-htn
 short_title: HTN 혈압130 경계
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 혈압 130/85는 고혈압은 아니지만 정상도 아닌 경계 구간이며, 반복 측정과 생활 습관 관리가 필요한 시점이다.

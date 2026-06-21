@@ -5,8 +5,9 @@ series: series-VES
 level: 2
 youtube_id: FOpWkLEiqq8
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: VES20 혈관 생리 요약
-tags: [심장-혈관, series-VES]
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 ---
 
 > 혈관 생리학은 동맥·정맥의 구조적 차이, 모세혈관에서의 교환, 그리고 림프계를 통한 회수라는 세 축으로 이루어진 정교한 시스템이다.

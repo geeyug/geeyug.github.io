@@ -5,8 +5,9 @@ topic: GENERAL
 level: 1
 youtube_id: 2Totz0c-jRo
 membership: ssangkiyeok
+playlist: 미분류
 short_title: CLINIC 깜깜이 진료
-tags: [증상-접근, GENERAL]
+tags: [증상-접근, GENERAL, 미분류]
 ---
 
 > 새 병원에 올 때 이전 검사 기록과 약물 이력이 없으면, 의사는 현재 상태를 알 수 없는 상태에서 처방을 이어가야 하며 이는 치료 최적화를 어렵게 한다.

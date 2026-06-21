@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: OYoxMHCTREk
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: THROMBUS-02 Virchow's triad
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > 혈전은 혈관 손상, 혈류 이상, 혈액 성분 이상 세 가지 조건 중 하나 이상이 응고 시스템과 항응고 시스템의 균형을 깨뜨릴 때 생긴다. 이 틀을 Virchow's triad라 한다.

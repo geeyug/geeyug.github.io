@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: WPk1y9nw4eE
 membership: public
+playlist: public-pancreas
 short_title: GI 자가면역 췌장염
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, public-pancreas]
 ---
 
 > 자가면역 췌장염(autoimmune pancreatitis)은 스테로이드로 극적으로 좋아지지만 재발이 잦다. 재발할 때마다 황달이 오고, 황달을 볼 때마다 암을 감별해야 하는 것이 이 병의 임상적 난제다.

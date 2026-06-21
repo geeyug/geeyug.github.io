@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: z8FzF0ELFR4
 membership: nieun
+playlist: nieun-af
 short_title: AF11 항부정맥제 선택 기준
-tags: [심장-혈관, 약물-기전, AF]
+tags: [심장-혈관, 약물-기전, AF, nieun-af]
 ---
 
 > 심방세동의 리듬 조절에 사용하는 항부정맥제는 구조적 심장 질환 유무와 박출률(EF)에 따라 Class Ic(flecainide, propafenone) 또는 Class III(amiodarone, dronedarone)로 나뉘며, 약물 선택 이전에 관상동맥 질환 여부를 확인하는 워크업이 선행되어야 한다.

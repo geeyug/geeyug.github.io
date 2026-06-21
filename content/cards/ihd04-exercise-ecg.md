@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: GKUAVfi56Ds
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-04 운동부하 심전도
-tags: [심장-혈관, series-IHD]
+tags: [심장-혈관, series-IHD, nieun-ihd]
 ---
 
 > 운동부하 심전도는 생리적 스트레스를 인위적으로 유발해 허혈을 심전도로 직접 확인하는 검사이며, 양성 판단 기준과 중단 기준을 함께 알아야 의미 있게 해석할 수 있다.

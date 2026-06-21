@@ -5,7 +5,8 @@ series: series-HYPONA
 level: 3
 youtube_id: JUtEaBjuh1U
 membership: nieun
-tags: [신장-전해질, series-HYPONA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-HYPONA, nieun-electrolyte]
 short_title: HYPONA12 Na교정 실제
 ---
 

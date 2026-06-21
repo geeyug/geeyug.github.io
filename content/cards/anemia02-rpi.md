@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: IKTka4sZwVI
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈02 RPI 계산
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > RPI(망상적혈구생산지수)는 단순 퍼센티지로 읽으면 골수 활성도를 크게 오해할 수 있어, 두 단계의 보정을 거쳐야 실제 생산 능력을 반영한다.

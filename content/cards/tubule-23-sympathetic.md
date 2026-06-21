@@ -5,7 +5,8 @@ series: series-TUBULE
 level: 2
 youtube_id: wfkOI-7qTZ8
 membership: ssangkiyeok
-tags: [신장-전해질, series-TUBULE]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, series-TUBULE, ssangkiyeok-kidney-phys]
 short_title: series-TUBULE-23 교감신경과 재흡수
 ---
 

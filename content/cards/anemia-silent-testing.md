@@ -5,8 +5,9 @@ topic: HEMATOLOGY
 level: 1
 youtube_id: C1jVRngiOuA
 membership: public
+playlist: public-anemia
 short_title: ANEMIA 증상 없는 빈혈 검사
-tags: [증상-접근, HEMATOLOGY]
+tags: [증상-접근, HEMATOLOGY, public-anemia]
 ---
 
 > 빈혈은 증상이 없어도 검사해야 하며, 원인 탐색을 통해 숨어 있는 심각한 질환을 발견할 수 있다.

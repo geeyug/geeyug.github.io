@@ -5,8 +5,9 @@ topic: HTN
 level: 1
 youtube_id: iu7HPD0r1DM
 membership: public
+playlist: public-htn
 short_title: HTN 혈압약 부작용 오해
-tags: [심장-혈관, HTN]
+tags: [심장-혈관, HTN, public-htn]
 ---
 
 > 혈압약이 심장을 망가뜨린다는 논리는 원인과 결과가 뒤바뀐 것이다. 심장을 망가뜨리는 것은 약이 아니라 높은 혈압 자체다.

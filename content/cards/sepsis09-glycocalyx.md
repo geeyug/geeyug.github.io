@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 2
 youtube_id: bNo3jBdRGcY
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-09 glycocalyx 손상
-tags: [응급, series-SEPSIS]
+tags: [응급, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 패혈증에서 혈관 내피의 방어막인 glycocalyx가 손상되면 염증세포의 혈관 외 침투가 급증하고, 이것이 미세순환 장애와 조직 손상을 증폭시키는 핵심 기전이다.

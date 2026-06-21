@@ -5,7 +5,8 @@ topic: ANAPH
 level: 3
 youtube_id: L0T2DoPlDZY
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH14 IgE비의존성 기전
 ---
 

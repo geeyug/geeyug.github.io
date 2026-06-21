@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 3
 youtube_id: XH3hhBnhokI
 membership: ssangkiyeok
+playlist: ssangkiyeok-syncope
 short_title: series-SYNCOPE-11 뇌혈류 자동 조절
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-syncope]
 ---
 
 > 뇌는 평균 동맥압 50~150mmHg 범위에서 뇌혈류를 자동으로 일정하게 유지하는데, 이 범위를 벗어나면 자동 조절이 실패하고 실신이 발생한다.

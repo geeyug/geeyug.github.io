@@ -5,7 +5,8 @@ series: series-ECFVOLCON
 level: 2
 youtube_id: LdG1d0rFhPA
 membership: ssangkiyeok
-tags: [신장-전해질, series-ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, series-ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: series-ECFVOLCON-17 저단백혈증과 부종
 ---
 

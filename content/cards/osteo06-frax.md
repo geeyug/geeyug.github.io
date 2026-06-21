@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 2
 youtube_id: U0rmJWdI-O8
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-06 FRAX 골절위험도
-tags: [증상-접근, series-OSTEO]
+tags: [증상-접근, series-OSTEO, nieun-osteo]
 ---
 
 > 골다공증 치료의 궁극적 목표는 골절 예방이다. 골밀도 수치 자체보다 실제 골절 위험도를 계산하는 FRAX가 치료 결정의 핵심 근거가 된다.

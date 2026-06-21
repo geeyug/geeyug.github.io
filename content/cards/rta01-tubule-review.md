@@ -5,7 +5,8 @@ series: series-RTA
 level: 2
 youtube_id: Yx-3vX7pxJQ
 membership: nieun
-tags: [신장-전해질, series-RTA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-RTA, nieun-electrolyte]
 short_title: series-RTA-01 세뇨관 구조 리뷰
 ---
 

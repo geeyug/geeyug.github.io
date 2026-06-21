@@ -5,8 +5,9 @@ series: series-CO
 level: 3
 youtube_id: HmSy-_P-5Jc
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-11 심박출량 결정 교점
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 심박출량은 심박출량 곡선과 정맥환류 곡선이 교차하는 평형점(operating point)에서 결정되며, 이 두 곡선의 이동 방향을 이해하면 어떤 상황에서든 심박출량 변화를 예측할 수 있다.

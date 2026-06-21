@@ -5,8 +5,9 @@ series: series-BPK
 level: 2
 youtube_id: b7dhxethnLA
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPK07 RAAS 개요
-tags: [심장-혈관, 신장-전해질, series-BPK]
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 ---
 
 > 레닌-안지오텐신 시스템(renin-angiotensin system, RAS)은 혈압이 떨어졌을 때 혈관 수축과 체액 보존이라는 두 경로를 통해 혈압을 회복시키는 호르몬 체계로, 단기 신경반사와 장기 혈압이뇨 사이의 중간 타임스케일을 담당한다.

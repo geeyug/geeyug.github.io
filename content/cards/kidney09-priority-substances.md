@@ -5,8 +5,9 @@ series: series-KIDNEY
 level: 2
 youtube_id: RFVJU_rEbvI
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-KIDNEY-09 재흡수-분비 우선순위
-tags: [신장-전해질, series-KIDNEY]
+tags: [신장-전해질, series-KIDNEY, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥에서 여과된 물질은 재흡수 여부에 따라 네 가지 유형으로 나뉘며, 포도당과 아미노산은 전량 재흡수되고 크레아티닌은 여과된 그대로 배출된다.

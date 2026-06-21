@@ -5,7 +5,8 @@ topic: ANAPH
 level: 3
 youtube_id: KoUs96XeRHw
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH08 에피네프린 망설임
 ---
 

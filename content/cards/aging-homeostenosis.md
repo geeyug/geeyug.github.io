@@ -5,7 +5,8 @@ topic: AGING
 level: 1
 youtube_id: w6bpb9v9svk
 membership: public
-tags: [증상-접근, AGING]
+playlist: public-body
+tags: [증상-접근, AGING, public-body]
 short_title: AGING 항상성의 소실
 ---
 

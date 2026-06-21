@@ -5,7 +5,8 @@ topic: SHOCK
 level: 2
 youtube_id: YzB7S8tNIME
 membership: ssangkiyeok
-tags: [응급, SHOCK]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, SHOCK, ssangkiyeok-sepsis-shock]
 short_title: SHOCK-13 수분 소실 4가지
 ---
 

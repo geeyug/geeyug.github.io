@@ -5,7 +5,8 @@ series: series-DM
 level: 2
 youtube_id: aseEG_kgzdc
 membership: nieun
-tags: [당뇨-대사, 약물-기전, series-DM]
+playlist: nieun-dm
+tags: [당뇨-대사, 약물-기전, series-DM, nieun-dm]
 short_title: DM16 GLP1 기전·임상
 ---
 

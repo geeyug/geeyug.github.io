@@ -5,8 +5,9 @@ series: series-HEART
 level: 2
 youtube_id: _8Icmjkg10Q
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-HEART-04 심방 수축의 의미
-tags: [심장-혈관, series-HEART]
+tags: [심장-혈관, series-HEART, ssangkiyeok-circulation]
 ---
 
 > 심방 수축은 심실이 이완할 때 혈액의 20~30%를 추가로 밀어 넣는다. 평소에는 없어도 버티지만, 심박수가 빨라지는 상황에서 그 역할이 결정적으로 드러난다.

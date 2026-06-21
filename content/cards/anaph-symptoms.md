@@ -5,8 +5,9 @@ topic: ANAPH
 level: 2
 youtube_id: buQNSUnB7iQ
 membership: nieun
+playlist: nieun-anaph
 short_title: ANAPH03 증상의 계통별 정리
-tags: [응급, ANAPH]
+tags: [응급, ANAPH, nieun-anaph]
 ---
 
 > 아나필락시스에서 히스타민, PAF(혈소판 활성화 인자), 시스테이닐 류코트리엔(cysteinyl leukotriene) 등 화학 매개체가 전신 혈관에 동시에 작용하기 때문에 여러 장기에서 증상이 한꺼번에 나타난다.

@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: aZWWtr4Uxrw
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-13 기타심음
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > 심음은 원래 판막이 닫히면서 나는 소리이지만, 특수한 상황에서는 충만 제한, 박출, 판막 탈출, 또는 판막이 열리는 순간에도 소리가 발생한다.

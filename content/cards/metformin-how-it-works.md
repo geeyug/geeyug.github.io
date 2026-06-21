@@ -5,7 +5,8 @@ topic: DM
 level: 1
 youtube_id: XbW7sm2Zaf4
 membership: public
-tags: [당뇨-대사, 약물-기전, DM]
+playlist: public-dm
+tags: [당뇨-대사, 약물-기전, DM, public-dm]
 short_title: DM 메트포르민 기전
 ---
 

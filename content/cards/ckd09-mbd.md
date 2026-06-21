@@ -5,8 +5,9 @@ series: series-CKD
 level: 3
 youtube_id: vBZSmYTp7Qk
 membership: nieun
+playlist: nieun-ckd
 short_title: CKD09 series-CKD-MBD
-tags: [신장-전해질, series-CKD]
+tags: [신장-전해질, series-CKD, nieun-ckd]
 ---
 
 > 만성 콩팥병에서 인(phosphorus) 배설 장애로 시작된 미네랄 불균형은 부갑상선호르몬(PTH) 과분비, 비타민 D 감소, 뼈 구조 이상, 혈관 석회화로 이어지며, 이를 series-CKD-MBD(mineral and bone disease)라 부른다.

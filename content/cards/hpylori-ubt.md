@@ -5,8 +5,9 @@ topic: HPYLORI
 level: 1
 youtube_id: A7yHx1PZ26w
 membership: public
+playlist: public-gi
 short_title: HPYLORI 요소호기검사
-tags: [간-소화기, HPYLORI]
+tags: [간-소화기, HPYLORI, public-gi]
 ---
 
 > 헬리코박터 감염 여부와 제균 성공 여부를 확인하는 데 요소호기검사(urea breath test, UBT)가 널리 쓰이는 이유는, 내시경 없이도 균의 활성을 직접 반영하기 때문이다.

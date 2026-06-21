@@ -5,7 +5,8 @@ series: series-METABOLISM
 level: 3
 youtube_id: i4CxJVmPp10
 membership: ssangkiyeok
-tags: [당뇨-대사, series-METABOLISM]
+playlist: ssangkiyeok-metabolism
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 short_title: PPP-02 산화·비산화 단계
 ---
 

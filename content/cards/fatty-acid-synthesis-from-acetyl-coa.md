@@ -5,8 +5,9 @@ topic: METABOLISM
 level: 2
 youtube_id: CbvUAqvZIbY
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 시트르산회로20 지방산 합성
-tags: [당뇨-대사, METABOLISM]
+tags: [당뇨-대사, METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 미토콘드리아 안에 과잉 축적된 아세틸 CoA는 시트르산(citrate)으로 전환되어 세포질로 빠져나온 뒤 다시 아세틸 CoA로 재합성되고, 이 경로를 통해 지방산이 만들어진다.

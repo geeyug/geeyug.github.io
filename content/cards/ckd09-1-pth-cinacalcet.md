@@ -5,8 +5,9 @@ series: series-CKD
 level: 3
 youtube_id: 5NnYEVQjwYI
 membership: nieun
+playlist: nieun-ckd
 short_title: CKD09-1 PTH·cinacalcet과 인
-tags: [신장-전해질, series-CKD]
+tags: [신장-전해질, series-CKD, nieun-ckd]
 ---
 
 > PTH는 인을 감소시키는데, cinacalcet(시나칼셋)이 PTH를 억제하면 인이 증가할 것 같지만 투석 환자에서는 오히려 반대로 나타난다.

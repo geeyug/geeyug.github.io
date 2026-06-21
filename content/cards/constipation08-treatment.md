@@ -5,7 +5,8 @@ series: series-CONSTIPATION
 level: 2
 youtube_id: 63y0ClxKbo0
 membership: ssangkiyeok
-tags: [간-소화기, series-CONSTIPATION]
+playlist: ssangkiyeok-bowel
+tags: [간-소화기, series-CONSTIPATION, ssangkiyeok-bowel]
 short_title: 변비08 치료 원칙
 ---
 

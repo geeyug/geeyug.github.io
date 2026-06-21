@@ -5,8 +5,9 @@ series: series-CONSTIPATION
 level: 2
 youtube_id: 82vmA3jNXME
 membership: ssangkiyeok
+playlist: ssangkiyeok-bowel
 short_title: 변비01 약물유발 변비
-tags: [간-소화기, 약물-기전, series-CONSTIPATION]
+tags: [간-소화기, 약물-기전, series-CONSTIPATION, ssangkiyeok-bowel]
 ---
 
 > 변비는 원인 없이 생기는 경우보다 복용 중인 약물이 원인인 경우가 생각보다 흔하며, 작용 기전에 따라 네 가지 계열의 약물이 장 운동을 억제할 수 있다.

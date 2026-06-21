@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: wZgJcMJN6rM
 membership: public
+playlist: public-dm
 short_title: DM 메트포르민 젖산산증
-tags: [당뇨-대사, 약물-기전, DM]
+tags: [당뇨-대사, 약물-기전, DM, public-dm]
 ---
 
 > 메트포르민은 미토콘드리아 기능을 억제해 젖산 생성을 늘리며, 신장 기능이 저하되면 약물이 축적되어 젖산산증(lactic acidosis) 위험이 높아진다.

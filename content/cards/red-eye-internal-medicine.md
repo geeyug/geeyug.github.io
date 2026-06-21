@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 3gnLn0HWzes
 membership: public
+playlist: public-patient
 short_title: GI 눈충혈과 내과
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-patient]
 ---
 
 > 눈 충혈은 안과 질환이 아닐 수 있다. 복용 중인 약물, 특히 항응고제(anticoagulant)가 충혈의 원인이 될 수 있으며, 이를 파악하려면 정확한 복약 정보가 필요하다.

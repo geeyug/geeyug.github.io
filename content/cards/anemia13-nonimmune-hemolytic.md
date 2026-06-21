@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 3
 youtube_id: nJqLL06qoNU
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈13 비면역 용혈성빈혈
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 비면역 용혈성 빈혈(non-immune hemolytic anemia)은 항체 없이 적혈구 자체의 결함이나 외부 기계적·화학적 손상에 의해 용혈이 발생하는 이질적인 질환군이다.

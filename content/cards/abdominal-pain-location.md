@@ -5,7 +5,8 @@ topic: ABDOMEN
 level: 1
 youtube_id: 1FCtweJi3l4
 membership: public
-tags: [증상-접근, ABDOMEN]
+playlist: public-symptom
+tags: [증상-접근, ABDOMEN, public-symptom]
 short_title: 복통 위치와 장기
 ---
 

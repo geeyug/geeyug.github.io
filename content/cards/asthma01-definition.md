@@ -5,7 +5,8 @@ series: series-ASTHMA
 level: 2
 youtube_id: Sn9Pv7eYDnc
 membership: nieun
-tags: [호흡기, series-ASTHMA]
+playlist: nieun-asthma
+tags: [호흡기, series-ASTHMA, nieun-asthma]
 short_title: series-ASTHMA-01 정의·증상
 ---
 

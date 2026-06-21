@@ -5,8 +5,9 @@ topic: ANTIBIOTIC
 level: 1
 youtube_id: 0fR0SKKpgmY
 membership: ssangkiyeok
+playlist: 미분류
 short_title: 항생제 경험적 확정 요법
-tags: [감염-항생제, 약물-기전, ANTIBIOTIC]
+tags: [감염-항생제, 약물-기전, ANTIBIOTIC, 미분류]
 ---
 
 > 균 배양에는 시간이 걸리고 배양이 안 되는 경우도 많기 때문에, 임상에서 항생제는 대부분 균을 확인하기 전에 경험적으로 시작한다.

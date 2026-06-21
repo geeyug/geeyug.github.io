@@ -5,8 +5,9 @@ series: series-KIDNEY
 level: 2
 youtube_id: Z6FZY6bPIVc
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-KIDNEY-08 여과-재흡수 원리
-tags: [신장-전해질, series-KIDNEY]
+tags: [신장-전해질, series-KIDNEY, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥은 혈액을 일단 대량으로 여과한 뒤 필요한 물질만 재흡수하는 방식으로 작동하며, 이 비효율적으로 보이는 전략이 실은 노폐물을 철저히 제거하기 위한 최선이다.

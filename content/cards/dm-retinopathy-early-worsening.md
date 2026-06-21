@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: 2gjSwrLtxao
 membership: public
+playlist: public-dm
 short_title: DM 망막병증 초기 악화
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 오래 높았던 혈당을 빠르게 낮추면 눈 조직과 혈관 사이의 삼투 불균형이 일시적으로 생기고, 그 결과 망막 주변 조직에 부종이 생겨 시력이 일시적으로 나빠 보일 수 있다.

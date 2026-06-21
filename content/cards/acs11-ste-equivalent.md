@@ -5,8 +5,9 @@ series: series-ACS
 level: 3
 youtube_id: uMqtYZ2hcG0
 membership: nieun
+playlist: nieun-acs
 short_title: ACS11 ST상승 동등 소견
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > ST 분절 상승(ST elevation) 없이도 우심실 경색, 후벽 경색, aVR 유도 상승은 각각 고유한 심전도 패턴으로 확인되며, STEMI와 동등한 긴급 재관류 적응증이 된다.

@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: GkfFA0GrI0U
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GI-Phys07 위장관 혈류 조절
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 위장관 혈류는 식사 후 호르몬·샘 분비·아데노신의 세 가지 기전으로 증가하며, 교감신경에 의한 혈류 감소는 자동조절 이탈(autoregulatory escape)에 의해 수분 안에 정상으로 회복된다.

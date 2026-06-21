@@ -5,7 +5,8 @@ series: series-SYNCOPE
 level: 2
 youtube_id: zX_oAz3pWsQ
 membership: ssangkiyeok
-tags: [증상-접근, series-SYNCOPE]
+playlist: ssangkiyeok-syncope
+tags: [증상-접근, series-SYNCOPE, ssangkiyeok-syncope]
 short_title: series-SYNCOPE-13 기립성 저혈압 증상
 ---
 

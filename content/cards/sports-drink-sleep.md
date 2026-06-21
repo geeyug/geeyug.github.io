@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: vXJQQR96OKU
 membership: public
+playlist: public-patient
 short_title: GI 야간 속쓰림
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-patient]
 ---
 
 > 야간에 속이 쓰려서 잠에서 깨는 증상은 경고 신호(alarm feature)에 해당하며, 유산균 음료로 잠시 호전되더라도 위식도 역류성 식도염이나 소화성 궤양에 대한 진단적 접근이 필요하다.

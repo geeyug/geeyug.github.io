@@ -5,7 +5,8 @@ topic: DIARRHEA
 level: 2
 youtube_id: EbxjzAcBi-k
 membership: ssangkiyeok
-tags: [간-소화기, 감염-항생제, DIARRHEA]
+playlist: ssangkiyeok-bowel
+tags: [간-소화기, 감염-항생제, DIARRHEA, ssangkiyeok-bowel]
 short_title: 설사10 항생제·식이요법
 ---
 

@@ -5,8 +5,9 @@ topic: CIRRHOSIS
 level: 1
 youtube_id: 6-9uzMmpYDk
 membership: public
+playlist: public-liver
 short_title: CIRRHOSIS 문맥압항진 기전
-tags: [간-소화기, CIRRHOSIS]
+tags: [간-소화기, CIRRHOSIS, public-liver]
 ---
 
 > 간경변증에서의 문맥압 항진은 간 내 저항 증가(고정 요인 + 변동 요인)와 문맥 혈류 유입 증가라는 두 축이 함께 작동한 결과다.

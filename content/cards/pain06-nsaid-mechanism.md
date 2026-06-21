@@ -5,8 +5,9 @@ series: series-PAIN
 level: 2
 youtube_id: srcg2IkT19M
 membership: ssangkiyeok
+playlist: ssangkiyeok-pain
 short_title: series-PAIN-06 NSAIDs 기전
-tags: [증상-접근, 약물-기전, series-PAIN]
+tags: [증상-접근, 약물-기전, series-PAIN, ssangkiyeok-pain]
 ---
 
 > NSAIDs는 염증 부위에서 PGE2(프로스타글란딘 E2) 생성을 억제하여 통증 수용기의 과민도를 낮춘다. 염증 자체를 제거하는 것이 아니라, 염증으로 인해 과도하게 예민해진 수용기를 정상화하는 방식이다.

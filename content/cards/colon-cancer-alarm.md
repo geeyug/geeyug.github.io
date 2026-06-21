@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 5bXTw7OpxvI
 membership: ssangkiyeok
+playlist: 미분류
 short_title: 대장암 alarm 혈변·빈혈
-tags: [간-소화기, 증상-접근, GI]
+tags: [간-소화기, 증상-접근, GI, 미분류]
 ---
 
 > 대장암은 증상이 없는 채로 진행하지만, 혈변과 빈혈은 항문 문제가 명확하지 않은 한 대장내시경 검사를 피할 수 없게 만드는 신호다.

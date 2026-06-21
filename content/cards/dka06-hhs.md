@@ -5,8 +5,9 @@ series: series-DKA
 level: 2
 youtube_id: XVezkMFfPp0
 membership: nieun
+playlist: nieun-dka
 short_title: series-DKA-06 HHS 진단과 치료
-tags: [당뇨-대사, series-DKA]
+tags: [당뇨-대사, series-DKA, nieun-dka]
 ---
 
 > HHS(고삼투압 고혈당 상태)는 주로 제2형 당뇨 고령 환자에서 수주에 걸쳐 진행되며, 케톤 산증 없이 극심한 탈수와 초고혈당이 특징이다. 사망률이 DKA보다 훨씬 높다.

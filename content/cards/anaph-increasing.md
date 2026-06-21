@@ -5,7 +5,8 @@ topic: ANAPH
 level: 2
 youtube_id: DWiDOoXrwFY
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH11 증가와 낮은 사망률
 ---
 

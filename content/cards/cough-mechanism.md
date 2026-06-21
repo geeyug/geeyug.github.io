@@ -5,8 +5,9 @@ topic: RESP
 level: 1
 youtube_id: BZxsUESjgqg
 membership: public
+playlist: public-symptom
 short_title: RESP 기침의 기전
-tags: [호흡기, 증상-접근, RESP]
+tags: [호흡기, 증상-접근, RESP, public-symptom]
 ---
 
 > 기침은 기도에 분포한 수용체(receptor)가 자극을 받을 때 반사적으로 일어나는 방어 반응이며, 만성 기침의 80%는 원인을 찾아 치료할 수 있다.

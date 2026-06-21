@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: F6AoOmLPgSk
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-SYNCOPE-28 위험도 평가
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-cardiology]
 ---
 
 > 실신 위험도 평가 도구는 민감도는 높지만 특이도가 낮으며, 각 항목은 이미 기본 평가에서 파악되는 정보이기 때문에 별도의 스코어로 기억할 필요는 없다.

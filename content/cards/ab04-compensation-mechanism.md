@@ -5,7 +5,8 @@ series: series-ACIDBASE
 level: 2
 youtube_id: 3J8Hf5OQQDA
 membership: nieun
-tags: [신장-전해질, series-ACIDBASE]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-ACIDBASE, nieun-electrolyte]
 short_title: AB04 산증 보상의 세 경로
 ---
 

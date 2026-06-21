@@ -5,8 +5,9 @@ topic: VACCINE
 level: 1
 youtube_id: 1hn5XQxozzc
 membership: ssangkiyeok
+playlist: 미분류
 short_title: VACCINE 디프테리아
-tags: [감염-항생제, VACCINE]
+tags: [감염-항생제, VACCINE, 미분류]
 ---
 
 > 디프테리아는 세균(Corynebacterium diphtheriae)과 그 독소가 함께 문제를 일으키는 감염병으로, 현재는 DTP 예방접종으로 거의 사라졌지만 접종 중단 시 재유행이 가능하다.

@@ -5,7 +5,8 @@ series: series-AF
 level: 3
 youtube_id: b42nx6I6HTY
 membership: nieun
-tags: [심장-혈관, series-AF]
+playlist: nieun-af
+tags: [심장-혈관, series-AF, nieun-af]
 short_title: AF16 subclinical series-AF
 ---
 

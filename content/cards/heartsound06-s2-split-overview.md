@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: XpLvAvFPv6w
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-06 S2 분열 총론
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > S2는 A2와 P2가 동시에 닫히지 않아 두 소리로 분리되어 들리는 현상을 분열(splitting)이라 하며, 호흡에 따른 변화 양상에 따라 네 가지로 구분한다.

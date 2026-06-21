@@ -5,8 +5,9 @@ series: series-HF
 level: 2
 youtube_id: vkrT23Qm3WY
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-05 만성·급성 진단 알고리즘
-tags: [심장-혈관, series-HF]
+tags: [심장-혈관, series-HF, nieun-hf]
 ---
 
 > 심부전 진단은 BNP로 배제하고 심장초음파로 확진하는 순서로 진행하며, 급성심부전은 시간적 여유 없이 혈역학적 상태를 먼저 확인한다.

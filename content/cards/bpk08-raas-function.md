@@ -5,7 +5,8 @@ series: series-BPK
 level: 2
 youtube_id: jS7-Me0i-gA
 membership: ssangkiyeok
-tags: [심장-혈관, 신장-전해질, series-BPK]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 short_title: BPK08 RAAS의 본질
 ---
 

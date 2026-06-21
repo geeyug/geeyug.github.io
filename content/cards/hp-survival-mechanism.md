@@ -5,7 +5,8 @@ topic: HPYLORI
 level: 1
 youtube_id: YQoaGm-nFIQ
 membership: public
-tags: [간-소화기, 약물-기전, HPYLORI]
+playlist: public-gi
+tags: [간-소화기, 약물-기전, HPYLORI, public-gi]
 short_title: HPYLORI 위산 생존 기전
 ---
 

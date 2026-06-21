@@ -5,7 +5,8 @@ topic: HYPONA
 level: 2
 youtube_id: 8sOps1yshj0
 membership: nieun
-tags: [신장-전해질, HYPONA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, HYPONA, nieun-electrolyte]
 short_title: HYPONA-09 SIADH
 ---
 

@@ -5,7 +5,8 @@ series: series-OH
 level: 2
 youtube_id: 9J8K-rr6IXs
 membership: ssangkiyeok
-tags: [심장-혈관, 증상-접근, series-OH]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, 증상-접근, series-OH, ssangkiyeok-cardiology]
 short_title: series-OH-02 기립 시 정상혈압반응
 ---
 

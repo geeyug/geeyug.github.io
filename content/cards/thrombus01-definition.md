@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: CDDbKcvv5EU
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: THROMBUS-01 혈전 정의
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > 혈전은 혈관 안에서 비정상적으로 형성된 혈액 덩어리다. 원래 출혈을 막기 위해 존재하는 응고 시스템이 손상 없는 혈관 내부에서 작동할 때 만들어진다.

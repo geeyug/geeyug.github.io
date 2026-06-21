@@ -5,7 +5,8 @@ series: series-VES
 level: 2
 youtube_id: NkOaEY8HGlc
 membership: ssangkiyeok
-tags: [심장-혈관, series-VES]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 short_title: VES18 림프관 진입 기전
 ---
 

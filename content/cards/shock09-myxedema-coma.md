@@ -5,8 +5,9 @@ series: series-SHOCK
 level: 2
 youtube_id: HB-u9eik21g
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SHOCK-09 점액부종혼수
-tags: [응급, 심장-혈관, series-SHOCK]
+tags: [응급, 심장-혈관, series-SHOCK, ssangkiyeok-sepsis-shock]
 ---
 
 > 갑상선호르몬이 극심하게 부족해지면 심장 수축력이 떨어지고 혈관 저항은 오히려 올라가 심박출량이 감소하며, 극단적인 경우 심인성 쇼크로 이어진다.

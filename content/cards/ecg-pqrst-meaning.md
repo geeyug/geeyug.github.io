@@ -5,8 +5,9 @@ topic: ECG
 level: 1
 youtube_id: 3DlGbnvhxIU
 membership: ssangkiyeok
+playlist: public-ecg-basic
 short_title: ECG-4강 PQRST 의미
-tags: [심장-혈관, ECG]
+tags: [심장-혈관, ECG, public-ecg-basic]
 ---
 
 > 심전도의 P파는 심방 탈분극, QRS는 심실 탈분극, T파는 심실 재분극을 나타내며, 각 구간의 이상은 특정 질환과 연결된다.

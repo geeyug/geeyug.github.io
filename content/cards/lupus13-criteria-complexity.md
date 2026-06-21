@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: yJMWUhCYtQ0
 membership: nieun
+playlist: nieun-lupus
 short_title: series-LUPUS-13 분류기준의 의미
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 루푸스는 단일 골드 스탠다드가 없고 여러 장기를 침범하는 전신 질환이기 때문에, 다른 어떤 질환보다 정교한 분류 기준(classification criteria)이 발달할 수밖에 없었다.

@@ -5,8 +5,9 @@ series: series-HEART
 level: 2
 youtube_id: PqxxOPCqvwE
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-HEART-02 활동전위
-tags: [심장-혈관, series-HEART]
+tags: [심장-혈관, series-HEART, ssangkiyeok-circulation]
 ---
 
 > 심장근육의 활동전위는 오랫동안 유지되는 고원기(plateau)를 가지며, 이로 인해 절대 불응기가 길어져 심장이 지속적으로 수축하는 것을 막는다.

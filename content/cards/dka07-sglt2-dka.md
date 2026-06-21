@@ -5,8 +5,9 @@ series: series-DKA
 level: 2
 youtube_id: U6PtGVgB7gs
 membership: nieun
+playlist: nieun-dka
 short_title: series-DKA-07 SGLT2 억제제 series-DKA
-tags: [당뇨-대사, 약물-기전, series-DKA]
+tags: [당뇨-대사, 약물-기전, series-DKA, nieun-dka]
 ---
 
 > SGLT2 억제제는 인슐린과 무관하게 포도당을 소변으로 배출시킨다. 그 결과 몸은 혈당이 낮아도 "당이 부족하다"고 인식해 케톤 생성 경로를 가동할 수 있으며, 혈당이 높지 않아도 DKA가 발생하는 이른바 euglycemic DKA가 나타난다.

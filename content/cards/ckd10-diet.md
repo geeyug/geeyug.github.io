@@ -5,8 +5,9 @@ series: series-CKD
 level: 2
 youtube_id: snmpHRuHpyk
 membership: nieun
+playlist: nieun-ckd
 short_title: CKD10 식사요법
-tags: [신장-전해질, series-CKD]
+tags: [신장-전해질, series-CKD, nieun-ckd]
 ---
 
 > 만성콩팥병(series-CKD)의 식사요법에서 가장 중요한 것은 저단백 식이보다 염분 제한이며, 단백질은 투석 전후에 따라 권고량이 달라진다.

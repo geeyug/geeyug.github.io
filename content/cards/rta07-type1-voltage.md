@@ -5,7 +5,8 @@ series: series-RTA
 level: 3
 youtube_id: mbhcpHv9YYM
 membership: nieun
-tags: [신장-전해질, series-RTA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-RTA, nieun-electrolyte]
 short_title: series-RTA-07 Type1 전압결함형
 ---
 

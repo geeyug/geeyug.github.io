@@ -5,7 +5,8 @@ topic: AKI
 level: 2
 youtube_id: 8ecjljeGyBY
 membership: nieun
-tags: [신장-전해질, AKI]
+playlist: nieun-aki
+tags: [신장-전해질, AKI, nieun-aki]
 short_title: AKI-08 조영제 신독성
 ---
 

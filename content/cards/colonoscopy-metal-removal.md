@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 3fwEWqJjVg4
 membership: public
+playlist: public-gi
 short_title: GI 대장내시경 금속 제거
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, public-gi]
 ---
 
 > 대장내시경 중 전기를 사용하는 시술에서는 고주파 전류가 몸을 통과하며, 신체의 금속류는 이 전류의 경로를 예측 불가능하게 바꿀 수 있다.

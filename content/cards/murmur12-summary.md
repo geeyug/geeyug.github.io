@@ -5,8 +5,9 @@ series: series-MURMUR
 level: 2
 youtube_id: uS69bPL2Qpk
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-MURMUR-12 심잡음 총정리
-tags: [심장-혈관, series-MURMUR]
+tags: [심장-혈관, series-MURMUR, ssangkiyeok-cardiology]
 ---
 
 > 심잡음의 종류는 외우는 것이 아니라, 어느 시점에 어느 방향으로 혈액이 비정상적으로 흐르는지를 추론하면 따라온다.

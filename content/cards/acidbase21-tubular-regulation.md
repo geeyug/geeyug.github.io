@@ -5,8 +5,9 @@ series: series-ACIDBASE
 level: 2
 youtube_id: 9_3yR5Mrwuc
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-ACIDBASE-21 H⁺ 분비 조절
-tags: [신장-전해질, series-ACIDBASE]
+tags: [신장-전해질, series-ACIDBASE, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥세관의 수소이온 분비는 고정된 양이 아니라, 산염기 상태와 체액량에 따라 능동적으로 조절된다.

@@ -5,8 +5,9 @@ series: series-VES
 level: 2
 youtube_id: 69eLH47CgJw
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: VES08 정맥환류 정맥류
-tags: [심장-혈관, series-VES]
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 ---
 
 > 정맥은 심장의 펌프 압력을 거의 받지 못하므로, 근육 수축과 판막(valve)의 조합으로 혈액을 중력에 맞서 심장으로 올려 보낸다.

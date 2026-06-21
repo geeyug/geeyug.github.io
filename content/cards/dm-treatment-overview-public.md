@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: 7bVIDTatULA
 membership: public
+playlist: public-dm
 short_title: DM 치료 원칙 개요
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 당뇨 치료에 특별한 비법은 없다. 인슐린 부족과 인슐린 저항성이라는 두 가지 문제를 식사·운동·약물로 다루는 것이 전부다. 원리를 알면 유혹에 흔들리지 않는다.

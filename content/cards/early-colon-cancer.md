@@ -5,8 +5,9 @@ topic: ONCO
 level: 1
 youtube_id: X8rwu5dtYmU
 membership: public
+playlist: public-gi
 short_title: GI-CANCER 조기 대장암 정의
-tags: [간-소화기, ONCO]
+tags: [간-소화기, ONCO, public-gi]
 ---
 
 > 조기 대장암은 점막층과 점막하층에 국한된 암을 말하며, 점막층에만 있을 때 암으로 볼 것인지를 놓고 일본과 서구의 기준이 갈린다.

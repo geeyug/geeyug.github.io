@@ -5,8 +5,9 @@ series: series-KIDNEY
 level: 2
 youtube_id: IcwetENWdRE
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-KIDNEY-05 콩팥 혈관 구조
-tags: [신장-전해질, series-KIDNEY]
+tags: [신장-전해질, series-KIDNEY, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥 혈관계는 여과와 재흡수를 위해 모세혈관 교환이 두 차례 일어나도록 설계되어 있다.

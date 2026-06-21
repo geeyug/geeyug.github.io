@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: DtrCtC95KH8
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-07 예후 개선 약물
-tags: [심장-혈관, 약물-기전, series-IHD]
+tags: [심장-혈관, 약물-기전, series-IHD, nieun-ihd]
 ---
 
 > 협심증의 증상을 완화하는 약과 달리, 예후를 개선하는 약은 플라크 안정화, 혈전 억제, 신경호르몬 차단을 통해 심근경색과 사망을 줄인다.

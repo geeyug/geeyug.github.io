@@ -5,8 +5,9 @@ topic: HBV
 level: 1
 youtube_id: PBrE-KLZ2VA
 membership: public
+playlist: public-liver
 short_title: HBV 항암치료 중 관리
-tags: [간-소화기, HBV]
+tags: [간-소화기, HBV, public-liver]
 ---
 
 > 항암치료로 면역이 억제되면 B형간염이 악화되거나 재활성화될 수 있으며, 표면항원 양성인 모든 환자에게 예방적 항바이러스 치료가 권고된다.

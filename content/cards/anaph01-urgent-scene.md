@@ -5,8 +5,9 @@ series: series-ANAPH
 level: 2
 youtube_id: Uy2BFStr1iM
 membership: nieun
+playlist: nieun-anaph
 short_title: series-ANAPH-01 현장의 긴박한 순간들
-tags: [응급, series-ANAPH]
+tags: [응급, series-ANAPH, nieun-anaph]
 ---
 
 > 아나필락시스는 생일 파티에서도, 등산길에서도, 병원 항암 치료실에서도 발생한다. 어디서 일어나든 초기 대응의 속도가 환자의 생사를 가른다.

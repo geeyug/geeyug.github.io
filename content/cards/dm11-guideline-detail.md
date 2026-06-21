@@ -5,7 +5,8 @@ series: series-DM
 level: 3
 youtube_id: 2T9--q3rIgg
 membership: nieun
-tags: [당뇨-대사, series-DM]
+playlist: nieun-dm
+tags: [당뇨-대사, series-DM, nieun-dm]
 short_title: DM11 진료지침 하나하나 뜯어보기
 ---
 

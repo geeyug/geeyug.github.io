@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: R1aueiYpuq0
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-01 소변 농축·희석 원리
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 소변의 농축과 희석은 ADH(항이뇨 호르몬)가 용질과 무관하게 수분 재흡수량만을 독립적으로 조절함으로써 가능하다.

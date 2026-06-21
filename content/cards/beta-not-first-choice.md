@@ -5,7 +5,8 @@ topic: BETA
 level: 2
 youtube_id: vFPxzpEid4k
 membership: ssangkiyeok
-tags: [약물-기전, 심장-혈관, BETA]
+playlist: ssangkiyeok-cardiology
+tags: [약물-기전, 심장-혈관, BETA, ssangkiyeok-cardiology]
 short_title: BETA-05 고혈압 초치료 제외 이유
 ---
 

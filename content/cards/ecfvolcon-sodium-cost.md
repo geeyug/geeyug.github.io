@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 2
 youtube_id: Ll0j9oAzRvQ
 membership: ssangkiyeok
-tags: [신장-전해질, ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: ECFVOLCON-02 소듐 균형의 대가
 ---
 

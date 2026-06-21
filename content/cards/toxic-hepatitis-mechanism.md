@@ -5,8 +5,9 @@ topic: GI
 level: 2
 youtube_id: 0F2YdyDHlMg
 membership: public
+playlist: public-liver
 short_title: GI 독성 간염 기전
-tags: [간-소화기, 약물-기전, GI]
+tags: [간-소화기, 약물-기전, GI, public-liver]
 ---
 
 > 약물에 의한 간손상(drug-induced liver injury, DILI)은 두 가지 경로로 발생한다. 하나는 약물 대사 산물이 직접 간세포를 파괴하는 내인성 독성이고, 다른 하나는 면역계의 과잉 반응인 특이 반응이다.

@@ -5,8 +5,9 @@ topic: HBV
 level: 1
 youtube_id: P7U-MnuHM8U
 membership: public
+playlist: public-patient
 short_title: HBV 알코올 중복 위험
-tags: [간-소화기, HBV]
+tags: [간-소화기, HBV, public-patient]
 ---
 
 > 만성 B형간염 보유자가 음주를 지속하면, 바이러스 손상과 알코올성 염증이 중첩되어 간부전과 사망으로 이어질 수 있다.

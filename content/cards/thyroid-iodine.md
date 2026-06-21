@@ -5,8 +5,9 @@ topic: THYROID
 level: 1
 youtube_id: wtMP0ogi-mQ
 membership: public
+playlist: public-thyroid
 short_title: THYROID 요오드와 갑상선
-tags: [증상-접근, THYROID]
+tags: [증상-접근, THYROID, public-thyroid]
 ---
 
 > 요오드 섭취량이 늘어도 갑상선 호르몬이 그대로 따라 증가하지 않는 것은, 과잉 요오드가 호르몬 합성을 일시적으로 차단하는 기전이 작동하기 때문이다.

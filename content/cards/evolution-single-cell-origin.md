@@ -5,7 +5,8 @@ topic: GENERAL
 level: 1
 youtube_id: 4kWI0XtxKcs
 membership: public
-tags: [증상-접근, GENERAL]
+playlist: 미분류
+tags: [증상-접근, GENERAL, 미분류]
 short_title: 단세포 진화와 단백질 보존
 ---
 

@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 2
 youtube_id: 8RcndCV2Nx8
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-14 치료제 요약
-tags: [약물-기전, 증상-접근, series-OSTEO]
+tags: [약물-기전, 증상-접근, series-OSTEO, nieun-osteo]
 ---
 
 > 골다공증 치료제는 기전과 중단 후 특성에 따라 선택하며, 강력한 약제일수록 사용 후 골흡수 억제제로의 순차 치료(sequential therapy)가 필수적이다.

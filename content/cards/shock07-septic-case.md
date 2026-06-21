@@ -5,8 +5,9 @@ series: series-SHOCK
 level: 2
 youtube_id: j3RlV1RqmvQ
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SHOCK-07 패혈증 케이스
-tags: [응급, series-SHOCK]
+tags: [응급, series-SHOCK, ssangkiyeok-sepsis-shock]
 ---
 
 > 모기에 물린 상처를 통해 유입된 황색포도상구균이 2차 세균 감염을 일으키고, 눈 주변이라는 위치적 특성과 독소 매개 면역 활성화가 맞물려 패혈증으로 빠르게 진행한 사례다.

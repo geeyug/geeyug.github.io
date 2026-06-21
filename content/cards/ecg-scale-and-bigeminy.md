@@ -5,8 +5,9 @@ topic: ECG
 level: 2
 youtube_id: 5k25voDImDk
 membership: ssangkiyeok
+playlist: public-ecg-advanced
 short_title: ECG 심전도 스케일과 이단맥
-tags: [심장-혈관, ECG]
+tags: [심장-혈관, ECG, public-ecg-advanced]
 ---
 
 > 맥박(요골맥)과 심박수(심전도상 박동 수)는 다를 수 있으며, 심실조기수축(PVC)이 이단맥(bigeminy) 형태로 발생하면 요골맥 측정치가 실제 심박수의 절반으로 나타날 수 있다.

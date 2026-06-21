@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: _uCeEOSQPgQ
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-05 요소 재순환
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 요소(urea)는 단백질 대사의 최종 산물이지만, 신장 속질(medulla)의 삼투압을 높이는 데 결정적으로 기여하며 소변 농축 능력을 좌우한다.

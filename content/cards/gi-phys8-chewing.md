@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: EjzOTDuca8g
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GIPHYS-08 저작과 표면적
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 씹기(저작운동)는 반사 작용을 기반으로 음식물의 표면적을 늘려 소화 효율을 높이고, 이후의 이동을 가능하게 하는 소화관 최초의 운동이다.

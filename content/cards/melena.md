@@ -5,7 +5,8 @@ topic: GI
 level: 1
 youtube_id: YyS67WcYxfM
 membership: public
-tags: [간-소화기, GI]
+playlist: public-symptom
+tags: [간-소화기, GI, public-symptom]
 short_title: 흑변·위장관 출혈
 ---
 

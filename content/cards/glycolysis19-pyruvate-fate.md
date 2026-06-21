@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: FFZIgoW2fUw
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 해당과정19 피루브산→아세틸CoA
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 산소가 있으면 피루브산은 피루브산 탈수소효소(PDH) 복합체에 의해 미토콘드리아 안에서 아세틸 CoA로 전환되며, 이 과정은 세포 에너지 상태와 인슐린에 의해 정교하게 조절된다.

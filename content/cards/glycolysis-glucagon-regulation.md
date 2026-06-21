@@ -5,7 +5,8 @@ topic: GLYCOLYSIS
 level: 3
 youtube_id: DmOcdNr8bI0
 membership: ssangkiyeok
-tags: [당뇨-대사, GLYCOLYSIS]
+playlist: ssangkiyeok-metabolism
+tags: [당뇨-대사, GLYCOLYSIS, ssangkiyeok-metabolism]
 short_title: 해당과정24 글루카곤 조절
 ---
 

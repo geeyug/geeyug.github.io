@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 2
 youtube_id: FfeNG79-ozs
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-19 9가지 위험인자
-tags: [응급, series-SEPSIS]
+tags: [응급, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 패혈증의 위험인자는 대부분 면역 저하 또는 병원균 노출 증가라는 두 가지 경로 중 하나로 귀결된다.

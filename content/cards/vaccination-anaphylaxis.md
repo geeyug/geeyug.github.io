@@ -5,8 +5,9 @@ topic: ANAPH
 level: 1
 youtube_id: d05CVWRr0FQ
 membership: public
+playlist: public-patient
 short_title: ANAPH 접종 후 모니터링
-tags: [응급, ANAPH]
+tags: [응급, ANAPH, public-patient]
 ---
 
 > 예방접종 후 아나필락시스(anaphylaxis)는 매우 드물지만, 발생하면 빠른 처치가 없으면 생명을 위협한다. 15분 대기는 이 처치의 타이밍을 놓치지 않기 위한 것이다.

@@ -5,8 +5,9 @@ series: series-BF
 level: 2
 youtube_id: c6EsCFXe-38
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BF02 혈류 조절기전
-tags: [심장-혈관, series-BF]
+tags: [심장-혈관, series-BF, ssangkiyeok-circulation]
 ---
 
 > 각 조직은 대사산물의 농도 변화를 신호로 삼아 모세혈관 앞 괄약근(precapillary sphincter)을 조이거나 풀어, 자신에게 필요한 혈류를 수 초 단위로 직접 조절한다.

@@ -5,7 +5,8 @@ topic: HBV
 level: 2
 youtube_id: n_tClbJzdCg
 membership: nieun
-tags: [간-소화기, HBV]
+playlist: nieun-hbv
+tags: [간-소화기, HBV, nieun-hbv]
 short_title: HBV-06 만성 B형간염 자연경과
 ---
 

@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: rqgCp6ICGDA
 membership: nieun
+playlist: nieun-lupus
 short_title: series-LUPUS-12 Malar rash 감별
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 루푸스의 malar rash는 양쪽 대칭의 나비 모양 홍반으로, 비순구(nasolabial fold)가 보존된다는 점이 가장 중요한 특징이다. 얼굴 홍반은 원인이 다양하므로 반드시 감별이 필요하다.

@@ -5,7 +5,8 @@ topic: COLON
 level: 2
 youtube_id: 6q37h_-5C1A
 membership: public
-tags: [간-소화기, COLON]
+playlist: public-gi
+tags: [간-소화기, COLON, public-gi]
 short_title: COLON 조기대장암 내시경치료
 ---
 

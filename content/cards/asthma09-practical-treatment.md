@@ -5,8 +5,9 @@ series: series-ASTHMA
 level: 2
 youtube_id: Z0Fm1j5GkOk
 membership: nieun
+playlist: nieun-asthma
 short_title: series-ASTHMA-09 실전 치료
-tags: [호흡기, series-ASTHMA]
+tags: [호흡기, series-ASTHMA, nieun-asthma]
 ---
 
 > 천식 치료는 증상 빈도로 스텝을 정하고, 트랙 1 또는 트랙 2 전략으로 실제 흡입제를 선택한다.

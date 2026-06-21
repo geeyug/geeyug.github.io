@@ -5,7 +5,8 @@ series: series-DM
 level: 2
 youtube_id: QIt37tiuo-8
 membership: nieun
-tags: [당뇨-대사, 약물-기전, series-DM]
+playlist: nieun-dm
+tags: [당뇨-대사, 약물-기전, series-DM, nieun-dm]
 short_title: DM17 비만치료제
 ---
 

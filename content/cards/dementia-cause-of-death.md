@@ -5,8 +5,9 @@ topic: DEMENTIA
 level: 1
 youtube_id: 0UT046mXhPE
 membership: ssangkiyeok
+playlist: 미분류
 short_title: 치매 사망 원인
-tags: [증상-접근, DEMENTIA]
+tags: [증상-접근, DEMENTIA, 미분류]
 ---
 
 > 말기 치매 환자의 사망은 뇌 기능 직접 저하보다 폐렴, 요로 감염, 욕창 감염, 영양 불량 등 합병증에 의한 경우가 대부분이다.

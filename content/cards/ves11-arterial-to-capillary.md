@@ -5,8 +5,9 @@ series: series-VES
 level: 2
 youtube_id: 6MaUZHhz3B4
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: VES11 동맥에서 모세혈관
-tags: [심장-혈관, series-VES]
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 ---
 
 > 심장에서 나온 혈액은 대동맥에서 출발해 여러 단계의 분지를 거쳐 세동맥(arteriole)과 후세동맥(meta-arteriole)을 지나 모세혈관에 도달하며, 각 단계는 혈류량 조절이라는 고유한 역할을 맡고 있다.

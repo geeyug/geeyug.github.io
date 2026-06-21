@@ -5,7 +5,8 @@ topic: SYNCOPE
 level: 2
 youtube_id: RgFizUVC3HE
 membership: ssangkiyeok
-tags: [증상-접근, SYNCOPE]
+playlist: ssangkiyeok-syncope
+tags: [증상-접근, SYNCOPE, ssangkiyeok-syncope]
 short_title: SYNCOPE-12 신경매개성 실신
 ---
 

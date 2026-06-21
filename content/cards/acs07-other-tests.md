@@ -5,8 +5,9 @@ series: series-ACS
 level: 2
 youtube_id: ZqTrsOju9v8
 membership: nieun
+playlist: nieun-acs
 short_title: ACS07 보조 검사
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > 심전도·트로포닌에 더해 심장초음파·CT·심장 MRI가 series-ACS 평가를 보완할 수 있으나, 어떤 검사도 관상동맥 조영술을 지연시키는 이유가 되어서는 안 된다.

@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: jlEbytkd0yw
 membership: public
+playlist: public-pancreas
 short_title: 무담석 급성 담낭염
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, public-pancreas]
 ---
 
 > 무담석 급성 담낭염(acalculous cholecystitis)은 신체가 극도로 손상된 상태에서 생기며, 담석성 담낭염보다 합병증과 사망률이 높다.

@@ -5,7 +5,8 @@ topic: ANAPH
 level: 2
 youtube_id: 0F2AyrZFAjc
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH12 네 가지 기전
 ---
 

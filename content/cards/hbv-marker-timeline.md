@@ -5,7 +5,8 @@ topic: HBV
 level: 2
 youtube_id: SU972St2KU0
 membership: public
-tags: [간-소화기, HBV]
+playlist: public-liver
+tags: [간-소화기, HBV, public-liver]
 short_title: HBV 항원·항체 타임라인
 ---
 

@@ -5,8 +5,9 @@ series: series-HYPERNA
 level: 2
 youtube_id: SE6KRXrCnXc
 membership: nieun
+playlist: nieun-electrolyte
 short_title: series-HYPERNA-01 접근 및 평가
-tags: [신장-전해질, series-HYPERNA]
+tags: [신장-전해질, series-HYPERNA, nieun-electrolyte]
 ---
 
 > 고나트륨혈증(hypernatremia)은 혈장 Na⁺ 145 mEq/L 초과를 말하며, 원인은 크게 수분 감소와 나트륨 과잉 두 가지뿐이다. 실제 대부분은 수분 감소(탈수)이며, 소변 삼투압이 감별의 핵심 지표다.

@@ -5,8 +5,9 @@ series: series-AKI
 level: 3
 youtube_id: sgKsS0cqazY
 membership: nieun
+playlist: nieun-aki
 short_title: AKI07 Septic series-AKI
-tags: [신장-전해질, 응급, series-AKI]
+tags: [신장-전해질, 응급, series-AKI, nieun-aki]
 ---
 
 > 패혈증(sepsis) 상황에서 콩팥 기능이 떨어지는 것은 혈압 저하만의 문제가 아니라, 말초 혈관 확장·신장 정맥압 상승·미세혈관 손상이 복합적으로 작용한 결과이다.

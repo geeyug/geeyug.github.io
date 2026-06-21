@@ -5,8 +5,9 @@ series: series-ACS
 level: 2
 youtube_id: M3fCcx-wkUY
 membership: nieun
+playlist: nieun-acs
 short_title: ACS10 장기 약물 관리
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > 심근경색 후 장기 관리의 핵심은 스타틴·베타차단제·레닌-안지오텐신 차단제를 통해 혈관 사건 재발과 심장 기능 악화를 동시에 억제하는 것이다.

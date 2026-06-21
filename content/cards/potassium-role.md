@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 1
 youtube_id: SCvdKKiacnE
 membership: public
-tags: [신장-전해질, ECFVOLCON]
+playlist: public-h2co3
+tags: [신장-전해질, ECFVOLCON, public-h2co3]
 short_title: FLUID 포타슘의 역할
 ---
 

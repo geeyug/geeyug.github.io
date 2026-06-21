@@ -5,8 +5,9 @@ series: series-CO
 level: 3
 youtube_id: Zvhr-7in-O0
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-07 심박출량 그래프 분석
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 심박출량 곡선은 흉강 내 압력(intrapleural pressure, IPP)에 따라 좌우로 이동하며, IPP 감소는 정맥환류를 증가시키고 IPP 증가는 감소시킨다.

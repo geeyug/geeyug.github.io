@@ -5,8 +5,9 @@ topic: RESP
 level: 2
 youtube_id: ZRVCthpshlI
 membership: ssangkiyeok
+playlist: ssangkiyeok-resp
 short_title: RESP-P06 흡연·직업력
-tags: [호흡기, 증상-접근, RESP]
+tags: [호흡기, 증상-접근, RESP, ssangkiyeok-resp]
 ---
 
 > 호흡기 병력에서 흡연력과 직업력은 증상보다 더 중요한 단서가 될 수 있으며, 현재 흡연 여부뿐 아니라 과거 흡연력, 간접 흡연, 작업 환경까지 빠짐없이 확인해야 한다.

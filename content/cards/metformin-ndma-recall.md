@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: _bUSf8yc-yU
 membership: public
+playlist: public-dm
 short_title: DM 메트포르민 NDMA 회수
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 메트포르민 완제품 288종 중 31종에서 발암 가능 물질 NDMA가 검출됐지만, 나머지 257종은 문제없으며 검출된 31종의 인체 영향도 매우 낮은 수준이다.

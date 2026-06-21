@@ -5,7 +5,8 @@ topic: DM
 level: 1
 youtube_id: Clkd8JAlCNQ
 membership: public
-tags: [당뇨-대사, 약물-기전, DM]
+playlist: public-dm
+tags: [당뇨-대사, 약물-기전, DM, public-dm]
 short_title: DM 시타글립틴 기침 부작용
 ---
 

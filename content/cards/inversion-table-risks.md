@@ -5,8 +5,9 @@ topic: GENERAL
 level: 1
 youtube_id: 3p59vEyAFEo
 membership: ssangkiyeok
+playlist: 미분류
 short_title: 거꾸리 3가지 위험
-tags: [증상-접근, GENERAL]
+tags: [증상-접근, GENERAL, 미분류]
 ---
 
 > 거꾸리(inversion table) 사용은 실신 위험, 뇌혈관 문제, 안전 사고의 세 가지 위험을 수반하며, 특히 고령자나 심혈관계 질환이 있는 경우 주의가 필요하다.

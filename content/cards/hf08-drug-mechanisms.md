@@ -5,8 +5,9 @@ series: series-HF
 level: 3
 youtube_id: BJKdRuX9bGE
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-08 2차약제·기기치료
-tags: [심장-혈관, 약물-기전, series-HF]
+tags: [심장-혈관, 약물-기전, series-HF, nieun-hf]
 ---
 
 > HFrEF 치료는 표준 약물을 최대한 쓴 뒤에도 증상이 지속되면 기기 치료 적응증을 먼저 검토하고, 그래도 안 될 때 2차 약제를 추가하는 순서로 진행된다.

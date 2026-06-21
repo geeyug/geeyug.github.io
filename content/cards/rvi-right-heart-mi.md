@@ -5,8 +5,9 @@ topic: MI
 level: 2
 youtube_id: 0B3WYEOgOfA
 membership: ssangkiyeok
+playlist: 미분류
 short_title: MI 우심실 심근경색
-tags: [심장-혈관, MI]
+tags: [심장-혈관, MI, 미분류]
 ---
 
 > 우심실 심근경색은 좌심실 심근경색과 달리 혈액량(볼륨) 부족이 핵심 문제이므로, 치료 접근이 근본적으로 다르다.

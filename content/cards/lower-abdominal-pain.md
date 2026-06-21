@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 5IPMEbFauQM
 membership: public
+playlist: public-symptom
 short_title: GI 아랫배 통증 접근
-tags: [증상-접근, GI]
+tags: [증상-접근, GI, public-symptom]
 ---
 
 > 아랫배 통증은 방광·대장·부인과(여성) 세 영역 중 하나에서 비롯되며, 검사 결과가 정상이어도 통증이 지속된다면 아직 감별되지 않은 다른 원인이 남아 있다는 뜻이다.

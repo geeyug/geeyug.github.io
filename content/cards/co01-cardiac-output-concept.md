@@ -5,8 +5,9 @@ series: series-CO
 level: 2
 youtube_id: 8eCAmIMILpo
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-CO-01 심박출량과 정맥환류
-tags: [심장-혈관, series-CO]
+tags: [심장-혈관, series-CO, ssangkiyeok-circulation]
 ---
 
 > 심박출량(cardiac output)과 정맥환류(venous return)는 크기가 항상 같으며, 이 값은 신체 모든 조직으로 흐르는 혈류의 합을 나타낸다.

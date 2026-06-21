@@ -5,7 +5,8 @@ topic: DM
 level: 1
 youtube_id: u2mfnn8Af7c
 membership: public
-tags: [당뇨-대사, DM]
+playlist: public-dm
+tags: [당뇨-대사, DM, public-dm]
 short_title: DM 저혈당 vs 고혈당
 ---
 

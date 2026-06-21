@@ -5,8 +5,9 @@ series: series-OSTEO
 level: 3
 youtube_id: tjC3F30RyJg
 membership: nieun
+playlist: nieun-osteo
 short_title: series-OSTEO-09 HRT·SERM·TSEC
-tags: [약물-기전, series-OSTEO]
+tags: [약물-기전, series-OSTEO, nieun-osteo]
 ---
 
 > 에스트로겐 보충은 골다공증에 효과적이지만 자궁내막암·유방암·혈전 위험을 동반한다. SERM, TSEC, tibolone은 이 부작용을 조직 선택적으로 줄이려는 시도다.

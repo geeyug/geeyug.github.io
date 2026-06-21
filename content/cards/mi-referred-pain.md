@@ -5,7 +5,8 @@ topic: ACS
 level: 1
 youtube_id: Nid8uF8ggBc
 membership: public
-tags: [심장-혈관, ACS]
+playlist: public-symptom
+tags: [심장-혈관, ACS, public-symptom]
 short_title: ACS 방사통과 골든타임
 ---
 

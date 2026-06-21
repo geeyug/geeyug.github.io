@@ -5,8 +5,9 @@ series: series-SEPSIS
 level: 2
 youtube_id: MBFMsEcHdSw
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SEPSIS-20 증상 분류
-tags: [응급, series-SEPSIS]
+tags: [응급, series-SEPSIS, ssangkiyeok-sepsis-shock]
 ---
 
 > 패혈증의 증상은 감염 국소, 전신 염증 반응, 혈류 변화에 따른 장기 손상으로 층위를 나누어야 전체 그림이 보인다.

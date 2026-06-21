@@ -5,8 +5,9 @@ series: series-PAIN
 level: 3
 youtube_id: 1AJO2PzrN2M
 membership: ssangkiyeok
+playlist: ssangkiyeok-pain
 short_title: series-PAIN-09 대상포진 후 신경통
-tags: [증상-접근, series-PAIN]
+tags: [증상-접근, series-PAIN, ssangkiyeok-pain]
 ---
 
 > 대상포진 후 신경통은 말초 염증이 사라진 뒤에도 말초 신경 손상이 중추신경계의 구조적 변화를 일으켜 통증이 수년간 지속되는 상태이다.

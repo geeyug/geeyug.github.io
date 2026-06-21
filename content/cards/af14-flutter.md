@@ -5,8 +5,9 @@ series: series-AF
 level: 2
 youtube_id: l5RQUkeKjUE
 membership: nieun
+playlist: nieun-af
 short_title: AF14 심방조동
-tags: [심장-혈관, series-AF]
+tags: [심장-혈관, series-AF, nieun-af]
 ---
 
 > 심방조동(atrial flutter)은 심방세동보다 규칙적이고 맥박이 더 빠를 수 있으며, 혈전증 위험과 항응고 치료 원칙은 심방세동에 준하지만, 전형적 심방조동(typical atrial flutter)은 단일 병변 차단으로 치료 효과가 뚜렷하다.

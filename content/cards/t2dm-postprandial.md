@@ -5,7 +5,8 @@ series: series-DM
 level: 2
 youtube_id: -iTogtCwnyo
 membership: public
-tags: [당뇨-대사, series-DM]
+playlist: public-dm
+tags: [당뇨-대사, series-DM, public-dm]
 short_title: series-DM 식후 혈당과 GLP-1
 ---
 

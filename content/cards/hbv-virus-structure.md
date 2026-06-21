@@ -5,7 +5,8 @@ topic: HBV
 level: 2
 youtube_id: DMDQyx60_N0
 membership: nieun
-tags: [간-소화기, HBV]
+playlist: nieun-hbv
+tags: [간-소화기, HBV, nieun-hbv]
 short_title: HBV-02 바이러스 구조
 ---
 

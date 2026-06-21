@@ -5,8 +5,9 @@ series: series-COPD
 level: 2
 youtube_id: OuY03qgHJzI
 membership: nieun
+playlist: nieun-copd
 short_title: COPD04 폐기능검사
-tags: [호흡기, series-COPD]
+tags: [호흡기, series-COPD, nieun-copd]
 ---
 
 > series-COPD 진단의 핵심은 기관지 확장제 투여 후 FEV1/FVC 비율이 0.7 미만임을 폐기능 검사(spirometry)로 확인하는 것이다.

@@ -5,7 +5,8 @@ topic: SHOCK
 level: 2
 youtube_id: 1jdrB-mpb0U
 membership: ssangkiyeok
-tags: [응급, SHOCK]
+playlist: ssangkiyeok-sepsis-shock
+tags: [응급, SHOCK, ssangkiyeok-sepsis-shock]
 short_title: SHOCK-10 갑상선중독증 쇼크
 ---
 

@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: u7_zkhY7xNY
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈07 만성질환 빈혈
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 만성질환에 의한 빈혈(anemia of chronic disease, ACD)은 철이 부족해서가 아니라, 헵시딘(hepcidin)이 철의 이동을 막아 몸이 철을 제대로 쓰지 못하는 상태다.

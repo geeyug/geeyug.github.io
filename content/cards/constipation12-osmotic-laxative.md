@@ -5,8 +5,9 @@ series: series-CONSTIPATION
 level: 2
 youtube_id: FCLPeAuRvgc
 membership: ssangkiyeok
+playlist: ssangkiyeok-bowel
 short_title: 변비12 삼투성하제
-tags: [간-소화기, 약물-기전, series-CONSTIPATION]
+tags: [간-소화기, 약물-기전, series-CONSTIPATION, ssangkiyeok-bowel]
 ---
 
 > 삼투성 하제는 장 안에 흡수되지 않는 물질을 넣어 수분을 끌어당김으로써 변비를 해결하는 약이며, 종류에 따라 적용 대상과 주의점이 다르다.

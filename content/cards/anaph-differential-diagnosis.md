@@ -5,7 +5,8 @@ topic: ANAPH
 level: 3
 youtube_id: Cp3G4gxk_nw
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH09 감별 진단
 ---
 

@@ -5,8 +5,9 @@ series: series-BPN
 level: 3
 youtube_id: P_MRiuWIc0A
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPN07 CNS 허혈반응·쿠싱반응
-tags: [심장-혈관, series-BPN]
+tags: [심장-혈관, series-BPN, ssangkiyeok-circulation]
 ---
 
 > 뇌로 가는 혈류가 극도로 감소하면 연수의 혈관운동 중추가 극단적으로 활성화되어 혈압을 250mmHg까지 끌어올린다. 이것이 중추신경계 허혈 반응이며, 뇌부종 상황에서는 쿠싱 반응(Cushing response)이라는 특수한 진동 패턴이 나타날 수 있다.

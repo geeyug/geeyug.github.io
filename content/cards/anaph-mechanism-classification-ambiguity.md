@@ -5,7 +5,8 @@ topic: ANAPH
 level: 3
 youtube_id: -MyWLVm0rlg
 membership: nieun
-tags: [응급, ANAPH]
+playlist: nieun-anaph
+tags: [응급, ANAPH, nieun-anaph]
 short_title: ANAPH16 기전 분류의 모호성
 ---
 

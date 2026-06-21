@@ -5,8 +5,9 @@ series: series-BPK
 level: 2
 youtube_id: 23kCj5vXyYU
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPK02 혈압 균형점 이론
-tags: [심장-혈관, 신장-전해질, series-BPK]
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 ---
 
 > 장기적 혈압은 혈압이뇨곡선과 소금·수분 섭취량이 교차하는 균형점에서 결정된다.

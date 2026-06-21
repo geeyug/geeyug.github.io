@@ -5,7 +5,8 @@ topic: HTN
 level: 1
 youtube_id: 42Jr6KzJAaU
 membership: public
-tags: [심장-혈관, HTN]
+playlist: public-htn
+tags: [심장-혈관, HTN, public-htn]
 short_title: HTN 생활요법 효과
 ---
 

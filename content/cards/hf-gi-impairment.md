@@ -5,8 +5,9 @@ topic: HF
 level: 1
 youtube_id: qSY1IDXkAhA
 membership: public
+playlist: public-body
 short_title: HF 장 혈류·소화 장애
-tags: [심장-혈관, HF]
+tags: [심장-혈관, HF, public-body]
 ---
 
 > 심장 기능이 저하되면 장 융모(intestinal villi) 끝까지 혈류가 닿지 못하고, 흡수 표면적이 줄어 소화·흡수 기능이 저하된다.

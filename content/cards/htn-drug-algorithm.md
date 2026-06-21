@@ -5,7 +5,8 @@ topic: BP
 level: 2
 youtube_id: 9nqqtMwgVUo
 membership: public
-tags: [심장-혈관, BP]
+playlist: public-htn
+tags: [심장-혈관, BP, public-htn]
 short_title: BP 고혈압약 처방 알고리즘
 ---
 

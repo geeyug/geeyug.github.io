@@ -5,7 +5,8 @@ topic: GI
 level: 2
 youtube_id: 13165aGgaV8
 membership: public
-tags: [간-소화기, 약물-기전, GI]
+playlist: 미분류
+tags: [간-소화기, 약물-기전, GI, 미분류]
 short_title: GI P-CAB 기전
 ---
 

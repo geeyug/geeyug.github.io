@@ -5,8 +5,9 @@ topic: HBV
 level: 1
 youtube_id: fyQMJvlzI_w
 membership: public
+playlist: public-liver
 short_title: HBV 간생검 적응증
-tags: [간-소화기, HBV]
+tags: [간-소화기, HBV, public-liver]
 ---
 
 > 만성 B형간염에서 ALT가 정상이더라도 나이와 DNA 수치에 따라 간생검을 통해 실제 염증·섬유화 정도를 확인한 뒤 치료 여부를 결정해야 하는 경우가 있다.

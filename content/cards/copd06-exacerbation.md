@@ -5,8 +5,9 @@ series: series-COPD
 level: 2
 youtube_id: mDzqv2zIP38
 membership: nieun
+playlist: nieun-copd
 short_title: COPD06 급성악화
-tags: [호흡기, series-COPD]
+tags: [호흡기, series-COPD, nieun-copd]
 ---
 
 > series-COPD 급성 악화는 기존의 만성 염증 위에 유발 인자가 겹쳐 기도가 급격히 좁아지는 상태로, 호흡부전과 사망에 이를 수 있어 즉각적인 치료가 필요하다.

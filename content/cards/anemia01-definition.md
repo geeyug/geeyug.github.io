@@ -5,8 +5,9 @@ series: series-HEMATOLOGY
 level: 2
 youtube_id: M7JULN1i7SU
 membership: nieun
+playlist: nieun-anemia
 short_title: 빈혈01 정의와 접근법
-tags: [증상-접근, series-HEMATOLOGY]
+tags: [증상-접근, series-HEMATOLOGY, nieun-anemia]
 ---
 
 > 빈혈은 적혈구의 양이 산소 요구량을 충족하지 못할 만큼 감소한 상태이며, CBC와 RPI(망상적혈구생산지수)로 체계적으로 분류한다.

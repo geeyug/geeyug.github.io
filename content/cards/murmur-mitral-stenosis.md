@@ -5,7 +5,8 @@ topic: MURMUR
 level: 2
 youtube_id: kbKURSMTpjo
 membership: ssangkiyeok
-tags: [심장-혈관, MURMUR]
+playlist: ssangkiyeok-cardiology
+tags: [심장-혈관, MURMUR, ssangkiyeok-cardiology]
 short_title: MURMUR-03 MS 심잡음
 ---
 

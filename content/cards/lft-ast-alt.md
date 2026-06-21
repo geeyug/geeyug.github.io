@@ -5,8 +5,9 @@ topic: LFT
 level: 1
 youtube_id: Y5ISRe22zAU
 membership: public
+playlist: public-liver-enzyme
 short_title: LFT-01 AST와 ALT
-tags: [간-소화기, LFT]
+tags: [간-소화기, LFT, public-liver-enzyme]
 ---
 
 > AST와 ALT는 간세포 안에서만 작동하는 효소로, 세포가 손상되어 밖으로 유출될 때 혈중 수치가 오른다. 두 효소의 분포 차이가 원인 감별의 단서가 된다.

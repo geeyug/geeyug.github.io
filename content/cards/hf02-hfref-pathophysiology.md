@@ -5,8 +5,9 @@ series: series-HF
 level: 3
 youtube_id: dL5_4KfuH-I
 membership: nieun
+playlist: nieun-hf
 short_title: series-HF-02 HFrEF 병태생리
-tags: [심장-혈관, series-HF]
+tags: [심장-혈관, series-HF, nieun-hf]
 ---
 
 > 박출률감소심부전(HFrEF)에서 심장 기능이 점점 나빠지는 이유는, 심박출량 감소를 만회하려는 신경호르몬 보상기전(neurohormonal compensatory mechanism)이 장기적으로 심장·혈관·콩팥에 이차 손상을 일으키기 때문이다.

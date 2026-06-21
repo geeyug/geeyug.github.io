@@ -5,7 +5,8 @@ series: series-ASTHMA
 level: 2
 youtube_id: 5fyRSiGch2U
 membership: nieun
-tags: [호흡기, series-ASTHMA]
+playlist: nieun-asthma
+tags: [호흡기, series-ASTHMA, nieun-asthma]
 short_title: series-ASTHMA-02 5가지 표현형
 ---
 

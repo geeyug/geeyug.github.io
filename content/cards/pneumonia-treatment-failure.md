@@ -5,8 +5,9 @@ topic: PNEUMONIA
 level: 2
 youtube_id: 0MAUKoeu1ZU
 membership: ssangkiyeok
+playlist: 미분류
 short_title: 폐렴 치료 실패 9가지
-tags: [호흡기, 감염-항생제, PNEUMONIA]
+tags: [호흡기, 감염-항생제, PNEUMONIA, 미분류]
 ---
 
 > 폐렴 치료 실패는 균이 강하거나, 면역이 약하거나, 감염이 복잡하게 얽혀 있거나, 진단 자체가 틀렸기 때문에 생긴다.

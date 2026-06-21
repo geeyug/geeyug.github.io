@@ -5,8 +5,9 @@ topic: GI-PHYS
 level: 2
 youtube_id: 4ABPjXDiBKI
 membership: ssangkiyeok
+playlist: ssangkiyeok-gi-phys
 short_title: GI-PHYS15 대장 운동
-tags: [간-소화기, GI-PHYS]
+tags: [간-소화기, GI-PHYS, ssangkiyeok-gi-phys]
 ---
 
 > 대장은 앞쪽에서 수분을 흡수하고 뒤쪽에서 변을 저장했다가 내보낸다. 혼합 운동이 내용물을 장벽에 반복적으로 노출시켜 수분을 빼내고, 집단 운동이 한꺼번에 변을 직장으로 밀어낸다. 집단 운동은 식사가 위와 십이지장에 도달할 때 반사적으로 유발된다.

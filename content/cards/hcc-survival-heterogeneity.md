@@ -5,8 +5,9 @@ topic: HCC
 level: 1
 youtube_id: BQnt058_mt0
 membership: public
+playlist: public-liver
 short_title: HCC 생존율과 이질성
-tags: [간-소화기, HCC]
+tags: [간-소화기, HCC, public-liver]
 ---
 
 > 간암의 5년 생존율이 35~40%에 머무는 핵심 이유는 간암이 생물학적으로 균일하지 않은, 이질성(heterogeneity)이 높은 암이기 때문이다.

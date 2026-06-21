@@ -5,8 +5,9 @@ series: series-KIDNEY
 level: 2
 youtube_id: 33EYschGdNk
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: series-KIDNEY-19 TGF 되먹임 기전
-tags: [신장-전해질, series-KIDNEY]
+tags: [신장-전해질, series-KIDNEY, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥은 세관 끝에서 소금 농도를 감지해 사구체 혈류를 피드백 제어한다. 이 기전을 세관-사구체 되먹임(tubuloglomerular feedback, TGF)이라 한다.

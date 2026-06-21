@@ -5,8 +5,9 @@ series: series-CIRRHOSIS
 level: 2
 youtube_id: pgouP2tsuX4
 membership: nieun
+playlist: nieun-cirrhosis
 short_title: series-CIRRHOSIS-04 복수 치료
-tags: [간-소화기, 신장-전해질, series-CIRRHOSIS]
+tags: [간-소화기, 신장-전해질, series-CIRRHOSIS, nieun-cirrhosis]
 ---
 
 > 간경변성 복수의 치료 원칙은 원인 간질환 치료, 염분 제한, 이뇨제 사용이며, 이뇨제 핵심은 RAAS를 직접 억제하는 스피로노락톤(spironolactone)이다.

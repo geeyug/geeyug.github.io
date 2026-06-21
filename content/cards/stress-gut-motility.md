@@ -5,7 +5,8 @@ topic: GI
 level: 1
 youtube_id: 2kt9uj23GWA
 membership: public
-tags: [간-소화기, GI]
+playlist: public-body
+tags: [간-소화기, GI, public-body]
 short_title: GI 긴장과 장운동
 ---
 

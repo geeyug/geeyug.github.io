@@ -5,7 +5,8 @@ series: series-DM
 level: 1
 youtube_id: D92TqVWAmI0
 membership: public
-tags: [당뇨-대사, 신장-전해질, 약물-기전, series-DM]
+playlist: public-dm
+tags: [당뇨-대사, 신장-전해질, 약물-기전, series-DM, public-dm]
 short_title: SGLT2 콩팥 보호
 ---
 

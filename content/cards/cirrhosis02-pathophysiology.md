@@ -5,8 +5,9 @@ series: series-CIRRHOSIS
 level: 3
 youtube_id: mZi8oCI9jXg
 membership: nieun
+playlist: nieun-cirrhosis
 short_title: series-CIRRHOSIS-02 병태생리
-tags: [간-소화기, 신장-전해질, series-CIRRHOSIS]
+tags: [간-소화기, 신장-전해질, series-CIRRHOSIS, nieun-cirrhosis]
 ---
 
 > 간경변의 병태생리는 간 혼자의 문제가 아니라 간, 내장 혈관계(splanchnic vasculature), 콩팥, 심장이 연쇄적으로 얽히는 전신 반응이다.

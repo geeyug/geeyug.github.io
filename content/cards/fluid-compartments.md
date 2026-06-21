@@ -5,7 +5,8 @@ topic: ECFVOLCON
 level: 1
 youtube_id: 8HVlytFBQwY
 membership: public
-tags: [신장-전해질, ECFVOLCON]
+playlist: public-body
+tags: [신장-전해질, ECFVOLCON, public-body]
 short_title: FLUID 체액 구획
 ---
 

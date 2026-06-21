@@ -5,8 +5,9 @@ topic: LIPID
 level: 1
 youtube_id: B9o5QERNGtM
 membership: public
+playlist: public-patient
 short_title: LIPID 콜레스테롤과 증상
-tags: [심장-혈관, 증상-접근, LIPID]
+tags: [심장-혈관, 증상-접근, LIPID, public-patient]
 ---
 
 > 고콜레스테롤혈증과 고혈압은 증상이 없는 병이다. 막연한 불편감이 이 수치들 때문이라는 연관은 근거가 없으며, 수치가 개선된다고 그 불편감이 사라지지도 않는다.

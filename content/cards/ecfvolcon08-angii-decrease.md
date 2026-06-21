@@ -5,7 +5,8 @@ series: series-ECFVOLCON
 level: 2
 youtube_id: 9Mk6N4Lmrg4
 membership: ssangkiyeok
-tags: [신장-전해질, series-ECFVOLCON]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, series-ECFVOLCON, ssangkiyeok-kidney-phys]
 short_title: series-ECFVOLCON-08 Ang II 감소
 ---
 

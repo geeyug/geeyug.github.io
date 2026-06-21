@@ -5,7 +5,8 @@ topic: ACS
 level: 2
 youtube_id: 4AMrUqYFL7U
 membership: nieun
-tags: [심장-혈관, ACS]
+playlist: nieun-acs
+tags: [심장-혈관, ACS, nieun-acs]
 short_title: ACS-06 심근효소 시간차
 ---
 

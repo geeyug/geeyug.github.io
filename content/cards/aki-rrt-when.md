@@ -5,7 +5,8 @@ topic: AKI
 level: 3
 youtube_id: O3_ChQ-vu1E
 membership: nieun
-tags: [신장-전해질, AKI]
+playlist: nieun-aki
+tags: [신장-전해질, AKI, nieun-aki]
 short_title: AKI10 신대체요법 적응증
 ---
 

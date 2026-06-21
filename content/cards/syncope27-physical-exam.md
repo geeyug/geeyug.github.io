@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: MKCE4U1mqy4
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-SYNCOPE-27 이학적 검사
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-cardiology]
 ---
 
 > 실신 환자의 이학적 검사는 활력 징후(vital signs), 심혈관계 진찰, 신경학적 검사 세 축으로 구성되며, 그 중에서도 혈압을 자세별로 연속 측정하는 것이 핵심이다.

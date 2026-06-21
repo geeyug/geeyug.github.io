@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: gQeDX14A10k
 membership: nieun
+playlist: nieun-lupus
 short_title: series-LUPUS-17 1차진료 의심
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 1차 진료에서 루푸스를 새로 진단하는 경우는 수 년에 한 번이지만, 의심해야 하는 순간은 훨씬 자주 온다. 이 두 가지를 구별하지 못하면 진단 기회를 놓칠 수 있다.

@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 1XBY3AAsfG0
 membership: public
+playlist: public-body
 short_title: GI 소화액 총정리
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, public-body]
 ---
 
 > 소화는 여러 기관이 서로 다른 소화액을 분비하면서 단계적으로 진행되며, 각 소화액은 자신이 위치한 구간에서 필요한 역할을 정확히 맡는다.

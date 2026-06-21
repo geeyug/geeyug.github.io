@@ -5,8 +5,9 @@ topic: DM
 level: 1
 youtube_id: 3j4-hVR4pQQ
 membership: public
+playlist: public-dm
 short_title: DM 혈당 목표·진동
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, public-dm]
 ---
 
 > 혈당은 식사·수면·활동·스트레스에 따라 매일 달라진다. 이 변동은 생리적으로 불가피하다. 잡아야 할 것은 장기 평균이지, 하루하루의 수치 자체가 아니다.

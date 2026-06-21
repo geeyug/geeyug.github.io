@@ -5,8 +5,9 @@ series: series-HEART
 level: 2
 youtube_id: ge7BD-qpVME
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: series-HEART-06 심장의 일과 에너지
-tags: [심장-혈관, series-HEART]
+tags: [심장-혈관, series-HEART, ssangkiyeok-circulation]
 ---
 
 > 심장이 한 일의 양은 압력과 용적의 변화로 계산하며, 정상 상황에서는 압력-용적 일이 대부분이지만 대동맥판막 협착증에서는 혈류 가속에 필요한 에너지가 전체의 절반 이상을 차지하게 된다.

@@ -5,7 +5,8 @@ topic: PAIN
 level: 2
 youtube_id: 056WbEBJQNs
 membership: ssangkiyeok
-tags: [증상-접근, PAIN]
+playlist: ssangkiyeok-pain
+tags: [증상-접근, PAIN, ssangkiyeok-pain]
 short_title: PAIN-02 통증의 삼중 구조
 ---
 

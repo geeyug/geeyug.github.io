@@ -5,7 +5,8 @@ series: series-ACIDBASE
 level: 2
 youtube_id: -lxXSIsQ9Ec
 membership: ssangkiyeok
-tags: [신장-전해질, series-ACIDBASE]
+playlist: ssangkiyeok-kidney-phys
+tags: [신장-전해질, series-ACIDBASE, ssangkiyeok-kidney-phys]
 short_title: series-ACIDBASE-15 수소이온 일차능동분비
 ---
 

@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 2
 youtube_id: sd3Kq_UzyQ0
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-06 직혈관 반류 교환계
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 속질의 고농도 환경은 직혈관(vasa recta)의 반류 교환(countercurrent exchange) 구조 덕분에 씻겨 내려가지 않고 유지된다.

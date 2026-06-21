@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: kHMi5cem41o
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-07 S2 넓은 분열
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > S2의 넓은 분열(wide splitting)은 P2가 비정상적으로 딜레이되거나 A2가 비정상적으로 일찍 닫힐 때 나타난다.

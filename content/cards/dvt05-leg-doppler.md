@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: 56ZOHhO1RIA
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-DVT-05 레그 도플러
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > 압박 초음파(compression ultrasound)는 series-DVT 진단의 핵심 검사이지만, 검사자의 숙련도와 장비 수준에 따라 결과의 신뢰도가 크게 달라진다.

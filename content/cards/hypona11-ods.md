@@ -5,7 +5,8 @@ series: series-HYPONA
 level: 3
 youtube_id: HG8cPv7OVT8
 membership: nieun
-tags: [신장-전해질, series-HYPONA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, series-HYPONA, nieun-electrolyte]
 short_title: HYPONA11 ODS 삼투성탈수초
 ---
 

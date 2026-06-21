@@ -5,8 +5,9 @@ series: series-SHOCK
 level: 2
 youtube_id: -BIeqPW1JRo
 membership: ssangkiyeok
+playlist: ssangkiyeok-sepsis-shock
 short_title: series-SHOCK-03 분배성 쇼크
-tags: [응급, series-SHOCK]
+tags: [응급, series-SHOCK, ssangkiyeok-sepsis-shock]
 ---
 
 > 분배성 쇼크(distributive shock)는 혈액량이 줄어서가 아니라, 혈관이 과도하게 확장되어 혈액이 조직에 제대로 배분되지 못하면서 발생하는 쇼크다.

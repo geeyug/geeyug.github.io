@@ -5,8 +5,9 @@ topic: HCC
 level: 1
 youtube_id: 2e5fHKt5ic8
 membership: public
+playlist: public-liver
 short_title: HCC 영상진단 전제
-tags: [간-소화기, HCC]
+tags: [간-소화기, HCC, public-liver]
 ---
 
 > 간암은 다른 암과 달리 조직 검사 없이 영상만으로 진단할 수 있다. 단, 이것이 허용되는 전제 조건이 있다.

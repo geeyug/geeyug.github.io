@@ -5,7 +5,8 @@ topic: PHARM
 level: 2
 youtube_id: lb6Ji1trsPw
 membership: public
-tags: [약물-기전, 간-소화기, PHARM]
+playlist: public-gi
+tags: [약물-기전, 간-소화기, PHARM, public-gi]
 short_title: NSAID 소화성 궤양 기전
 ---
 

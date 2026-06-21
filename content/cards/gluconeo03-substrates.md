@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: 7pHLukdpTE8
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 당신생03 재료의 믹스
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 당신생의 재료는 굶을 때와 밥 먹을 때 모두 공급되며, 달라지는 것은 재료의 구성 비율이지 당신생 자체가 멈추는 것이 아니다.

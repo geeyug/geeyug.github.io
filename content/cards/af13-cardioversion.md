@@ -5,8 +5,9 @@ series: series-AF
 level: 2
 youtube_id: 3rCd2L_CCEI
 membership: nieun
+playlist: nieun-af
 short_title: AF13 전기적 심율동전환
-tags: [심장-혈관, series-AF]
+tags: [심장-혈관, series-AF, nieun-af]
 ---
 
 > 전기적 심율동전환(electrical cardioversion)은 심방세동에 직류 전기 충격을 가해 동성 리듬(sinus rhythm)으로 되돌리는 시술로, 혈전 유무 확인과 항응고 치료가 반드시 선행되어야 한다.

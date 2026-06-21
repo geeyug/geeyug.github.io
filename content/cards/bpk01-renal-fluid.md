@@ -5,8 +5,9 @@ series: series-BPK
 level: 2
 youtube_id: VV92rnAxdVA
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPK01 콩팥체액 혈압조절
-tags: [심장-혈관, 신장-전해질, series-BPK]
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 ---
 
 > 혈압의 단기 조절은 신경 반사가 담당하지만, 장기적 혈압은 콩팥이 체액량을 조절함으로써 결정된다.

@@ -5,8 +5,9 @@ topic: METABOLISM
 level: 2
 youtube_id: CmtWxao-gFY
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: 해당과정3 탄소 골격 공급
-tags: [당뇨-대사, METABOLISM]
+tags: [당뇨-대사, METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 해당과정(glycolysis)은 ATP를 만드는 에너지 경로이기도 하지만, 다른 생체분자 합성에 필요한 탄소 골격(carbon skeleton)을 공급하는 역할도 한다.

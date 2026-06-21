@@ -5,7 +5,8 @@ topic: DM
 level: 1
 youtube_id: CI35kE_m734
 membership: nieun
-tags: [당뇨-대사, DM]
+playlist: nieun-dm
+tags: [당뇨-대사, DM, nieun-dm]
 short_title: DM-02 당뇨 진단기준
 ---
 

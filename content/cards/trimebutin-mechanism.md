@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 6IGkO-80JTg
 membership: public
+playlist: 미분류
 short_title: GI 트리메부틴 기전
-tags: [간-소화기, 약물-기전, GI]
+tags: [간-소화기, 약물-기전, GI, 미분류]
 ---
 
 > 트리메부틴(trimebutin)은 위장관 평활근과 신경 말단의 수용체에 동시에 작용해, 운동이 항진된 상태에서는 억제하고 저하된 상태에서는 촉진하는 양방향 조절을 한다.

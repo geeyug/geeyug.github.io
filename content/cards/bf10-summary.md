@@ -5,8 +5,9 @@ series: series-BF
 level: 2
 youtube_id: OZxJVBcL4Yo
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BF10 혈류 계열 요약
-tags: [심장-혈관, series-BF]
+tags: [심장-혈관, series-BF, ssangkiyeok-circulation]
 ---
 
 > series-BF 계열 전체는 "몸이 혈류를 어떻게 필요한 만큼 정교하게 공급하는가"라는 단 하나의 질문에 대한 답이다.

@@ -5,8 +5,9 @@ topic: GI
 level: 1
 youtube_id: 1XBY3AAsfG0
 membership: public
+playlist: public-body
 short_title: GI 소화액 각론
-tags: [간-소화기, GI]
+tags: [간-소화기, GI, public-body]
 ---
 
 > 소화액은 분비 위치와 역할이 각기 다르며, 십이지장에서 췌장액과 담즙이 합류하는 지점이 소화의 핵심 구간이다.

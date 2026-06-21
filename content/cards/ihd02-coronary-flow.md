@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: FE1jd2iiUoo
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-02 관상동맥 혈류 조절
-tags: [심장-혈관, series-IHD]
+tags: [심장-혈관, series-IHD, nieun-ihd]
 ---
 
 > 관상동맥 혈류는 큰 혈관이 아닌 미세혈관의 저항 조절로 결정되며, 주로 확장기에 흐른다는 구조적 특성이 허혈에 취약한 이유다.

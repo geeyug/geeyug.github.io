@@ -5,8 +5,9 @@ series: series-KIDNEY-FUNCTION
 level: 3
 youtube_id: Q_e9PU5JFjM
 membership: ssangkiyeok
+playlist: ssangkiyeok-kidney-phys
 short_title: KF-08 유리수분 청소율
-tags: [신장-전해질, series-KIDNEY-FUNCTION]
+tags: [신장-전해질, series-KIDNEY-FUNCTION, ssangkiyeok-kidney-phys]
 ---
 
 > 콩팥은 삼투질 청소율(osmolar clearance)로 용질을 내보내고, 유리수분 청소율(free water clearance)로 순수한 물을 독립적으로 조절한다.

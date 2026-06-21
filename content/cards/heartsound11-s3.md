@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: KSFqL2xgJfQ
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-11 제3심음 S3
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > S3는 이완기 초기 혈액이 빠르게 좌심실로 유입되다 속도가 급감할 때 나는 저음으로, 40세 이상에서 청진되면 좌심실이 혈액을 받아들이는 데 문제가 있음을 시사한다.

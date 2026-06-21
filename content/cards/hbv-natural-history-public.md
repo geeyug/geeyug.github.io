@@ -5,8 +5,9 @@ topic: HBV
 level: 1
 youtube_id: 1cuIh2yzL4M
 membership: public
+playlist: public-liver
 short_title: HBV 만성 B형간염 4단계
-tags: [간-소화기, HBV]
+tags: [간-소화기, HBV, public-liver]
 ---
 
 > 만성 B형간염의 자연경과는 면역계와 바이러스가 주고받는 네 단계로 나뉘며, 간 손상은 바이러스가 아닌 면역계가 공격할 때 일어난다.

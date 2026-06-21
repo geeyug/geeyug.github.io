@@ -5,8 +5,9 @@ series: series-HEARTSOUND
 level: 2
 youtube_id: D9riuXYh-uM
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-HEARTSOUND-04 S1 강도 변동
-tags: [심장-혈관, series-HEARTSOUND]
+tags: [심장-혈관, series-HEARTSOUND, ssangkiyeok-cardiology]
 ---
 
 > S1의 강도가 불규칙하게 변동한다면, 그 원인은 PR 간격(atrioventricular interval)의 불규칙성 혹은 심방-심실 해리(AV dissociation)에 있다.

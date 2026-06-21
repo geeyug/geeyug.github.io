@@ -5,7 +5,8 @@ topic: DM
 level: 2
 youtube_id: Pqps_GPj1vY
 membership: public
-tags: [당뇨-대사, DM]
+playlist: public-dm
+tags: [당뇨-대사, DM, public-dm]
 short_title: 인슐린 2상 분비
 ---
 

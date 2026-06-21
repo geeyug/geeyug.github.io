@@ -5,8 +5,9 @@ series: series-BPK
 level: 3
 youtube_id: 6x80k-X5N_s
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPK09 안지오텐신 지속 주입
-tags: [심장-혈관, 신장-전해질, series-BPK]
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 ---
 
 > 안지오텐신(angiotensin)이 일시적으로 작용하면 혈압이뇨곡선의 기울기를 가파르게 만들지만, 지속적으로 주입되면 곡선이 오른쪽으로 이동하여 높은 혈압이 허용된다.

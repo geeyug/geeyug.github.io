@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: QXYrkP_y7gM
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-08 변이형 협심증
-tags: [심장-혈관, series-IHD]
+tags: [심장-혈관, series-IHD, nieun-ihd]
 ---
 
 > 변이형 협심증(vasospastic angina)은 관상동맥 죽상경화가 아닌 혈관 연축(spasm)으로 발생하며, 치료 원칙과 주의해야 할 약물이 일반 협심증과 다르다.

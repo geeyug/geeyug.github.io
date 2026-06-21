@@ -5,8 +5,9 @@ topic: ABDOMEN
 level: 1
 youtube_id: 8exzsFLCpfI
 membership: public
+playlist: public-patient
 short_title: ABDOMEN 담낭염 감별
-tags: [증상-접근, 간-소화기, ABDOMEN]
+tags: [증상-접근, 간-소화기, ABDOMEN, public-patient]
 ---
 
 > 오른쪽 윗배(RUQ)의 반복적인 통증은 담낭 담석이 원인일 수 있으며, 같은 증상이 반복된다고 해서 원인이 항상 같은 것이 아니므로 경각심을 유지해야 한다.

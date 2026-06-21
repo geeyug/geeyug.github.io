@@ -5,8 +5,9 @@ series: series-METABOLISM
 level: 3
 youtube_id: 9fSryLNHinY
 membership: ssangkiyeok
+playlist: ssangkiyeok-metabolism
 short_title: GLYCOLYSIS-02 한 문장 요약
-tags: [당뇨-대사, series-METABOLISM]
+tags: [당뇨-대사, series-METABOLISM, ssangkiyeok-metabolism]
 ---
 
 > 해당과정(glycolysis)은 포도당(glucose) 1분자가 피루브산(pyruvate) 2분자로 분해되면서 ATP 2개와 NADH 2개를 순생산하는 반응이다.

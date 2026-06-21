@@ -5,7 +5,8 @@ topic: DM
 level: 2
 youtube_id: YqBIORA5xPI
 membership: public
-tags: [당뇨-대사, 약물-기전, DM]
+playlist: public-dm
+tags: [당뇨-대사, 약물-기전, DM, public-dm]
 short_title: DM 티아졸리딘디온 기전
 ---
 

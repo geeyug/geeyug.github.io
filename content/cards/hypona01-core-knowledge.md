@@ -5,8 +5,9 @@ series: series-HYPONA
 level: 2
 youtube_id: NW7ZyQ4sGPg
 membership: nieun
+playlist: nieun-electrolyte
 short_title: HYPONA01 수분조절 코어
-tags: [신장-전해질, series-HYPONA]
+tags: [신장-전해질, series-HYPONA, nieun-electrolyte]
 ---
 
 > 혈중 나트륨 농도는 나트륨의 총량이 아니라 수분과의 비율이므로, 저나트륨혈증은 결국 수분 조절의 문제로 귀결된다.

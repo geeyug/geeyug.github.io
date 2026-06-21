@@ -5,8 +5,9 @@ series: series-OH
 level: 2
 youtube_id: jQ3-_AZkJEg
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-OH-05 맥박과 기립성저혈압 기전
-tags: [심장-혈관, series-OH]
+tags: [심장-혈관, series-OH, ssangkiyeok-cardiology]
 ---
 
 > 기립성저혈압 때 맥박이 얼마나 오르는지를 보면, 혈압이 떨어진 원인이 채혈량 문제인지 자율신경 문제인지를 구분하는 단서를 얻을 수 있다.

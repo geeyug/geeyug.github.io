@@ -5,8 +5,9 @@ topic: HF
 level: 2
 youtube_id: 0uJ6BHZtDjw
 membership: ssangkiyeok
+playlist: 미분류
 short_title: HF 심박출량 측정
-tags: [심장-혈관, HF]
+tags: [심장-혈관, HF, 미분류]
 ---
 
 > 심박출량(cardiac output)은 심장초음파의 도플러로 대동맥 단면적과 혈류 속도 적분값(TVI)을 측정해 계산할 수 있으며, 정상 범위는 4~8L/분이다.

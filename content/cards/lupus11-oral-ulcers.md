@@ -5,8 +5,9 @@ series: series-LUPUS
 level: 2
 youtube_id: _y8ywD95pbk
 membership: nieun
+playlist: nieun-lupus
 short_title: series-LUPUS-11 무통성 구강 궤양
-tags: [증상-접근, series-LUPUS]
+tags: [증상-접근, series-LUPUS, nieun-lupus]
 ---
 
 > 루푸스의 구강 궤양은 혈관염으로 인한 통증 수용기 손상, 표재성 병변, 경구개라는 해부학적 위치, 만성적·점진적 경과로 인한 감각 적응이 겹쳐 무통성으로 나타나는 경우가 많다. 단, 무통성은 필수 조건이 아닌 흔한 양상이다.

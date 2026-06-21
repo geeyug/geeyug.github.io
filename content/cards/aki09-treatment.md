@@ -5,8 +5,9 @@ series: series-AKI
 level: 2
 youtube_id: F2ha7LtmWgw
 membership: nieun
+playlist: nieun-aki
 short_title: AKI09 치료 개요
-tags: [신장-전해질, series-AKI]
+tags: [신장-전해질, series-AKI, nieun-aki]
 ---
 
 > 급성 신손상(series-AKI) 치료의 핵심은 콩팥이 스스로 회복할 수 있는 환경을 만들어 주는 지지 치료(supportive care)이며, 특이 약물 요법은 존재하지 않는다.

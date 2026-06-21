@@ -5,8 +5,9 @@ series: series-SYNCOPE
 level: 2
 youtube_id: Jg0QbpzNZ4A
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: series-SYNCOPE-25 핵심 문진
-tags: [심장-혈관, 증상-접근, series-SYNCOPE]
+tags: [심장-혈관, 증상-접근, series-SYNCOPE, ssangkiyeok-cardiology]
 ---
 
 > 실신 환자의 병력 청취는 공감보다 객관적 사실 확인이 우선이며, 진짜 실신인지, 위험한 실신인지, 원인이 무엇인지를 순서대로 짚어야 한다.

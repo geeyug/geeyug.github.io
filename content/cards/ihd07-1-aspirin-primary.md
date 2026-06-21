@@ -5,8 +5,9 @@ series: series-IHD
 level: 2
 youtube_id: atf13pY7XUQ
 membership: nieun
+playlist: nieun-ihd
 short_title: series-IHD-07-1 아스피린 1차 예방
-tags: [심장-혈관, 약물-기전, series-IHD]
+tags: [심장-혈관, 약물-기전, series-IHD, nieun-ihd]
 ---
 
 > 아스피린은 심근경색 위험을 줄이는 효과가 있지만, 1차 예방 목적으로 쓸 때는 출혈 위험 증가가 이득을 상쇄할 수 있어 관상동맥이 상당히 좁아진 환자로 대상이 제한된다.

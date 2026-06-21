@@ -5,7 +5,8 @@ series: series-DM
 level: 3
 youtube_id: sqJiN5lJV6s
 membership: nieun
-tags: [당뇨-대사, 약물-기전, series-DM]
+playlist: nieun-dm
+tags: [당뇨-대사, 약물-기전, series-DM, nieun-dm]
 short_title: DM14 급여기준
 ---
 

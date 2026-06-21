@@ -5,8 +5,9 @@ series: series-AB
 level: 1
 youtube_id: k1D0_IK_y0s
 membership: nieun
+playlist: nieun-electrolyte
 short_title: AB01 산염기 기본 개념
-tags: [신장-전해질, series-AB]
+tags: [신장-전해질, series-AB, nieun-electrolyte]
 ---
 
 > 산염기 평형(acid-base balance)은 수소 이온(H⁺) 농도를 중심으로 정의되며, 우리 몸의 대표적 산은 이산화탄소(CO₂), 대표적 염기는 중탄산염(HCO₃⁻)이다.

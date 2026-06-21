@@ -5,8 +5,9 @@ topic: DM
 level: 2
 youtube_id: d5IdSSfuIPI
 membership: nieun
+playlist: nieun-dm
 short_title: DM04 HbA1c
-tags: [당뇨-대사, DM]
+tags: [당뇨-대사, DM, nieun-dm]
 ---
 
 > HbA1c(당화혈색소)는 헤모글로빈 베타 사슬 말단 아미노산에 포도당이 비효소적으로 결합해 만들어지기 때문에 느리게 변하고, 이를 역으로 이용해 최근 2~3개월의 평균 혈당 상태를 반영하는 지표로 쓴다.

@@ -5,7 +5,8 @@ topic: HEART
 level: 1
 youtube_id: GOUwDzE632E
 membership: public
-tags: [심장-혈관, HEART]
+playlist: public-symptom
+tags: [심장-혈관, HEART, public-symptom]
 short_title: CARDIOLOGY 심장병 4가지 유형
 ---
 

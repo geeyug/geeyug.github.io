@@ -5,7 +5,8 @@ series: series-DM
 level: 3
 youtube_id: mZB51tQ-IOc
 membership: nieun
-tags: [당뇨-대사, series-DM]
+playlist: nieun-dm
+tags: [당뇨-대사, series-DM, nieun-dm]
 short_title: DM18 조절 안 되는 당뇨
 ---
 

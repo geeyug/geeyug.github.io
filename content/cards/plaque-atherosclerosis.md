@@ -5,8 +5,9 @@ topic: ACS
 level: 1
 youtube_id: 0sC2T0hfS64
 membership: ssangkiyeok
+playlist: 미분류
 short_title: ACS 플라크 동맥경화
-tags: [심장-혈관, ACS]
+tags: [심장-혈관, ACS, 미분류]
 ---
 
 > 심장병 사망의 근본 원인은 관상동맥 내에 콜레스테롤, 염증 세포, 섬유 조직이 뒤엉킨 플라크(plaque)가 쌓여 혈관을 좁히고 막는 것이다.

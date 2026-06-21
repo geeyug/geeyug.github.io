@@ -5,7 +5,8 @@ topic: LIVER
 level: 2
 youtube_id: -jjtPfnvHQI
 membership: public
-tags: [간-소화기, LIVER]
+playlist: public-liver
+tags: [간-소화기, LIVER, public-liver]
 short_title: LIVER 간성 뇌증 단계
 ---
 

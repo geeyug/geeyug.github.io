@@ -5,8 +5,9 @@ series: series-COPD
 level: 2
 youtube_id: KP9nSiCp1Vs
 membership: nieun
+playlist: nieun-copd
 short_title: COPD02 발생 경로
-tags: [호흡기, series-COPD]
+tags: [호흡기, series-COPD, nieun-copd]
 ---
 
 > COPD는 흡연 외에도 폐 발달 부전, 직업성 노출, 반복 감염 등 다양한 경로로 발생하며, 폐 기능이 최대 성숙치에 도달하지 못한 경우 정상 속도로 감소해도 COPD에 이를 수 있다.

@@ -5,8 +5,9 @@ series: series-ACS
 level: 2
 youtube_id: BcUk0d98UCM
 membership: nieun
+playlist: nieun-acs
 short_title: ACS05 심전도 소견
-tags: [심장-혈관, series-ACS]
+tags: [심장-혈관, series-ACS, nieun-acs]
 ---
 
 > ACS에서 심전도의 핵심은 ST분절 상승이 지속적인지 여부를 판단하는 것이며, ST분절 상승에 준하는 소견들을 함께 인식해야 STEMI와 NSTE-ACS를 정확하게 구분할 수 있다.

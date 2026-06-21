@@ -5,8 +5,9 @@ topic: RESP
 level: 2
 youtube_id: QC_mCejWFeY
 membership: ssangkiyeok
+playlist: ssangkiyeok-resp
 short_title: RESP-P05 기타 증상
-tags: [호흡기, 증상-접근, RESP]
+tags: [호흡기, 증상-접근, RESP, ssangkiyeok-resp]
 ---
 
 > 폐 자체에는 통증 섬유가 없으므로 호흡기 질환의 흉통은 흉막이나 흉벽에서 기원하며, 복부 팽만은 폐질환으로 인한 우심실 부담을 통해 나타난다.

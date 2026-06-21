@@ -5,8 +5,9 @@ series: series-DKA
 level: 3
 youtube_id: RU2th3iAxk8
 membership: nieun
+playlist: nieun-dka
 short_title: DKA05 치료 현장
-tags: [당뇨-대사, series-DKA]
+tags: [당뇨-대사, series-DKA, nieun-dka]
 ---
 
 > series-DKA 치료는 혈당을 낮추는 것이 아니라, 수액·인슐린·칼륨을 동시에 조율해 산증과 케톤증을 교정하는 복합 집중 치료다.

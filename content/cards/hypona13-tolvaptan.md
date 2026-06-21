@@ -5,7 +5,8 @@ series: series-HYPONA
 level: 3
 youtube_id: h4Uv_Z-r4JE
 membership: nieun
-tags: [신장-전해질, 약물-기전, series-HYPONA]
+playlist: nieun-electrolyte
+tags: [신장-전해질, 약물-기전, series-HYPONA, nieun-electrolyte]
 short_title: HYPONA13 tolvaptan 마무리
 ---
 

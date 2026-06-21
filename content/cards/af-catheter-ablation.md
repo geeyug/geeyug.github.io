@@ -5,8 +5,9 @@ topic: AF
 level: 3
 youtube_id: _aXBcEQEj0g
 membership: nieun
+playlist: nieun-af
 short_title: AF12 카테터 절제술
-tags: [심장-혈관, AF]
+tags: [심장-혈관, AF, nieun-af]
 ---
 
 > 심방세동 카테터 절제술(catheter ablation)의 핵심은 심방세동 유발 신호가 시작되는 폐정맥(pulmonary vein)과 좌심방 사이의 전기적 연결을 차단하는 것이며, 발작성 심방세동에서 성적이 좋고 지속성으로 갈수록 효과가 떨어진다.

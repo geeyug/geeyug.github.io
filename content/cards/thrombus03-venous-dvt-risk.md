@@ -5,8 +5,9 @@ series: series-DVT
 level: 2
 youtube_id: 8SKrenzIH-c
 membership: ssangkiyeok
+playlist: ssangkiyeok-cardiology
 short_title: THROMBUS-03 정맥혈전 위험인자
-tags: [심장-혈관, series-DVT]
+tags: [심장-혈관, series-DVT, ssangkiyeok-cardiology]
 ---
 
 > 정맥은 혈액 저장소로 혈류가 느리고 정체되기 쉽다. 이 기저 특성 위에 Virchow's triad의 세 인자가 더해질 때 정맥혈전이 생긴다. 위험인자들은 대부분 이 세 범주로 분류된다.

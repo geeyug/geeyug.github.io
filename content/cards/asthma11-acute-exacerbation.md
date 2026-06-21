@@ -5,8 +5,9 @@ series: series-ASTHMA
 level: 2
 youtube_id: L-8ljiQHED0
 membership: nieun
+playlist: nieun-asthma
 short_title: series-ASTHMA-11 급성악화
-tags: [호흡기, 응급, series-ASTHMA]
+tags: [호흡기, 응급, series-ASTHMA, nieun-asthma]
 ---
 
 > 천식 급성 악화는 중증도에 따라 치료 장소와 방법이 달라지며, 생명 위협 수준에서는 기도 삽관 준비가 가능한 시설로 즉시 이송해야 한다.

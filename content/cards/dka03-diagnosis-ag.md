@@ -5,8 +5,9 @@ series: series-DKA
 level: 2
 youtube_id: Qx4B_kyzcgk
 membership: nieun
+playlist: nieun-dka
 short_title: series-DKA-03 anion gap 진단
-tags: [당뇨-대사, series-DKA]
+tags: [당뇨-대사, series-DKA, nieun-dka]
 ---
 
 > series-DKA 진단의 핵심은 고혈당, 케토시스, high anion gap 대사성 산증의 세 가지이며, 그중 anion gap이란 혈액 속 측정되지 않는 음이온의 총량을 간접적으로 반영한다.

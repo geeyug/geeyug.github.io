@@ -5,8 +5,9 @@ series: series-BPK
 level: 2
 youtube_id: Y7loVWD1nAs
 membership: ssangkiyeok
+playlist: ssangkiyeok-circulation
 short_title: BPK03 짠 식사와 곡선 변화
-tags: [심장-혈관, 신장-전해질, series-BPK]
+tags: [심장-혈관, 신장-전해질, series-BPK, ssangkiyeok-circulation]
 ---
 
 > 건강한 사람이 짜게 먹어도 혈압이 크게 오르지 않는 것은, 교감신경계와 레닌-안지오텐신 시스템이 억제되어 혈압이뇨곡선의 기울기를 가파르게 만들기 때문이다.

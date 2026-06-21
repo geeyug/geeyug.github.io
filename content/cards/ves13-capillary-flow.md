@@ -5,7 +5,8 @@ series: series-VES
 level: 2
 youtube_id: OkCt4-xb0sc
 membership: ssangkiyeok
-tags: [심장-혈관, series-VES]
+playlist: ssangkiyeok-circulation
+tags: [심장-혈관, series-VES, ssangkiyeok-circulation]
 short_title: VES13 모세혈관 간헐적 흐름
 ---
 

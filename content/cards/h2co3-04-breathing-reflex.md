@@ -5,8 +5,9 @@ series: series-H2CO3
 level: 2
 youtube_id: fTyap47VWUA
 membership: public
+playlist: public-h2co3
 short_title: series-H2CO3-04 호흡 조절 기전
-tags: [호흡기, 신장-전해질, series-H2CO3]
+tags: [호흡기, 신장-전해질, series-H2CO3, public-h2co3]
 ---
 
 > 호흡은 산소 분압 저하와 이산화탄소 분압 상승이라는 두 자극에 의해 반사적으로 조절되며, 만성 고탄산혈증 환자에서는 이 조절 체계가 재편된다.
