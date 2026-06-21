@@ -50,6 +50,7 @@ jobs:
           cp quartz/patches/content-index.dist.js .quartz/plugins/content-index/dist/index.js
           cp quartz/patches/explorer.dist.js .quartz/plugins/explorer/dist/index.js
           cp quartz/patches/explorer.components.dist.js .quartz/plugins/explorer/dist/components/index.js
+          cp quartz/patches/tag-page.dist.js .quartz/plugins/tag-page/dist/index.js
 
       - name: Build Quartz
         run: npx quartz build
