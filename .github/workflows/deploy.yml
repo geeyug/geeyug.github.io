@@ -61,4 +61,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          cname: www.geeyug.com
+          # ★ 2026-08-07 — 개념지도는 /concepts 아래에만 올립니다.
+          #   안방(루트)은 공부 지도가 씁니다. 이 두 줄이 없으면 공부 지도가 지워집니다.
+          destination_dir: concepts
+          keep_files: true
+          # cname 은 루트를 맡는 쪽(공부 지도)이 관리합니다. 여기서 쓰면 안 됩니다.
