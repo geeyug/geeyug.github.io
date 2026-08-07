@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>기역 — 찾는 쪽이 없습니다</title>
+<!--
+  2026-08-08. 개념지도를 안방에서 /concepts 로 내리면서 카드 922장의 주소가 바뀌었다.
+  검색으로 옛 주소에 들어온 사람이 막히지 않게 여기서 넘긴다.
+
+  /cards/… 와 /tags/… 두 갈래만 넘긴다. 이 둘은 개념지도에만 있던 이름이라
+  공부 지도 묶음 77개의 주소와 겹치지 않는다 (확인함). 넓게 잡으면 안 된다.
+-->
+<script>
+(function () {
+  var p = location.pathname;
+  if (/^\/(cards|tags)(\/|$)/.test(p)) {
+    location.replace('/concepts' + p + location.search + location.hash);
+  }
+})();
+</script>
+<style>
+  :root { color-scheme: dark }
+  body {
+    margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    background: #14161a; color: #d8dbe0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+    line-height: 1.75;
+  }
+  main { max-width: 30rem; padding: 2rem }
+  h1 { font-size: 1.35rem; margin: 0 0 1rem; font-weight: 700 }
+  p { margin: 0 0 .6rem; color: #9aa1ab }
+  ul { margin: 1.6rem 0 0; padding: 0; list-style: none }
+  li { margin: 0 0 .55rem }
+  a { color: #e8b48a; text-decoration: none }
+  a:hover { text-decoration: underline }
+</style>
+</head>
+<body>
+<main>
+  <h1>찾으시는 쪽이 없습니다</h1>
+  <p>주소가 바뀌었거나, 없어진 쪽입니다.</p>
+  <ul>
+    <li><a href="/">의학 공부 지도로 가기</a></li>
+    <li><a href="/concepts/">개념지도로 가기</a></li>
+  </ul>
+</main>
+</body>
+</html>
