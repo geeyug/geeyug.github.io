@@ -1,0 +1,295 @@
+﻿rank,total,richness,reach,hook,fit,title,url,youtube_id,membership,level,topic,hook_reasons,fit_reasons,file
+1,13,4,5,4,4,BUN(혈액 요소 질소)이 올라가면 항상 콩팥이 나쁜 것인가?,https://youtu.be/-PPPHn527s0,-PPPHn527s0,public,1,콩팥,질문형+통념파괴,기초개념(L1),bun-interpretation.md
+2,13,4,5,4,4,가슴이 두근거릴 때 심장 박동이 정말 빠른지 어떻게 확인하는가,https://youtu.be/CETSikbemTQ,CETSikbemTQ,public,1,가슴,질문형+통념파괴,기초개념(L1),palpitation-self-check.md
+3,13,4,5,4,4,"고혈압, 고지혈증과 달리 당뇨는 왜 치료해도 조절이 잘 안 되는가",https://youtu.be/gnyH_ebIIFQ,gnyH_ebIIFQ,public,1,당뇨,질문형+통념파괴,기초개념(L1),dm-control-rate.md
+4,13,4,5,4,4,"고혈압은 왜 단순히 ""압력이 높아진 것""이 아닌가",https://youtu.be/J_DgAANkhLg,J_DgAANkhLg,public,1,고혈압,질문형+통념파괴,기초개념(L1),htn-balance-disruption.md
+5,13,4,5,4,4,"당뇨는 왜 ""혈당이 조금 오르는 병""이 아닌가?",https://youtu.be/7J0rAO8UHTw,7J0rAO8UHTw,public,1,당뇨,질문형+통념파괴,기초개념(L1),dm-more-than-sugar.md
+6,13,4,5,4,4,당뇨병성케톤산증은 왜 단순한 고혈당이 아닌가,https://youtu.be/VNZdzB0P0qo,VNZdzB0P0qo,public,1,당뇨,질문형+통념파괴,기초개념(L1),dka-why-dangerous.md
+7,13,4,5,4,4,당뇨약이 남성에게 해롭다는 말은 왜 사실이 아닌가,https://youtu.be/7Uq28v1WoIs,7Uq28v1WoIs,public,1,당뇨,질문형+통념파괴,기초개념(L1),dm-drug-myths.md
+8,13,4,5,4,4,당뇨약이 성기능을 떨어뜨린다는 오해는 왜 생겼는가,https://youtu.be/ap_xP5PLm8Q,ap_xP5PLm8Q,public,1,당뇨,질문형+통념파괴,기초개념(L1),dm-sexual-misconception.md
+9,13,4,5,4,4,"메트포르민 31개 품목이 판매 중지됐는데, 내가 먹던 약은 괜찮은가?",https://youtu.be/_bUSf8yc-yU,_bUSf8yc-yU,public,1,당뇨,질문형+통념파괴,기초개념(L1),metformin-ndma-recall.md
+10,13,4,5,4,4,심장이 약해지면 왜 소화가 잘 안 되는가,https://youtu.be/qSY1IDXkAhA,qSY1IDXkAhA,public,1,심장,질문형+통념파괴,기초개념(L1),hf-gi-impairment.md
+11,13,4,5,4,4,혈당관리를 지금 열심히 하면 나중에 설렁설렁해도 되는가,https://youtu.be/3vcj2wpprwY,3vcj2wpprwY,public,1,당뇨,질문형+통념파괴,기초개념(L1),dm-legacy-effect.md
+12,13,4,5,4,4,혈압과 당뇨 중 하나만 조절하면 안 되는가,https://youtu.be/vh2xGDn8X5U,vh2xGDn8X5U,public,1,당뇨,질문형+통념파괴,기초개념(L1),dm-htn-dual-control.md
+13,13,4,5,4,4,혈압은 낮을수록 좋은가 — 혈압 조절 목표의 하한선,https://youtu.be/046ZyGqLQDM,046ZyGqLQDM,public,1,htn,질문형+통념파괴,기초개념(L1),htn-bp-target-level.md
+14,13,3,5,4,4,당뇨병 환자의 발에는 어떤 문제가 생기고 왜 위험해지는가,https://youtu.be/xFHFfcDm4Cc,xFHFfcDm4Cc,public,1,당뇨,질문형+위험/공포,기초개념(L1),dm-foot-complications.md
+15,13,3,5,4,4,대장암을 유발하는 생활 습관 위험 인자는 무엇인가,https://youtu.be/K4hU5nsH09U,K4hU5nsH09U,public,1,대장암,질문형+위험/공포,기초개념(L1),colon-cancer-risk-factors.md
+16,13,3,5,4,4,만성콩팥병 환자에게 ACE억제제·ARB를 반드시 써야 하는 이유는 무엇인가,https://youtu.be/5QTHn1xMuhU,5QTHn1xMuhU,public,1,htn,질문형+위험/공포,기초개념(L1),ckd-htn-medication.md
+17,13,3,5,4,4,만성콩팥병이란 무엇이며 왜 반드시 검사로만 알 수 있는가?,https://youtu.be/8zNa0HSIG-c,8zNa0HSIG-c,public,1,콩팥,질문형+위험/공포,기초개념(L1),ckd-what-is.md
+18,13,3,5,4,4,빈혈이 있을 때 운동이 왜 위험한가,https://youtu.be/jl2IF806iA8,jl2IF806iA8,public,1,빈혈,질문형+위험/공포,기초개념(L1),anemia-exercise-risk.md
+19,13,3,5,3,5,당뇨가 아닌데 당뇨일까 계속 의심하는 상태 — 어디서 불안이 시작되는가,https://youtu.be/3NaoximPsq4,3NaoximPsq4,public,1,당뇨,질문형,기초개념(L1)+시각화용이,dm-prediabetes-suspicion.md
+20,13,3,5,3,5,만성콩팥병 단계마다 무엇이 달라지는가,https://youtu.be/0pEXF9sS8UU,0pEXF9sS8UU,public,1,콩팥,질문형,기초개념(L1)+시각화용이,ckd-stages-public.md
+21,13,3,5,3,5,빈혈이 있을 때 어떤 검사를 어떤 순서로 해야 하는가?,https://youtu.be/sFEpis7psKE,sFEpis7psKE,public,1,빈혈,질문형,기초개념(L1)+시각화용이,anemia-workup.md
+22,13,3,5,3,5,우리 몸의 물은 어디에 어떻게 나뉘어 있는가,https://youtu.be/8HVlytFBQwY,8HVlytFBQwY,public,1,신장,질문형,기초개념(L1)+시각화용이,fluid-compartments.md
+23,13,3,5,3,5,"조기 대장암의 기준은 무엇이고, 왜 일본과 서구가 다르게 정의하는가?",https://youtu.be/X8rwu5dtYmU,X8rwu5dtYmU,public,1,대장암,질문형,기초개념(L1)+시각화용이,early-colon-cancer.md
+24,13,3,5,3,5,"혈압 수치가 정상, 경계, 고혈압으로 나뉘는 기준은 무엇인가?",https://youtu.be/oNFzbdkL22s,oNFzbdkL22s,public,1,고혈압,질문형,기초개념(L1)+시각화용이,bp-stages.md
+25,13,3,5,3,5,혈압 얼마부터 고혈압인가 — 기준은 어떻게 정해졌는가,https://youtu.be/6BM1HQeC_YQ,6BM1HQeC_YQ,public,1,고혈압,질문형,기초개념(L1)+시각화용이,htn-definition-public.md
+26,13,3,5,3,5,"혈압약의 종류는 어떻게 나뉘고, 왜 ACE억제제보다 ARB를 더 많이 쓰는가",https://youtu.be/0hYmrysix-M,0hYmrysix-M,public,1,htn,질문형,기초개념(L1)+시각화용이,htn-drug-classes.md
+27,13,3,5,3,5,혈압약이 몸에 안 좋다는 말은 어디서 왔는가,https://youtu.be/iu7HPD0r1DM,iu7HPD0r1DM,public,1,htn,질문형,기초개념(L1)+시각화용이,htn-medication-side-effects-myth.md
+28,12,4,4,4,4,늙는다는 것은 무엇인가 — 항상성의 여유 공간이 줄어드는 것이다,https://youtu.be/w6bpb9v9svk,w6bpb9v9svk,public,1,gi,질문형+통념파괴,기초개념(L1),aging-homeostenosis.md
+29,12,4,4,4,4,자다가 속이 쓰릴 때 윌을 마시면 괜찮은가,https://youtu.be/vXJQQR96OKU,vXJQQR96OKU,public,1,gi,질문형+통념파괴,기초개념(L1),sports-drink-sleep.md
+30,12,3,5,3,4,위암이라고 항상 수술이 답인가,https://youtu.be/AS5abmcr0_M,AS5abmcr0_M,public,1,위암,통념파괴,기초개념(L1),gastric-cancer-surgery-limits.md
+31,12,3,4,4,4,B형간염이 있을 때 술을 마시면 왜 더 위험한가,https://youtu.be/P7U-MnuHM8U,P7U-MnuHM8U,public,1,간염,질문형+위험/공포,기초개념(L1),hbv-alcohol-risk.md
+32,12,3,4,4,4,간경변에서 식도정맥류 출혈이 왜 특별히 위험한가,https://youtu.be/FhIvwZAxt6U,FhIvwZAxt6U,public,1,간경변,질문형+위험/공포,기초개념(L1),esophageal-varices-danger.md
+33,12,3,4,4,4,급성 B형간염에서 항바이러스제를 쓰지 않는 이유는 무엇인가,https://youtu.be/QAHytE6Ugz8,QAHytE6Ugz8,public,1,간염,질문형+위험/공포,기초개념(L1),hbv-acute-no-antiviral.md
+34,12,3,4,4,4,급성 B형간염을 혈액 검사로 어떻게 진단하는가,https://youtu.be/1EbxaXXl5Pw,1EbxaXXl5Pw,public,1,간염,질문형+위험/공포,기초개념(L1),hbv-acute-diagnosis-public.md
+35,12,3,4,4,4,급성 담석성 췌장염에서 돌을 빼지 않는 이유는 무엇인가,https://youtu.be/pH1i1gtVEQ8,pH1i1gtVEQ8,public,1,담석,질문형+위험/공포,기초개념(L1),biliary-pancreatitis-acute.md
+36,12,3,4,4,4,복통 평가에서 동반 증상·과거력·약물을 왜 반드시 확인해야 하는가,https://youtu.be/6xNvSwMUAG8,6xNvSwMUAG8,public,1,복통,질문형+위험/공포,기초개념(L1),abdominal-pain-part4.md
+37,12,3,4,4,4,복통이 있을 때 급성 췌장염을 어떻게 알아보는가,https://youtu.be/HVdaKjHSiHk,HVdaKjHSiHk,public,1,복통,질문형+위험/공포,기초개념(L1),acute-pancreatitis-diagnosis.md
+38,12,3,4,4,4,"임신 중 급성 복통, 무엇을 먼저 의심해야 하는가?",https://youtu.be/5NCdYR2U4N0,5NCdYR2U4N0,public,1,복통,질문형+위험/공포,기초개념(L1),pregnancy-abdominal-pain.md
+39,12,3,4,4,4,황달이 생기면 반드시 병원에 가야 하는 이유는 무엇인가,https://youtu.be/xamgjo4E-gw,xamgjo4E-gw,public,1,liver,질문형+위험/공포,기초개념(L1),jaundice-when-to-go.md
+40,12,3,4,3,5,BD-IPMN은 수술인가 관찰인가 — 결정을 가르는 기준은 무엇인가,https://youtu.be/44-2CNZABiA,44-2CNZABiA,public,1,gi,질문형,기초개념(L1)+시각화용이,ipmn-management.md
+41,12,3,4,3,5,담석은 어디에 걸리느냐에 따라 어떻게 달라지는가,https://youtu.be/0HA7QwXO_5o,0HA7QwXO_5o,public,1,담석,질문형,기초개념(L1)+시각화용이,gallstone-spectrum.md
+42,12,3,4,3,5,만성 B형간염은 몸 안에서 어떤 순서로 진행되는가,https://youtu.be/1cuIh2yzL4M,1cuIh2yzL4M,public,1,간염,질문형,기초개념(L1)+시각화용이,hbv-natural-history-public.md
+43,12,3,4,3,5,문맥압 항진증은 어디가 막혔느냐에 따라 왜 세 가지로 나뉘는가,https://youtu.be/P_jn2HmM7U4,P_jn2HmM7U4,public,1,liver,질문형,기초개념(L1)+시각화용이,portal-hypertension-types.md
+44,12,3,4,3,5,방귀는 어디서 만들어지는가,https://youtu.be/6jTlbb7MzgY,6jTlbb7MzgY,public,1,gi,질문형,기초개념(L1)+시각화용이,flatulence-mechanism.md
+45,12,3,4,3,5,복통에서 통증의 위치를 정확히 짚을 수 있는지가 왜 중요한가,https://youtu.be/FpINP4wAW_I,FpINP4wAW_I,public,1,복통,질문형,기초개념(L1)+시각화용이,abdominal-pain-visceral-somatic.md
+46,12,3,4,3,5,"삼킴곤란 — 어디서, 언제부터, 무엇을 삼킬 때 힘든가",https://youtu.be/4gbl-Q7--ek,4gbl-Q7--ek,public,1,gi,질문형,기초개념(L1)+시각화용이,dysphagia-symptoms.md
+47,12,3,4,3,5,소화액은 어디에서 나오고 각각 무슨 역할을 하는가,https://youtu.be/1XBY3AAsfG0,1XBY3AAsfG0,public,1,gi,질문형,기초개념(L1)+시각화용이,digestive-juice-overview.md
+48,12,3,4,3,5,우리 몸에서 나오는 소화액은 종류별로 어떤 역할을 하는가,https://youtu.be/1XBY3AAsfG0,1XBY3AAsfG0,public,1,gi,질문형,기초개념(L1)+시각화용이,digestive-juice-complete.md
+49,12,2,5,4,3,간암에서 고주파 열치료술(RFA)은 어떤 원리로 암 세포를 죽이는가,https://youtu.be/NMfGiUXyyZQ,NMfGiUXyyZQ,public,2,간암,질문형+위험/공포,-,hcc-rfa-principle.md
+50,12,2,5,4,3,당뇨병성 자율신경병증은 왜 다른 합병증보다 더 위험한가?,https://youtu.be/-X0GKTSRQUI,-X0GKTSRQUI,public,2,당뇨,질문형+위험/공포,-,dm-autonomic-neuropathy.md
+51,12,2,5,4,3,당뇨의 급성 위기 DKA와 HHS는 어떻게 다른가,https://youtu.be/xbYTZzlq_rA,xbYTZzlq_rA,public,2,당뇨,질문형+위험/공포,-,dka-vs-hhs.md
+52,12,2,5,4,3,시술 시 혈전증과 출혈 중 무엇이 더 위험한가,https://youtu.be/DvC8bqcwBFY,DvC8bqcwBFY,public,2,심장,질문형+위험/공포,-,thrombosis-vs-bleeding.md
+53,12,2,5,3,4,1형도 2형도 아닌 당뇨병이 있을 수 있는가,https://youtu.be/3h6y2JnKd3A,3h6y2JnKd3A,public,1,당뇨,질문형,기초개념(L1),dm-type15-lada-public.md
+54,12,2,5,3,4,ALP는 왜 담즙정체의 지표가 되는가,https://youtu.be/0zmAjvv_LsQ,0zmAjvv_LsQ,public,1,lft,질문형,기초개념(L1),lft-alp.md
+55,12,2,5,3,4,AST와 ALT는 간세포 손상을 어떻게 반영하는가,https://youtu.be/Y5ISRe22zAU,Y5ISRe22zAU,public,1,lft,질문형,기초개념(L1),lft-ast-alt.md
+56,12,2,5,3,4,SGLT2 저해제가 당뇨약 중에서 주목받는 이유는 무엇인가,https://youtu.be/jFZJ-cCG578,jFZJ-cCG578,public,1,당뇨,질문형,기초개념(L1),sglt2-overview.md
+57,12,2,5,3,4,"SGLT2 저해제는 어떻게 당을 내보내고, 왜 심장과 콩팥까지 보호하는가",https://youtu.be/ouehnS5K_rY,ouehnS5K_rY,public,1,당뇨,질문형,기초개념(L1),sglt2-drugs-detail.md
+58,12,2,5,3,4,SGLT2 저해제를 먹는데 혈당이 정상에 가깝다면 케톤산증을 의심하지 않아도 되는가,https://youtu.be/lh6XFho7grg,lh6XFho7grg,public,1,당뇨,질문형,기초개념(L1),sglt2-ketoacidosis.md
+59,12,2,5,3,4,가슴이 아플 때 무엇을 먼저 확인해야 하는가,https://youtu.be/7lXS_0QlO8g,7lXS_0QlO8g,public,1,가슴,질문형,기초개념(L1),chest-pain-approach.md
+60,12,2,5,3,4,간수치가 올랐을 때 무엇을 먼저 확인하는가,https://youtu.be/BOx_lnkZjwA,BOx_lnkZjwA,public,1,간수치,질문형,기초개념(L1),liver-enzyme-elevation.md
+61,12,2,5,3,4,간암의 5년 생존율이 낮은 이유는 무엇인가,https://youtu.be/BQnt058_mt0,BQnt058_mt0,public,1,간암,질문형,기초개념(L1),hcc-survival-heterogeneity.md
+62,12,2,5,3,4,간암이 있어도 수술을 못 하는 이유는 무엇인가,https://youtu.be/NvrTmsxNGk0,NvrTmsxNGk0,public,1,간암,질문형,기초개념(L1),hcc-surgery-contraindications.md
+63,12,2,5,3,4,간은 혈당을 어떻게 유지하는가?,https://youtu.be/p-S39jcBvGg,p-S39jcBvGg,public,1,당뇨,질문형,기초개념(L1),liver-carb-metabolism.md
+64,12,2,5,3,4,간헐적 단식은 인슐린 저항성을 호전시키는가,https://youtu.be/ZH0nIsWDjOM,ZH0nIsWDjOM,public,1,당뇨,질문형,기초개념(L1),intermittent-fasting-insulin.md
+65,12,2,5,3,4,갑상선호르몬은 심장에 어떤 영향을 미치는가,https://youtu.be/74fxdl3_14M,74fxdl3_14M,public,1,갑상선,질문형,기초개념(L1),thyroid-cardiac-effects.md
+66,12,2,5,3,4,경동맥화학색전술(TACE) 후 어떤 합병증이 생길 수 있는가,https://youtu.be/11Ar_-TSaX8,11Ar_-TSaX8,public,1,hcc,질문형,기초개념(L1),tace-complications.md
+67,12,2,5,3,4,고혈압 환자가 싱겁게 먹으면 혈압이 얼마나 달라지는가,https://youtu.be/FnGiyxYArqk,FnGiyxYArqk,public,1,고혈압,질문형,기초개념(L1),htn-salt-restriction.md
+68,12,2,5,3,4,고혈압 환자에서 혈압을 어디까지 낮추어야 하는가,https://youtu.be/P8Pzg0j_rfs,P8Pzg0j_rfs,public,2,고혈압,질문형,시각화용이,bp-target.md
+69,12,2,5,3,4,고혈압약을 처방할 때 의사는 어떤 순서로 약을 고르는가,https://youtu.be/9nqqtMwgVUo,9nqqtMwgVUo,public,2,고혈압,질문형,시각화용이,htn-drug-algorithm.md
+70,12,2,5,3,4,고혈압은 어떤 사람에게 더 잘 생기는가?,https://youtu.be/8z3XBIOeVgo,8z3XBIOeVgo,public,1,고혈압,질문형,기초개념(L1),htn-risk-factors.md
+71,12,2,5,3,4,고혈압을 방치하면 왜 혈관이 망가지는가,https://youtu.be/8-16jpMWA9Q,8-16jpMWA9Q,public,1,고혈압,질문형,기초개념(L1),htn-vascular-resistance.md
+72,12,2,5,3,4,고혈압을 왜 치료해야 하는가 — 뇌졸중은 어떻게 생기는가,https://youtu.be/WCYBpJv3pgU,WCYBpJv3pgU,public,1,고혈압,질문형,기초개념(L1),htn-stroke-risk.md
+73,12,2,5,3,4,고혈압을 치료해야 하는 가장 근본적인 이유는 무엇인가?,https://youtu.be/JL8L8Bzitd8,JL8L8Bzitd8,public,1,고혈압,질문형,기초개념(L1),htn-atherosclerosis.md
+74,12,2,5,3,4,고혈압의 해로움은 어디서 오는가,https://youtu.be/E126BwqU97w,E126BwqU97w,public,2,고혈압,질문형,시각화용이,htn-harm-raas.md
+75,12,2,5,3,4,극단적인 저탄수화물 식사는 왜 권장하지 않는가,https://youtu.be/egJ2XhJO5Qk,egJ2XhJO5Qk,public,1,당뇨,질문형,기초개념(L1),low-carb-diet-risks.md
+76,12,2,5,3,4,극심한 스트레스는 왜 당뇨가 없는 사람의 혈당도 올리는가,https://youtu.be/7565fV10aWw,7565fV10aWw,public,1,당뇨,질문형,기초개념(L1),stress-hyperglycemia.md
+77,12,2,5,3,4,긴장해서 혈압이 오른 것이 고혈압이 아니라는 말은 맞는가,https://youtu.be/s925lJhLafU,s925lJhLafU,public,1,고혈압,질문형,기초개념(L1),htn-white-coat-trap.md
+78,12,2,5,3,4,뇌로 혈액이 차단될 때 혈압이 250까지 오르는 이유는 무엇인가,https://youtu.be/Jbf-VSGkcCs,Jbf-VSGkcCs,public,1,htn,질문형,기초개념(L1),cns-ischemic-response.md
+79,12,2,5,3,4,단순 근육통이라 여겼던 그 통증이 심근경색의 신호일 수 있는 이유는 무엇인가,https://youtu.be/Nid8uF8ggBc,Nid8uF8ggBc,public,1,심장,질문형,기초개념(L1),mi-muscle-pain-warning.md
+80,12,2,5,3,4,당뇨 치료에 특별한 방법은 없는가,https://youtu.be/7bVIDTatULA,7bVIDTatULA,public,1,당뇨,질문형,기초개념(L1),dm-treatment-overview-public.md
+81,12,2,5,3,4,당뇨 합병증이 이미 생겼을 때 치료를 포기해야 하는가,https://youtu.be/GxGkIFCJlc4,GxGkIFCJlc4,public,1,당뇨,질문형,기초개념(L1),dm-complications-treatment.md
+82,12,2,5,3,4,당뇨 환자는 언제 내분비내과에 가야 하는가,https://youtu.be/7KDjYExlr48,7KDjYExlr48,public,1,당뇨,질문형,기초개념(L1),dm-specialist-referral.md
+83,12,2,5,3,4,당뇨 환자에게 금연이 필수인 이유는 무엇인가,https://youtu.be/4yrxsebdqkw,4yrxsebdqkw,public,1,당뇨,질문형,기초개념(L1),dm-smoking-risk.md
+84,12,2,5,3,4,당뇨를 30년간 잘 조절한 환자에게서 무엇을 배울 수 있는가,https://youtu.be/FYOrpisLsXM,FYOrpisLsXM,public,1,당뇨,질문형,기초개념(L1),dm-self-management.md
+85,12,2,5,3,4,당뇨병 환자에서 콩팥을 보호하기 위해 승인된 약제는 무엇인가,https://youtu.be/D92TqVWAmI0,D92TqVWAmI0,public,1,당뇨,질문형,기초개념(L1),sglt2-kidney-protection.md
+86,12,2,5,3,4,당뇨병성 말초신경병증은 어떻게 진단하고 치료하는가,https://youtu.be/7J7MgPZtS4I,7J7MgPZtS4I,public,1,당뇨,질문형,기초개념(L1),dm-peripheral-neuropathy.md
+87,12,2,5,3,4,당뇨병성 신증 환자에서 혈뇨가 보이면 무엇을 먼저 생각해야 하는가,https://youtu.be/2PWCITqpdOc,2PWCITqpdOc,public,1,당뇨,질문형,기초개념(L1),dm-nephropathy-hematuria.md
+88,12,2,5,3,4,당뇨병은 어떤 수치가 나왔을 때 진단하는가,https://youtu.be/3jZoFLS0YBs,3jZoFLS0YBs,public,1,당뇨,질문형,기초개념(L1),dm-type2-criteria-public.md
+89,12,2,5,3,4,당뇨병은 왜 위장관 증상을 일으키는가,https://youtu.be/xm_eiw0dldI,xm_eiw0dldI,public,1,당뇨,질문형,기초개념(L1),dm-gi-complications.md
+90,12,2,5,3,4,당뇨병이 없으면 심근경색과 뇌졸중이 생기지 않는가,https://youtu.be/FXO2H2eMYtM,FXO2H2eMYtM,public,1,당뇨,질문형,기초개념(L1),dm-cardiovascular-risk.md
+91,12,2,5,3,4,당뇨병이 있으면 기대 수명이 실제로 얼마나 짧아지는가,https://youtu.be/28fbCtRgL3k,28fbCtRgL3k,public,1,당뇨,질문형,기초개념(L1),dm-lifespan.md
+92,12,2,5,3,4,당뇨약 시타글립틴이 기침을 일으킬 수 있는가,https://youtu.be/Clkd8JAlCNQ,Clkd8JAlCNQ,public,1,당뇨,질문형,기초개념(L1),dm-sitagliptin-cough.md
+93,12,2,5,3,4,당뇨와 고혈압을 치료해야 하는 이유는 무엇인가,https://youtu.be/B4i5MGqqRSE,B4i5MGqqRSE,public,1,당뇨,질문형,기초개념(L1),dm-htn-why-treat.md
+94,12,2,5,3,4,만성 콩팥병 환자에게는 왜 이뇨제가 혈압약이 되는가,https://youtu.be/61s7EJB7BZA,61s7EJB7BZA,public,1,htn,질문형,기초개념(L1),ckd-bp-meds.md
+95,12,2,5,3,4,메트포르민은 어떻게 젖산산증을 일으키는가?,https://youtu.be/wZgJcMJN6rM,wZgJcMJN6rM,public,1,당뇨,질문형,기초개념(L1),metformin-lactic-acidosis-mechanism.md
+96,12,2,5,3,4,메트포르민은 왜 당뇨 1차 약제로 불리는가,https://youtu.be/XbW7sm2Zaf4,XbW7sm2Zaf4,public,1,당뇨,질문형,기초개념(L1),metformin-how-it-works.md
+97,12,2,5,3,4,몸의 혈액은 각 장기에 얼마씩 배분되는가,https://youtu.be/Cvx_RGVRrV8,Cvx_RGVRrV8,public,1,심장,질문형,기초개념(L1),organ-blood-distribution.md
+98,12,2,5,3,4,빈혈 치료를 시작했는데 왜 칼륨이 떨어지는가?,https://youtu.be/PDn4lgdOKAs,PDn4lgdOKAs,public,1,빈혈,질문형,기초개념(L1),hypokalemia-cell-uptake.md
+99,12,2,5,3,4,빈혈을 왜 검사하고 치료해야 하는가?,https://youtu.be/DddiZxHXRo8,DddiZxHXRo8,public,1,빈혈,질문형,기초개념(L1),anemia-why-treat.md
+100,12,2,5,3,4,빈혈의 증상들은 어떻게 나타나는가?,https://youtu.be/siMDJhJmkUw,siMDJhJmkUw,public,1,빈혈,질문형,기초개념(L1),anemia-symptoms.md
+101,12,2,5,3,4,새로 생긴 당뇨가 췌장암의 신호일 수 있는가?,https://youtu.be/98qviGdNFds,98qviGdNFds,public,1,당뇨,질문형,기초개념(L1),pancreatic-cancer-dm-signal.md
+102,12,2,5,3,4,생활요법만으로 혈압이 실제로 떨어지는가?,https://youtu.be/42Jr6KzJAaU,42Jr6KzJAaU,public,1,htn,질문형,기초개념(L1),htn-lifestyle-treatment.md
+103,12,2,5,3,4,소변검사에서 무엇을 보고 무엇을 걱정해야 하는가?,https://youtu.be/52xVCKBTYfo,52xVCKBTYfo,public,1,신장,질문형,기초개념(L1),urinalysis-what-to-see.md
+104,12,2,5,3,4,소변에서 단백질이 나오면 무조건 신장 문제인가?,https://youtu.be/JGWlEL6NERk,JGWlEL6NERk,public,1,신장,질문형,기초개념(L1),proteinuria-basics.md
+105,12,2,5,3,4,스트레스가 당뇨를 일으킬 수 있는가,https://youtu.be/GI3-PZA0730,GI3-PZA0730,public,1,당뇨,질문형,기초개념(L1),stress-diabetes.md
+106,12,2,5,3,4,신기능이 떨어지면 왜 고혈압이 생기는가,https://youtu.be/UnMdtQdJvpQ,UnMdtQdJvpQ,public,1,고혈압,질문형,기초개념(L1),htn-renal-mechanism.md
+107,12,2,5,3,4,심근경색의 통증이 왜 어깨와 팔에서 느껴지는가,https://youtu.be/Nid8uF8ggBc,Nid8uF8ggBc,public,1,심장,질문형,기초개념(L1),mi-referred-pain.md
+108,12,2,5,3,4,심장병은 어떤 원리로 증상을 만들어내는가,https://youtu.be/GOUwDzE632E,GOUwDzE632E,public,1,심장,질문형,기초개념(L1),heart-disease-four-types.md
+109,12,2,5,3,4,알부민 수치는 간의 어떤 기능을 반영하는가,https://youtu.be/pkdVAmKEf-s,pkdVAmKEf-s,public,1,lft,질문형,기초개념(L1),lft-albumin.md
+110,12,2,5,3,4,약 부작용으로 생긴 부종에 이뇨제를 더 추가하는 것이 옳은가,https://youtu.be/HFxo-czZG04,HFxo-czZG04,public,1,신장,질문형,기초개념(L1),nsaid-edema-diuretic.md
+111,12,2,5,3,4,염증이 생긴 조직은 왜 혈관을 확장시키는가,https://youtu.be/cECG6sEH95g,cECG6sEH95g,public,1,심장,질문형,기초개념(L1),ischemia-blood-flow-demand.md
+112,12,2,5,3,4,영상만으로 간암을 진단할 수 있는 전제 조건은 무엇인가,https://youtu.be/2e5fHKt5ic8,2e5fHKt5ic8,public,1,간암,질문형,기초개념(L1),hcc-imaging-prerequisite.md
+113,12,2,5,3,4,요오드를 많이 먹으면 갑상선 호르몬도 많아지는가?,https://youtu.be/wtMP0ogi-mQ,wtMP0ogi-mQ,public,1,갑상선,질문형,기초개념(L1),thyroid-iodine.md
+114,12,2,5,3,4,용종을 제거했는데 암이라는 말을 들었다 — 용종 안의 암세포는 어떻게 판단하는가,https://youtu.be/-PnCGzXFwXs,-PnCGzXFwXs,public,1,암,질문형,기초개념(L1),colon-polyp-cancer-risk.md
+115,12,2,5,3,4,우리 몸은 왜 끊임없이 수분을 잃고 있는가,https://youtu.be/EgRry8CN1l0,EgRry8CN1l0,public,1,신장,질문형,기초개념(L1),body-water-balance.md
+116,12,2,5,3,4,"위암 T병기는 어떻게 결정되고, 어떻게 알 수 있는가?",https://youtu.be/KzTaKo6LAIo,KzTaKo6LAIo,public,1,위암,질문형,기초개념(L1),gastric-cancer-t-stage.md
+117,12,2,5,3,4,위축성 위염이나 장상피 화생이 있으면 위암이 생기는가,https://youtu.be/xcinwlIEynI,xcinwlIEynI,public,1,위암,질문형,기초개념(L1),atrophic-gastritis-cancer-risk.md
+118,12,2,5,3,4,이뇨제는 왜 칼륨을 빼앗아 가는가,https://youtu.be/l_LpskVH4jA,l_LpskVH4jA,public,1,신장,질문형,기초개념(L1),diuretic-hypokalemia.md
+119,12,2,5,3,4,이완기 고혈압은 수축기 고혈압과 무엇이 다른가,https://youtu.be/SkIzfyac7wo,SkIzfyac7wo,public,1,고혈압,질문형,기초개념(L1),htn-diastolic.md
+120,12,2,5,3,4,인슐린 분비는 왜 두 단계로 나뉘는가,https://youtu.be/Pqps_GPj1vY,Pqps_GPj1vY,public,2,당뇨,질문형,시각화용이,insulin-phase2-secretion.md
+121,12,2,5,3,4,인슐린 저항성은 왜 생기는가,https://youtu.be/2t1U9bo_zJ8,2t1U9bo_zJ8,public,1,당뇨,질문형,기초개념(L1),insulin-resistance.md
+122,12,2,5,3,4,인슐린은 지방조직에서 무슨 일을 하는가,https://youtu.be/YmShGUCKVMM,YmShGUCKVMM,public,1,당뇨,질문형,기초개념(L1),insulin-fat-metabolism.md
+123,12,2,5,3,4,인슐린을 써야 한다는 말 앞에서 환자는 왜 멈추는가,https://youtu.be/3NX-EhfYF94,3NX-EhfYF94,public,1,당뇨,질문형,기초개념(L1),dm-insulin-barrier.md
+124,12,2,5,3,4,저혈당과 고혈당 중 어느 쪽이 더 위험한가,https://youtu.be/u2mfnn8Af7c,u2mfnn8Af7c,public,1,당뇨,위험/공포,기초개념(L1),hypoglycemia-vs-hyperglycemia.md
+125,12,2,5,3,4,저혈당에 대한 정상인과 당뇨인의 반응은 왜 다른가,https://youtu.be/3evcWgY1rKI,3evcWgY1rKI,public,1,당뇨,질문형,기초개념(L1),hypoglycemia-response.md
+126,12,2,5,3,4,제2형 당뇨는 어떤 경로를 거쳐 진행하는가,https://youtu.be/4JaANWG1dIQ,4JaANWG1dIQ,public,1,당뇨,질문형,기초개념(L1),dm-natural-history.md
+127,12,2,5,3,4,중환자실에서 빈혈이 생기는데 원인을 찾을 수 없다면?,https://youtu.be/NWl4TLhCERI,NWl4TLhCERI,public,1,빈혈,질문형,기초개념(L1),anemia-of-inflammation.md
+128,12,2,5,3,4,증상이 없어도 빈혈 검사를 받아야 하는가?,https://youtu.be/C1jVRngiOuA,C1jVRngiOuA,public,1,빈혈,질문형,기초개념(L1),anemia-silent-testing.md
+129,12,2,5,3,4,짠 음식을 먹으면 왜 혈압이 오르는가,https://youtu.be/XefRWuP6xE4,XefRWuP6xE4,public,1,htn,질문형,기초개념(L1),htn-salt-mechanism.md
+130,12,2,5,3,4,치료를 받는데도 혈당이 안 잡히는 이유는 무엇인가,https://youtu.be/AKbHXovU80s,AKbHXovU80s,public,1,당뇨,질문형,기초개념(L1),dm-uncontrolled-why.md
+131,12,2,5,3,4,칼륨이 부족하면 왜 근육에 힘이 빠지는가,https://youtu.be/pbEUdjxH4jc,pbEUdjxH4jc,public,1,신장,질문형,기초개념(L1),hypokalemia-muscle-weakness.md
+132,12,2,5,3,4,칼슘점수가 높게 나왔는데 증상이 없다면 어떻게 봐야 하는가?,https://youtu.be/54w55xIMi1A,54w55xIMi1A,public,1,심장,질문형,기초개념(L1),coronary-calcium-score-high.md
+133,12,2,5,3,4,칼슘채널차단제의 부작용은 왜 계열마다 다른가,https://youtu.be/nDFbU7YmKJQ,nDFbU7YmKJQ,public,1,htn,질문형,기초개념(L1),ccb-side-effects.md
+134,12,2,5,3,4,콜레스테롤이 높으면 몸이 안 좋은 느낌이 생기는가,https://youtu.be/B9o5QERNGtM,B9o5QERNGtM,public,1,콜레스테롤,질문형,기초개념(L1),cholesterol-vague-symptoms.md
+135,12,2,5,3,4,콩팥 기능이 낮은 환자에게 SGLT2 억제제를 쓰지 않는 이유는 무엇인가,https://youtu.be/uYUv0b4iA_Q,uYUv0b4iA_Q,public,1,당뇨,질문형,기초개념(L1),sglt2-ckd-caution.md
+136,12,2,5,3,4,폐는 왜 심장 바로 옆에 붙어 있는가,https://youtu.be/OPwVV4h0yQc,OPwVV4h0yQc,public,1,심장,질문형,기초개념(L1),lung-why-exist.md
+137,12,2,5,3,4,포타슘은 우리 몸에서 어떤 역할을 하는가,https://youtu.be/SCvdKKiacnE,SCvdKKiacnE,public,1,신장,질문형,기초개념(L1),potassium-role.md
+138,12,2,5,3,4,항암제로 인한 구토에는 왜 일반 구토약이 듣지 않는가?,https://youtu.be/8n3UGax_CxI,8n3UGax_CxI,public,1,암,질문형,기초개념(L1),chemo-nausea-drugs.md
+139,12,2,5,3,4,"항암치료를 받는 B형간염 환자, 어떻게 관리해야 하는가",https://youtu.be/PBrE-KLZ2VA,PBrE-KLZ2VA,public,1,암,질문형,기초개념(L1),hbv-cancer-patient.md
+140,12,2,5,3,4,혈당을 열심히 잡았는데 왜 시력이 떨어지는가,https://youtu.be/2gjSwrLtxao,2gjSwrLtxao,public,1,당뇨,질문형,기초개념(L1),dm-retinopathy-early-worsening.md
+141,12,2,5,3,4,혈당을 열심히 조절했는데 왜 시력이 더 떨어지는가,https://youtu.be/2gjSwrLtxao,2gjSwrLtxao,public,1,당뇨,질문형,기초개념(L1),dm-retinopathy-glucose-drop.md
+142,12,2,5,3,4,혈당이 날마다 다른 것을 어떻게 받아들여야 하는가,https://youtu.be/3j4-hVR4pQQ,3j4-hVR4pQQ,public,1,당뇨,질문형,기초개념(L1),dm-glucose-target-concept.md
+143,12,2,5,3,4,혈색소와 당화혈색소는 어떻게 다른가,https://youtu.be/AjsPmovfvYg,AjsPmovfvYg,public,1,당뇨,질문형,기초개념(L1),hemoglobin-hba1c.md
+144,12,2,5,3,4,혈압약을 먹다 안 먹다 하면 왜 문제가 되는가,https://youtu.be/Kl4rdMoi36Y,Kl4rdMoi36Y,public,1,htn,질문형,기초개념(L1),htn-medication-stop.md
+145,12,2,5,3,4,혈압은 어떻게 좁은 범위 안에서 유지되는가,https://youtu.be/AulkAFuz4qY,AulkAFuz4qY,public,1,htn,질문형,기초개념(L1),bp-reflex-mechanism.md
+146,12,2,5,3,4,혈압을 가장 빠르게 조절하는 것은 무엇인가,https://youtu.be/FAxzDUnATEQ,FAxzDUnATEQ,public,1,htn,질문형,기초개념(L1),htn-fastest-control.md
+147,12,2,5,3,4,혈압을 가장 빨리 조절하는 것은 무엇인가,https://youtu.be/FAxzDUnATEQ,FAxzDUnATEQ,public,1,htn,질문형,기초개념(L1),bp-baroreceptor-reflex.md
+148,12,2,5,3,4,혈압이 130/85라면 지금 치료를 시작해야 하는가?,https://youtu.be/oNFzbdkL22s,oNFzbdkL22s,public,1,htn,질문형,기초개념(L1),bp-130-management.md
+149,12,2,5,3,4,혈압이 150/95라면 지금 당장 약을 먹어야 하는가?,https://youtu.be/FO4wiftGBFk,FO4wiftGBFk,public,1,htn,질문형,기초개념(L1),bp-150-management.md
+150,12,2,5,3,4,혈압이 150/95에서 170/105 사이라면 어떻게 해야 하는가?,https://youtu.be/FO4wiftGBFk,FO4wiftGBFk,public,1,htn,질문형,기초개념(L1),bp-mid-range.md
+151,12,2,5,3,4,혈압이 200 이상으로 올랐을 때 어떻게 해야 하는가,https://youtu.be/3UUg1Pe_SAk,3UUg1Pe_SAk,public,1,htn,질문형,기초개념(L1),bp-hypertensive-emergency.md
+152,12,2,5,3,4,혈압이 높은 것과 고혈압은 어떻게 다른가,https://youtu.be/B2ySZgh_-g4,B2ySZgh_-g4,public,1,고혈압,질문형,기초개념(L1),bp-elevation-vs-hypertension.md
+153,11,3,4,3,4,"지사제 로페라마이드, 효과가 좋을수록 써서는 안 되는 상황이 있다",https://youtu.be/SRYKfpnjh_M,SRYKfpnjh_M,public,1,gi,통념파괴,기초개념(L1),loperamide-caution.md
+154,11,3,3,3,5,배가 아픈 위치를 보면 어느 장기 문제인지 알 수 있는가?,https://youtu.be/1FCtweJi3l4,1FCtweJi3l4,public,1,-,질문형,기초개념(L1)+시각화용이,abdominal-pain-location.md
+155,11,2,4,4,3,TACE 후 간농양이 생기면 왜 위험하고 어떻게 치료하는가,https://youtu.be/9GB5dfiVcaw,9GB5dfiVcaw,public,2,liver,질문형+위험/공포,-,tace-liver-abscess.md
+156,11,2,4,4,3,급성 B형간염에서 어떤 항원과 항체가 언제 나타나는가,https://youtu.be/SU972St2KU0,SU972St2KU0,public,2,간염,질문형+위험/공포,-,hbv-marker-timeline.md
+157,11,2,4,4,3,급성 담석성 췌장염에서 왜 ERCP를 하지 않는 것이 원칙인가?,https://youtu.be/pH1i1gtVEQ8,pH1i1gtVEQ8,public,2,담석,질문형+위험/공포,-,biliary-pancreatitis-ercp.md
+158,11,2,4,4,3,급성 식도정맥류 출혈에 어떤 약을 쓰며 왜 항생제가 필수인가,https://youtu.be/4aJMfZHyrQ0,4aJMfZHyrQ0,public,2,liver,질문형+위험/공포,-,variceal-bleed-drugs.md
+159,11,2,4,3,4,B형간염 바이러스에 노출됐을 때 무엇을 해야 하는가,https://youtu.be/ilIONGgjXJs,ilIONGgjXJs,public,1,간염,질문형,기초개념(L1),hbv-post-exposure-prophylaxis.md
+160,11,2,4,3,4,B형간염은 앞으로 완치가 될 수 있는가,https://youtu.be/1E-bIPkktl0,1E-bIPkktl0,public,1,간염,질문형,기초개념(L1),hbv-cure-possibility.md
+161,11,2,4,3,4,H. pylori는 어떻게 강산인 위 속에서 살아남는가,https://youtu.be/YQoaGm-nFIQ,YQoaGm-nFIQ,public,1,gi,질문형,기초개념(L1),hp-survival-mechanism.md
+162,11,2,4,3,4,간 기능이 떨어져 있을 때 조심해야 하는 약물은 무엇인가,https://youtu.be/WecyhkW1cKs,WecyhkW1cKs,public,1,liver,질문형,기초개념(L1),liver-disease-drug-caution.md
+163,11,2,4,3,4,간 기능이 저하되면 왜 세균 감염에 더 취약해지는가,https://youtu.be/jW3T4DmvLtk,jW3T4DmvLtk,public,1,cirrhosis,질문형,기초개념(L1),cirrhosis-infection-risk.md
+164,11,2,4,3,4,간경변증 복수가 생겼을 때 식이요법은 어떻게 해야 하는가,https://youtu.be/-w0hSvBL6FU,-w0hSvBL6FU,public,1,간경변,질문형,기초개념(L1),cirrhosis-ascites-diet.md
+165,11,2,4,3,4,간경변증에서 문맥압 항진이 생기는 기전은 무엇인가,https://youtu.be/6-9uzMmpYDk,6-9uzMmpYDk,public,1,간경변,질문형,기초개념(L1),cirrhosis-portal-htn-mechanism.md
+166,11,2,4,3,4,간성 뇌증은 어떤 단계로 나뉘며 각 단계는 어떻게 구분하는가,https://youtu.be/-jjtPfnvHQI,-jjtPfnvHQI,public,2,liver,질문형,시각화용이,hepatic-encephalopathy-grades.md
+167,11,2,4,3,4,간은 지방을 어떻게 처리하는가?,https://youtu.be/CH7FG9Z1Ksg,CH7FG9Z1Ksg,public,1,liver,질문형,기초개념(L1),liver-fat-metabolism.md
+168,11,2,4,3,4,건강보조식품이 드라마틱하게 효과가 있다면 왜 의심해야 하는가,https://youtu.be/G9POTQY0CP0,G9POTQY0CP0,public,1,gi,질문형,기초개념(L1),supplement-hidden-risk.md
+169,11,2,4,3,4,구역과 구토는 어떤 경우에 생기는가,https://youtu.be/0A3jn-2EaIQ,0A3jn-2EaIQ,public,1,구토,질문형,기초개념(L1),nausea-causes.md
+170,11,2,4,3,4,구역과 구토는 어떤 과정을 거쳐 일어나는가,https://youtu.be/7rkT447IWOI,7rkT447IWOI,public,1,구토,질문형,기초개념(L1),nausea-vomiting-mechanism.md
+171,11,2,4,3,4,"기침은 어떻게 일어나고, 만성 기침의 원인은 무엇인가",https://youtu.be/BZxsUESjgqg,BZxsUESjgqg,public,1,기침,질문형,기초개념(L1),cough-mechanism.md
+172,11,2,4,3,4,긴장하면 왜 음식이 잘 내려가지 않는가,https://youtu.be/2kt9uj23GWA,2kt9uj23GWA,public,1,gi,질문형,기초개념(L1),stress-gut-motility.md
+173,11,2,4,3,4,"노인의 어지럼증과 부종, 약물이 원인일 수 있는가",https://youtu.be/CBO1e9cWga4,CBO1e9cWga4,public,1,어지럼,질문형,기초개념(L1),dizziness-drug-cause.md
+174,11,2,4,3,4,눈 충혈로 내과에 오게 되는 경우는 어떤 상황인가,https://youtu.be/3gnLn0HWzes,3gnLn0HWzes,public,1,gi,질문형,기초개념(L1),red-eye-internal-medicine.md
+175,11,2,4,3,4,닭뼈를 삼켰을 때 병원에 가야 하는 증상은 무엇인가?,https://youtu.be/-nITz4_SmVg,-nITz4_SmVg,public,1,gi,질문형,기초개념(L1),chicken-bone-symptoms.md
+176,11,2,4,3,4,담석을 약으로 녹일 수 있는가,https://youtu.be/JWHRD_x48Ow,JWHRD_x48Ow,public,1,담석,질문형,기초개념(L1),gallstone-drug-treatment.md
+177,11,2,4,3,4,담석이 있다고 모두 담낭염이 되는 건 아니다 — 염증까지 이어지는 이유는 무엇인가,https://youtu.be/3xirPbLUyWY,3xirPbLUyWY,public,1,담석,질문형,기초개념(L1),cholecystitis-gallstone-mechanism.md
+178,11,2,4,3,4,대장내시경 전에 금속류를 제거하는 이유는 무엇인가,https://youtu.be/3fwEWqJjVg4,3fwEWqJjVg4,public,1,gi,질문형,기초개념(L1),colonoscopy-metal-removal.md
+179,11,2,4,3,4,독성 간염은 어떻게 발생하는가 — 내인성 독성과 특이 반응의 차이,https://youtu.be/0F2YdyDHlMg,0F2YdyDHlMg,public,2,간염,질문형,시각화용이,toxic-hepatitis-mechanism.md
+180,11,2,4,3,4,류마티스 인자(RF)가 양성으로 나왔을 때 어떻게 해석해야 하는가,https://youtu.be/2w6n-jo1HlA,2w6n-jo1HlA,public,1,gi,질문형,기초개념(L1),rheumatoid-factor-elevated.md
+181,11,2,4,3,4,만성 간염의 증상은 왜 특이하지 않은가,https://youtu.be/Dgd-knYhYkc,Dgd-knYhYkc,public,1,간염,질문형,기초개념(L1),chronic-hepatitis-symptoms.md
+182,11,2,4,3,4,먹어도 포만감이 없고 더부룩한 이유는 무엇인가 — 위마비,https://youtu.be/-omzGRCsL8w,-omzGRCsL8w,public,1,gi,질문형,기초개념(L1),gastroparesis-mechanism.md
+183,11,2,4,3,4,복통은 어떻게 아픈지로 무엇을 알 수 있는가,https://youtu.be/0KmqF8irW_8,0KmqF8irW_8,public,1,복통,질문형,기초개념(L1),abdominal-pain-part3.md
+184,11,2,4,3,4,복통을 줄이는 진경제는 어떻게 작동하는가,https://youtu.be/-GQb_hvLm08,-GQb_hvLm08,public,1,복통,질문형,기초개념(L1),antispasmodic-drugs.md
+185,11,2,4,3,4,복통이 언제부터 시작됐는가는 왜 중요한가,https://youtu.be/G38afYC1Fic,G38afYC1Fic,public,1,복통,질문형,기초개념(L1),abdominal-pain-timing.md
+186,11,2,4,3,4,"사르코이드증은 왜 진단하기도, 예측하기도 어려운가",https://youtu.be/3g-6h8Y5C8s,3g-6h8Y5C8s,public,1,gi,질문형,기초개념(L1),sarcoidosis-case.md
+187,11,2,4,3,4,삼킴곤란을 일으키는 병들은 어떻게 구분하는가,https://youtu.be/H_6Hl-DofDE,H_6Hl-DofDE,public,2,gi,질문형,시각화용이,dysphagia-causes.md
+188,11,2,4,3,4,소화기관이 영양분을 흡수하려면 어떤 네 가지 기능이 필요한가?,https://youtu.be/9tIuZ2bL0UQ,9tIuZ2bL0UQ,public,1,gi,질문형,기초개념(L1),digestion-four-functions.md
+189,11,2,4,3,4,소화성 궤양은 왜 생기는가,https://youtu.be/CnNdUnIfS0I,CnNdUnIfS0I,public,1,gi,질문형,기초개념(L1),peptic-ulcer-causes.md
+190,11,2,4,3,4,수액을 맞으면 왜 배 아픈 것이 좋아질까?,https://youtu.be/5L0gFJKZVG0,5L0gFJKZVG0,public,1,gi,질문형,기초개념(L1),iv-fluid-pain-relief.md
+191,11,2,4,3,4,신경성 소화불량에 신경안정제를 써야 하는가?,https://youtu.be/4yVTwYmfV1w,4yVTwYmfV1w,public,1,gi,질문형,기초개념(L1),functional-dyspepsia-anxiolytic.md
+192,11,2,4,3,4,영양제 주사는 누구에게나 좋은가?,https://youtu.be/Bgk5Zbq07bs,Bgk5Zbq07bs,public,1,gi,질문형,기초개념(L1),nutritional-iv-myth.md
+193,11,2,4,3,4,예방이라는 말은 모든 병에서 같은 의미인가?,https://youtu.be/zRXxD5Tfj40,zRXxD5Tfj40,public,1,gi,질문형,기초개념(L1),disease-prevention-concept.md
+194,11,2,4,3,4,위궤양 추적 내시경 — 왜 처음 치료한 병원에서 계속 해야 하는가,https://youtu.be/5kdS76Wm07s,5kdS76Wm07s,public,1,위궤양,질문형,기초개념(L1),gastric-ulcer-followup.md
+195,11,2,4,3,4,위축성 위염이란 무엇인가,https://youtu.be/dM58n6xEIks,dM58n6xEIks,public,1,위염,질문형,기초개념(L1),atrophic-gastritis-what.md
+196,11,2,4,3,4,"자가면역 췌장염은 왜 ""환자가 너무 잘 아는 병""이 되는가",https://youtu.be/WPk1y9nw4eE,WPk1y9nw4eE,public,1,gi,질문형,기초개념(L1),autoimmune-pancreatitis.md
+197,11,2,4,3,4,저개발국가에서 A형간염이 오히려 적은 이유는 무엇인가,https://youtu.be/5JV1_MFdCGM,5JV1_MFdCGM,public,1,간염,질문형,기초개념(L1),hep-a-epidemiology.md
+198,11,2,4,3,4,지방은 왜 소화와 흡수에 특별한 과정이 필요한가,https://youtu.be/3KoqKTGvEbY,3KoqKTGvEbY,public,1,gi,질문형,기초개념(L1),fat-digestion-absorption.md
+199,11,2,4,3,4,췌장은 우리 몸에서 어떤 일을 하는가,https://youtu.be/jX3u6x8QdMs,jX3u6x8QdMs,public,1,gi,질문형,기초개념(L1),pancreas-function.md
+200,11,2,4,3,4,크론병은 왜 동네 병원이 아닌 상급 병원에서 봐야 하는가,https://youtu.be/1G1yr27qvx0,1G1yr27qvx0,public,1,gi,질문형,기초개념(L1),crohns-disease-overview.md
+201,11,2,4,3,4,탈수가 되면 왜 어지러운가,https://youtu.be/CHntskasWgk,CHntskasWgk,public,1,탈수,질문형,기초개념(L1),dehydration-dizziness.md
+202,11,2,4,3,4,트리메부틴은 어떻게 위장 운동을 양방향으로 조절하는가?,https://youtu.be/6IGkO-80JTg,6IGkO-80JTg,public,1,gi,질문형,기초개념(L1),trimebutin-mechanism.md
+203,11,2,4,3,4,헬리코박터 감염을 확인하는 요소호기검사는 어떻게 작동하는가,https://youtu.be/A7yHx1PZ26w,A7yHx1PZ26w,public,1,감염,질문형,기초개념(L1),hpylori-ubt.md
+204,11,2,4,2,5,검은 변(melena)은 어디에서 출혈이 생겼다는 신호인가,https://youtu.be/YyS67WcYxfM,YyS67WcYxfM,public,1,gi,-,기초개념(L1)+시각화용이,melena.md
+205,11,1,5,3,3,2형 당뇨에서 식후 혈당이 오르는 이유는 무엇인가,https://youtu.be/-iTogtCwnyo,-iTogtCwnyo,public,2,당뇨,질문형,-,t2dm-postprandial.md
+206,11,1,5,3,3,B형간염 바이러스는 어떻게 간암을 일으키는가,https://youtu.be/kJiD4SFdY_8,kJiD4SFdY_8,public,2,간암,질문형,-,hbv-hcc-mechanism.md
+207,11,1,5,3,3,DPP-4 저해제는 어떻게 식후 혈당을 잡는가,https://youtu.be/YJu0cSiOxSw,YJu0cSiOxSw,public,2,당뇨,질문형,-,dpp4-inhibitors.md
+208,11,1,5,3,3,"GGT는 단독으로 의미가 있는가, ALP와 함께 볼 때 의미가 있는가",https://youtu.be/qBFHGrlPVjk,qBFHGrlPVjk,public,2,lft,질문형,-,lft-ggt.md
+209,11,1,5,3,3,PR interval은 무엇을 반영하며 길어지거나 짧아지면 무슨 의미인가?,https://youtu.be/53LGQJ1LXSI,53LGQJ1LXSI,public,2,심장,질문형,-,ecg-pr-interval.md
+210,11,1,5,3,3,TSH가 높게 나왔을 때 갑상선 기능 저하증이 아닌 경우는 무엇인가,https://youtu.be/5_RlSVkFA1E,5_RlSVkFA1E,public,2,갑상선,질문형,-,tsh-elevated.md
+211,11,1,5,3,3,간 기능 검사 수치가 이상할 때 어떤 패턴으로 읽어야 하는가,https://youtu.be/S2TwREIBIRI,S2TwREIBIRI,public,2,lft,질문형,-,lft-pattern-interpretation.md
+212,11,1,5,3,3,간경변에서 저나트륨혈증이 생기는 근본적인 이유는 무엇인가,https://youtu.be/h22LBy0Y2c0,h22LBy0Y2c0,public,2,신장,질문형,-,cirrhosis-hyponatremia.md
+213,11,1,5,3,3,간암 수술 후 재발은 왜 그렇게 흔한가,https://youtu.be/GDK_et-6qro,GDK_et-6qro,public,2,간암,질문형,-,hcc-surgery-recurrence.md
+214,11,1,5,3,3,간암에서 경동맥 화학색전술(TACE)은 어떤 원리로 치료하는가,https://youtu.be/KwizW8kVRAQ,KwizW8kVRAQ,public,2,간암,질문형,-,hcc-tace-principle.md
+215,11,1,5,3,3,간암의 전형적 영상 소견은 무엇인가,https://youtu.be/yOLcE3m6sE0,yOLcE3m6sE0,public,2,간암,질문형,-,hcc-imaging-findings.md
+216,11,1,5,3,3,간암이 작을 때 수술 대신 고주파열치료술을 선택할 수 있는가,https://youtu.be/Gdc9nzZqY88,Gdc9nzZqY88,public,2,간암,질문형,-,hcc-surgery-vs-rfa.md
+217,11,1,5,3,3,"갑상선 자가항체 세 가지는 각각 무엇을 공격하고, 어떤 의미를 갖는가?",https://youtu.be/-w4J6UykKXo,-w4J6UykKXo,public,2,갑상선,질문형,-,thyroid-autoantibodies.md
+218,11,1,5,3,3,극심한 스트레스가 저칼륨혈증을 일으킬 수 있는가,https://youtu.be/Fmk_Gk2CdSA,Fmk_Gk2CdSA,public,2,신장,질문형,-,stress-hypokalemia.md
+219,11,1,5,3,3,내시경에서 위암이 강력히 의심되는데 조직검사에서 암이 나오지 않는다면?,https://youtu.be/2wvXjlWq53o,2wvXjlWq53o,public,2,위암,질문형,-,gastric-cancer-biopsy-negative.md
+220,11,1,5,3,3,노인 당뇨 환자에서 혈당을 얼마나 엄격하게 조절해야 하는가,https://youtu.be/8rw-ucVDStE,8rw-ucVDStE,public,2,당뇨,질문형,-,dm-elderly-control.md
+221,11,1,5,3,3,단백질은 어떻게 지방으로 변환될 수 있는가,https://youtu.be/aT8TAnhOXa0,aT8TAnhOXa0,public,2,당뇨,질문형,-,protein-to-fat.md
+222,11,1,5,3,3,당뇨는 어떤 경로로 콩팥을 손상시키는가,https://youtu.be/LHx4h0fhF7Y,LHx4h0fhF7Y,public,2,당뇨,질문형,-,dm-nephropathy-mechanism.md
+223,11,1,5,3,3,당뇨병은 왜 콩팥에 과부하를 주는가 — 과여과의 기전,https://youtu.be/3mHYJzNmLS4,3mHYJzNmLS4,public,2,당뇨,질문형,-,dm-nephropathy-hyperfiltration.md
+224,11,1,5,3,3,만성 콩팥병 환자는 메트포르민을 먹어도 되는가,https://youtu.be/EfqfgOmkYKQ,EfqfgOmkYKQ,public,2,콩팥,질문형,-,ckd-metformin.md
+225,11,1,5,3,3,만성질환은 어떻게 빈혈을 만들어내는가?,https://youtu.be/xInhGeUr65E,xInhGeUr65E,public,2,빈혈,질문형,-,anemia-chronic-disease.md
+226,11,1,5,3,3,만성콩팥병에서 ACEi와 ARB를 함께 써도 되는가,https://youtu.be/v3llNiwSfFA,v3llNiwSfFA,public,2,콩팥,질문형,-,ckd-acei-arb.md
+227,11,1,5,3,3,만성콩팥병의 진행을 늦추는 방법은 무엇인가?,https://youtu.be/lp_f8eLJRwM,lp_f8eLJRwM,public,2,콩팥,질문형,-,ckd-progression-5.md
+228,11,1,5,3,3,"불현성 갑상선기능저하증, 누가 치료받아야 하는가",https://youtu.be/FcHEBX9odYc,FcHEBX9odYc,public,2,갑상선,질문형,-,subclinical-hypothyroidism-treatment.md
+229,11,1,5,3,3,세포는 어떻게 에너지(ATP)를 만드는가,https://youtu.be/vDmvM42axmk,vDmvM42axmk,public,2,당뇨,질문형,-,cell-energy-atp.md
+230,11,1,5,3,3,소금물을 정맥으로 주입하면 몸에서 무슨 일이 일어나는가,https://youtu.be/FdQOoZevCG8,FdQOoZevCG8,public,2,신장,질문형,-,saline-infusion-effects.md
+231,11,1,5,3,3,소금은 어떻게 혈압을 올리는가,https://youtu.be/C46AqualGTQ,C46AqualGTQ,public,2,htn,질문형,-,bp-salt-mechanism.md
+232,11,1,5,3,3,숨을 못 쉬면 왜 혈액이 산성으로 변하는가,https://youtu.be/rVQ53tMpRxI,rVQ53tMpRxI,public,2,신장,질문형,-,h2co3-01-overview.md
+233,11,1,5,3,3,"숨을 못 쉬면 이산화탄소만 쌓이는가, 산소도 함께 부족해지는가",https://youtu.be/jQusA-ca1i0,jQusA-ca1i0,public,2,신장,질문형,-,h2co3-03-hypercapnia.md
+234,11,1,5,3,3,스트레스는 실제로 혈당을 올리는가?,https://youtu.be/GI3-PZA0730,GI3-PZA0730,public,2,당뇨,질문형,-,dm-stress-hyperglycemia.md
+235,11,1,5,3,3,아카르보스(글루코베이)는 어떤 원리로 혈당을 낮추고 왜 부작용이 생기는가?,https://youtu.be/5-mTvNXftQI,5-mTvNXftQI,public,2,당뇨,질문형,-,acarbose-mechanism.md
+236,11,1,5,3,3,이산화탄소가 그렇게 많이 나와도 혈액이 바로 산성이 되지 않는 이유는 무엇인가,https://youtu.be/-UYrPG7_j8E,-UYrPG7_j8E,public,2,신장,질문형,-,h2co3-02-rbc-buffer.md
+237,11,1,5,3,3,이산화탄소가 늘면 왜 산증이 생기는가,https://youtu.be/AciEOIuiTMo,AciEOIuiTMo,public,2,신장,질문형,-,co2-respiratory-acidosis.md
+238,11,1,5,3,3,인슐린 저항성을 혈액검사로 측정할 수 있는가,https://youtu.be/o4NjmObDvVU,o4NjmObDvVU,public,2,당뇨,질문형,-,insulin-resistance-homa.md
+239,11,1,5,3,3,인슐린을 투여했는데 왜 저칼륨혈증이 생기는가,https://youtu.be/GXuyoIdCPqY,GXuyoIdCPqY,public,2,당뇨,질문형,-,insulin-hypokalemia.md
+240,11,1,5,3,3,조기 대장암을 내시경으로 제거할 때 어떤 방법을 쓰는가,https://youtu.be/6q37h_-5C1A,6q37h_-5C1A,public,2,대장암,질문형,-,early-colon-cancer-endoscopy.md
+241,11,1,5,3,3,지속적인 구토는 왜 칼륨 부족으로 이어지는가,https://youtu.be/42IrnhH7m-8,42IrnhH7m-8,public,2,신장,질문형,-,vomiting-hypokalemia.md
+242,11,1,5,3,3,짜게 먹는다고 고혈압이 생기는가,https://youtu.be/DOULzDj2vsM,DOULzDj2vsM,public,2,고혈압,질문형,-,salt-hypertension.md
+243,11,1,5,3,3,체액량이 부족할 때 포타슘이 꼭 부족해지지 않는 이유는 무엇인가,https://youtu.be/Yi7_5Al-8aU,Yi7_5Al-8aU,public,2,신장,질문형,-,volume-depletion-potassium.md
+244,11,1,5,3,3,크레아티닌보다 cystatin C가 GFR을 더 정확하게 반영하는 이유는 무엇인가?,https://youtu.be/4vGfzz3ImSM,4vGfzz3ImSM,public,2,신장,질문형,-,ckd-cystatin-c.md
+245,11,1,5,3,3,티아졸리딘디온은 왜 기전상 좋은 약인데 잘 쓰이지 않는가,https://youtu.be/YqBIORA5xPI,YqBIORA5xPI,public,2,당뇨,질문형,-,thiazolidinediones.md
+246,11,1,5,3,3,패혈증으로 혈압이 떨어졌을 때 왜 균을 잡는 것만으로는 부족한가,https://youtu.be/G72wt2akUBs,G72wt2akUBs,public,2,htn,질문형,-,sepsis-hypotension-treatment.md
+247,11,1,5,3,3,항갑상선제의 부작용에는 어떤 것들이 있고 각각 어떻게 대응하는가?,https://youtu.be/3GINxLf2Uds,3GINxLf2Uds,public,2,갑상선,질문형,-,antithyroid-drug-sideeffects.md
+248,11,1,5,3,3,혈당이 매우 높을 때 칼륨은 어떻게 변하는가,https://youtu.be/wVIZlCcB5KM,wVIZlCcB5KM,public,2,당뇨,질문형,-,hyperglycemia-potassium.md
+249,11,1,5,3,3,호흡성 산증에서 신경학적 증상이 특히 두드러지는 이유는 무엇인가,https://youtu.be/vLnpCx1vlVM,vLnpCx1vlVM,public,2,신장,질문형,-,h2co3-05-neurological-symptoms.md
+250,11,1,5,2,4,AFP(알파태아단백)가 급격히 떨어졌다 — 간암이 다 나은 걸까,https://youtu.be/46s2xNFPIAc,46s2xNFPIAc,public,1,간암,-,기초개념(L1),afp-liver-cancer-marker.md
+251,11,1,5,2,4,갑상선 결절 — 바로 조직검사를 해야 할까,https://youtu.be/6EGzT3syqSg,6EGzT3syqSg,public,1,갑상선,-,기초개념(L1),thyroid-nodule-cancer.md
+252,11,1,5,2,4,고령 환자가 자꾸 넘어진다 — 전해질을 먼저 확인해야 하는 이유,https://youtu.be/iNAsOQbDAvc,iNAsOQbDAvc,public,1,신장,-,기초개념(L1),elderly-fall-electrolyte.md
+253,11,1,5,2,4,고혈압 진단 후 혈압만 재면 충분한가,https://youtu.be/gzmsS1GhZDE,gzmsS1GhZDE,public,1,고혈압,-,기초개념(L1),htn-basic-workup.md
+254,11,1,5,2,4,기침이 심장 때문일 수 있다 — 폐부종과 호흡기 증상의 연결,https://youtu.be/QifQyS06UYM,QifQyS06UYM,public,1,심장,-,기초개념(L1),hf-cough.md
+255,11,1,5,2,4,당뇨병은 단순히 혈당이 조금 오르는 병인가,https://youtu.be/7J0rAO8UHTw,7J0rAO8UHTw,public,1,당뇨,-,기초개념(L1),dm-bigger-picture.md
+256,11,1,5,2,4,당뇨병을 완벽하게 조절하는 사람은 몇 명이나 될까,https://youtu.be/jmsLItgDgig,jmsLItgDgig,public,1,당뇨,-,기초개념(L1),dm-control-statistics.md
+257,11,1,5,2,4,인슐린은 혈당을 낮추기 위해 만들어진 호르몬인가,https://youtu.be/2bG1b4s4jLo,2bG1b4s4jLo,public,1,당뇨,-,기초개념(L1),insulin-role.md
+258,11,1,5,2,4,혈압약을 한 번 먹으면 계속 먹어야 한다는 말은 사실인가,https://youtu.be/2b2ynZneAVU,2b2ynZneAVU,public,1,htn,-,기초개념(L1),htn-medication-myth.md
+259,10,2,5,3,2,간경화 환자에서 크레아티닌이 올랐을 때 어떻게 접근하는가,https://youtu.be/5C0IK28CefI,5C0IK28CefI,public,3,신장,질문형,심화(L3),hepatorenal-syndrome-approach.md
+260,10,2,3,3,4,단세포 생물과 우리는 어떤 의미에서 같은 단백질을 쓰는가?,https://youtu.be/4kWI0XtxKcs,4kWI0XtxKcs,public,1,-,질문형,기초개념(L1),evolution-single-cell-origin.md
+261,10,2,3,3,4,배가 쥐어짜듯 아플 때 무엇이 일어나고 있는 것인가,https://youtu.be/8AXDxwJcygw,8AXDxwJcygw,public,1,-,질문형,기초개념(L1),colicky-pain-smooth-muscle.md
+262,10,2,3,3,4,예방접종 후 15분을 앉아 있어야 하는 이유는 무엇인가,https://youtu.be/d05CVWRr0FQ,d05CVWRr0FQ,public,1,-,질문형,기초개념(L1),vaccination-anaphylaxis.md
+263,10,2,3,3,4,오른쪽 윗배가 반복적으로 아플 때 담낭을 왜 의심해야 하는가,https://youtu.be/8exzsFLCpfI,8exzsFLCpfI,public,1,-,질문형,기초개념(L1),cholecystitis-hotpad-sign.md
+264,10,2,3,3,4,우리 몸 내부 시스템은 어떻게 유지되고 무너지는가,https://youtu.be/8SZ1r_dPl0w,8SZ1r_dPl0w,public,1,-,질문형,기초개념(L1),body-system-balance.md
+265,10,2,3,3,4,혈액순환제를 먹으면 혈액이 더 잘 순환하는가,https://youtu.be/FxNcNsJDvA8,FxNcNsJDvA8,public,1,약,질문형,기초개념(L1),circulation-booster-myth.md
+266,10,1,4,3,3,B형 간염 항바이러스제를 불규칙하게 복용하면 왜 내성이 생기는가,https://youtu.be/GHcLwRGQesE,GHcLwRGQesE,public,2,간염,질문형,-,hbv-antiviral-resistance.md
+267,10,1,4,3,3,H. pylori는 어떤 과정을 거쳐 위 점막에 자리를 잡는가,https://youtu.be/2AQ7zr_URjA,2AQ7zr_URjA,public,2,gi,질문형,-,hp-infection-steps.md
+268,10,1,4,3,3,NSAIDs는 어떻게 소화성 궤양을 일으키는가,https://youtu.be/lb6Ji1trsPw,lb6Ji1trsPw,public,2,gi,질문형,-,nsaid-peptic-ulcer.md
+269,10,1,4,3,3,PPI는 어떻게 위산을 억제하며 왜 식전 30분에 먹어야 하는가,https://youtu.be/cOGPduVpZXA,cOGPduVpZXA,public,2,gi,질문형,-,ppi-mechanism.md
+270,10,1,4,3,3,PPI보다 빠르고 안정적으로 위산을 억제하는 P-CAB은 어떻게 작용하는가,https://youtu.be/13165aGgaV8,13165aGgaV8,public,2,gi,질문형,-,pcab-mechanism.md
+271,10,1,4,3,3,TIPS 시술은 식도정맥류를 어떻게 치료하며 왜 양날의 검인가,https://youtu.be/qnN3IaFSe04,qnN3IaFSe04,public,2,liver,질문형,-,tips-procedure.md
+272,10,1,4,3,3,간경변성 복수에서 이뇨제를 어떻게 사용하는가,https://youtu.be/D1LsQ1WWgZo,D1LsQ1WWgZo,public,2,간경변,질문형,-,cirrhosis-diuretic-use.md
+273,10,1,4,3,3,간경변증에서 혈소판이 감소하면 어떻게 해야 하는가,https://youtu.be/xx_7m0ewSlg,xx_7m0ewSlg,public,2,간경변,질문형,-,cirrhosis-thrombocytopenia.md
+274,10,1,4,3,3,간경변증으로 진행했어도 B형간염 치료를 계속해야 하는가,https://youtu.be/-CLdtRw84Vw,-CLdtRw84Vw,public,2,간염,질문형,-,cirrhosis-hbv-treatment.md
+275,10,1,4,3,3,노인의 복통은 왜 증상이 희미한가,https://youtu.be/DwCkXtV04wM,DwCkXtV04wM,public,2,복통,질문형,-,bowel-perforation-lesson.md
+276,10,1,4,3,3,복통을 줄이는 항콜린약제는 어떻게 뇌 부작용을 줄였는가,https://youtu.be/AWs3wklkKuM,AWs3wklkKuM,public,2,복통,질문형,-,anticholinergic-antispasmodics.md
+277,10,1,4,3,3,위산은 어떻게 조절되는가 — 벽세포를 둘러싼 신호 체계,https://youtu.be/rNOWW7flpDI,rNOWW7flpDI,public,2,gi,질문형,-,gastric-acid-regulation.md
+278,10,1,4,3,3,위선종은 어떻게 치료하는가,https://youtu.be/DovYue6uzT0,DovYue6uzT0,public,2,gi,질문형,-,gastric-adenoma-treatment.md
+279,10,1,4,3,3,자발성 세균성 복막염은 왜 생기고 어떻게 치료하는가,https://youtu.be/drieRbMtMjA,drieRbMtMjA,public,2,감염,질문형,-,cirrhosis-sbp.md
+280,10,1,4,3,3,헬리코박터 제균치료에 왜 양성자펌프억제제(PPI)를 함께 쓰는가,https://youtu.be/BGVvcv-yfhk,BGVvcv-yfhk,public,2,gi,질문형,-,ppi-hpylori-eradication.md
+281,10,1,4,3,3,흡연은 어떻게 소화성 궤양을 일으키는가,https://youtu.be/EyAbPiFIT24,EyAbPiFIT24,public,2,gi,질문형,-,smoking-peptic-ulcer.md
+282,10,1,4,2,4,간경변으로 이미 진행했어도 B형간염 치료가 필요한가,https://youtu.be/-CLdtRw84Vw,-CLdtRw84Vw,public,1,간염,-,기초개념(L1),cirrhosis-hbv-treatment-need.md
+283,10,1,4,2,4,담석 없이도 담낭염이 생기는 경우는 언제인가,https://youtu.be/jlEbytkd0yw,jlEbytkd0yw,public,1,담석,-,기초개념(L1),cholecystitis-acalculous.md
+284,10,1,4,2,4,만성 B형간염에서 간생검이 필요한 경우는 언제인가,https://youtu.be/fyQMJvlzI_w,fyQMJvlzI_w,public,1,간염,-,기초개념(L1),hbv-biopsy-indication.md
+285,10,1,4,2,4,"아랫배가 아프다 — 방광, 장, 부인과 중 어느 쪽인가",https://youtu.be/5IPMEbFauQM,5IPMEbFauQM,public,1,gi,-,기초개념(L1),lower-abdominal-pain.md
+286,10,1,4,2,4,약을 먹고 이상한 증상이 생겼을 때 — 부작용인가 알레르기인가,https://youtu.be/6Xhz63ilgpI,6Xhz63ilgpI,public,1,gi,-,기초개념(L1),drug-se-vs-allergy.md
+287,10,1,4,2,4,얼굴이 부었다 — 이뇨제를 바로 써도 될까,https://youtu.be/680fgJQdrVA,680fgJQdrVA,public,1,gi,-,기초개념(L1),facial-edema-causes.md
+288,10,0,5,2,3,간이식을 받을 수 있는 사람은 누구인가,https://youtu.be/vBA4Q-YAfAo,vBA4Q-YAfAo,public,2,hcc,-,-,hcc-liver-transplant-criteria.md
+289,10,0,5,2,3,갑상선 기능 항진증이 있을 때 모두 그레이브스병인가,https://youtu.be/2IfIvvmbM-A,2IfIvvmbM-A,public,2,갑상선,-,-,graves-vs-thyroiditis.md
+290,10,0,5,2,3,"달릴 때 숨이 빨라지는 것은 의식적 결정인가, 반사인가",https://youtu.be/fTyap47VWUA,fTyap47VWUA,public,2,신장,-,-,h2co3-04-breathing-reflex.md
+291,10,0,5,2,3,당뇨병성 신증이 있으면 망막병증도 같이 있을까,https://youtu.be/a8_7-ltU9Dk,a8_7-ltU9Dk,public,2,당뇨,-,-,dm-nephropathy-retinopathy.md
+292,9,1,3,3,3,류마티스 관절염 치료제가 폐를 손상시킬 수 있는가,https://youtu.be/7gbtSnOGzg0,7gbtSnOGzg0,public,2,약,질문형,-,mtx-lung-toxicity.md
+293,9,1,3,3,3,혈관미주신경성 실신은 어떤 기전으로 의식을 잃게 만드는가,https://youtu.be/pLd83ZfaxiY,pLd83ZfaxiY,public,2,기전,질문형,-,vasovagal-syncope-mechanism.md
+294,9,0,4,2,3,간경변에서 혈소판이 줄어드는 기전은 하나인가,https://youtu.be/HMzu9cC0SUY,HMzu9cC0SUY,public,2,간경변,-,-,cirrhosis-platelet-reduction.md
