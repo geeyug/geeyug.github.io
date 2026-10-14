@@ -1,0 +1,119 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>6.4와 6.5 — 폐렴 환자는 없다</title><meta name="description" content="작년에 6.4였던 분이 올해 6.5로 오셨습니다. 몸은 그대로인데 오늘부터 환자입니다."><link rel="canonical" href="https://www.geeyug.com/book/6.4%EC%99%80-6.5/"><meta property="og:type" content="website"><meta property="og:site_name" content="기역"><meta property="og:locale" content="ko_KR"><meta property="og:title" content="6.4와 6.5 — 폐렴 환자는 없다"><meta property="og:description" content="작년에 6.4였던 분이 올해 6.5로 오셨습니다. 몸은 그대로인데 오늘부터 환자입니다."><meta property="og:url" content="https://www.geeyug.com/book/6.4%EC%99%80-6.5/"><meta name="twitter:card" content="summary"><script async src="https://www.googletagmanager.com/gtag/js?id=G-BGWRTKEJMF"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-BGWRTKEJMF');
+
+      /*
+       * 나가는 클릭을 센다 — 이 사이트의 핵심 지표다 (MONITORING.md 3단계).
+       *
+       * 여기는 오래 머무르라고 만든 곳이 아니다. 빨리 찾아서 유튜브로 가면 그게 성공이다.
+       * 그래서 「몇 명이 왔나」보다 「온 사람 중 몇 %가 나갔나」를 봐야 한다.
+       *
+       * 나가는 링크에는 예외 없이 target="_blank" 가 붙고 안쪽 링크에는 안 붙는다.
+       * 어느 묶음에서 나갔는지는 쪽 주소가 이미 말해 주므로 따로 보내지 않는다.
+       * 새 창으로 열리니 쪽이 닫히지 않는다 — 신호가 늦게 가서 빠질 걱정은 없다.
+       */
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest('a[target="_blank"]');
+        if (!a) return;
+        var 어디 = /youtube\.com$|^youtu\.be$/.test(a.hostname) ? 'outbound_youtube'
+                 : /tistory\.com$/.test(a.hostname) ? 'outbound_blog'
+                 : null;
+        if (!어디) return;
+        gtag('event', 어디, {
+          link_url: a.href,
+          link_text: a.textContent.trim().slice(0, 100),   // GA4 는 100자에서 자른다
+        });
+      });
+    </script><style>:root{--bg:#fff;--fg:#16181d;--dim:#5f6570;--faint:#9aa0aa;--line:#e6e8ec;--panel:#f7f8fa;--open:#1a7f5a;--nieun:#9a6b1f;--ssang:#2a5fa8;--siot:#8a3b8f;--hot:#c2410c;--art:#7a6a3a;--ask:#1668a8;--regret:#a04a5e}@media (prefers-color-scheme:dark){:root{--bg:#101215;--fg:#e7e9ee;--dim:#97a0ad;--faint:#6b747f;--line:#262a31;--panel:#181b20;--open:#4ec792;--nieun:#e0ab52;--ssang:#7aa8ea;--siot:#d18ad6;--hot:#f79862;--art:#b9a86a;--ask:#79c6ec;--regret:#e09aab}}:root[data-theme=dark]{--bg:#101215;--fg:#e7e9ee;--dim:#97a0ad;--faint:#6b747f;--line:#262a31;--panel:#181b20;--open:#4ec792;--nieun:#e0ab52;--ssang:#7aa8ea;--siot:#d18ad6;--hot:#f79862;--art:#b9a86a;--ask:#79c6ec;--regret:#e09aab}:root[data-theme=light]{--bg:#fff;--fg:#16181d;--dim:#5f6570;--faint:#9aa0aa;--line:#e6e8ec;--panel:#f7f8fa;--open:#1a7f5a;--nieun:#9a6b1f;--ssang:#2a5fa8;--siot:#8a3b8f;--hot:#c2410c;--art:#7a6a3a;--ask:#1668a8;--regret:#a04a5e}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{background:var(--bg);color:var(--fg);word-break:keep-all;overflow-wrap:anywhere;margin:0;font:15.5px/1.72 -apple-system,BlinkMacSystemFont,Apple SD Gothic Neo,Pretendard,Noto Sans KR,sans-serif}a{color:inherit}.top{border-bottom:1px solid var(--line)}.top .in{flex-wrap:wrap;align-items:baseline;gap:1.4rem;max-width:1080px;margin:0 auto;padding:.95rem 1.4rem;display:flex}.top .brand{letter-spacing:-.02em;font-size:1.06rem;font-weight:800;text-decoration:none}.top .brand small{color:var(--faint);letter-spacing:0;margin-left:.45rem;font-size:.74rem;font-weight:400}.top nav{flex-wrap:wrap;gap:1.15rem;margin-left:auto;font-size:.86rem;display:flex}.top nav a{color:var(--dim);text-decoration:none}.top nav a:hover{color:var(--fg)}.wrap{max-width:1080px;margin:0 auto;padding:2.4rem 1.4rem 5rem}h1{letter-spacing:-.03em;margin:0 0 .5rem;font-size:1.95rem;line-height:1.3}h2{letter-spacing:-.02em;margin:0 0 .3rem;font-size:1.16rem}.lede{color:var(--dim);max-width:54ch;margin:0 0 1.6rem}.tier{letter-spacing:.02em;white-space:nowrap;border:1px solid;border-radius:3px;padding:.05rem .32rem;font-size:.68rem}.t-open{color:var(--open)}.t-nieun{color:var(--nieun)}.t-ssangkiyeok{color:var(--ssang)}.t-siot{color:var(--siot)}.t-art{color:var(--art)}.tag{background:var(--panel);color:var(--dim);white-space:nowrap;border-radius:3px;padding:.07rem .38rem;font-size:.68rem}.tag.hot{color:var(--hot);background:0 0;border:1px solid}footer{border-top:1px solid var(--line)}footer .in{max-width:1080px;color:var(--faint);margin:0 auto;padding:1.5rem 1.4rem 3rem;font-size:.78rem}footer a{color:var(--dim)}
+.crumb{color:var(--dim);margin:0 0 1.1rem;font-size:.85rem}.crumb a{color:var(--dim)}.n{color:var(--faint);margin:0 0 .3rem;font-size:.8rem}.body{max-width:34em}.body p{margin:0 0 1.05em;line-height:1.9}.body h2{margin:2.6rem 0 1.1rem;font-size:1.08rem}
+</style></head><body><header class="top"><div class="in"><a class="brand" href="/">기역<small>의학 공부 지도</small></a><nav><a href="/map">주제별 자료실</a><a href="/qa">묻고 답한 것</a><a href="/regret">아까운 영상</a><a href="https://www.youtube.com/@geeyug" target="_blank" rel="noopener">유튜브</a></nav></div></header><main class="wrap"><p class="crumb"><a href="/">공부 지도</a> · <a href="/book/">폐렴 환자는 없다</a></p><p class="n">5장</p><h1>6.4와 6.5</h1><div class="body"><p>작년에 당화혈색소가 6.4였던 분이 올해 6.5로 오셨습니다.</p><p>그러면 저는 이렇게 말하게 됩니다.</p><p>당뇨입니다.</p><p>그분은 이렇게 물으십니다.</p><p>1년 사이에 제가 그렇게 달라진 건가요.</p><p>저는 이 질문이 아주 좋은 질문이라고 생각합니다.
+답을 하자면, 달라지지 않으셨습니다.</p><h2>0.1이 하는 일</h2><p>6.4에서 6.5로 가는 동안 몸에서 일어난 변화는 0.1이 아닙니다.</p><p>인슐린이 잘 안 듣기 시작한 건 몇 년 전일 수도 있어요.
+췌장이 힘에 부치기 시작한 것도 이미 한참 되었을 수 있고요.
+그게 아주 천천히 밀려오다가 올해 피를 뽑은 날 6.5로 찍힌 겁니다.</p><p>그리고 6.4에서 6.5로 넘어간 그날에 무슨 일이 일어난 것도 아닙니다.
+그날 아침에 췌장이 문을 닫은 게 아니거든요.</p><p>바뀐 것은 몸이 아니라 그 몸을 부르는 이름입니다.</p><p>그런데 이름이 바뀌면 많은 것이 따라 바뀝니다.</p><p>약이 시작됩니다.
+눈하고 콩팥 검사가 붙습니다.
+앞으로 오래 보자는 말이 나오고요.
+보험 이야기가 달라집니다.</p><p>그리고 그분이 스스로를 부르는 말이 달라집니다.
+어제까지 건강한 사람이었는데 오늘부터 당뇨 환자예요.</p><p>몸에서는 0.1이 움직였는데 삶에서는 그보다 훨씬 큰 것이 움직인 거죠.</p><h2>그러면 6.5는 어디서 왔을까요</h2><p>이 숫자가 하늘에서 떨어진 건 아닙니다.</p><p>당화혈색소를 쭉 늘어놓고, 눈의 합병증이 얼마나 생기는지를 같이 놓고 봅니다.
+그러면 어느 지점부터 그래프가 눈에 띄게 꺾여 올라갑니다.
+그 꺾이는 자리를 찾아서 선을 그은 겁니다.</p><p>그러니까 6.5는 「여기부터 몸이 다르다」는 뜻이 아니에요.
+「여기부터 나중에 문제가 생길 확률이 눈에 띄게 올라간다」는 뜻입니다.</p><p>당뇨는 지금 아파서 붙는 이름이 아닙니다.
+진단받으시는 날 대부분 아무 데도 안 아프시거든요.
+미래에 생길 일 때문에 지금 이름을 붙이는 겁니다.</p><h2>그래서 6.4는 괜찮은가요</h2><p>아닙니다. 이게 어려운 부분이에요.</p><p>6.4인 분과 6.6인 분 사이에 몸의 차이는 거의 없습니다.
+그런데 한 분은 환자가 되고 한 분은 아닙니다.</p><p>그렇다고 선을 없앨 수도 없어요.
+선이 없으면 언제 약을 시작할지, 언제 검사를 더 할지를 정할 수가 없거든요.</p><p>그래서 제가 진료실에서 실제로 하는 일은 이렇습니다.
+선을 쓰되, 선만 보지 않습니다.</p><p>지금 수치가 어디에 있는지보다 어느 방향으로 가고 있는지를 봅니다.</p><p>5.9에서 6.2로 올라온 분과
+6.6에서 6.3으로 내려온 분은
+숫자가 비슷해도 전혀 다른 상황이거든요.</p><p>앞의 분은 선을 향해 오고 있고, 뒤의 분은 선에서 멀어지고 있습니다.
+같은 6.2, 6.3인데 제가 할 말이 반대예요.</p><h2>이름은 무엇 때문에 있을까요</h2><p>여기서 한 번 멈추고 물어보겠습니다.</p><p>병에 이름을 붙이는 건 무엇 때문일까요.</p><p>설명하려고 붙이는 것 같지만, 실은 그렇지가 않습니다.
+정하려고 붙이는 거예요.
+약을 줄지 말지, 검사를 더 할지 말지, 언제 다시 오시라고 할지.</p><p>이름 붙이기 장에서 병명이 요약 기호라고 말씀드렸습니다.
+그 요약이 제값을 하고 있는지 아닌지를 재는 방법은 하나입니다.</p><p>이 이름을 아는 것만으로 다음에 할 일이 정해지는가.</p><p>정해지면 그 이름은 일을 하고 있는 겁니다.
+이름을 알아도 그 사람의 상태를 하나하나 다시 봐야 한다면, 그 이름은 아무것도 안 줄인 거고요.</p><h2>그런데 당뇨는 순서가 거꾸로입니다</h2><p>여기가 당뇨가 이상한 지점입니다.</p><p>보통은 몸에 뚜렷한 경계가 있고, 거기에 이름을 붙이고, 그 이름에 따라 할 일이 따라옵니다.
+몸 → 이름 → 행동이죠.</p><p>당뇨는 그렇지가 않아요.
+몸에는 경계가 없습니다. 5.8도 있고 6.1도 있고 6.4도 있고 6.7도 있습니다. 쭉 이어져 있어요.
+그 위에 사람이 선을 하나 그었습니다.
+그리고 그 선에 약과 검사와 보험을 걸었습니다.</p><p>그러니까 이름이 몸의 경계를 옮겨 적은 게 아닙니다.
+이름을 그으면서 경계가 생긴 거예요.</p><p>6.4와 6.5 사이에 있는 것은 몸의 차이가 아니라 우리가 하기로 정한 일의 차이입니다.</p><p>이게 나쁘다는 얘기가 아닙니다.
+선이 없으면 아무것도 못 정하니까요.
+다만 그 선을 몸에서 발견한 것으로 착각하면, 6.4인 분에게 「아직 아니니까 괜찮습니다」라고 말하게 됩니다.
+그분은 괜찮은 게 아니라 아직 우리가 손대기로 정한 자리에 안 오신 겁니다.</p><h2>기준이 스스로를 깨는 자리</h2><p>이 이야기가 그냥 제 생각이 아니라는 증거가 있습니다.
+진단 기준 안에 이미 들어 있어요.</p><p>당뇨 진단은 꽤 엄격합니다.
+당화혈색소, 공복혈당, 경구당부하 검사.
+그리고 원칙적으로 다른 날 한 번 더 확인해야 합니다.</p><p>그런데 예외가 하나 있습니다.</p><p>전형적인 증상이 있으면서 아무 때나 잰 혈당이 아주 높으면 그냥 당뇨입니다.
+소변을 자주 보고, 물을 계속 들이켜고, 설명이 안 되는 체중 감소가 있고, 그러면서 혈당이 200을 넘으면요.
+한 번으로 확진합니다.</p><p>왜 여기서만 느슨해질까요.</p><p>두 가지 때문입니다.</p><p>하나. 볼 것도 없기 때문이에요.
+이 조합에서 당뇨가 아닐 가능성이 사실상 없습니다.
+한 번 더 재봐야 답이 안 바뀝니다.</p><p>둘. 빨리 치료해야 하기 때문입니다.
+이런 분은 이미 몸이 자기를 헐어서 쓰고 있는 상태거든요.
+검사를 더 하자고 하면 결과를 기다려야 하고, 복잡해지면 안 하고 안 오시기도 합니다.
+시간을 끌어서 좋을 게 하나도 없어요.</p><p>그래서 엄격한 확인을 조금 내려놓고 빠른 치료를 택합니다.</p><p>이걸 기준을 대충 만들었다고 읽으면 안 됩니다.
+기준 안에 그 기준을 넘어설 조건을 넣어 둔 거예요.</p><p>그리고 이게 무슨 말인지 잘 보시면요.
+진단 기준은 「이 사람이 당뇨인가」를 재려고 있는 게 아닙니다.
+「지금 무엇을 해야 하는가」를 정하려고 있는 겁니다.</p><p>할 일이 이미 정해진 자리에서는 확인 절차가 필요 없어집니다.
+그래서 스스로 물러섭니다.</p><h2>같은 당뇨가 아닙니다</h2><p>당뇨라는 이름 하나 안에 서로 다른 사람이 들어 있습니다.</p><p>인슐린이 잘 안 듣는 분.
+인슐린을 못 만드는 분.
+둘 다인 분.
+약 하나로 되는 분.
+약을 세 개 쓰고도 안 되는 분.
+합병증이 이미 온 분.
+아직 아무것도 없는 분.</p><p>이분들이 다 같은 진단명으로 진료실에 오십니다.
+그런데 제가 생각하는 것과 처방하는 것은 전부 다릅니다.</p><p>그래서 저는 당뇨를 볼 때 병명보다 상태의 목록을 봅니다.</p><p>공복혈당이 높은 상태.
+식후혈당이 높은 상태.
+인슐린이 잘 안 듣는 상태.
+약을 두 개 쓰고 있는 상태.
+콩팥이 조금 나빠진 상태.</p><p>이렇게 늘어놓으면 다음에 무엇을 할지가 훨씬 분명해집니다.</p><p>그러니까 당뇨라는 이름은 진료실 문을 열고 들어오실 때까지만 일을 합니다.
+앉으시고 나면 그 이름으로는 아무것도 정해지지 않아요.</p><h2>분류가 잘 되어 있어서 놓치는 분</h2><p>1형과 2형으로 나누는 게 익숙하죠.
+어리고 마르면 1형, 나이 들고 살찌면 2형.</p><p>그런데 이 구분에 안 맞는 분들이 계십니다.</p><p>성인이신데 살이 안 찌셨어요.
+대사증후군에 해당하는 게 하나도 없고요.
+처음에는 먹는 약으로 조절이 잘 됐습니다.</p><p>그런데 1년, 길어도 몇 년 안에 약이 안 듣습니다.
+용량을 올려도 안 돼요.</p><p>이분은 2형 당뇨가 나빠진 게 아니라 처음부터 다른 병이었습니다.
+천천히 진행하는 자가면역 당뇨거든요.
+1형인데 느리게 오는 겁니다.</p><p>어떻게 알아챌 수 있을까요.
+인슐린이 실제로 얼마나 나오는지를 재고, 자가항체를 확인하면 됩니다.</p><p>그리고 이걸 일찍 알았다면 치료가 완전히 달랐을 겁니다.
+인슐린을 일찍 시작했을 거고요.
+췌장을 채찍질하는 약은 피했을 겁니다.</p><p>이 이야기를 여기 넣은 이유가 있습니다.</p><p>분류가 잘 되어 있어 보이는 병에서도 그 분류에 안 들어가는 사람이 있습니다.
+그런데 그 사람은 분류가 허술해서 놓치는 게 아니에요.
+분류가 잘 되어 있기 때문에 놓칩니다.</p><p>성인이니까 2형이겠지, 하고 넘어가니까요.</p><p>이름이 잘 만들어져 있을수록 그 이름을 한 번 더 의심할 일이 줄어듭니다.
+좋은 요약일수록 그 요약이 버린 것을 안 보게 되는 거죠.</p><p>그래서 저는 이럴 때 다시 봅니다.
+약을 잘 쓰는데 예상보다 빨리 안 듣게 되는 경우.
+살이 안 찌셨는데 당뇨인 경우.</p><p>설명이 다 되는데 하나가 안 맞습니다. 그 하나요.</p><h2>이름에서 나오실 수도 있습니다</h2><p>한 가지 더 말씀드리고 싶은 게 있어요.</p><p>새로 진단된 2형 당뇨에서, 처음 몇 주 동안 아주 강하게 혈당을 잡으면 그 뒤가 달라집니다.</p><p>당화혈색소가 9를 훌쩍 넘는 분들을 모아서 두 주 동안 인슐린으로 혈당을 정상까지 내렸습니다.
+그러고 나서 약을 아예 끊었어요.
+1년 뒤에 보니까 절반 가까이가 여전히 당뇨 범위 밖에 계셨습니다. 약 없이요.</p><p>왜 이런 일이 생길까요.</p><p>혈당이 높은 상태 자체가 췌장의 베타세포를 더 망가뜨립니다.
+인슐린이 잘 안 듣는 것도 더 심해지고요.
+높은 혈당이 다시 높은 혈당을 만드는 고리입니다.</p><p>그 고리를 초반에 한 번 끊어 주면 췌장이 숨 돌릴 여유가 생깁니다.
+그리고 이 효과는 베타세포가 아직 남아 있는 분에게서 큽니다. 그러니까 일찍 할수록 큽니다.</p><p>그래서 당뇨는 「한 번 걸리면 평생」이라는 말이 정확하지 않은 병입니다.
+완전히 없어진다는 뜻은 아니에요. 다시 올 수 있습니다.</p><p>그래도 이름이 붙은 뒤에 그 이름에서 벗어날 수 있다는 것, 이건 만성질환에서 드문 일이거든요.</p><p>그리고 이게 앞의 이야기와 이어집니다.
+6.5라는 선을 넘어서 이름이 붙었는데, 그 선을 도로 넘어 나올 수 있습니다.
+선이 몸에 그어져 있는 게 아니라서 그렇습니다.</p><h2>치료는 무엇을 하는 걸까요</h2><p>당뇨 치료를 혈당 낮추는 일이라고만 생각하면 절반입니다.</p><p>혈당은 우리가 볼 수 있는 숫자일 뿐이에요.
+실제로 하려는 건 앞으로 생길 일의 확률을 바꾸는 겁니다.
+눈, 콩팥, 신경, 심장. 이것들이 나빠질 가능성을 낮추려는 거죠.</p><p>그래서 혈당을 잘 떨어뜨리기만 하면 되는 게 아니라 어떻게 떨어뜨렸는지가 중요해집니다.
+저혈당을 만들면서 낮춘 것과 그렇지 않은 것은 다르거든요.</p><p>그리고 이걸 보시면 이름이 왜 부족한지가 한 번 더 드러납니다.
+당뇨라는 이름은 「이 사람의 미래 위험이 올라가 있다」까지만 말해 줍니다.
+어느 쪽 위험이 얼마나 올라가 있는지는 이름이 아니라 그분의 상태 목록에 있어요.</p><h2>이 장이 하려는 말</h2><p>당뇨는 흔합니다. 그래서 가볍게 여겨지기도 하죠.</p><p>그런데 저는 당뇨가 이 책에서 가장 중요한 병 가운데 하나라고 생각합니다.
+병이 어떻게 정의되는지, 이름이 무엇을 하는지, 아직 오지 않은 위험을 어떻게 다루는지를 한 병 안에서 다 보여 주거든요.</p><p>6.4와 6.5 사이에서 바뀌는 것은 몸이 아니라 이름입니다.
+그런데 그 이름은 실제로 무언가를 합니다.</p><p>이 둘을 동시에 붙잡고 있는 것이 이 장의 전부입니다.</p><p>처음의 그분께 제가 실제로 드리는 말씀은 이렇습니다.</p><p>달라지신 건 없습니다.
+그런데 오늘부터 제가 하는 일이 달라집니다.
+그리고 그건 지금 어디가 아파서가 아니라 앞으로를 위해서예요.</p></div></main><footer><div class="in"><p class="meta"><a href="/book/">← 다른 장</a><br>ⓒ 2026 기역. 이 글의 저작권은 지은이에게 있습니다.</p>여기 있는 글은 의학 정보를 전하기 위한 것으로, 진료를 대신하지 않습니다.</div></footer></body></html>
