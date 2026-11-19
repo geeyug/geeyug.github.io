@@ -1,0 +1,517 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>WPW 부전도로는 어디에 있나 — 3차원 모형 — 기역</title>
+<meta name="description" content="WPW 증후군에서 부전도로 자리를 심전도의 V1 · 사지 유도 · QRS transition 으로 찾는 까닭을, 돌려 볼 수 있는 3차원 심장 모형과 흥분 애니메이션으로 보여 줍니다.">
+<link rel="canonical" href="https://www.geeyug.com/ecg/wpw/">
+<meta property="og:title" content="WPW 부전도로는 어디에 있나 — 3차원 모형">
+<meta property="og:description" content="WPW 증후군에서 부전도로 자리를 심전도의 V1 · 사지 유도 · QRS transition 으로 찾는 까닭을, 돌려 볼 수 있는 3차원 심장 모형과 흥분 애니메이션으로 보여 줍니다.">
+<meta property="og:url" content="https://www.geeyug.com/ecg/wpw/">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* 짜임: 왼쪽에 3차원 무대, 오른쪽에 단계·자리 고르기와 유도별 파형. 좁으면 위아래로 쌓인다. */
+:root{
+  --bg:#f3f4f6; --panel:#ffffff; --stage:#fbfbfa; --fg:#1d2330; --muted:#5d6676; --line:#d9dde4;
+  --mitral:#c8453f; --tricuspid:#2a6fb0; --vector:#1f8f3f; --hot:#b77a12; --hot-bg:#fdf3dc;
+  --muscle:#b4524b; --muscle-rv:#c9766a; --lit:#f6c544; --fibrous:#e7d8cd; --chest:#9aa3b2;
+  --sans:"Noto Sans KR",system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#14171d; --panel:#1c2029; --stage:#181b22; --fg:#e8ebf1; --muted:#a2abbb; --line:#323846;
+  --mitral:#ef7b72; --tricuspid:#6fb0ee; --vector:#55c878; --hot:#f0b84a; --hot-bg:#3a2f14;
+  --muscle:#b85a52; --muscle-rv:#cf8073; --lit:#ffd35c; --fibrous:#6b5f5a; --chest:#6d7686; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#14171d; --panel:#1c2029; --stage:#181b22; --fg:#e8ebf1; --muted:#a2abbb; --line:#323846;
+  --mitral:#ef7b72; --tricuspid:#6fb0ee; --vector:#55c878; --hot:#f0b84a; --hot-bg:#3a2f14;
+  --muscle:#b85a52; --muscle-rv:#cf8073; --lit:#ffd35c; --fibrous:#6b5f5a; --chest:#6d7686; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.55;
+  padding-block:16px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap > *{min-width:0}
+.wrap{max-width:1280px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1.55fr) minmax(300px,1fr);gap:16px;align-items:start}
+@media (max-width:860px){.wrap{grid-template-columns:minmax(0,1fr)}}
+h1{font-size:19px;font-weight:700;margin:0;text-wrap:balance}
+.sub{color:var(--muted);font-size:13px;margin:2px 0 0}
+.stagebox{background:var(--stage);border:1px solid var(--line);border-radius:10px;overflow:hidden;position:relative}
+#stage{position:relative;width:100%;aspect-ratio:4/3;max-width:100%;touch-action:none;cursor:grab}
+#stage:active{cursor:grabbing}
+#stage canvas{position:absolute;inset:0;display:block;width:100%;height:100%}
+.lab{position:absolute;left:0;top:0;transform:translate(-50%,-50%);font-size:12.5px;font-weight:700;white-space:nowrap;pointer-events:none;
+  padding:1px 6px;border-radius:4px;background:color-mix(in srgb,var(--stage) 78%,transparent);color:var(--fg)}
+.lab.m{color:var(--mitral)} .lab.t{color:var(--tricuspid)} .lab.dir{font-weight:500;color:var(--muted);font-size:12px}
+.lab.ld{font-family:var(--mono);font-weight:600;font-size:13px} .lab.hot{background:var(--hot-bg);color:var(--hot);outline:1.5px solid var(--hot)}
+.lab.note{font-weight:500;color:var(--muted);font-size:11.5px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 12px;border-top:1px solid var(--line)}
+.bar .sp{flex:1 1 auto}
+button{font:inherit;color:var(--fg);background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:6px 11px;cursor:pointer}
+button:hover{border-color:var(--muted)} button:focus-visible,input:focus-visible{outline:2px solid var(--tricuspid);outline-offset:2px}
+button[aria-pressed="true"]{border-color:var(--fg);box-shadow:inset 0 0 0 1px var(--fg);font-weight:700}
+.views button{font-size:13px;padding:5px 9px}
+input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.steps{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.steps button{text-align:left;padding:9px 11px;line-height:1.35}
+.steps b{display:block;font-size:14px} .steps span{font-size:12.5px;color:var(--muted)}
+.sites{display:flex;flex-wrap:wrap;gap:8px}
+.sites button{flex:1 1 30%;min-width:88px;text-align:left;line-height:1.3;padding:8px 10px}
+.sites button b{font-family:var(--mono);font-size:14px} .sites button span{display:block;font-size:12px;color:var(--muted)}
+.sites button.m[aria-pressed="true"]{border-color:var(--mitral);box-shadow:inset 0 0 0 1px var(--mitral)}
+.sites button.t[aria-pressed="true"]{border-color:var(--tricuspid);box-shadow:inset 0 0 0 1px var(--tricuspid)}
+.say{font-size:15px;margin:0;min-height:4.6em} .say b.m{color:var(--mitral)} .say b.t{color:var(--tricuspid)} .say b.v{color:var(--vector)} .say b.h{color:var(--hot)}
+.say small{display:block;color:var(--muted);font-size:12.5px;margin-top:4px}
+.leads{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.lead{border:1px solid var(--line);border-radius:7px;padding:5px 7px 3px;position:relative;min-width:0}
+.lead.v1{grid-column:1 / -1}
+.lead .nm{font-family:var(--mono);font-weight:600;font-size:13px}
+.lead .tag{float:right;font-size:11.5px;color:var(--muted)}
+.lead svg{display:block;width:100%;height:54px} .lead.v1 svg{height:78px}
+.lead .base{stroke:var(--line);stroke-width:1} .lead .tr{fill:none;stroke:var(--fg);stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round}
+.lead .dl{fill:none;stroke:var(--vector);stroke-width:3.2;stroke-linejoin:round;stroke-linecap:round}
+.lead.hot{border-color:var(--hot);background:var(--hot-bg)} .lead.hot .tag{color:var(--hot);font-weight:700}
+.lead.dim{opacity:.38}
+.sites.four button{flex:1 1 45%}
+.path{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px}
+.path .chip{border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-weight:700;white-space:nowrap}
+.path .chip.hot{border-color:var(--hot);background:var(--hot-bg);color:var(--hot)}
+.path .chip.m{border-color:var(--mitral);color:var(--mitral)} .path .chip.t{border-color:var(--tricuspid);color:var(--tricuspid)}
+.path .arr{color:var(--muted)}
+.reach{font-size:12.5px;color:var(--muted)} .reach b{color:var(--fg)}
+.reach .track{position:relative;height:8px;border-radius:4px;background:var(--line);margin:6px 0 2px}
+.reach .fill{position:absolute;left:0;top:0;bottom:0;border-radius:4px;background:var(--lit)}
+.reach .tick{position:absolute;top:-4px;bottom:-4px;width:3px;margin-left:-1px;border-radius:2px;background:var(--fg)}
+.leads .grp{grid-column:1 / -1;font-size:12px;color:var(--muted);margin-top:2px}
+.foot{font-size:12px;color:var(--muted);margin:0}
+.head{grid-column:1 / -1}
+.crumb{font-size:12.5px;margin:0 0 6px;color:var(--muted)} .crumb a{color:var(--muted)}
+</style>
+<!-- 방문 계측: 사이트 공통(Study.astro 와 같은 조각) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BGWRTKEJMF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-BGWRTKEJMF');
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a[target="_blank"]');
+    if (!a) return;
+    var where = /youtube\.com$|^youtu\.be$/.test(a.hostname) ? 'outbound_youtube'
+              : /tistory\.com$/.test(a.hostname) ? 'outbound_blog'
+              : null;
+    if (!where) return;
+    gtag('event', where, { link_url: a.href, link_text: a.textContent.trim().slice(0, 100) });
+  });
+</script>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="head">
+    <p class="crumb"><a href="/">기역</a> · <a href="/ecg">심전도</a></p>
+    <h1>부전도로는 어디에 있나 — V1 · 사지 유도 · transition 으로 보는 3차원 모형</h1>
+    <p class="sub">끌어서 돌리고, 휠로 당깁니다. 화면 왼쪽이 환자의 오른쪽입니다(앞에서 볼 때).</p>
+  </div>
+
+  <div class="stagebox">
+    <div id="stage" aria-label="심장과 판막 고리, 유도의 3차원 모형"></div>
+    <div class="bar views" role="group" aria-label="보는 방향">
+      <button type="button" id="view-oblique" data-view="oblique">비스듬히</button>
+      <button type="button" id="view-top" data-view="top">위에서</button>
+      <button type="button" id="view-front" data-view="front">앞에서</button>
+      <button type="button" id="view-valve" data-view="valve">판막면 정면</button>
+      <span class="sp"></span>
+      <button type="button" id="play" aria-label="재생·멈춤">멈춤</button>
+      <input type="range" id="scrub" min="0" max="1000" value="0" aria-label="시간">
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="steps" role="group" aria-label="단계">
+      <button type="button" id="step-1" data-step="1"><b>Step 1 · V1</b><span>왼쪽 고리인가, 오른쪽 고리인가</span></button>
+      <button type="button" id="step-2" data-step="2"><b>Mitral · 사지 유도</b><span>세 자리가 바로 갈린다</span></button>
+      <button type="button" id="step-3" data-step="3"><b>Tricuspid · 사지 유도</b><span>바깥벽도 중격도 같은 유도를 가리킨다</span></button>
+      <button type="button" id="step-4" data-step="4"><b>Tricuspid · transition</b><span>중격 쪽인가, 바깥벽 쪽인가</span></button>
+    </div>
+    <div class="sites" id="sites" role="group" aria-label="부전도로 자리"></div>
+    <p class="say" id="say"></p>
+    <div class="path" id="path" aria-label="순서도에서 지나온 길"></div>
+    <div class="reach" id="reach" hidden><span>흥분이 <b>중격 · 좌심실</b>에 닿는 때</span><div class="track"><i class="fill"></i><i class="tick"></i></div></div>
+    <div class="leads" id="leads"></div>
+    <p class="foot">모식 모형입니다. 초록 화살표는 delta wave 를 만드는 처음 흥분의 방향을 어림한 것이고, 실제 환자의 벡터를 계산한 것이 아닙니다. 흉부 유도의 QRS 는 흥분이 근육을 따라 같은 빠르기로 번진다고 보고, 전극에 가까운 근육일수록 크게 보이게 셈한 것입니다(좌심실 벽과 중격은 우심실 벽의 3배 무게). 구역 나눔과 순서도는 Europace 2023;25:600–609 를 따랐습니다.</p>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+(function(){
+'use strict';
+var V = function(x,y,z){ return new THREE.Vector3(x,y,z); };
+var css = function(n){ return getComputedStyle(document.documentElement).getPropertyValue(n).trim(); };
+var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* ── 자리 잡기 ── 환자 좌표: x = 환자 왼쪽, y = 위(머리), z = 앞 */
+var A  = V(0.60,-0.55,0.58).normalize();                 // 심장 긴 축: 바닥 → 꼭대기
+var n0 = V(0.70,0.10,-0.70);
+var E1 = n0.clone().sub(A.clone().multiplyScalar(n0.dot(A))).normalize();   // 판막면 안에서 LV 쪽(왼쪽·뒤)
+var E2 = A.clone().cross(E1); if (E2.y < 0) E2.negate();                    // 판막면 안에서 위쪽
+var B  = A.clone().multiplyScalar(-2.2);                 // 판막면(심실 바닥)의 한가운데
+var LEN = 6.6, RAD = 3.5;
+var M  = B.clone().add(E1.clone().multiplyScalar(1.55)), RM = 1.45;         // mitral ring
+var T  = B.clone().add(E1.clone().multiplyScalar(-1.75)), RT = 1.65;        // tricuspid ring
+var AO = B.clone().add(E1.clone().multiplyScalar(-0.05)).add(E2.clone().multiplyScalar(1.9));
+var CEN = B.clone().add(A.clone().multiplyScalar(0.8));  // 처음 흥분이 번져 가는 쪽(바닥 바로 아래 심실 근육)
+function onRing(c, r, deg, lat){ var t = deg*Math.PI/180;
+  return c.clone().add(lat.clone().multiplyScalar(r*Math.cos(t))).add(E2.clone().multiplyScalar(r*Math.sin(t))); }
+var LATM = E1.clone(), LATT = E1.clone().negate();
+var SITES = {
+  'M-PS':{ring:'m',deg:-125,name:'PS',ko:'아래·중격 쪽'},
+  'M-PL':{ring:'m',deg:-65, name:'PL',ko:'아래·바깥쪽'},
+  'M-AL':{ring:'m',deg:55,  name:'AL',ko:'위·바깥쪽'},
+  'T-AL':{ring:'t',deg:45,  arc:45,  name:'AL',ko:'위·바깥쪽'},
+  'T-PL':{ring:'t',deg:-18, arc:-45, name:'PL',ko:'아래·바깥쪽'},
+  'T-PS':{ring:'t',deg:-135,arc:-135,name:'PS',ko:'아래·중격 쪽'},
+  'T-AS':{ring:'t',deg:135, arc:135, name:'AS',ko:'위·중격 쪽'}
+};
+var PAIR = {'T-AS':'T-AL','T-AL':'T-AS','T-PS':'T-PL','T-PL':'T-PS'};      // 사지 유도에서 같은 유도를 가리키는 짝
+var PAPER = {'T-AS':'II or III','T-PS':'aVL or aVR','T-AL':'II','T-PL':'aVL'};
+Object.keys(SITES).forEach(function(k){ var s = SITES[k];
+  s.pos = s.ring==='m' ? onRing(M,RM,s.deg,LATM) : onRing(T,RT,s.deg,LATT);
+  s.dir = CEN.clone().sub(s.pos).normalize(); });
+
+/* 유도가 보는 방향 */
+function fr(deg){ var t = deg*Math.PI/180; return V(Math.cos(t), -Math.sin(t), 0); }   // 사지 유도: 육축 각도
+var V1POS = V(-3.5, 0, 6.04);
+var LEADS = { 'V1':V1POS.clone().normalize(), 'I':fr(0), 'II':fr(60), 'III':fr(120), 'aVR':fr(-150), 'aVL':fr(-30), 'aVF':fr(90) };
+var LIMB = ['I','II','III','aVR','aVL','aVF'], PICK = ['aVL','II','aVR','III'];
+/* 흉부 전극: 가슴 둘레(타원) 위의 자리 */
+var CHEST = ['V1','V2','V3','V4','V5','V6'], CHANG = {V1:120,V2:90,V3:75,V4:60,V5:30,V6:0}, EL = {};
+CHEST.forEach(function(k){ var t = CHANG[k]*Math.PI/180, c = Math.cos(t), sn = Math.sin(t), r = 1/Math.sqrt(c*c/(9.5*9.5)+sn*sn/(6.5*6.5));
+  EL[k] = V(r*c, 0, r*sn); if (k !== 'V1') LEADS[k] = EL[k].clone().normalize(); });
+
+/* ── 무대 ── */
+var stage = document.getElementById('stage');
+var renderer = new THREE.WebGLRenderer({antialias:true, alpha:false});
+renderer.setPixelRatio(Math.min(window.devicePixelRatio||1, 2));
+stage.appendChild(renderer.domElement);
+var scene = new THREE.Scene();
+var camera = new THREE.PerspectiveCamera(32, 4/3, 0.1, 200);
+scene.add(new THREE.HemisphereLight(0xffffff, 0x8a8f99, 0.95));
+var sun = new THREE.DirectionalLight(0xffffff, 0.55); sun.position.set(-4, 8, 10); scene.add(sun);
+var heart = new THREE.Group(); scene.add(heart);
+
+/* 심실: 긴 축 둘레로 돌린 꼴 */
+var NS = 44, NT = 56, vpos = [], vidx = [];
+for (var i=0;i<=NS;i++){ var s = i/NS, r = RAD*Math.pow(1-Math.pow(s,2.0),0.55);
+  for (var j=0;j<=NT;j++){ var th = j/NT*Math.PI*2, bulge = 1+0.10*Math.cos(th-Math.PI);
+    var p = B.clone().add(A.clone().multiplyScalar(LEN*s)).add(E1.clone().multiplyScalar(r*bulge*Math.cos(th))).add(E2.clone().multiplyScalar(r*bulge*Math.sin(th)));
+    vpos.push(p.x,p.y,p.z); } }
+for (i=0;i<NS;i++) for (j=0;j<NT;j++){ var a=i*(NT+1)+j, b=a+1, c=a+NT+1, d=c+1; vidx.push(a,c,b, b,c,d); }
+var vgeo = new THREE.BufferGeometry();
+vgeo.setAttribute('position', new THREE.Float32BufferAttribute(vpos,3));
+vgeo.setAttribute('color', new THREE.Float32BufferAttribute(new Float32Array(vpos.length),3));
+vgeo.setIndex(vidx); vgeo.computeVertexNormals();
+var vmat = new THREE.MeshStandardMaterial({vertexColors:true, roughness:0.62, metalness:0.0, transparent:true, opacity:0.9, side:THREE.DoubleSide});
+var vent = new THREE.Mesh(vgeo, vmat); heart.add(vent);
+var isRV = []; for (i=0;i<vpos.length;i+=3){ var q = V(vpos[i],vpos[i+1],vpos[i+2]).sub(B); isRV.push(q.dot(E1) < -0.35); }
+
+/* ── 흥분이 근육을 따라 번지는 모의 ── 심실 벽(껍데기)과 중격 면에 점을 깔고 이웃끼리 이은 뒤, 자리에서 가장 짧은 길로 닿는 때를 잰다.
+   번지는 방향 × 근육 무게를 전극에서 본 크기(가까울수록 크게)로 더한 것이 그 전극의 QRS 이다. */
+var SEPX = -0.35, HS = 0.2, WLV = 3, WSEP = 3, RHO = 0.62, NP = [], NW = [], NK = [];   // NK: 0 우심실 벽 · 1 좌심실 벽 · 2 중격
+(function(){ var i, j, su, ru;
+  for (i=0;i<=NS;i++){ su = i/NS; ru = RAD*Math.pow(1-su*su,0.55);
+    for (j=0;j<NT;j++){ var th = j/NT*Math.PI*2, bg = 1+0.10*Math.cos(th-Math.PI), e1 = ru*bg*Math.cos(th), e2 = ru*bg*Math.sin(th), rv = e1 < SEPX;
+      NP.push(B.clone().add(A.clone().multiplyScalar(LEN*su)).add(E1.clone().multiplyScalar(e1)).add(E2.clone().multiplyScalar(e2)));
+      NW.push((LEN/NS)*(Math.max(ru,0.15)*2*Math.PI/NT)*(rv ? 1 : WLV)); NK.push(rv ? 0 : 1); } }
+  for (i=0;i<=NS;i++){ su = i/NS; ru = RAD*Math.pow(1-su*su,0.55); if (ru <= Math.abs(SEPX)) continue;
+    var nn = Math.floor(Math.sqrt(ru*ru-SEPX*SEPX)/HS);
+    for (var v=-nn; v<=nn; v++){ NP.push(B.clone().add(A.clone().multiplyScalar(LEN*su)).add(E1.clone().multiplyScalar(SEPX)).add(E2.clone().multiplyScalar(v*HS)));
+      NW.push((LEN/NS)*HS*WSEP); NK.push(2); } } })();
+var NN = NP.length, PX = new Float64Array(NN), PY = new Float64Array(NN), PZ = new Float64Array(NN), nbI = [], nbD = [];
+NP.forEach(function(p, n){ PX[n] = p.x; PY[n] = p.y; PZ[n] = p.z; });
+(function(){ for (var a=0;a<NN;a++){ var li = [], ld = [];
+    for (var b=0;b<NN;b++){ var dx = PX[a]-PX[b], dy = PY[a]-PY[b], dz = PZ[a]-PZ[b], d2 = dx*dx+dy*dy+dz*dz; if (d2 < RHO*RHO && d2 > 0){ li.push(b); ld.push(Math.sqrt(d2)); } }
+    nbI.push(li); nbD.push(ld); } })();
+function simulate(sp){ var Tm = new Float64Array(NN), d0 = new Float64Array(NN), mn = Infinity, n, q, hk = [], hv = [];
+  for (n=0;n<NN;n++){ var dx = PX[n]-sp.x, dy = PY[n]-sp.y, dz = PZ[n]-sp.z; d0[n] = Math.sqrt(dx*dx+dy*dy+dz*dz); Tm[n] = Infinity; if (d0[n] < mn) mn = d0[n]; }
+  function swap(a, b){ var tk = hk[a]; hk[a] = hk[b]; hk[b] = tk; var tn = hv[a]; hv[a] = hv[b]; hv[b] = tn; }
+  function push(t, i){ var c = hk.length; hk.push(t); hv.push(i); while (c > 0){ var p = (c-1)>>1; if (hk[p] <= hk[c]) break; swap(p, c); c = p; } }
+  function pop(){ var out = [hk[0], hv[0]], lk = hk.pop(), lv = hv.pop();
+    if (hk.length){ hk[0] = lk; hv[0] = lv; var c = 0, L = hk.length; for(;;){ var l = 2*c+1, r = l+1, m = c; if (l < L && hk[l] < hk[m]) m = l; if (r < L && hk[r] < hk[m]) m = r; if (m === c) break; swap(m, c); c = m; } }
+    return out; }
+  var lim = Math.max(mn+0.25, 0.5);
+  for (n=0;n<NN;n++) if (d0[n] < lim){ Tm[n] = d0[n]; push(d0[n], n); }
+  while (hk.length){ var e = pop(), t = e[0], i = e[1]; if (t > Tm[i]) continue; var li = nbI[i], ld = nbD[i];
+    for (q=0;q<li.length;q++){ var nt = t+ld[q]; if (nt < Tm[li[q]]){ Tm[li[q]] = nt; push(nt, li[q]); } } }
+  var pot = CHEST.map(function(){ return 0; }), tmax = 0, reach = Infinity, sum = V(0,0,0);
+  for (n=0;n<NN;n++){ var li2 = nbI[n], ld2 = nbD[n], gx = 0, gy = 0, gz = 0;
+    for (q=0;q<li2.length;q++){ var m2 = li2[q], f = (Tm[n]-Tm[m2])/(ld2[q]*ld2[q]); gx += f*(PX[n]-PX[m2]); gy += f*(PY[n]-PY[m2]); gz += f*(PZ[n]-PZ[m2]); }
+    var gl = Math.sqrt(gx*gx+gy*gy+gz*gz) || 1; gx /= gl; gy /= gl; gz /= gl;
+    sum.x += NW[n]*gx; sum.y += NW[n]*gy; sum.z += NW[n]*gz;
+    for (var c2=0;c2<CHEST.length;c2++){ var el = EL[CHEST[c2]], rx = el.x-PX[n], ry = el.y-PY[n], rz = el.z-PZ[n], rl = Math.sqrt(rx*rx+ry*ry+rz*rz); pot[c2] += NW[n]*(gx*rx+gy*ry+gz*rz)/(rl*rl*rl); }
+    if (Tm[n] > tmax) tmax = Tm[n]; if (NK[n] !== 0 && Tm[n] < reach) reach = Tm[n]; }
+  var mx = Math.max.apply(null, pot.map(Math.abs));
+  return {T:Tm, tmax:tmax, reach:reach, pot:pot.map(function(v){ return v/mx; }), q:sum.normalize()}; }
+var TG = 0; Object.keys(SITES).forEach(function(k){ SITES[k].sim = simulate(SITES[k].pos); TG = Math.max(TG, SITES[k].sim.tmax); });
+var vnode = new Int32Array((NS+1)*(NT+1)); for (i=0;i<=NS;i++) for (j=0;j<=NT;j++) vnode[i*(NT+1)+j] = i*NT + (j % NT);
+function transition(site){ var p = SITES[site].sim.pot; if (p[0] > 0) return 0;      // QRS 가 negative 에서 positive 로 넘어가는 유도(둘 중 0 에 가까운 쪽)
+  for (var i=1;i<p.length;i++) if (p[i] > 0) return Math.abs(p[i-1]) < Math.abs(p[i]) ? i-1 : i; return p.length-1; }
+
+/* 심실 사이 고랑 두 줄 */
+function groove(th){ var pts=[]; for (var i=0;i<=NS;i++){ var s=i/NS, r=RAD*Math.pow(1-Math.pow(s,2.0),0.55)*1.012;
+    pts.push(B.clone().add(A.clone().multiplyScalar(LEN*s)).add(E1.clone().multiplyScalar(r*Math.cos(th)*0.9-0.35*(1-s))).add(E2.clone().multiplyScalar(r*Math.sin(th)))); }
+  return new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts), new THREE.LineBasicMaterial({color:0x6e2b27, transparent:true, opacity:0.55})); }
+heart.add(groove(Math.PI/2)); heart.add(groove(-Math.PI/2));
+
+/* 판막면과 고리 */
+function basis(lat){ var z = lat.clone().cross(E2).normalize(); var m = new THREE.Matrix4().makeBasis(lat, E2, z); return new THREE.Quaternion().setFromRotationMatrix(m); }
+var capMat = new THREE.MeshStandardMaterial({roughness:0.9, side:THREE.DoubleSide, transparent:true, opacity:0.92});
+var cap = new THREE.Mesh(new THREE.CircleGeometry(RAD*1.02, 56), capMat); cap.position.copy(B); cap.quaternion.copy(basis(LATM)); heart.add(cap);
+var overlay = function(mat){ mat.depthTest = false; mat.transparent = true; return mat; };
+function arc(center, lat, r, deg0, deg1, tube, mat, order){ var g = new THREE.TorusGeometry(r, tube, 10, 48, (deg1-deg0)*Math.PI/180);
+  var mesh = new THREE.Mesh(g, mat); mesh.rotation.z = deg0*Math.PI/180; var grp = new THREE.Group(); grp.add(mesh);
+  grp.position.copy(center); grp.quaternion.copy(basis(lat)); mesh.renderOrder = order||5; heart.add(grp); return mesh; }
+var ringMatM = overlay(new THREE.MeshBasicMaterial()), ringMatT = overlay(new THREE.MeshBasicMaterial());
+var noneMat = overlay(new THREE.MeshBasicMaterial({opacity:0.9}));
+arc(M, LATM, RM, 0, 360, 0.07, ringMatM, 4); arc(T, LATT, RT, 0, 360, 0.07, ringMatT, 4);
+var noneArc = arc(M, LATM, RM, 98, 202, 0.11, noneMat, 5);                    // 대동맥판과 맞닿은 자리 — 구역 없음
+var zoneArcs = {};
+Object.keys(SITES).forEach(function(k){ var s = SITES[k], span = s.ring==='m' ? 27 : 41, mid = s.arc === undefined ? s.deg : s.arc;
+  var mat = overlay(new THREE.MeshBasicMaterial({opacity:0.95}));
+  zoneArcs[k] = arc(s.ring==='m'?M:T, s.ring==='m'?LATM:LATT, s.ring==='m'?RM:RT, mid-span, mid+span, 0.17, mat, 6); zoneArcs[k].userData.mat = mat; });
+var aoRing = new THREE.Mesh(new THREE.TorusGeometry(0.72, 0.06, 8, 32), overlay(new THREE.MeshBasicMaterial({opacity:0.55})));
+aoRing.position.copy(AO); aoRing.quaternion.copy(basis(LATM)); aoRing.renderOrder = 4; heart.add(aoRing);
+
+/* 심방(비치게)과 큰 혈관 */
+function blob(c, r, col, op){ var m = new THREE.Mesh(new THREE.SphereGeometry(r, 32, 24), new THREE.MeshStandardMaterial({color:col, transparent:true, opacity:op, roughness:0.8, depthWrite:false})); m.position.copy(c); heart.add(m); return m; }
+blob(M.clone().add(A.clone().multiplyScalar(-1.75)), 2.05, 0xc98a80, 0.16);
+blob(T.clone().add(A.clone().multiplyScalar(-1.8)), 2.2, 0x8fa7cf, 0.16);
+function tube(pts, r, col){ var curve = new THREE.CatmullRomCurve3(pts.map(function(p){ return V(p[0],p[1],p[2]); }));
+  var m = new THREE.Mesh(new THREE.TubeGeometry(curve, 40, r, 18, false), new THREE.MeshStandardMaterial({color:col, roughness:0.7, transparent:true, opacity:0.55, depthWrite:false})); heart.add(m); return m; }
+tube([[AO.x,AO.y,AO.z],[AO.x-0.5,AO.y+1.6,AO.z+0.3],[AO.x-0.2,AO.y+3.3,AO.z-0.2],[AO.x+1.0,AO.y+4.0,AO.z-1.5],[AO.x+1.9,AO.y+3.1,AO.z-2.8]], 0.72, 0xd0665a);
+tube([[AO.x+0.9,AO.y+0.3,AO.z+1.7],[AO.x+1.2,AO.y+2.0,AO.z+1.2],[AO.x+1.6,AO.y+3.0,AO.z-0.4]], 0.66, 0x7f9bd1);
+
+/* 부전도로 자리 점, 흥분 화살표 */
+var dot = new THREE.Mesh(new THREE.SphereGeometry(0.2, 20, 16), overlay(new THREE.MeshBasicMaterial({color:0xffffff}))); dot.renderOrder = 9; heart.add(dot);
+var halo = new THREE.Mesh(new THREE.RingGeometry(0.28, 0.36, 32), overlay(new THREE.MeshBasicMaterial({side:THREE.DoubleSide}))); halo.renderOrder = 8; heart.add(halo);
+var arrow = new THREE.Group(), vecMat = overlay(new THREE.MeshBasicMaterial());
+var shaft = new THREE.Mesh(new THREE.CylinderGeometry(0.11, 0.11, 1, 14), vecMat); shaft.renderOrder = 10;
+var tip = new THREE.Mesh(new THREE.ConeGeometry(0.3, 0.75, 18), vecMat); tip.renderOrder = 10;
+arrow.add(shaft); arrow.add(tip); heart.add(arrow);
+function setArrow(grp, from, dir, len){ var sh = grp.children[0], tp = grp.children[1];
+  grp.visible = len > 0.25; if (!grp.visible) return;
+  grp.position.copy(from); grp.quaternion.setFromUnitVectors(V(0,1,0), dir.clone().normalize());
+  var body = Math.max(len-0.75, 0.01); sh.scale.set(1, body, 1); sh.position.set(0, body/2, 0); tp.position.set(0, body+0.375, 0); }
+
+/* 가슴 둘레, V1 전극, V1 이 보는 줄 */
+var chestMat = new THREE.LineBasicMaterial({transparent:true, opacity:0.9});
+var cpts = []; for (i=0;i<=96;i++){ var t = i/96*Math.PI*2; cpts.push(V(9.5*Math.cos(t), 0, 6.5*Math.sin(t))); }
+var chest = new THREE.Line(new THREE.BufferGeometry().setFromPoints(cpts), chestMat); scene.add(chest);
+var v1dot = new THREE.Mesh(new THREE.SphereGeometry(0.3, 20, 16), new THREE.MeshBasicMaterial()); v1dot.position.copy(V1POS); scene.add(v1dot);
+var v1line = new THREE.Line(new THREE.BufferGeometry().setFromPoints([V1POS, V(0,0,0), V1POS.clone().multiplyScalar(-0.9)]), new THREE.LineDashedMaterial({dashSize:0.28, gapSize:0.2, transparent:true, opacity:0.9})); v1line.computeLineDistances(); scene.add(v1line);
+var v1bar = new THREE.Group(), v1barMat = overlay(new THREE.MeshBasicMaterial({opacity:0.95}));
+v1bar.add(new THREE.Mesh(new THREE.CylinderGeometry(0.09,0.09,1,12), v1barMat)); v1bar.add(new THREE.Mesh(new THREE.ConeGeometry(0.24,0.6,16), v1barMat)); v1bar.children.forEach(function(m){ m.renderOrder = 11; }); scene.add(v1bar);
+
+/* 흉부 전극 여섯, 그리고 흥분 전체가 가는 쪽(가슴을 위에서 본 면에 눕힌 화살표) */
+var elec = new THREE.Group(), elecDots = {}; scene.add(elec);
+CHEST.forEach(function(k){ var m = new THREE.Mesh(new THREE.SphereGeometry(0.27, 20, 16), new THREE.MeshBasicMaterial()); m.position.copy(EL[k]); elec.add(m); elecDots[k] = m; });
+var qarrow = new THREE.Group(), qMat = overlay(new THREE.MeshBasicMaterial({opacity:0.92}));
+qarrow.add(new THREE.Mesh(new THREE.CylinderGeometry(0.1,0.1,1,12), qMat)); qarrow.add(new THREE.Mesh(new THREE.ConeGeometry(0.27,0.7,16), qMat)); qarrow.children.forEach(function(m){ m.renderOrder = 11; }); scene.add(qarrow);
+
+/* 사지 유도: 앞에서 본 면(frontal plane)의 여섯 줄, 그리고 그 면에 떨어진 화살표의 그림자 */
+var hex = new THREE.Group(); scene.add(hex);
+var HEXR = 6.8, hexMat = new THREE.LineBasicMaterial({transparent:true, opacity:0.75}), hexHot = new THREE.LineBasicMaterial({linewidth:2});
+var hexLines = {};
+LIMB.forEach(function(k){ var l = new THREE.Line(new THREE.BufferGeometry().setFromPoints([V(0,0,0), LEADS[k].clone().multiplyScalar(HEXR)]), hexMat); hex.add(l); hexLines[k] = l; });
+var rim = []; for (i=0;i<=96;i++){ t = i/96*Math.PI*2; rim.push(V(HEXR*Math.cos(t), HEXR*Math.sin(t), 0)); }
+hex.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(rim), hexMat));
+var shadow = new THREE.Group(), shMat = overlay(new THREE.MeshBasicMaterial({opacity:0.9}));
+shadow.add(new THREE.Mesh(new THREE.CylinderGeometry(0.1,0.1,1,12), shMat)); shadow.add(new THREE.Mesh(new THREE.ConeGeometry(0.27,0.7,16), shMat)); shadow.children.forEach(function(m){ m.renderOrder = 11; }); hex.add(shadow);
+var ghost = new THREE.Group(), ghMat = overlay(new THREE.MeshBasicMaterial({opacity:0.34}));      // 같은 유도를 가리키는 짝의 그림자
+ghost.add(new THREE.Mesh(new THREE.CylinderGeometry(0.1,0.1,1,12), ghMat)); ghost.add(new THREE.Mesh(new THREE.ConeGeometry(0.27,0.7,16), ghMat)); ghost.children.forEach(function(m){ m.renderOrder = 10; }); hex.add(ghost);
+
+/* 글 꼬리표 */
+var labels = [];
+function label(text, cls, pos, when){ var el = document.createElement('div'); el.className = 'lab '+(cls||''); el.textContent = text; stage.appendChild(el);
+  var o = {el:el, pos:pos, when:when||null}; labels.push(o); return o; }
+label('Mitral ring', 'm', M.clone().add(E1.clone().multiplyScalar(RM+1.9)).add(E2.clone().multiplyScalar(0.1)));
+label('Tricuspid ring', 't', T.clone().add(E1.clone().multiplyScalar(-RT-2.1)).add(E2.clone().multiplyScalar(0.1)));
+var v1lab = label('V1', 'ld', V1POS.clone().add(V(-0.2,0.75,0.5)), 1);
+var dirF = label('앞', 'dir', V(0,0,8.5), 1), dirB = label('뒤', 'dir', V(0,0,-7.2), 1); label('환자 오른쪽', 'dir', V(-10.0,0,-3.4)); label('환자 왼쪽', 'dir', V(10.0,0,-3.4));
+var elecLabs = {}; CHEST.forEach(function(k){ elecLabs[k] = label(k, 'ld', EL[k].clone().add(EL[k].clone().normalize().multiplyScalar(0.95)), 4); });
+label('RV', 'dir', B.clone().add(A.clone().multiplyScalar(3.2)).add(E1.clone().multiplyScalar(-2.6)), 4); label('LV', 'dir', B.clone().add(A.clone().multiplyScalar(2.2)).add(E1.clone().multiplyScalar(2.9)), 4);
+var qLab = label('QRS 전체', 'note', V(0,0,0), 4), ghLab = label('', 't', V(0,0,0), 3);
+var zoneLabs = {};
+Object.keys(SITES).forEach(function(k){ var s = SITES[k], mid = s.arc === undefined ? s.deg : s.arc;
+  zoneLabs[k] = label(s.name, s.ring, s.ring==='m' ? onRing(M, RM+0.85, mid, LATM) : onRing(T, RT+0.85, mid, LATT)); });
+var noneLab = label('구역 없음', 'note', onRing(M, RM+1.0, 118, LATM));
+var leadLabs = {}; LIMB.forEach(function(k){ leadLabs[k] = label(k, 'ld', LEADS[k].clone().multiplyScalar(HEXR+0.7), 2); });
+
+/* ── 상태 ── */
+var st = {step:1, site:'M-PL', t:0, playing:!reduce, xray:false};
+if (reduce) st.t = 1;
+var HASH = {'v1-mitral':[1,'M-PL'], 'v1-tricuspid':[1,'T-AL'], 'limb-ps':[2,'M-PS'], 'limb-pl':[2,'M-PL'], 'limb-al':[2,'M-AL'],
+  'tri-limb-as':[3,'T-AS'], 'tri-limb-al':[3,'T-AL'], 'tri-limb-ps':[3,'T-PS'], 'tri-limb-pl':[3,'T-PL'],
+  'tri-trans-as':[4,'T-AS'], 'tri-trans-al':[4,'T-AL'], 'tri-trans-ps':[4,'T-PS'], 'tri-trans-pl':[4,'T-PL']};
+function viewOf(step){ return (step===1 || step===4) ? 'top' : 'front'; }
+var DUR = 5200, maxR = 9.2, T0 = 0.26;
+
+/* 카메라: 사원수 하나로 돌린다 */
+var DIST = 37, goalD = null, target = V(0.2, 0.1, -0.2), camQ = new THREE.Quaternion(), goalQ = null;
+var VDIST = {oblique:35, top:37, front:33, valve:25};
+function lookQ(pos, up){ var m = new THREE.Matrix4().lookAt(pos, V(0,0,0), up); return new THREE.Quaternion().setFromRotationMatrix(m); }
+var VIEWS = { oblique: lookQ(V(-0.70,0.60,0.40), V(0,1,0)), top: lookQ(V(0,1,0.0001), V(0,0,-1)), front: lookQ(V(0,0,1), V(0,1,0)),
+              valve: lookQ(A.clone(), V(0,1,0)) };   // 꼭대기 쪽에서 판막면을 정면으로(왼쪽에 tricuspid, 오른쪽에 mitral)
+camQ.copy(VIEWS.top);
+function setView(name){ goalQ = VIEWS[name].clone(); goalD = VDIST[name]; st.xray = (name==='valve'); paint();
+  Array.prototype.forEach.call(document.querySelectorAll('[data-view]'), function(b){ b.setAttribute('aria-pressed', b.dataset.view===name ? 'true':'false'); }); }
+function placeCamera(){ camera.quaternion.copy(camQ); camera.position.copy(V(0,0,DIST).applyQuaternion(camQ)).add(target); }
+var drag = null;
+stage.addEventListener('pointerdown', function(e){ drag = {x:e.clientX, y:e.clientY}; stage.setPointerCapture(e.pointerId); goalQ = null; goalD = null;
+  Array.prototype.forEach.call(document.querySelectorAll('[data-view]'), function(b){ b.setAttribute('aria-pressed','false'); }); });
+stage.addEventListener('pointermove', function(e){ if (!drag) return; var dx = e.clientX-drag.x, dy = e.clientY-drag.y; drag.x = e.clientX; drag.y = e.clientY;
+  var qy = new THREE.Quaternion().setFromAxisAngle(V(0,1,0), -dx*0.008), qx = new THREE.Quaternion().setFromAxisAngle(V(1,0,0), -dy*0.008);
+  camQ.multiply(qy).multiply(qx).normalize(); });
+stage.addEventListener('pointerup', function(){ drag = null; }); stage.addEventListener('pointercancel', function(){ drag = null; });
+stage.addEventListener('wheel', function(e){ e.preventDefault(); goalD = null; DIST = Math.min(52, Math.max(15, DIST*(1+Math.sign(e.deltaY)*0.07))); }, {passive:false});
+
+/* ── 오른쪽: 자리 단추, 설명, 유도 파형 ── */
+var sitesEl = document.getElementById('sites'), sayEl = document.getElementById('say'), leadsEl = document.getElementById('leads');
+var pathEl = document.getElementById('path'), reachEl = document.getElementById('reach'), reachFill = reachEl.querySelector('.fill'), reachTick = reachEl.querySelector('.tick');
+function proj(site, lead){ return SITES[site].dir.dot(LEADS[lead]); }
+function mostPositive(site){ var best = null; PICK.forEach(function(k){ if (best===null || proj(site,k) > proj(site,best)) best = k; }); return best; }
+function buildSites(){ sitesEl.innerHTML = '';
+  var list = st.step===1 ? [['M-PL','Mitral ring','왼쪽 뒤','m'], ['T-AL','Tricuspid ring','오른쪽 앞','t']]
+           : st.step===2 ? [['M-PS','PS','아래·중격 쪽','m'], ['M-PL','PL','아래·바깥쪽','m'], ['M-AL','AL','위·바깥쪽','m']]
+                         : [['T-AS','AS','위·중격 쪽','t'], ['T-AL','AL','위·바깥쪽','t'], ['T-PS','PS','아래·중격 쪽','t'], ['T-PL','PL','아래·바깥쪽','t']];
+  sitesEl.classList.toggle('four', st.step >= 3);
+  list.forEach(function(it){ var b = document.createElement('button'); b.type = 'button'; b.className = it[3]; b.id = 'site-'+it[0]; b.dataset.site = it[0];
+    b.innerHTML = '<b>'+it[1]+'</b><span>'+it[2]+'</span>'; b.setAttribute('aria-pressed', st.site===it[0] ? 'true':'false');
+    b.addEventListener('click', function(){ pick(st.step, it[0]); }); sitesEl.appendChild(b); }); }
+var SAY = {
+  '1:M-PL':'<b class="m">Mitral ring</b> 은 심장의 왼쪽 뒤에 있습니다. 여기서 시작한 흥분은 앞·오른쪽, 곧 V1 쪽으로 옵니다. 그래서 V1 에서 <b class="v">positive</b> 입니다.',
+  '1:T-AL':'<b class="t">Tricuspid ring</b> 은 V1 바로 밑, 오른쪽 앞에 있습니다. 여기서 시작한 흥분은 V1 에서 멀어집니다. 그래서 V1 에서 <b class="v">negative</b> 이거나 isoelectric 입니다.',
+  '2:M-PS':'<b class="m">PS</b> 는 고리의 아래·중격 쪽입니다. 흥분은 위·왼쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">aVL</b> 입니다.',
+  '2:M-PL':'<b class="m">PL</b> 은 고리의 아래·바깥쪽입니다. 흥분은 위·오른쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">aVR</b> 입니다.<small>거의 앞으로 오는 흥분이라 사지 유도에서는 작게 보입니다. 논문 순서도에는 「II or aVR」로 적혀 있습니다.</small>',
+  '2:M-AL':'<b class="m">AL</b> 은 고리의 위·바깥쪽입니다. 흥분은 아래·오른쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">III</b> 입니다.<small>고리의 회색 부분은 대동맥판과 맞닿은 자리라 구역이 없습니다. 그래서 mitral 쪽은 셋뿐입니다.</small>',
+  '3:T-AS':'<b class="t">AS</b> 는 고리의 위·중격 쪽, His 근처입니다. 흥분은 아래로 갑니다. 가장 positive 한 유도는 <b class="h">II</b> 입니다.<small>그런데 흐린 화살표의 AL(위·바깥쪽)도 II 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
+  '3:T-AL':'<b class="t">AL</b> 은 고리의 위·바깥쪽입니다. 흥분은 아래·왼쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">II</b> 입니다.<small>그런데 흐린 화살표의 AS(위·중격 쪽)도 II 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
+  '3:T-PS':'<b class="t">PS</b> 는 고리의 아래·중격 쪽, CS 입구 근처입니다. 흥분은 위로 갑니다. 가장 positive 한 유도는 <b class="h">aVL</b> 입니다.<small>그런데 흐린 화살표의 PL(아래·바깥쪽)도 aVL 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
+  '3:T-PL':'<b class="t">PL</b> 은 고리의 아래·바깥쪽입니다. 흥분은 위·왼쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">aVL</b> 입니다.<small>그런데 흐린 화살표의 PS(아래·중격 쪽)도 aVL 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
+  '4:T-AS':'<b class="t">AS</b> 는 중격 쪽입니다. 심장 한가운데라 흥분이 좌심실로 금방 넘어가고, 흉부 유도가 일찍 positive 로 바뀝니다(<b class="h">≤ V3</b>).<small>중격 둘(AS · PS)만 남고, 위아래만 가르면 됩니다. 흥분이 아래로 가서 II or III 이면 AS 입니다.</small>',
+  '4:T-PS':'<b class="t">PS</b> 는 중격 쪽입니다. 심장 한가운데라 흥분이 좌심실로 금방 넘어가고, 흉부 유도가 일찍 positive 로 바뀝니다(<b class="h">≤ V3</b>).<small>중격 둘(AS · PS)만 남고, 위아래만 가르면 됩니다. 흥분이 위로 가서 aVL or aVR 이면 PS 입니다.</small>',
+  '4:T-AL':'<b class="t">AL</b> 은 바깥벽 쪽입니다. 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다(<b class="h">&gt; V3</b>).<small>바깥벽 둘(AL · PL)이 기본입니다. 흥분이 아래·왼쪽으로 가서 II 이면 AL 입니다. 「QRS 전체」 화살표는 흥분 전체가 가는 쪽입니다.</small>',
+  '4:T-PL':'<b class="t">PL</b> 은 바깥벽 쪽입니다. 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다(<b class="h">&gt; V3</b>).<small>바깥벽 둘(AL · PL)이 기본입니다. 흥분이 위·왼쪽으로 가서 aVL 이면 PL 입니다. 이 모형에서는 고리의 아래쪽으로 갈수록 transition 이 빨라져, PL 을 바깥쪽 가까이에 잡았습니다.</small>' };
+function buildPath(){ var S = SITES[st.site], isM = S.ring==='m', out = [['', isM ? 'V1 positive' : 'V1 negative · isoelectric']];
+  if (st.step===1) out.push([S.ring, isM ? 'Mitral ring' : 'Tricuspid ring']);
+  else if (st.step===2){ out.push(['hot', mostPositive(st.site)]); out.push(['m', S.name]); }
+  else if (st.step===3){ out.push(['hot', mostPositive(st.site)]); out.push(['t', S.name+' 또는 '+SITES[PAIR[st.site]].name+' ?']); }
+  else { out.push(['hot', 'transition '+(transition(st.site) <= 2 ? '≤' : '>')+' V3']); out.push(['', PAPER[st.site]]); out.push(['t', S.name]); }
+  pathEl.innerHTML = out.map(function(o){ return '<span class="chip '+o[0]+'">'+o[1]+'</span>'; }).join('<span class="arr">→</span>'); }
+function wave(p, pq){ // 한 박동의 모식: P → 짧은 PR → delta → QRS → T. p = 이 유도에 비친 처음 흥분(delta), pq = QRS 전체(없으면 p 와 같다)
+  if (pq === undefined) pq = p;
+  var pts = [[0,0],[0.07,0],[0.11,0.10],[0.15,0.13],[0.19,0.10],[0.23,0],[T0,0],[0.37,0.34*p],[0.42,1.0*pq],[0.47,-0.16*pq],[0.52,0],[0.63,0],[0.70,-0.12*pq],[0.76,-0.2*pq],[0.83,-0.1*pq],[0.90,0],[1,0]];
+  return pts; }
+var leadEls = {}, leadList = [];
+function buildLeads(){ leadsEl.innerHTML = ''; leadEls = {}; var both = st.step >= 3; leadList = both ? LIMB.concat(CHEST) : ['V1'].concat(LIMB);
+  leadList.forEach(function(k){
+    if (both && (k==='I' || k==='V1')){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = k==='I' ? '사지 유도 — 위아래를 가른다' : '흉부 유도 — 중격 쪽인지 바깥벽 쪽인지를 가른다'; leadsEl.appendChild(g); }
+    var d = document.createElement('div'); d.className = 'lead'+(k==='V1' && !both ?' v1':''); d.id = 'lead-'+k;
+    d.innerHTML = '<span class="nm">'+k+'</span><span class="tag"></span><svg viewBox="0 0 200 60" preserveAspectRatio="none" aria-hidden="true"><line class="base" x1="0" x2="200" y1="34" y2="34"/><polyline class="tr"/><polyline class="dl"/></svg>';
+    leadsEl.appendChild(d); leadEls[k] = d; }); }
+function drawLeads(){ var both = st.step >= 3, sim = SITES[st.site].sim, hotLimb = st.step >= 2 ? mostPositive(st.site) : null, hotChest = both ? CHEST[transition(st.site)] : null;
+  leadList.forEach(function(k){ var ci = both ? CHEST.indexOf(k) : -1, isChest = ci >= 0, p = proj(st.site,k), el = leadEls[k], pts = isChest ? wave(p, sim.pot[ci]) : wave(p), amp = 22;
+    if (isChest) p = sim.pot[ci];
+    var seen = pts.filter(function(q){ return q[0] <= st.t+1e-6; });
+    if (seen.length < pts.length){ var a = seen[seen.length-1], b = pts[seen.length], f = (st.t-a[0])/(b[0]-a[0]); seen.push([st.t, a[1]+(b[1]-a[1])*f]); }
+    var str = function(arr){ return arr.map(function(q){ return (q[0]*200).toFixed(1)+','+(34-q[1]*amp).toFixed(1); }).join(' '); };
+    el.querySelector('.tr').setAttribute('points', str(seen));
+    el.querySelector('.dl').setAttribute('points', str(seen.filter(function(q){ return q[0] >= T0-1e-6 && q[0] <= 0.37+1e-6; })));
+    var tag = p > 0.15 ? 'positive' : (p < -0.15 ? 'negative' : 'isoelectric'), hot = isChest ? k===hotChest : k===hotLimb;
+    el.querySelector('.tag').textContent = hot ? (isChest ? '여기서 바뀜' : '가장 positive') : tag;
+    el.classList.toggle('hot', hot || (st.step===1 && k==='V1'));
+    el.classList.toggle('dim', st.step===1 && k!=='V1'); });
+  LIMB.forEach(function(k){ leadLabs[k].el.classList.toggle('hot', k===hotLimb); });
+  CHEST.forEach(function(k){ elecLabs[k].el.classList.toggle('hot', st.step===4 && k===hotChest); });
+  v1lab.el.classList.toggle('hot', st.step===1); }
+function pick(step, site, keepHash){ st.step = step; st.site = site; st.t = reduce ? 1 : 0; st.playing = !reduce; last = null;
+  [1,2,3,4].forEach(function(n){ document.getElementById('step-'+n).setAttribute('aria-pressed', step===n?'true':'false'); });
+  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[step+':'+site] || ''; setView(viewOf(step)); paint();
+  reachEl.hidden = step !== 4; reachTick.style.left = (SITES[site].sim.reach/TG*100).toFixed(1)+'%';
+  if (step===3){ ghLab.el.textContent = SITES[PAIR[site]].name; var gd = SITES[PAIR[site]].dir; ghLab.pos.set(gd.x, gd.y, 0).multiplyScalar(4.2).add(V(0.5,-0.55,0)); }
+  document.getElementById('play').textContent = st.playing ? '멈춤' : '재생';
+  if (!keepHash){ var name = Object.keys(HASH).filter(function(h){ return HASH[h][0]===step && HASH[h][1]===site; })[0];
+    try { if (name) history.replaceState(null, '', '#'+name); } catch(e){} } }
+document.getElementById('step-1').addEventListener('click', function(){ pick(1, 'M-PL'); });
+document.getElementById('step-2').addEventListener('click', function(){ pick(2, 'M-PS'); });
+document.getElementById('step-3').addEventListener('click', function(){ pick(3, SITES[st.site].ring==='t' && st.step>=3 ? st.site : 'T-PS'); });
+document.getElementById('step-4').addEventListener('click', function(){ pick(4, SITES[st.site].ring==='t' && st.step>=3 ? st.site : 'T-PS'); });
+Array.prototype.forEach.call(document.querySelectorAll('[data-view]'), function(b){ b.addEventListener('click', function(){ setView(b.dataset.view); }); });
+var playBtn = document.getElementById('play'), scrub = document.getElementById('scrub');
+playBtn.addEventListener('click', function(){ if (st.t >= 1) st.t = 0; st.playing = !st.playing; last = null; playBtn.textContent = st.playing ? '멈춤' : '재생'; });
+scrub.addEventListener('input', function(){ st.playing = false; st.t = scrub.value/1000; playBtn.textContent = '재생'; });
+
+/* ── 색(테마를 따라) ── */
+var col = {};
+function paint(){ ['stage','mitral','tricuspid','vector','hot','muscle','muscle-rv','lit','fibrous','chest','fg','muted'].forEach(function(n){ col[n] = new THREE.Color(css('--'+n) || '#888'); });
+  renderer.setClearColor(col.stage, 1); ringMatM.color.copy(col.mitral); ringMatT.color.copy(col.tricuspid); noneMat.color.copy(col.muted);
+  capMat.color.copy(col.fibrous); aoRing.material.color.copy(col.muted); vecMat.color.copy(col.vector); shMat.color.copy(col.vector); v1barMat.color.copy(col.vector);
+  qMat.color.copy(col.fg); ghMat.color.copy(col.vector);
+  CHEST.forEach(function(k, n){ elecDots[k].material.color.copy(SITES[st.site].sim.pot[n] > 0 ? col.fg : col.chest); });
+  chestMat.color.copy(col.chest); v1dot.material.color.copy(col.fg); v1line.material.color.copy(col.muted); hexMat.color.copy(col.chest); halo.material.color.copy(col.fg);
+  Object.keys(SITES).forEach(function(k){ var on = k===st.site, base = SITES[k].ring==='m' ? col.mitral : col.tricuspid, m = zoneArcs[k].userData.mat;
+    m.color.copy(base); m.opacity = on ? 1 : ((st.step===3 && k===PAIR[st.site]) ? 0.62 : 0.3); zoneArcs[k].scale.setScalar(1);
+    var show = (st.step===2 && SITES[k].ring==='m') || (st.step>=3 && SITES[k].ring==='t');
+    zoneArcs[k].visible = show; zoneLabs[k].when = show ? null : 99; });
+  noneArc.visible = st.step===2; hex.visible = (st.step===2 || st.step===3) && !st.xray; noneLab.when = st.step===2 ? null : 99;
+  dirF.when = dirB.when = (st.step===1 || st.step===4) ? null : 99; ghLab.when = hex.visible ? 3 : 99;
+  LIMB.forEach(function(k){ leadLabs[k].when = hex.visible ? null : 99; });
+  vmat.opacity = st.xray ? 0.14 : 0.9; vmat.depthWrite = !st.xray; capMat.opacity = st.xray ? 0.5 : 0.92;
+  chest.visible = st.step===1 || (st.step===4 && !st.xray); v1dot.visible = v1line.visible = st.step===1; elec.visible = st.step===4 && !st.xray;
+  CHEST.forEach(function(k){ elecLabs[k].when = elec.visible ? 4 : 99; }); if (st.step===4) dirF.when = dirB.when = st.xray ? 99 : null; }
+if (window.matchMedia) { var mq = matchMedia('(prefers-color-scheme: dark)'); (mq.addEventListener ? mq.addEventListener('change', paint) : mq.addListener(paint)); }
+new MutationObserver(paint).observe(document.documentElement, {attributes:true, attributeFilter:['data-theme']});
+
+/* ── 한 장면 그리기 ── */
+var tmp = new THREE.Color(), tv = V(0,0,0);
+function frame(now){ requestAnimationFrame(frame);
+  if (typeof window.__t === 'number'){ st.t = window.__t; st.playing = false; }
+  if (st.playing){ if (last !== null) st.t += (now-last)/DUR; last = now; if (st.t >= 1.35){ st.t = 0; } }
+  var t = Math.min(st.t, 1); if (document.activeElement !== scrub) scrub.value = Math.round(t*1000);
+  var S = SITES[st.site], k = Math.max(0, Math.min(1, (t-T0)/0.5)), R = k*TG*1.04, TS = S.sim.T;
+  var ca = vgeo.attributes.color.array;
+  for (var i=0, n=0; i<ca.length; i+=3, n++){ var dist = TS[vnode[n]];
+    var lit = k<=0 ? 0 : Math.max(0, Math.min(1, (R-dist)/1.1)), edge = Math.max(0, 1-Math.abs(R-dist)/0.9);
+    tmp.copy(isRV[n] ? col['muscle-rv'] : col.muscle).lerp(col.lit, Math.min(1, lit*0.5 + edge*0.5*(k<1?1:0)));
+    ca[i] = tmp.r; ca[i+1] = tmp.g; ca[i+2] = tmp.b; }
+  vgeo.attributes.color.needsUpdate = true;
+  dot.position.copy(S.pos); halo.position.copy(S.pos); halo.quaternion.copy(camera.quaternion); halo.scale.setScalar(1+0.5*(0.5+0.5*Math.sin(now/260)));
+  var grow = Math.max(0, Math.min(1, (t-T0)/0.14));
+  setArrow(arrow, S.pos, S.dir, 4.2*grow);
+  var p1 = S.dir.dot(LEADS.V1), u = LEADS.V1.clone().multiplyScalar(p1 >= 0 ? 1 : -1);
+  v1bar.visible = st.step===1; if (v1bar.visible) setArrow(v1bar, V(0,0,0), u, 4.2*Math.abs(p1)*grow + 0.0);
+  if (st.step===2 || st.step===3){ var f = V(S.dir.x, S.dir.y, 0); setArrow(shadow, V(0,0,0), f.clone().normalize(), 4.2*f.length()*grow); } else shadow.visible = false;
+  if (st.step===3){ var g2 = SITES[PAIR[st.site]].dir, f2 = V(g2.x, g2.y, 0); setArrow(ghost, V(0,0,0), f2.clone().normalize(), 4.2*f2.length()); } else ghost.visible = false;
+  if (st.step===4){ var fq = V(S.sim.q.x, 0, S.sim.q.z), ql = 5.0*fq.length()*k; setArrow(qarrow, V(0,0,0), fq.clone().normalize(), ql);
+    qLab.pos.copy(fq.normalize()).multiplyScalar(ql+1.5); qLab.when = (ql > 0.6 && !st.xray) ? 4 : 99; qarrow.visible = qarrow.visible && !st.xray; reachFill.style.width = (Math.min(1, R/TG)*100).toFixed(1)+'%'; } else qarrow.visible = false;
+  if (goalQ){ camQ.slerp(goalQ, reduce ? 1 : 0.09); if (camQ.angleTo(goalQ) < 0.002){ camQ.copy(goalQ); goalQ = null; } }
+  if (goalD !== null){ DIST += (goalD-DIST)*(reduce ? 1 : 0.09); if (Math.abs(goalD-DIST) < 0.02){ DIST = goalD; goalD = null; } }
+  placeCamera(); drawLeads(); renderer.render(scene, camera);
+  var w = stage.clientWidth, h = stage.clientHeight;
+  labels.forEach(function(o){ var ok = (o.when===null || o.when===st.step); if (ok){ tv.copy(o.pos).project(camera); ok = tv.z < 1 && Math.abs(tv.x) < 0.9 && Math.abs(tv.y) < 0.94; }
+    o.el.hidden = !ok; if (ok) o.el.style.transform = 'translate(-50%,-50%) translate('+((tv.x+1)/2*w).toFixed(1)+'px,'+((1-tv.y)/2*h).toFixed(1)+'px)'; }); }
+var last = null;
+function resize(){ var w = stage.clientWidth, h = stage.clientHeight; if (!w || !h) return; renderer.setSize(w, h, false); camera.aspect = w/h; camera.updateProjectionMatrix(); }
+window.addEventListener('resize', resize); if (window.ResizeObserver) new ResizeObserver(resize).observe(stage);
+
+var h0 = HASH[(location.hash||'').replace('#','')] || HASH['v1-mitral'];
+pick(h0[0], h0[1], true); camQ.copy(VIEWS[viewOf(h0[0])]); DIST = VDIST[viewOf(h0[0])]; goalQ = null; goalD = null;
+window.__wpw = function(){ var o = {}; Object.keys(SITES).forEach(function(k){ o[k] = {v1delta:+proj(k,'V1').toFixed(2), limb:mostPositive(k), chest:SITES[k].sim.pot.map(function(v){ return +v.toFixed(2); }), transition:CHEST[transition(k)], reach:+(SITES[k].sim.reach/TG).toFixed(2), tmax:+(SITES[k].sim.tmax/TG).toFixed(2)}; }); return o; };
+window.addEventListener('hashchange', function(){ var h = HASH[(location.hash||'').replace('#','')]; if (h) pick(h[0], h[1], true); });
+resize(); requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>
