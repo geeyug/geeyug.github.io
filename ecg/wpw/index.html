@@ -57,10 +57,8 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 .steps button{text-align:left;padding:9px 11px;line-height:1.35}
 .steps b{display:block;font-size:14px} .steps span{font-size:12.5px;color:var(--muted)}
 .steps button:first-child{grid-column:1 / -1}
-.look{margin:0;font-size:15px;border:1px solid var(--line);border-left:3px solid var(--hot);border-radius:7px;padding:9px 12px}
-.look > b:first-child{display:block;font-size:12px;color:var(--muted);font-weight:700;margin-bottom:1px}
-.look b.v{color:var(--vector)} .look b.h{color:var(--hot)}
-.look small{display:block;color:var(--muted);font-size:12.5px;margin-top:4px}
+.look{margin:0 0 -6px;font-size:14.5px;font-weight:500}
+.look > b:first-child{display:block;font-size:12px;color:var(--muted);font-weight:700}
 .sites{display:flex;flex-wrap:wrap;gap:8px}
 .sites button{flex:1 1 30%;min-width:88px;text-align:left;line-height:1.3;padding:8px 10px}
 .sites button b{font-family:var(--mono);font-size:14px} .sites button span{display:block;font-size:12px;color:var(--muted)}
@@ -89,7 +87,9 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 .reach .fill{position:absolute;left:0;top:0;bottom:0;border-radius:4px;background:var(--lit)}
 .reach .tick{position:absolute;top:-4px;bottom:-4px;width:3px;margin-left:-1px;border-radius:2px;background:var(--fg)}
 .leads .grp{grid-column:1 / -1;font-size:12px;color:var(--muted);margin-top:2px}
-.foot{font-size:12px;color:var(--muted);margin:0}
+.foot{font-size:12px;color:var(--muted);margin:6px 0 0}
+.about summary{font-size:12px;color:var(--muted);cursor:pointer;width:fit-content;text-decoration:underline;text-underline-offset:2px;list-style:none}
+.about summary::-webkit-details-marker{display:none}
 .head{grid-column:1 / -1}
 .crumb{font-size:12.5px;margin:0 0 6px;color:var(--muted)} .crumb a{color:var(--muted)}
 </style>
@@ -117,7 +117,6 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
   <div class="head">
     <p class="crumb"><a href="/">기역</a> · <a href="/ecg">심전도</a></p>
     <h1>Bypass tract은 어디에 있는지 알아내는 방법 — 3차원 모형을 통한 이해</h1>
-    <p class="sub">끌어서 돌리고, 휠로 당깁니다. 앞에서 마주 보는 그림이라, 화면의 왼쪽이 몸의 오른쪽입니다.</p>
   </div>
 
   <div class="stagebox">
@@ -135,17 +134,17 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 
   <div class="panel">
     <div class="steps" role="group" aria-label="단계">
-      <button type="button" id="step-1" data-step="1"><b>Step 1 · V1</b><span>Mitral ring 인가, Tricuspid ring 인가</span></button>
-      <button type="button" id="step-2" data-step="2"><b>Mitral</b><span>왼쪽</span></button>
-      <button type="button" id="step-3" data-step="3"><b>Tricuspid</b><span>오른쪽</span></button>
+      <button type="button" id="step-1" data-step="1"><b>처음 봐야 할 것: V1</b><span>Mitral ring 인가, Tricuspid ring 인가</span></button>
+      <button type="button" id="step-2" data-step="2"><b>Mitral</b><span>V1 positive</span></button>
+      <button type="button" id="step-3" data-step="3"><b>Tricuspid</b><span>V1 negative</span></button>
     </div>
+    <p class="look" id="look" hidden></p>
     <div class="sites" id="sites" role="group" aria-label="bypass tract 자리"></div>
-    <p class="look" id="look"></p>
     <p class="say" id="say"></p>
     <div class="path" id="path" aria-label="순서도에서 지나온 길"></div>
     <div class="reach" id="reach" hidden><span>흥분이 <b>중격 · 좌심실</b>에 닿는 때</span><div class="track"><i class="fill"></i><i class="tick"></i></div></div>
     <div class="leads" id="leads"></div>
-    <p class="foot">모식 모형입니다. 초록 화살표는 delta wave 를 만드는 처음 흥분의 방향을 어림한 것이고, 실제 환자의 벡터를 계산한 것이 아닙니다. 흉부 유도의 QRS 는 흥분이 근육을 따라 같은 빠르기로 번진다고 보고, 전극에 가까운 근육일수록 크게 보이게 셈한 것입니다(좌심실 벽과 중격은 우심실 벽의 3배 무게). 구역 나눔과 순서도는 Europace 2023;25:600–609 를 따랐습니다.</p>
+    <details class="about"><summary>모형에 대하여</summary><p class="foot">모식 모형입니다. 초록 화살표는 delta wave 를 만드는 처음 흥분의 방향을 어림한 것이고, 실제 환자의 벡터를 계산한 것이 아닙니다. 흉부 유도의 QRS 는 흥분이 근육을 따라 같은 빠르기로 번진다고 보고, 전극에 가까운 근육일수록 크게 보이게 셈한 것입니다(좌심실 벽과 중격은 우심실 벽의 3배 무게). 구역 나눔과 순서도는 Europace 2023;25:600–609 를 따랐습니다.</p></details>
   </div>
 </div>
 
@@ -390,20 +389,19 @@ var pathEl = document.getElementById('path'), reachEl = document.getElementById(
 function proj(site, lead){ return SITES[site].dir.dot(LEADS[lead]); }
 function mostPositive(site){ var best = null; PICK.forEach(function(k){ if (best===null || proj(site,k) > proj(site,best)) best = k; }); return best; }
 function buildSites(){ sitesEl.innerHTML = '';
-  var list = st.step===1 ? [['M-PL','V1 positive','Mitral ring 일 때','m'], ['T-AL','V1 negative','Tricuspid ring 일 때','t']]
+  var list = st.step===1 ? []
            : st.step===2 ? [['M-PS','PS','아래·중격 쪽','m'], ['M-PL','PL','아래·바깥쪽','m'], ['M-AL','AL','위·바깥쪽','m']]
                          : [['T-AS','AS','위·중격 쪽','t'], ['T-AL','AL','위·바깥쪽','t'], ['T-PS','PS','아래·중격 쪽','t'], ['T-PL','PL','아래·바깥쪽','t']];
-  sitesEl.classList.toggle('four', st.step >= 3);
+  sitesEl.classList.toggle('four', st.step >= 3); sitesEl.hidden = !list.length;
   list.forEach(function(it){ var b = document.createElement('button'); b.type = 'button'; b.className = it[3]; b.id = 'site-'+it[0]; b.dataset.site = it[0];
     b.innerHTML = '<b>'+it[1]+'</b><span>'+it[2]+'</span>'; b.setAttribute('aria-pressed', st.site===it[0] ? 'true':'false');
     b.addEventListener('click', function(){ pick(st.step, it[0]); }); sitesEl.appendChild(b); }); }
 var LOOK = {
-  "1":'<b>Step 1 — 볼 것</b>V1 에서 delta wave 가 <b class="v">positive</b> 인가, <b class="v">negative</b> 인가.<small>positive 이면 Mitral ring(왼쪽), negative 이거나 isoelectric 이면 Tricuspid ring(오른쪽)입니다.</small>',
-  "2":'<b>Step 2 — 볼 것</b>delta wave 가 가장 크게 positive 인 유도, 곧 <b class="h">delta max</b> 가 어느 유도인가.<small>Mitral 은 이것 하나로 PS · PL · AL 가운데 어디인지 정해집니다.</small>',
-  "3":'<b>Step 2 — 볼 것</b>① <b class="h">delta max</b> 가 어느 유도인가.<br>② 하나 더 — <b class="h">QRS transition</b> 이 ≤ V3 인가, &gt; V3 인가.<small>Tricuspid 는 Step 2 에서 확인할 것이 하나 더 있습니다. delta max 만으로는 중격(septum) 쪽과 바깥벽(free wall) 쪽이 같은 유도를 가리키기 때문입니다.</small>' };
+  "2":'<b>다음에 볼 것</b>delta max — delta wave 가 가장 크게 positive 인 유도가 어느 것인가',
+  "3":'<b>다음에 볼 것</b>① delta max 가 어느 유도인가<br>② 하나 더 — QRS transition 이 ≤ V3 인가, &gt; V3 인가' };
 var SAY = {
-  "1:M-PL":'V1 에서 delta wave 가 <b class="v">positive</b> 이면 <b class="m">Mitral ring</b> 입니다.<small>Mitral ring 은 심장의 왼쪽 뒤에 있습니다. 여기서 시작한 흥분은 앞·오른쪽, 곧 V1 쪽으로 옵니다.</small>',
-  "1:T-AL":'V1 에서 delta wave 가 <b class="v">negative</b> 이거나 isoelectric 이면 <b class="t">Tricuspid ring</b> 입니다.<small>Tricuspid ring 은 V1 바로 밑, 오른쪽 앞에 있습니다. 여기서 시작한 흥분은 V1 에서 멀어집니다.</small>',
+  "1:M-PL":'V1 에서 delta wave 가 <b class="v">positive</b> 이면 <b class="m">Mitral ring</b>, <b class="v">negative</b> 이거나 isoelectric 이면 <b class="t">Tricuspid ring</b> 입니다.<small>Mitral ring 은 심장의 왼쪽 뒤에 있어서, 여기서 시작한 흥분이 앞·오른쪽, 곧 V1 쪽으로 옵니다. Tricuspid ring 은 V1 바로 밑, 오른쪽 앞에 있어서, 여기서 시작한 흥분이 V1 에서 멀어집니다. 그림은 두 경우를 번갈아 보여 줍니다.</small>',
+  "1:T-AL":'V1 에서 delta wave 가 <b class="v">positive</b> 이면 <b class="m">Mitral ring</b>, <b class="v">negative</b> 이거나 isoelectric 이면 <b class="t">Tricuspid ring</b> 입니다.<small>Mitral ring 은 심장의 왼쪽 뒤에 있어서, 여기서 시작한 흥분이 앞·오른쪽, 곧 V1 쪽으로 옵니다. Tricuspid ring 은 V1 바로 밑, 오른쪽 앞에 있어서, 여기서 시작한 흥분이 V1 에서 멀어집니다. 그림은 두 경우를 번갈아 보여 줍니다.</small>',
   "2:M-PS":'delta max 가 <b class="h">aVL</b> 이면 <b class="m">PS</b>(아래·중격 쪽)입니다.<small>여기서 시작한 흥분은 위·왼쪽으로 갑니다.</small>',
   "2:M-PL":'delta max 가 <b class="h">aVR</b> 이면 <b class="m">PL</b>(아래·바깥쪽)입니다.<small>여기서 시작한 흥분은 위·오른쪽으로 갑니다. 거의 앞으로 오는 흥분이라 사지 유도에서는 작게 보입니다. 논문 순서도에는 「II or aVR」로 적혀 있습니다.</small>',
   "2:M-AL":'delta max 가 <b class="h">III</b> 이면 <b class="m">AL</b>(위·바깥쪽)입니다.<small>여기서 시작한 흥분은 아래·오른쪽으로 갑니다. 고리의 회색 부분은 대동맥판과 맞닿은 자리라 구역이 없습니다. 그래서 Mitral 은 PS · PL · AL 셋뿐입니다.</small>',
@@ -425,7 +423,7 @@ function wave(p, pq){ // 한 박동의 모식: P → 짧은 PR → delta → QRS
 var leadEls = {}, leadList = [];
 function buildLeads(){ leadsEl.innerHTML = ''; leadEls = {}; var both = st.step >= 3; leadList = both ? LIMB.concat(CHEST) : ['V1'].concat(LIMB);
   leadList.forEach(function(k){
-    if (both && (k==='I' || k==='V1')){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = k==='I' ? '① 사지 유도 — delta max 가 어느 유도인가' : '② 흉부 유도 — QRS transition 이 ≤ V3 이면 중격 쪽, > V3 이면 바깥벽 쪽'; leadsEl.appendChild(g); }
+    if (both && (k==='I' || k==='V1')){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = k==='I' ? '① 사지 유도' : '② 흉부 유도'; leadsEl.appendChild(g); }
     var d = document.createElement('div'); d.className = 'lead'+(k==='V1' && !both ?' v1':''); d.id = 'lead-'+k;
     d.innerHTML = '<span class="nm">'+k+'</span><span class="tag"></span><svg viewBox="0 0 200 60" preserveAspectRatio="none" aria-hidden="true"><line class="base" x1="0" x2="200" y1="34" y2="34"/><polyline class="tr"/><polyline class="dl"/></svg>';
     leadsEl.appendChild(d); leadEls[k] = d; }); }
@@ -446,7 +444,7 @@ function drawLeads(){ var both = st.step >= 3, sim = SITES[st.site].sim, hotLimb
   v1lab.el.classList.toggle('hot', st.step===1); }
 function pick(step, site, keepHash){ st.step = step; st.site = site; st.t = reduce ? 1 : 0; st.playing = !reduce; last = null;
   [1,2,3].forEach(function(n){ document.getElementById('step-'+n).setAttribute('aria-pressed', (step===n || (n===3 && step===4))?'true':'false'); });
-  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[Math.min(step,3)+':'+site] || ''; lookEl.innerHTML = LOOK[Math.min(step,3)]; setView(viewOf(step)); paint();
+  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[Math.min(step,3)+':'+site] || ''; lookEl.innerHTML = LOOK[Math.min(step,3)] || ''; lookEl.hidden = step === 1; setView(viewOf(step)); paint();
   reachEl.hidden = step < 3; reachTick.style.left = (SITES[site].sim.reach/TG*100).toFixed(1)+'%';
   if (step>=3){ ghLab.el.textContent = SITES[PAIR[site]].name; var gd = SITES[PAIR[site]].dir; ghLab.pos.set(gd.x, gd.y, 0).multiplyScalar(4.2).add(V(0.5,-0.55,0)); }
   document.getElementById('play').textContent = st.playing ? '멈춤' : '재생';
@@ -485,7 +483,7 @@ new MutationObserver(paint).observe(document.documentElement, {attributes:true, 
 var tmp = new THREE.Color(), tv = V(0,0,0);
 function frame(now){ requestAnimationFrame(frame);
   if (typeof window.__t === 'number'){ st.t = window.__t; st.playing = false; }
-  if (st.playing){ if (last !== null) st.t += (now-last)/DUR; last = now; if (st.t >= 1.35){ st.t = 0; } }
+  if (st.playing){ if (last !== null) st.t += (now-last)/DUR; last = now; if (st.t >= 1.35){ st.t = 0; if (st.step===1){ st.site = st.site==='M-PL' ? 'T-AL' : 'M-PL'; buildPath(); paint(); } } }
   var t = Math.min(st.t, 1); if (document.activeElement !== scrub) scrub.value = Math.round(t*1000);
   var S = SITES[st.site], k = Math.max(0, Math.min(1, (t-T0)/0.5)), R = k*TG*1.04, TS = S.sim.T;
   var ca = vgeo.attributes.color.array;
