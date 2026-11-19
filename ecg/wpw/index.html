@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>WPW 부전도로는 어디에 있나 — 3차원 모형 — 기역</title>
-<meta name="description" content="WPW 증후군에서 부전도로 자리를 심전도의 V1 · 사지 유도 · QRS transition 으로 찾는 까닭을, 돌려 볼 수 있는 3차원 심장 모형과 흥분 애니메이션으로 보여 줍니다.">
+<title>Bypass tract은 어디에 있는지 알아내는 방법 — 3차원 모형을 통한 이해 — 기역</title>
+<meta name="description" content="WPW 증후군에서 bypass tract 의 자리를 심전도의 V1 delta wave · delta max 유도 · QRS transition 으로 알아내는 까닭을, 돌려 볼 수 있는 3차원 심장 모형과 흥분 애니메이션으로 보여 줍니다.">
 <link rel="canonical" href="https://www.geeyug.com/ecg/wpw/">
-<meta property="og:title" content="WPW 부전도로는 어디에 있나 — 3차원 모형">
-<meta property="og:description" content="WPW 증후군에서 부전도로 자리를 심전도의 V1 · 사지 유도 · QRS transition 으로 찾는 까닭을, 돌려 볼 수 있는 3차원 심장 모형과 흥분 애니메이션으로 보여 줍니다.">
+<meta property="og:title" content="Bypass tract은 어디에 있는지 알아내는 방법 — 3차원 모형을 통한 이해">
+<meta property="og:description" content="WPW 증후군에서 bypass tract 의 자리를 심전도의 V1 delta wave · delta max 유도 · QRS transition 으로 알아내는 까닭을, 돌려 볼 수 있는 3차원 심장 모형과 흥분 애니메이션으로 보여 줍니다.">
 <meta property="og:url" content="https://www.geeyug.com/ecg/wpw/">
 <meta property="og:type" content="website">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
@@ -34,7 +34,7 @@ body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px
 .wrap > *{min-width:0}
 .wrap{max-width:1280px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1.55fr) minmax(300px,1fr);gap:16px;align-items:start}
 @media (max-width:860px){.wrap{grid-template-columns:minmax(0,1fr)}}
-h1{font-size:19px;font-weight:700;margin:0;text-wrap:balance}
+h1{font-size:19px;font-weight:700;margin:0;text-wrap:balance;word-break:keep-all}
 .sub{color:var(--muted);font-size:13px;margin:2px 0 0}
 .stagebox{background:var(--stage);border:1px solid var(--line);border-radius:10px;overflow:hidden;position:relative}
 #stage{position:relative;width:100%;aspect-ratio:4/3;max-width:100%;touch-action:none;cursor:grab}
@@ -56,13 +56,18 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 .steps{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .steps button{text-align:left;padding:9px 11px;line-height:1.35}
 .steps b{display:block;font-size:14px} .steps span{font-size:12.5px;color:var(--muted)}
+.steps button:first-child{grid-column:1 / -1}
+.look{margin:0;font-size:15px;border:1px solid var(--line);border-left:3px solid var(--hot);border-radius:7px;padding:9px 12px}
+.look > b:first-child{display:block;font-size:12px;color:var(--muted);font-weight:700;margin-bottom:1px}
+.look b.v{color:var(--vector)} .look b.h{color:var(--hot)}
+.look small{display:block;color:var(--muted);font-size:12.5px;margin-top:4px}
 .sites{display:flex;flex-wrap:wrap;gap:8px}
 .sites button{flex:1 1 30%;min-width:88px;text-align:left;line-height:1.3;padding:8px 10px}
 .sites button b{font-family:var(--mono);font-size:14px} .sites button span{display:block;font-size:12px;color:var(--muted)}
 .sites button.m[aria-pressed="true"]{border-color:var(--mitral);box-shadow:inset 0 0 0 1px var(--mitral)}
 .sites button.t[aria-pressed="true"]{border-color:var(--tricuspid);box-shadow:inset 0 0 0 1px var(--tricuspid)}
 .say{font-size:15px;margin:0;min-height:4.6em} .say b.m{color:var(--mitral)} .say b.t{color:var(--tricuspid)} .say b.v{color:var(--vector)} .say b.h{color:var(--hot)}
-.say small{display:block;color:var(--muted);font-size:12.5px;margin-top:4px}
+.say small{display:block;color:var(--muted);font-size:12.5px;margin-top:6px}
 .leads{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
 .lead{border:1px solid var(--line);border-radius:7px;padding:5px 7px 3px;position:relative;min-width:0}
 .lead.v1{grid-column:1 / -1}
@@ -111,8 +116,8 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 <div class="wrap">
   <div class="head">
     <p class="crumb"><a href="/">기역</a> · <a href="/ecg">심전도</a></p>
-    <h1>부전도로는 어디에 있나 — V1 · 사지 유도 · transition 으로 보는 3차원 모형</h1>
-    <p class="sub">끌어서 돌리고, 휠로 당깁니다. 화면 왼쪽이 환자의 오른쪽입니다(앞에서 볼 때).</p>
+    <h1>Bypass tract은 어디에 있는지 알아내는 방법 — 3차원 모형을 통한 이해</h1>
+    <p class="sub">끌어서 돌리고, 휠로 당깁니다. 앞에서 마주 보는 그림이라, 화면의 왼쪽이 몸의 오른쪽입니다.</p>
   </div>
 
   <div class="stagebox">
@@ -130,12 +135,12 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 
   <div class="panel">
     <div class="steps" role="group" aria-label="단계">
-      <button type="button" id="step-1" data-step="1"><b>Step 1 · V1</b><span>왼쪽 고리인가, 오른쪽 고리인가</span></button>
-      <button type="button" id="step-2" data-step="2"><b>Mitral · 사지 유도</b><span>세 자리가 바로 갈린다</span></button>
-      <button type="button" id="step-3" data-step="3"><b>Tricuspid · 사지 유도</b><span>바깥벽도 중격도 같은 유도를 가리킨다</span></button>
-      <button type="button" id="step-4" data-step="4"><b>Tricuspid · transition</b><span>중격 쪽인가, 바깥벽 쪽인가</span></button>
+      <button type="button" id="step-1" data-step="1"><b>Step 1 · V1</b><span>Mitral ring 인가, Tricuspid ring 인가</span></button>
+      <button type="button" id="step-2" data-step="2"><b>Mitral</b><span>왼쪽</span></button>
+      <button type="button" id="step-3" data-step="3"><b>Tricuspid</b><span>오른쪽</span></button>
     </div>
-    <div class="sites" id="sites" role="group" aria-label="부전도로 자리"></div>
+    <div class="sites" id="sites" role="group" aria-label="bypass tract 자리"></div>
+    <p class="look" id="look"></p>
     <p class="say" id="say"></p>
     <div class="path" id="path" aria-label="순서도에서 지나온 길"></div>
     <div class="reach" id="reach" hidden><span>흥분이 <b>중격 · 좌심실</b>에 닿는 때</span><div class="track"><i class="fill"></i><i class="tick"></i></div></div>
@@ -339,7 +344,7 @@ function label(text, cls, pos, when){ var el = document.createElement('div'); el
 label('Mitral ring', 'm', M.clone().add(E1.clone().multiplyScalar(RM+1.9)).add(E2.clone().multiplyScalar(0.1)));
 label('Tricuspid ring', 't', T.clone().add(E1.clone().multiplyScalar(-RT-2.1)).add(E2.clone().multiplyScalar(0.1)));
 var v1lab = label('V1', 'ld', V1POS.clone().add(V(-0.2,0.75,0.5)), 1);
-var dirF = label('앞', 'dir', V(0,0,8.5), 1), dirB = label('뒤', 'dir', V(0,0,-7.2), 1); label('환자 오른쪽', 'dir', V(-10.0,0,-3.4)); label('환자 왼쪽', 'dir', V(10.0,0,-3.4));
+var dirF = label('앞', 'dir', V(0,0,8.5), 1), dirB = label('뒤', 'dir', V(0,0,-7.2), 1); label('오른쪽', 'dir', V(-10.0,0,-3.4)); label('왼쪽', 'dir', V(10.0,0,-3.4));
 var elecLabs = {}; CHEST.forEach(function(k){ elecLabs[k] = label(k, 'ld', EL[k].clone().add(EL[k].clone().normalize().multiplyScalar(0.95)), 4); });
 label('RV', 'dir', B.clone().add(A.clone().multiplyScalar(3.2)).add(E1.clone().multiplyScalar(-2.6)), 4); label('LV', 'dir', B.clone().add(A.clone().multiplyScalar(2.2)).add(E1.clone().multiplyScalar(2.9)), 4);
 var qLab = label('QRS 전체', 'note', V(0,0,0), 4), ghLab = label('', 't', V(0,0,0), 3);
@@ -365,7 +370,9 @@ function lookQ(pos, up){ var m = new THREE.Matrix4().lookAt(pos, V(0,0,0), up); 
 var VIEWS = { oblique: lookQ(V(-0.70,0.60,0.40), V(0,1,0)), top: lookQ(V(0,1,0.0001), V(0,0,-1)), front: lookQ(V(0,0,1), V(0,1,0)),
               valve: lookQ(A.clone(), V(0,1,0)) };   // 꼭대기 쪽에서 판막면을 정면으로(왼쪽에 tricuspid, 오른쪽에 mitral)
 camQ.copy(VIEWS.top);
-function setView(name){ goalQ = VIEWS[name].clone(); goalD = VDIST[name]; st.xray = (name==='valve'); paint();
+function setView(name){ goalQ = VIEWS[name].clone(); goalD = VDIST[name]; st.xray = (name==='valve');
+  if (st.step >= 3 && (name==='top' || name==='front')) st.step = name==='top' ? 4 : 3;       // Tricuspid: 위에서 = 흉부 유도 장면, 앞에서 = 사지 유도 장면
+  paint();
   Array.prototype.forEach.call(document.querySelectorAll('[data-view]'), function(b){ b.setAttribute('aria-pressed', b.dataset.view===name ? 'true':'false'); }); }
 function placeCamera(){ camera.quaternion.copy(camQ); camera.position.copy(V(0,0,DIST).applyQuaternion(camQ)).add(target); }
 var drag = null;
@@ -378,37 +385,38 @@ stage.addEventListener('pointerup', function(){ drag = null; }); stage.addEventL
 stage.addEventListener('wheel', function(e){ e.preventDefault(); goalD = null; DIST = Math.min(52, Math.max(15, DIST*(1+Math.sign(e.deltaY)*0.07))); }, {passive:false});
 
 /* ── 오른쪽: 자리 단추, 설명, 유도 파형 ── */
-var sitesEl = document.getElementById('sites'), sayEl = document.getElementById('say'), leadsEl = document.getElementById('leads');
+var sitesEl = document.getElementById('sites'), sayEl = document.getElementById('say'), lookEl = document.getElementById('look'), leadsEl = document.getElementById('leads');
 var pathEl = document.getElementById('path'), reachEl = document.getElementById('reach'), reachFill = reachEl.querySelector('.fill'), reachTick = reachEl.querySelector('.tick');
 function proj(site, lead){ return SITES[site].dir.dot(LEADS[lead]); }
 function mostPositive(site){ var best = null; PICK.forEach(function(k){ if (best===null || proj(site,k) > proj(site,best)) best = k; }); return best; }
 function buildSites(){ sitesEl.innerHTML = '';
-  var list = st.step===1 ? [['M-PL','Mitral ring','왼쪽 뒤','m'], ['T-AL','Tricuspid ring','오른쪽 앞','t']]
+  var list = st.step===1 ? [['M-PL','V1 positive','Mitral ring 일 때','m'], ['T-AL','V1 negative','Tricuspid ring 일 때','t']]
            : st.step===2 ? [['M-PS','PS','아래·중격 쪽','m'], ['M-PL','PL','아래·바깥쪽','m'], ['M-AL','AL','위·바깥쪽','m']]
                          : [['T-AS','AS','위·중격 쪽','t'], ['T-AL','AL','위·바깥쪽','t'], ['T-PS','PS','아래·중격 쪽','t'], ['T-PL','PL','아래·바깥쪽','t']];
   sitesEl.classList.toggle('four', st.step >= 3);
   list.forEach(function(it){ var b = document.createElement('button'); b.type = 'button'; b.className = it[3]; b.id = 'site-'+it[0]; b.dataset.site = it[0];
     b.innerHTML = '<b>'+it[1]+'</b><span>'+it[2]+'</span>'; b.setAttribute('aria-pressed', st.site===it[0] ? 'true':'false');
     b.addEventListener('click', function(){ pick(st.step, it[0]); }); sitesEl.appendChild(b); }); }
+var LOOK = {
+  "1":'<b>Step 1 — 볼 것</b>V1 에서 delta wave 가 <b class="v">positive</b> 인가, <b class="v">negative</b> 인가.<small>positive 이면 Mitral ring(왼쪽), negative 이거나 isoelectric 이면 Tricuspid ring(오른쪽)입니다.</small>',
+  "2":'<b>Step 2 — 볼 것</b>delta wave 가 가장 크게 positive 인 유도, 곧 <b class="h">delta max</b> 가 어느 유도인가.<small>Mitral 은 이것 하나로 PS · PL · AL 가운데 어디인지 정해집니다.</small>',
+  "3":'<b>Step 2 — 볼 것</b>① <b class="h">delta max</b> 가 어느 유도인가.<br>② 하나 더 — <b class="h">QRS transition</b> 이 ≤ V3 인가, &gt; V3 인가.<small>Tricuspid 는 Step 2 에서 확인할 것이 하나 더 있습니다. delta max 만으로는 중격(septum) 쪽과 바깥벽(free wall) 쪽이 같은 유도를 가리키기 때문입니다.</small>' };
 var SAY = {
-  '1:M-PL':'<b class="m">Mitral ring</b> 은 심장의 왼쪽 뒤에 있습니다. 여기서 시작한 흥분은 앞·오른쪽, 곧 V1 쪽으로 옵니다. 그래서 V1 에서 <b class="v">positive</b> 입니다.',
-  '1:T-AL':'<b class="t">Tricuspid ring</b> 은 V1 바로 밑, 오른쪽 앞에 있습니다. 여기서 시작한 흥분은 V1 에서 멀어집니다. 그래서 V1 에서 <b class="v">negative</b> 이거나 isoelectric 입니다.',
-  '2:M-PS':'<b class="m">PS</b> 는 고리의 아래·중격 쪽입니다. 흥분은 위·왼쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">aVL</b> 입니다.',
-  '2:M-PL':'<b class="m">PL</b> 은 고리의 아래·바깥쪽입니다. 흥분은 위·오른쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">aVR</b> 입니다.<small>거의 앞으로 오는 흥분이라 사지 유도에서는 작게 보입니다. 논문 순서도에는 「II or aVR」로 적혀 있습니다.</small>',
-  '2:M-AL':'<b class="m">AL</b> 은 고리의 위·바깥쪽입니다. 흥분은 아래·오른쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">III</b> 입니다.<small>고리의 회색 부분은 대동맥판과 맞닿은 자리라 구역이 없습니다. 그래서 mitral 쪽은 셋뿐입니다.</small>',
-  '3:T-AS':'<b class="t">AS</b> 는 고리의 위·중격 쪽, His 근처입니다. 흥분은 아래로 갑니다. 가장 positive 한 유도는 <b class="h">II</b> 입니다.<small>그런데 흐린 화살표의 AL(위·바깥쪽)도 II 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
-  '3:T-AL':'<b class="t">AL</b> 은 고리의 위·바깥쪽입니다. 흥분은 아래·왼쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">II</b> 입니다.<small>그런데 흐린 화살표의 AS(위·중격 쪽)도 II 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
-  '3:T-PS':'<b class="t">PS</b> 는 고리의 아래·중격 쪽, CS 입구 근처입니다. 흥분은 위로 갑니다. 가장 positive 한 유도는 <b class="h">aVL</b> 입니다.<small>그런데 흐린 화살표의 PL(아래·바깥쪽)도 aVL 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
-  '3:T-PL':'<b class="t">PL</b> 은 고리의 아래·바깥쪽입니다. 흥분은 위·왼쪽으로 갑니다. 가장 positive 한 유도는 <b class="h">aVL</b> 입니다.<small>그런데 흐린 화살표의 PS(아래·중격 쪽)도 aVL 입니다. 둘 다 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 그래서 V1~V6 의 transition 으로 중격 쪽인지를 확인합니다.</small>',
-  '4:T-AS':'<b class="t">AS</b> 는 중격 쪽입니다. 심장 한가운데라 흥분이 좌심실로 금방 넘어가고, 흉부 유도가 일찍 positive 로 바뀝니다(<b class="h">≤ V3</b>).<small>중격 둘(AS · PS)만 남고, 위아래만 가르면 됩니다. 흥분이 아래로 가서 II or III 이면 AS 입니다.</small>',
-  '4:T-PS':'<b class="t">PS</b> 는 중격 쪽입니다. 심장 한가운데라 흥분이 좌심실로 금방 넘어가고, 흉부 유도가 일찍 positive 로 바뀝니다(<b class="h">≤ V3</b>).<small>중격 둘(AS · PS)만 남고, 위아래만 가르면 됩니다. 흥분이 위로 가서 aVL or aVR 이면 PS 입니다.</small>',
-  '4:T-AL':'<b class="t">AL</b> 은 바깥벽 쪽입니다. 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다(<b class="h">&gt; V3</b>).<small>바깥벽 둘(AL · PL)이 기본입니다. 흥분이 아래·왼쪽으로 가서 II 이면 AL 입니다. 「QRS 전체」 화살표는 흥분 전체가 가는 쪽입니다.</small>',
-  '4:T-PL':'<b class="t">PL</b> 은 바깥벽 쪽입니다. 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다(<b class="h">&gt; V3</b>).<small>바깥벽 둘(AL · PL)이 기본입니다. 흥분이 위·왼쪽으로 가서 aVL 이면 PL 입니다. 이 모형에서는 고리의 아래쪽으로 갈수록 transition 이 빨라져, PL 을 바깥쪽 가까이에 잡았습니다.</small>' };
+  "1:M-PL":'V1 에서 delta wave 가 <b class="v">positive</b> 이면 <b class="m">Mitral ring</b> 입니다.<small>Mitral ring 은 심장의 왼쪽 뒤에 있습니다. 여기서 시작한 흥분은 앞·오른쪽, 곧 V1 쪽으로 옵니다.</small>',
+  "1:T-AL":'V1 에서 delta wave 가 <b class="v">negative</b> 이거나 isoelectric 이면 <b class="t">Tricuspid ring</b> 입니다.<small>Tricuspid ring 은 V1 바로 밑, 오른쪽 앞에 있습니다. 여기서 시작한 흥분은 V1 에서 멀어집니다.</small>',
+  "2:M-PS":'delta max 가 <b class="h">aVL</b> 이면 <b class="m">PS</b>(아래·중격 쪽)입니다.<small>여기서 시작한 흥분은 위·왼쪽으로 갑니다.</small>',
+  "2:M-PL":'delta max 가 <b class="h">aVR</b> 이면 <b class="m">PL</b>(아래·바깥쪽)입니다.<small>여기서 시작한 흥분은 위·오른쪽으로 갑니다. 거의 앞으로 오는 흥분이라 사지 유도에서는 작게 보입니다. 논문 순서도에는 「II or aVR」로 적혀 있습니다.</small>',
+  "2:M-AL":'delta max 가 <b class="h">III</b> 이면 <b class="m">AL</b>(위·바깥쪽)입니다.<small>여기서 시작한 흥분은 아래·오른쪽으로 갑니다. 고리의 회색 부분은 대동맥판과 맞닿은 자리라 구역이 없습니다. 그래서 Mitral 은 PS · PL · AL 셋뿐입니다.</small>',
+  "3:T-AS":'<b>①</b> delta max 는 <b class="h">II</b> 입니다. 그런데 <b class="t">AS</b>(위·중격 쪽)도 <b class="t">AL</b>(위·바깥쪽)도 II 여서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">≤ V3</b> 이면 중격 쪽, 곧 <b class="t">AS</b> 입니다.<small>중격 쪽은 심장 한가운데라 흥분이 좌심실로 금방 넘어가서, 흉부 유도가 일찍 positive 로 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 논문 순서도에는 AS 의 유도가 「II or III」로 적혀 있습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 AL), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>',
+  "3:T-AL":'<b>①</b> delta max 는 <b class="h">II</b> 입니다. 그런데 <b class="t">AS</b>(위·중격 쪽)도 <b class="t">AL</b>(위·바깥쪽)도 II 여서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">&gt; V3</b> 이면 바깥벽 쪽, 곧 <b class="t">AL</b> 입니다.<small>바깥벽 쪽은 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 AS), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>',
+  "3:T-PS":'<b>①</b> delta max 는 <b class="h">aVL</b> 입니다. 그런데 <b class="t">PS</b>(아래·중격 쪽)도 <b class="t">PL</b>(아래·바깥쪽)도 aVL 이어서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">≤ V3</b> 이면 중격 쪽, 곧 <b class="t">PS</b> 입니다.<small>중격 쪽은 심장 한가운데라 흥분이 좌심실로 금방 넘어가서, 흉부 유도가 일찍 positive 로 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 논문 순서도에는 PS 의 유도가 「aVL or aVR」로 적혀 있습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 PL), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>',
+  "3:T-PL":'<b>①</b> delta max 는 <b class="h">aVL</b> 입니다. 그런데 <b class="t">PS</b>(아래·중격 쪽)도 <b class="t">PL</b>(아래·바깥쪽)도 aVL 이어서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">&gt; V3</b> 이면 바깥벽 쪽, 곧 <b class="t">PL</b> 입니다.<small>바깥벽 쪽은 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 이 모형에서는 고리의 아래쪽으로 갈수록 transition 이 빨라져, PL 을 바깥쪽 가까이에 잡았습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 PS), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>' };
 function buildPath(){ var S = SITES[st.site], isM = S.ring==='m', out = [['', isM ? 'V1 positive' : 'V1 negative · isoelectric']];
   if (st.step===1) out.push([S.ring, isM ? 'Mitral ring' : 'Tricuspid ring']);
-  else if (st.step===2){ out.push(['hot', mostPositive(st.site)]); out.push(['m', S.name]); }
-  else if (st.step===3){ out.push(['hot', mostPositive(st.site)]); out.push(['t', S.name+' 또는 '+SITES[PAIR[st.site]].name+' ?']); }
-  else { out.push(['hot', 'transition '+(transition(st.site) <= 2 ? '≤' : '>')+' V3']); out.push(['', PAPER[st.site]]); out.push(['t', S.name]); }
+  else if (st.step===2){ out.push(['hot', 'delta max '+mostPositive(st.site)]); out.push(['m', S.name]); }
+  else { var pr = [S.name, SITES[PAIR[st.site]].name], early = transition(st.site) <= 2; if (!early) pr.reverse();     // 중격 쪽을 먼저 적는다
+    out.push(['hot', 'delta max '+mostPositive(st.site)]); out.push(['', pr[0]+' 또는 '+pr[1]]);
+    out.push(['hot', 'transition '+(early ? '≤' : '>')+' V3']); out.push(['t', S.name]); }
   pathEl.innerHTML = out.map(function(o){ return '<span class="chip '+o[0]+'">'+o[1]+'</span>'; }).join('<span class="arr">→</span>'); }
 function wave(p, pq){ // 한 박동의 모식: P → 짧은 PR → delta → QRS → T. p = 이 유도에 비친 처음 흥분(delta), pq = QRS 전체(없으면 p 와 같다)
   if (pq === undefined) pq = p;
@@ -417,7 +425,7 @@ function wave(p, pq){ // 한 박동의 모식: P → 짧은 PR → delta → QRS
 var leadEls = {}, leadList = [];
 function buildLeads(){ leadsEl.innerHTML = ''; leadEls = {}; var both = st.step >= 3; leadList = both ? LIMB.concat(CHEST) : ['V1'].concat(LIMB);
   leadList.forEach(function(k){
-    if (both && (k==='I' || k==='V1')){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = k==='I' ? '사지 유도 — 위아래를 가른다' : '흉부 유도 — 중격 쪽인지 바깥벽 쪽인지를 가른다'; leadsEl.appendChild(g); }
+    if (both && (k==='I' || k==='V1')){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = k==='I' ? '① 사지 유도 — delta max 가 어느 유도인가' : '② 흉부 유도 — QRS transition 이 ≤ V3 이면 중격 쪽, > V3 이면 바깥벽 쪽'; leadsEl.appendChild(g); }
     var d = document.createElement('div'); d.className = 'lead'+(k==='V1' && !both ?' v1':''); d.id = 'lead-'+k;
     d.innerHTML = '<span class="nm">'+k+'</span><span class="tag"></span><svg viewBox="0 0 200 60" preserveAspectRatio="none" aria-hidden="true"><line class="base" x1="0" x2="200" y1="34" y2="34"/><polyline class="tr"/><polyline class="dl"/></svg>';
     leadsEl.appendChild(d); leadEls[k] = d; }); }
@@ -430,24 +438,23 @@ function drawLeads(){ var both = st.step >= 3, sim = SITES[st.site].sim, hotLimb
     el.querySelector('.tr').setAttribute('points', str(seen));
     el.querySelector('.dl').setAttribute('points', str(seen.filter(function(q){ return q[0] >= T0-1e-6 && q[0] <= 0.37+1e-6; })));
     var tag = p > 0.15 ? 'positive' : (p < -0.15 ? 'negative' : 'isoelectric'), hot = isChest ? k===hotChest : k===hotLimb;
-    el.querySelector('.tag').textContent = hot ? (isChest ? '여기서 바뀜' : '가장 positive') : tag;
+    el.querySelector('.tag').textContent = hot ? (isChest ? 'transition' : 'delta max') : tag;
     el.classList.toggle('hot', hot || (st.step===1 && k==='V1'));
     el.classList.toggle('dim', st.step===1 && k!=='V1'); });
   LIMB.forEach(function(k){ leadLabs[k].el.classList.toggle('hot', k===hotLimb); });
   CHEST.forEach(function(k){ elecLabs[k].el.classList.toggle('hot', st.step===4 && k===hotChest); });
   v1lab.el.classList.toggle('hot', st.step===1); }
 function pick(step, site, keepHash){ st.step = step; st.site = site; st.t = reduce ? 1 : 0; st.playing = !reduce; last = null;
-  [1,2,3,4].forEach(function(n){ document.getElementById('step-'+n).setAttribute('aria-pressed', step===n?'true':'false'); });
-  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[step+':'+site] || ''; setView(viewOf(step)); paint();
-  reachEl.hidden = step !== 4; reachTick.style.left = (SITES[site].sim.reach/TG*100).toFixed(1)+'%';
-  if (step===3){ ghLab.el.textContent = SITES[PAIR[site]].name; var gd = SITES[PAIR[site]].dir; ghLab.pos.set(gd.x, gd.y, 0).multiplyScalar(4.2).add(V(0.5,-0.55,0)); }
+  [1,2,3].forEach(function(n){ document.getElementById('step-'+n).setAttribute('aria-pressed', (step===n || (n===3 && step===4))?'true':'false'); });
+  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[Math.min(step,3)+':'+site] || ''; lookEl.innerHTML = LOOK[Math.min(step,3)]; setView(viewOf(step)); paint();
+  reachEl.hidden = step < 3; reachTick.style.left = (SITES[site].sim.reach/TG*100).toFixed(1)+'%';
+  if (step>=3){ ghLab.el.textContent = SITES[PAIR[site]].name; var gd = SITES[PAIR[site]].dir; ghLab.pos.set(gd.x, gd.y, 0).multiplyScalar(4.2).add(V(0.5,-0.55,0)); }
   document.getElementById('play').textContent = st.playing ? '멈춤' : '재생';
   if (!keepHash){ var name = Object.keys(HASH).filter(function(h){ return HASH[h][0]===step && HASH[h][1]===site; })[0];
     try { if (name) history.replaceState(null, '', '#'+name); } catch(e){} } }
 document.getElementById('step-1').addEventListener('click', function(){ pick(1, 'M-PL'); });
 document.getElementById('step-2').addEventListener('click', function(){ pick(2, 'M-PS'); });
 document.getElementById('step-3').addEventListener('click', function(){ pick(3, SITES[st.site].ring==='t' && st.step>=3 ? st.site : 'T-PS'); });
-document.getElementById('step-4').addEventListener('click', function(){ pick(4, SITES[st.site].ring==='t' && st.step>=3 ? st.site : 'T-PS'); });
 Array.prototype.forEach.call(document.querySelectorAll('[data-view]'), function(b){ b.addEventListener('click', function(){ setView(b.dataset.view); }); });
 var playBtn = document.getElementById('play'), scrub = document.getElementById('scrub');
 playBtn.addEventListener('click', function(){ if (st.t >= 1) st.t = 0; st.playing = !st.playing; last = null; playBtn.textContent = st.playing ? '멈춤' : '재생'; });
@@ -495,7 +502,8 @@ function frame(now){ requestAnimationFrame(frame);
   if (st.step===2 || st.step===3){ var f = V(S.dir.x, S.dir.y, 0); setArrow(shadow, V(0,0,0), f.clone().normalize(), 4.2*f.length()*grow); } else shadow.visible = false;
   if (st.step===3){ var g2 = SITES[PAIR[st.site]].dir, f2 = V(g2.x, g2.y, 0); setArrow(ghost, V(0,0,0), f2.clone().normalize(), 4.2*f2.length()); } else ghost.visible = false;
   if (st.step===4){ var fq = V(S.sim.q.x, 0, S.sim.q.z), ql = 5.0*fq.length()*k; setArrow(qarrow, V(0,0,0), fq.clone().normalize(), ql);
-    qLab.pos.copy(fq.normalize()).multiplyScalar(ql+1.5); qLab.when = (ql > 0.6 && !st.xray) ? 4 : 99; qarrow.visible = qarrow.visible && !st.xray; reachFill.style.width = (Math.min(1, R/TG)*100).toFixed(1)+'%'; } else qarrow.visible = false;
+    qLab.pos.copy(fq.normalize()).multiplyScalar(ql+1.5); qLab.when = (ql > 0.6 && !st.xray) ? 4 : 99; qarrow.visible = qarrow.visible && !st.xray; } else qarrow.visible = false;
+  if (st.step >= 3) reachFill.style.width = (Math.min(1, R/TG)*100).toFixed(1)+'%';
   if (goalQ){ camQ.slerp(goalQ, reduce ? 1 : 0.09); if (camQ.angleTo(goalQ) < 0.002){ camQ.copy(goalQ); goalQ = null; } }
   if (goalD !== null){ DIST += (goalD-DIST)*(reduce ? 1 : 0.09); if (Math.abs(goalD-DIST) < 0.02){ DIST = goalD; goalD = null; } }
   placeCamera(); drawLeads(); renderer.render(scene, camera);
