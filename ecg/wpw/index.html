@@ -64,19 +64,19 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 .sites button b{font-family:var(--mono);font-size:14px} .sites button span{display:block;font-size:12px;color:var(--muted)}
 .sites button.m[aria-pressed="true"]{border-color:var(--mitral);box-shadow:inset 0 0 0 1px var(--mitral)}
 .sites button.t[aria-pressed="true"]{border-color:var(--tricuspid);box-shadow:inset 0 0 0 1px var(--tricuspid)}
-.say{font-size:15px;margin:0;min-height:4.6em} .say b.m{color:var(--mitral)} .say b.t{color:var(--tricuspid)} .say b.v{color:var(--vector)} .say b.h{color:var(--hot)}
+.say{font-size:15px;margin:0} .say b.m{color:var(--mitral)} .say b.t{color:var(--tricuspid)} .say b.v{color:var(--vector)} .say b.h{color:var(--hot)}
 .say small{display:block;color:var(--muted);font-size:12.5px;margin-top:6px}
 .leads{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
 .lead{border:1px solid var(--line);border-radius:7px;padding:5px 7px 3px;position:relative;min-width:0}
 .lead.v1{grid-column:1 / -1}
 .lead .nm{font-family:var(--mono);font-weight:600;font-size:13px}
 .lead .tag{float:right;font-size:11.5px;color:var(--muted)}
-.lead svg{display:block;width:100%;height:54px} .lead.v1 svg{height:78px}
+.lead svg{display:block;width:100%;height:44px} .lead.v1 svg{height:60px}
 .lead .base{stroke:var(--line);stroke-width:1} .lead .tr{fill:none;stroke:var(--fg);stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round}
 .lead .dl{fill:none;stroke:var(--vector);stroke-width:3.2;stroke-linejoin:round;stroke-linecap:round}
 .lead.hot{border-color:var(--hot);background:var(--hot-bg)} .lead.hot .tag{color:var(--hot);font-weight:700}
 .lead.dim{opacity:.38}
-.sites.four button{flex:1 1 45%}
+.sites.four button{flex:1 1 22%;min-width:0}
 .path{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px}
 .path .chip{border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-weight:700;white-space:nowrap}
 .path .chip.hot{border-color:var(--hot);background:var(--hot-bg);color:var(--hot)}
@@ -86,10 +86,14 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
 .reach .track{position:relative;height:8px;border-radius:4px;background:var(--line);margin:6px 0 2px}
 .reach .fill{position:absolute;left:0;top:0;bottom:0;border-radius:4px;background:var(--lit)}
 .reach .tick{position:absolute;top:-4px;bottom:-4px;width:3px;margin-left:-1px;border-radius:2px;background:var(--fg)}
-.leads .grp{grid-column:1 / -1;font-size:12px;color:var(--muted);margin-top:2px}
+.leads.std{grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+.leads .grp{grid-column:span 2;font-size:12px;color:var(--muted);margin-bottom:-2px}
+.more{margin-top:6px}
+@media (max-width:600px){ .sites.four button{flex:1 1 45%} .leads.std{gap:4px} .leads.std .lead{padding:4px 5px 2px}
+  .leads.std .lead .tag{float:none;display:block;font-size:10.5px;line-height:1.2} }
 .foot{font-size:12px;color:var(--muted);margin:6px 0 0}
-.about summary{font-size:12px;color:var(--muted);cursor:pointer;width:fit-content;text-decoration:underline;text-underline-offset:2px;list-style:none}
-.about summary::-webkit-details-marker{display:none}
+.about summary,.more summary{font-size:12px;color:var(--muted);cursor:pointer;width:fit-content;text-decoration:underline;text-underline-offset:2px;list-style:none}
+.about summary::-webkit-details-marker,.more summary::-webkit-details-marker{display:none}
 .head{grid-column:1 / -1}
 .crumb{font-size:12.5px;margin:0 0 6px;color:var(--muted)} .crumb a{color:var(--muted)}
 </style>
@@ -140,10 +144,10 @@ input[type=range]{flex:1 1 140px;min-width:100px;accent-color:var(--vector)}
     </div>
     <p class="look" id="look" hidden></p>
     <div class="sites" id="sites" role="group" aria-label="bypass tract 자리"></div>
-    <p class="say" id="say"></p>
+    <div class="leads" id="leads"></div>
+    <div class="say" id="say"></div>
     <div class="path" id="path" aria-label="순서도에서 지나온 길"></div>
     <div class="reach" id="reach" hidden><span>흥분이 <b>중격 · 좌심실</b>에 닿는 때</span><div class="track"><i class="fill"></i><i class="tick"></i></div></div>
-    <div class="leads" id="leads"></div>
     <details class="about"><summary>모형에 대하여</summary><p class="foot">모식 모형입니다. 초록 화살표는 delta wave 를 만드는 처음 흥분의 방향을 어림한 것이고, 실제 환자의 벡터를 계산한 것이 아닙니다. 흉부 유도의 QRS 는 흥분이 근육을 따라 같은 빠르기로 번진다고 보고, 전극에 가까운 근육일수록 크게 보이게 셈한 것입니다(좌심실 벽과 중격은 우심실 벽의 3배 무게). 구역 나눔과 순서도는 Europace 2023;25:600–609 를 따랐습니다.</p></details>
   </div>
 </div>
@@ -409,6 +413,10 @@ var SAY = {
   "3:T-AL":'<b>①</b> delta max 는 <b class="h">II</b> 입니다. 그런데 <b class="t">AS</b>(위·중격 쪽)도 <b class="t">AL</b>(위·바깥쪽)도 II 여서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">&gt; V3</b> 이면 바깥벽 쪽, 곧 <b class="t">AL</b> 입니다.<small>바깥벽 쪽은 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 AS), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>',
   "3:T-PS":'<b>①</b> delta max 는 <b class="h">aVL</b> 입니다. 그런데 <b class="t">PS</b>(아래·중격 쪽)도 <b class="t">PL</b>(아래·바깥쪽)도 aVL 이어서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">≤ V3</b> 이면 중격 쪽, 곧 <b class="t">PS</b> 입니다.<small>중격 쪽은 심장 한가운데라 흥분이 좌심실로 금방 넘어가서, 흉부 유도가 일찍 positive 로 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 논문 순서도에는 PS 의 유도가 「aVL or aVR」로 적혀 있습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 PL), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>',
   "3:T-PL":'<b>①</b> delta max 는 <b class="h">aVL</b> 입니다. 그런데 <b class="t">PS</b>(아래·중격 쪽)도 <b class="t">PL</b>(아래·바깥쪽)도 aVL 이어서, 이것만으로는 둘 중 어디인지 알 수 없습니다.<br><b>②</b> QRS transition 이 <b class="h">&gt; V3</b> 이면 바깥벽 쪽, 곧 <b class="t">PL</b> 입니다.<small>바깥벽 쪽은 흥분이 우심실을 다 건너야 좌심실에 닿으므로, LBBB 처럼 흉부 유도가 늦게 바뀝니다. 두 자리 모두 오른쪽에서 시작해 왼쪽으로 가는 흥분이라(I positive) 사지 유도에서는 닮았습니다. 이 모형에서는 고리의 아래쪽으로 갈수록 transition 이 빨라져, PL 을 바깥쪽 가까이에 잡았습니다.</small><small>「앞에서」를 누르면 사지 유도가 보이고(흐린 화살표가 짝인 PS), 「위에서」를 누르면 가슴 둘레의 V1~V6 가 보입니다.</small>' };
+var moreOpen = false;
+function fold(){ var sm = sayEl.querySelectorAll('small'); if (!sm.length) return; var d = document.createElement('details'); d.className = 'more'; d.open = moreOpen;
+  d.innerHTML = '<summary>왜 그런가</summary>'; Array.prototype.forEach.call(sm, function(x){ d.appendChild(x); });
+  d.addEventListener('toggle', function(){ moreOpen = d.open; }); sayEl.appendChild(d); }
 function buildPath(){ var S = SITES[st.site], isM = S.ring==='m', out = [['', isM ? 'V1 positive' : 'V1 negative · isoelectric']];
   if (st.step===1) out.push([S.ring, isM ? 'Mitral ring' : 'Tricuspid ring']);
   else if (st.step===2){ out.push(['hot', 'delta max '+mostPositive(st.site)]); out.push(['m', S.name]); }
@@ -420,10 +428,10 @@ function wave(p, pq){ // 한 박동의 모식: P → 짧은 PR → delta → QRS
   if (pq === undefined) pq = p;
   var pts = [[0,0],[0.07,0],[0.11,0.10],[0.15,0.13],[0.19,0.10],[0.23,0],[T0,0],[0.37,0.34*p],[0.42,1.0*pq],[0.47,-0.16*pq],[0.52,0],[0.63,0],[0.70,-0.12*pq],[0.76,-0.2*pq],[0.83,-0.1*pq],[0.90,0],[1,0]];
   return pts; }
-var leadEls = {}, leadList = [];
-function buildLeads(){ leadsEl.innerHTML = ''; leadEls = {}; var both = st.step >= 3; leadList = both ? LIMB.concat(CHEST) : ['V1'].concat(LIMB);
+var leadEls = {}, leadList = [], STD = ['I','aVR','V1','V4','II','aVL','V2','V5','III','aVF','V3','V6'];
+function buildLeads(){ leadsEl.innerHTML = ''; leadEls = {}; var both = st.step >= 3; leadList = both ? STD : ['V1'].concat(LIMB); leadsEl.classList.toggle('std', both);
+  if (both) ['① 사지 유도', '② 흉부 유도'].forEach(function(tx){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = tx; leadsEl.appendChild(g); });
   leadList.forEach(function(k){
-    if (both && (k==='I' || k==='V1')){ var g = document.createElement('div'); g.className = 'grp'; g.textContent = k==='I' ? '① 사지 유도' : '② 흉부 유도'; leadsEl.appendChild(g); }
     var d = document.createElement('div'); d.className = 'lead'+(k==='V1' && !both ?' v1':''); d.id = 'lead-'+k;
     d.innerHTML = '<span class="nm">'+k+'</span><span class="tag"></span><svg viewBox="0 0 200 60" preserveAspectRatio="none" aria-hidden="true"><line class="base" x1="0" x2="200" y1="34" y2="34"/><polyline class="tr"/><polyline class="dl"/></svg>';
     leadsEl.appendChild(d); leadEls[k] = d; }); }
@@ -444,7 +452,7 @@ function drawLeads(){ var both = st.step >= 3, sim = SITES[st.site].sim, hotLimb
   v1lab.el.classList.toggle('hot', st.step===1); }
 function pick(step, site, keepHash){ st.step = step; st.site = site; st.t = reduce ? 1 : 0; st.playing = !reduce; last = null;
   [1,2,3].forEach(function(n){ document.getElementById('step-'+n).setAttribute('aria-pressed', (step===n || (n===3 && step===4))?'true':'false'); });
-  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[Math.min(step,3)+':'+site] || ''; lookEl.innerHTML = LOOK[Math.min(step,3)] || ''; lookEl.hidden = step === 1; setView(viewOf(step)); paint();
+  buildSites(); buildLeads(); buildPath(); sayEl.innerHTML = SAY[Math.min(step,3)+':'+site] || ''; fold(); lookEl.innerHTML = LOOK[Math.min(step,3)] || ''; lookEl.hidden = step === 1; setView(viewOf(step)); paint();
   reachEl.hidden = step < 3; reachTick.style.left = (SITES[site].sim.reach/TG*100).toFixed(1)+'%';
   if (step>=3){ ghLab.el.textContent = SITES[PAIR[site]].name; var gd = SITES[PAIR[site]].dir; ghLab.pos.set(gd.x, gd.y, 0).multiplyScalar(4.2).add(V(0.5,-0.55,0)); }
   document.getElementById('play').textContent = st.playing ? '멈춤' : '재생';
