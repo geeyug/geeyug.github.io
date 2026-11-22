@@ -78,9 +78,13 @@ document.addEventListener('click', function (e) { var a = e.target.closest('a[ta
     background: var(--bg); overflow: hidden; line-height: 0; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
   .mini svg { width: 100%; height: auto; display: block; }
   .tag { position: absolute; left: 16px; top: 14px; font-size: 14px; font-weight: 700; background: #fffdf7;
-    border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 12px; max-width: calc(100% - 150px);
+    border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 12px; max-width: calc(100% - 190px);
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .tag b { color: var(--red); }
+  .watch { position: absolute; right: 16px; top: 12px; z-index: 4; display: none; align-items: center; gap: 7px; background: #c4302b; color: #fff; text-decoration: none;
+    font-size: 14.5px; font-weight: 800; border-radius: 999px; padding: 7px 14px 7px 11px; box-shadow: 0 2px 8px rgba(0,0,0,.18); white-space: nowrap; }
+  .watch.on { display: inline-flex; } .watch:hover { background: #a82722; }
+  .watch svg { width: 15px; height: 15px; flex: none; }
   #bubs { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
   .bub { position: absolute; max-width: 250px; background: #D3168F; color: #fff; font-weight: 700; font-size: 15.5px; line-height: 1.4;
     padding: 7px 12px; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,.22); word-break: keep-all; opacity: 0; transition: opacity .3s; }
@@ -121,7 +125,8 @@ document.addEventListener('click', function (e) { var a = e.target.closest('a[ta
     :root { --textw: 100%; }
     .board { left: 0; bottom: auto; height: calc(var(--vh) * 56); background: var(--bg); border-bottom: 1px solid var(--line); z-index: 2; }
     .mini { width: 54px; right: 8px; bottom: 8px; }
-    .tag { font-size: 12px; left: 8px; top: 8px; padding: 4px 9px; max-width: calc(100% - 16px); }
+    .tag { font-size: 12px; left: 8px; top: 8px; padding: 4px 9px; max-width: calc(100% - 130px); }
+    .watch { right: 8px; top: 7px; font-size: 12px; padding: 5px 10px 5px 8px; gap: 5px; } .watch svg { width: 12px; height: 12px; }
     .bub { font-size: 13px; max-width: 170px; padding: 5px 9px; }
     .text { padding: calc(var(--vh) * 56) 18px 0; }
     .fig { max-width: 97%; padding: 6px 8px; gap: 5px; border-width: 2px; border-radius: 12px; }
@@ -280,6 +285,7 @@ document.addEventListener('click', function (e) { var a = e.target.closest('a[ta
     <div class="fig" id="fig"></div>
     <div id="bubs"></div>
     <div class="tag" id="tag"></div>
+    <a class="watch" id="watch" target="_blank" rel="noopener"></a>
     <div class="mini" id="mini"></div>
   </div>
 </div>
@@ -505,7 +511,7 @@ function mark(st, to, lit) {              // 지금 말하는 자리를 자홍 �
     const ms = raw.map((m, i) => ({ tip: m.tip, i, inFig: !!m.fig, R: m.fig ? figPt(m.fig) : (b => b && px(b))(bb(m.ids || [])), Rs: m.fig ? null : (m.ids || []).map(id => bb([id])).filter(Boolean).map(px), Ps: m.fig ? [] : (m.ids || []).filter(id => bb([id])).map(id => polyPx(id, px)) })).filter(m => m.R);
     if (!ms.length) return;
     const tag = document.getElementById('tag').getBoundingClientRect(), mi = document.getElementById('mini').getBoundingClientRect(), o = svg.getBoundingClientRect();
-    const fixed = [tag, mi].map(b => [b.left - o.left, b.top - o.top, b.right - o.left, b.bottom - o.top]);
+    const fixed = [tag, mi, document.getElementById('watch').getBoundingClientRect()].map(b => [b.left - o.left, b.top - o.top, b.right - o.left, b.bottom - o.top]);
     const pics = figBox ? [...figEl.querySelectorAll('.wv > figure img, .wv > figure svg, .fig h4, .wv figcaption, .wv small, .fig .cap')].map(e => { const b = e.getBoundingClientRect(); return [b.left - o.left, b.top - o.top, b.right - o.left, b.bottom - o.top]; }) : [];
     const tts = [...svg.querySelectorAll('text')].map(e => { const b = e.getBoundingClientRect(); return [b.left - o.left, b.top - o.top, b.right - o.left, b.bottom - o.top]; }).filter(b => b[2] > 0 && b[0] < W && b[3] > 0 && b[1] < H);   // 판 칸 제목 · 코드로 그린 이름표(PR interval · QRS duration …)도 덮지 않게
     const lits = [...lit].map(id => bb([id])).filter(Boolean).map(px), rects = ms.flatMap(m => m.Rs && m.Rs.length > 1 ? m.Rs : [m.R]), placed = [];   // 떨어진 자리 여럿은 자리마다 — 그 사이 빈 곳에는 말풍선을 놓을 수 있다
@@ -612,6 +618,8 @@ function light(i) {                       // i = -1 이면 첫 화면(판 전체
   steps.forEach((s, k) => s.el.classList.toggle('on', k === i));
   const s = st && S[st.lec];
   document.getElementById('tag').innerHTML = s ? `<b>${s.n}강</b> · ${s.title}` : `PART ${C.part_no} · ${S.length}강`;
+  { const wa = document.getElementById('watch'), v = s && s.vid;   // 지금 읽는 강의를 유튜브에서 — 올라간 강의만(아직 안 올린 강의는 비워 둔다)
+    wa.classList.toggle('on', !!v); if (v) { wa.href = `https://www.youtube.com/watch?v=${v}`; wa.innerHTML = `<svg viewBox="0 0 16 16"><path d="M5 3.2v9.6L13 8z" fill="#fff"/></svg>${s.n}강 강의 보기`; } }
   document.querySelectorAll('.dots button').forEach(b => b.classList.toggle('on', !!s && +b.dataset.n === s.n));
 }
 function pick() {                         // 읽는 줄(화면 가운데쯤)에 가장 가까운 대목
